@@ -914,61 +914,87 @@
 
                 <control type="group">
                     <left>View_List_Side</left>
+                    <!-- Parent info group is at y=0 (templates: top=-765); plot capped to 2 lines so block can sit lower -->
+                    <top>480</top>
+                    <height>280</height>
+                    <width>1840</width>
 
-                    <!-- HOME CLEAN -->
+                    <!-- Title / meta / plot stay at plot width -->
+                    <control type="group">
+                        <width>NetflixPlotWidth</width>
+                        <height>100%</height>
 
-                    <include content="Def_Top" condition="Skin.HasSetting(home.style.horizontal.clean) + Skin.HasSetting(show.home.flix.title.clearlogo) + !Skin.HasSetting(hide.widget.title)">
-                        <param name="top" value="-330" />
-                    </include>
-                    <include content="Def_Top" condition="Skin.HasSetting(home.style.horizontal.clean) + !Skin.HasSetting(hide.widget.title)">
-                        <param name="top" value="-280" />
-                    </include>
-                    <include content="Def_Top" condition="Skin.HasSetting(home.style.horizontal.clean)">
-                        <param name="top" value="-260" />
-                    </include>
+                        <include content="Widgets_Item_Main_Title" condition="$PARAM[labelisvisible]">
+                            <param name="id" value="$PARAM[id]" />
+                        </include>
 
-                    <!-- HOME FLIX -->
+                        <include content="Widgets_Item_Sub_Title" condition="!Skin.HasSetting(show.home.flix.title.clearlogo)">
+                            <param name="id" value="$PARAM[id]" />
+                            <param name="top" value="80" />
+                        </include>
 
-                    <top>-750</top>
-                    <width>NetflixPlotWidth</width>
+                        <include content="Widgets_Item_Sub_Title" condition="Skin.HasSetting(show.home.flix.title.clearlogo)">
+                            <param name="id" value="$PARAM[id]" />
+                            <param name="top" value="100" />
+                        </include>
 
-                    <include content="Widgets_Item_Main_Title" condition="$PARAM[labelisvisible]">
-                        <param name="id" value="$PARAM[id]" />
-                    </include>
+                        <control type="textbox">
+                            <visible>!Skin.HasSetting(show.home.flix.title.clearlogo)</visible>
+                            <top>165</top>
+                            <width>100%</width>
+                            <height>68</height>
+                            <font>Tiny</font>
+                            <align>left</align>
+                            <textcolor>Dark2</textcolor>
+                            <autoscroll delay="10000" time="4000" repeat="10000">true</autoscroll>
+                            <label>$INFO[Container($PARAM[id]).ListItem.Plot]</label>
+                        </control>
+                        <control type="textbox">
+                            <visible>Skin.HasSetting(show.home.flix.title.clearlogo)</visible>
+                            <top>185</top>
+                            <width>100%</width>
+                            <height>68</height>
+                            <font>Tiny</font>
+                            <align>left</align>
+                            <textcolor>Dark2</textcolor>
+                            <autoscroll delay="10000" time="4000" repeat="10000">true</autoscroll>
+                            <label>$INFO[Container($PARAM[id]).ListItem.Plot]</label>
+                        </control>
+                    </control>
 
-                    <include content="Widgets_Item_Sub_Title" condition="!Skin.HasSetting(show.home.flix.title.clearlogo)">
-                        <param name="id" value="$PARAM[id]" />
-                        <param name="top" value="80" />
-                    </include>
-
-                    <include content="Widgets_Item_Sub_Title" condition="Skin.HasSetting(show.home.flix.title.clearlogo)">
-                        <param name="id" value="$PARAM[id]" />
-                        <param name="top" value="120" />
-                    </include>
-
-                    <include content="Widgets_Item_Plot" condition="!Skin.HasSetting(show.home.flix.title.clearlogo) + !Skin.HasSetting(home.style.horizontal.clean)">
-                        <param name="id" value="$PARAM[id]" />
-                        <param name="height" value="176" />
-                        <param name="top" value="145" />
-                    </include>
-
-                    <include content="Widgets_Item_Plot" condition="Skin.HasSetting(show.home.flix.title.clearlogo) + !Skin.HasSetting(home.style.horizontal.clean)">
-                        <param name="id" value="$PARAM[id]" />
-                        <param name="height" value="140" />
-                        <param name="top" value="185" />
-                    </include>
-
-                    <include content="Widgets_Item_Plot" condition="!Skin.HasSetting(show.home.flix.title.clearlogo) + Skin.HasSetting(home.style.horizontal.clean)">
-                        <param name="id" value="$PARAM[id]" />
-                        <param name="height" value="72" />
-                        <param name="top" value="145" />
-                    </include>
-
-                    <include content="Widgets_Item_Plot" condition="Skin.HasSetting(show.home.flix.title.clearlogo) + Skin.HasSetting(home.style.horizontal.clean)">
-                        <param name="id" value="$PARAM[id]" />
-                        <param name="height" value="72" />
-                        <param name="top" value="185" />
-                    </include>
+                    <!-- Ratings — wider than plot so the full flag row can fit -->
+                    <control type="grouplist">
+                        <visible>!Skin.HasSetting(hide.furniture.flags)</visible>
+                        <visible>!Skin.HasSetting(show.home.flix.title.clearlogo)</visible>
+                        <left>-10</left>
+                        <top>129</top>
+                        <width>1840</width>
+                        <height>28</height>
+                        <align>left</align>
+                        <orientation>horizontal</orientation>
+                        <itemgap>0</itemgap>
+                        <usecontrolcoords>true</usecontrolcoords>
+                        <include content="Furniture_Video_Rating_Flags">
+                            <param name="compact" value="true" />
+                            <param name="flix_row" value="true" />
+                        </include>
+                    </control>
+                    <control type="grouplist">
+                        <visible>!Skin.HasSetting(hide.furniture.flags)</visible>
+                        <visible>Skin.HasSetting(show.home.flix.title.clearlogo)</visible>
+                        <left>-10</left>
+                        <top>149</top>
+                        <width>1840</width>
+                        <height>28</height>
+                        <align>left</align>
+                        <orientation>horizontal</orientation>
+                        <itemgap>0</itemgap>
+                        <usecontrolcoords>true</usecontrolcoords>
+                        <include content="Furniture_Video_Rating_Flags">
+                            <param name="compact" value="true" />
+                            <param name="flix_row" value="true" />
+                        </include>
+                    </control>
                 </control>
             </control>
         </definition>
@@ -1251,6 +1277,7 @@
 
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label>$INFO[Container($PARAM[id]).ListItem.Plot]</label>
                 <visible>[[String.IsEqual(Container($PARAM[id]).ListItem.DBType,set) | String.IsEqual(Container($PARAM[id]).ListItem.DBType,movie) | String.IsEqual(Container($PARAM[id]).ListItem.DBType,episode) | String.IsEqual(Container($PARAM[id]).ListItem.DBType,tvshow)] + !String.IsEmpty(Container($PARAM[id]).ListItem.Plot)]</visible>
                 <visible>!String.StartsWith(Container($PARAM[id]).ListItem.FolderPath,plugin://plugin.video.jlom)</visible>
@@ -1260,6 +1287,7 @@
 
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.Plot)]</label>
                 <visible>String.StartsWith(Container($PARAM[id]).ListItem.FolderPath,plugin://plugin.video.jlom)</visible>
             </control>
@@ -1268,11 +1296,13 @@
 
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label>$INFO[Container($PARAM[id]).ListItem.Property(Album_Description)]</label>
                 <visible>String.IsEqual(Container($PARAM[id]).ListItem.DBType,album) + !String.IsEmpty(Container($PARAM[id]).ListItem.Property(Album_Description))</visible>
             </control>
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label>$INFO[Container(44030).ListItemAbsolute(0).Artist,, - ]$INFO[Container(44030).ListItemAbsolute(0).TrackNumber,,. ]$INFO[Container(44030).ListItemAbsolute(0).Label][CR]$INFO[Container(44030).ListItemAbsolute(1).Artist,, - ]$INFO[Container(44030).ListItemAbsolute(1).TrackNumber,,. ]$INFO[Container(44030).ListItemAbsolute(1).Label][CR]$INFO[Container(44030).ListItemAbsolute(2).Artist,, - ]$INFO[Container(44030).ListItemAbsolute(2).TrackNumber,,. ]$INFO[Container(44030).ListItemAbsolute(2).Label][CR]$INFO[Container(44030).ListItemAbsolute(3).Artist,, - ]$INFO[Container(44030).ListItemAbsolute(3).TrackNumber,,. ]$INFO[Container(44030).ListItemAbsolute(3).Label][CR]$INFO[Container(44030).ListItemAbsolute(4).Artist,, - ]$INFO[Container(44030).ListItemAbsolute(4).TrackNumber,,. ]$INFO[Container(44030).ListItemAbsolute(4).Label][CR]$INFO[Container(44030).ListItemAbsolute(5).Artist,, - ]$INFO[Container(44030).ListItemAbsolute(5).TrackNumber,,. ]$INFO[Container(44030).ListItemAbsolute(5).Label][CR]</label>
                 <visible>String.IsEqual(Container($PARAM[id]).ListItem.DBType,album) + String.IsEmpty(Container($PARAM[id]).ListItem.Property(Album_Description))</visible>
             </control>
@@ -1281,11 +1311,13 @@
 
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label>$INFO[Container($PARAM[id]).ListItem.Property(Artist_Description)]</label>
                 <visible>String.IsEqual(Container($PARAM[id]).ListItem.DBType,artist) + !String.IsEmpty(Container($PARAM[id]).ListItem.Property(Artist_Description))</visible>
             </control>
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label>$INFO[Container(44030).ListItemAbsolute(0).Year,, - ]$INFO[Container(44030).ListItemAbsolute(0).Label][CR]$INFO[Container(44030).ListItemAbsolute(1).Year,, - ]$INFO[Container(44030).ListItemAbsolute(1).Label][CR]$INFO[Container(44030).ListItemAbsolute(2).Year,, - ]$INFO[Container(44030).ListItemAbsolute(2).Label][CR]$INFO[Container(44030).ListItemAbsolute(3).Year,, - ]$INFO[Container(44030).ListItemAbsolute(3).Label][CR]$INFO[Container(44030).ListItemAbsolute(4).Year,, - ]$INFO[Container(44030).ListItemAbsolute(4).Label][CR]$INFO[Container(44030).ListItemAbsolute(5).Year,, - ]$INFO[Container(44030).ListItemAbsolute(5).Label][CR]</label>
                 <visible>String.IsEqual(Container($PARAM[id]).ListItem.DBType,artist) + String.IsEmpty(Container($PARAM[id]).ListItem.Property(Artist_Description))</visible>
             </control>
@@ -1294,6 +1326,7 @@
 
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label fallback="19055">$INFO[Container($PARAM[id]).ListItem.Property(Artist_Description)]</label>
                 <visible>String.IsEqual(Container($PARAM[id]).ListItem.DBType,song) + !String.IsEmpty(Container($PARAM[id]).ListItem.Property(Artist_Description))</visible>
             </control>
@@ -1302,6 +1335,7 @@
 
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label>$INFO[Container($PARAM[id]).ListItem.AddonDescription]</label>
                 <visible>!String.IsEmpty(Container($PARAM[id]).ListItem.AddonDescription)</visible>
             </control>
@@ -1310,6 +1344,7 @@
 
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label fallback="19055">$INFO[Container($PARAM[id]).ListItem.Plot]</label>
                 <visible>String.StartsWith(Container($PARAM[id]).ListItem.FolderPath,pvr://)</visible>
             </control>
@@ -1318,6 +1353,7 @@
 
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label fallback="19055">$INFO[Window(Home).Property(TMDbHelper.ListItem.Plot)]</label>
                 <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Plot))</visible>
                 <visible>String.IsEqual(Container($PARAM[id]).ListItem.DBType,actor)</visible>
@@ -1327,6 +1363,7 @@
 
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label>19055</label>
                 <visible>String.IsEqual(Container($PARAM[id]).ListItem.DBType,file)</visible>
             </control>
@@ -1335,6 +1372,7 @@
 
             <control type="textbox">
                 <include>Def_Widgets_Textbox</include>
+                <height>$PARAM[height]</height>
                 <label>$INFO[Container($PARAM[id]).ListItem.Plot]</label>
                 <visible>![[String.IsEqual(Container($PARAM[id]).ListItem.DBType,set) | String.IsEqual(Container($PARAM[id]).ListItem.DBType,movie) | String.IsEqual(Container($PARAM[id]).ListItem.DBType,episode) | String.IsEqual(Container($PARAM[id]).ListItem.DBType,tvshow)] + !String.IsEmpty(Container($PARAM[id]).ListItem.Plot)] + ![String.IsEqual(Container($PARAM[id]).ListItem.DBType,album) + !String.IsEmpty(Container($PARAM[id]).ListItem.Property(Album_Description))] + ![String.IsEqual(Container($PARAM[id]).ListItem.DBType,artist) + !String.IsEmpty(Container($PARAM[id]).ListItem.Property(Artist_Description))] + ![String.IsEqual(Container($PARAM[id]).ListItem.DBType,song) + ControlGroup(301).HasFocus()] + ![String.IsEqual(Container($PARAM[id]).ListItem.DBType,song) + !ControlGroup(301).HasFocus() + !String.IsEmpty(Container($PARAM[id]).ListItem.Property(Artist_Description))]+ ![!String.IsEmpty(Container($PARAM[id]).ListItem.AddonDescription) + !String.IsEmpty(Container($PARAM[id]).ListItem.AddonDescription)] + ![String.StartsWith(Container($PARAM[id]).ListItem.FolderPath,pvr://)]</visible>
             </control>
@@ -1484,14 +1522,7 @@
     <!-- WIDGET - WEATHER -->
 
     <include name="Home_Flix_Widgets_Weather_Info">
-        <include content="Def_Top" condition="Skin.HasSetting(home.style.horizontal.clean) + !Skin.HasSetting(hide.widget.title)">
-            <param name="top" value="-418" />
-        </include>
-        <include content="Def_Top" condition="Skin.HasSetting(home.style.horizontal.clean)">
-            <param name="top" value="-378" />
-        </include>
-
-        <top>-750</top>
+        <top>385</top>
         <left>View_List_Side</left>
 
         <include>Def_Home_Flix_Widgets_Weather_Info</include>
@@ -1504,14 +1535,7 @@
         <param name="issettingslayout" value="$PARAM[issettingslayout]" default="false" />
 
         <definition>
-            <include content="Def_Top" condition="Skin.HasSetting(home.style.horizontal.clean) + !Skin.HasSetting(hide.widget.title)">
-                <param name="top" value="-418" />
-            </include>
-            <include content="Def_Top" condition="Skin.HasSetting(home.style.horizontal.clean)">
-                <param name="top" value="-378" />
-            </include>
-
-            <top>-750</top>
+            <top>385</top>
             <left>View_List_Side</left>
 
             <include condition="!$PARAM[issettingslayout]">Def_Home_Flix_Widgets_System_Info</include>

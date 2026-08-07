@@ -37,6 +37,11 @@
         <texture border="18" colordiffuse="$VAR[Color_Focus]">common/selectbox.png</texture>
     </include>
 
+    <!-- Thin variant: loose media/common/selectbox_thin.png (~3px stroke, flush to poster) -->
+    <include name="Texture_SelectBox_Thin">
+        <texture border="16" colordiffuse="$VAR[Color_Focus]">common/selectbox_thin.png</texture>
+    </include>
+
     <!-- BUTTON -->
 
     <include name="Texture_Button_Info">

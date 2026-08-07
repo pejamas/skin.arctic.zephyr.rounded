@@ -1181,7 +1181,7 @@
             <include content="Def_Top" condition="Skin.HasSetting(home.style.horizontal.clean)">
                <param name="top" value="200" />
             </include>
-            <include content="Def_Top" condition="Skin.HasSetting(home.style.flix)">
+            <include content="Def_Top" condition="Skin.HasSetting(home.style.flix) + !Skin.HasSetting(home.style.horizontal.clean)">
                <param name="top" value="440" />
             </include>
             <include content="Def_Top" condition="!Skin.HasSetting(home.style.flix)">
@@ -1193,7 +1193,7 @@
             <include content="Def_Height" condition="Skin.HasSetting(home.style.horizontal.clean)">
                <param name="height" value="565" />
             </include>
-            <include content="Def_Height" condition="Skin.HasSetting(home.style.flix)">
+            <include content="Def_Height" condition="Skin.HasSetting(home.style.flix) + !Skin.HasSetting(home.style.horizontal.clean)">
                <param name="height" value="325" />
             </include>
             <include content="Def_Height" condition="!Skin.HasSetting(home.style.flix)">
@@ -1304,7 +1304,6 @@
     </include>
 
     <include name="Def_Widgets_Textbox">
-        <height>$PARAM[height]</height>
         <width>100%</width>
         <align>left</align>
         <font>Tiny</font>
@@ -3278,21 +3277,36 @@
                 <param name="glow_zoom" value="$PARAM[glow_zoom]" />
                 <param name="id" value="$PARAM[id]" />
             </include>
+
+            <!-- Default = original selectbox. Thin = Skin.HasSetting(items.focus.border.thin) — same pattern as focus zoom. -->
             <control type="group">
                 <visible>!Skin.HasSetting(items.focus.zoom)</visible>
                 <control type="image">
+                   <visible>Control.HasFocus($PARAM[id]) + !Skin.HasSetting(items.focus.border.thin)</visible>
                    <include content="Def_Padding"><param name="pad" value="$PARAM[pad_focus]" /></include>
                    <include>Texture_SelectBox</include>
-                   <visible>Control.HasFocus($PARAM[id])</visible>
+                   <include>Animation_Select_Focus</include>
+                </control>
+                <control type="image">
+                   <visible>Control.HasFocus($PARAM[id]) + Skin.HasSetting(items.focus.border.thin)</visible>
+                   <!-- Between poster art (pad 10) and original selectbox (pad 3): clears corner badges without a big gap -->
+                   <include content="Def_Padding"><param name="pad" value="7" /></include>
+                   <include>Texture_SelectBox_Thin</include>
                    <include>Animation_Select_Focus</include>
                 </control>
             </control>
             <control type="group">
                 <visible>Skin.HasSetting(items.focus.zoom)</visible>
                 <control type="image">
+                   <visible>Control.HasFocus($PARAM[id]) + !Skin.HasSetting(items.focus.border.thin)</visible>
                    <include content="Def_Padding"><param name="pad" value="$PARAM[pad_focus_zoom]" /></include>
                    <include>Texture_SelectBox</include>
-                   <visible>Control.HasFocus($PARAM[id])</visible>
+                   <include>Animation_Select_Focus</include>
+                </control>
+                <control type="image">
+                   <visible>Control.HasFocus($PARAM[id]) + Skin.HasSetting(items.focus.border.thin)</visible>
+                   <include content="Def_Padding"><param name="pad" value="8" /></include>
+                   <include>Texture_SelectBox_Thin</include>
                    <include>Animation_Select_Focus</include>
                 </control>
             </control>

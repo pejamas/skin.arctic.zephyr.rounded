@@ -384,6 +384,12 @@
             <size>26</size>
         </font>
         <font>
+            <name>FlagCount</name>
+            <style>bold</style>
+            <filename>MC360.ttf</filename>
+            <size>20</size>
+        </font>
+        <font>
             <name>EPGTimeline</name>
             <filename>MC360.ttf</filename>
             <size>20</size>
@@ -886,6 +892,12 @@
             <size>24</size>
         </font>
         <font>
+            <name>FlagCount</name>
+            <style>uppercase</style>
+            <filename>default-light.ttf</filename>
+            <size>20</size>
+        </font>
+        <font>
             <name>EPGTimeline</name>
             <filename>default-light.ttf</filename>
             <size>18</size>
@@ -1383,6 +1395,12 @@
             <size>24</size>
         </font>
         <font>
+            <name>FlagCount</name>
+            <style>uppercase bold</style>
+            <filename>default-light.ttf</filename>
+            <size>20</size>
+        </font>
+        <font>
             <name>EPGTimeline</name>
             <filename>default-light.ttf</filename>
             <size>18</size>
@@ -1875,6 +1893,12 @@
             <style>uppercase</style>
             <filename>arial.ttf</filename>
             <size>26</size>
+        </font>
+        <font>
+            <name>FlagCount</name>
+            <style>uppercase</style>
+            <filename>arial.ttf</filename>
+            <size>20</size>
         </font>
         <font>
             <name>EPGTimeline</name>
@@ -2403,6 +2427,13 @@
             <aspect>0.9</aspect>
         </font>
         <font>
+            <name>FlagCount</name>
+            <style>uppercase</style>
+            <filename>arial.ttf</filename>
+            <size>20</size>
+            <aspect>0.9</aspect>
+        </font>
+        <font>
             <name>EPGTimeline</name>
             <filename>arial.ttf</filename>
             <size>20</size>
@@ -2910,6 +2941,12 @@
             <size>26</size>
         </font>
         <font>
+            <name>FlagCount</name>
+            <style>uppercase</style>
+            <filename>MC360.ttf</filename>
+            <size>20</size>
+        </font>
+        <font>
             <name>EPGTimeline</name>
             <filename>MC360.ttf</filename>
             <size>20</size>
@@ -3402,6 +3439,12 @@
             <size>26</size>
         </font>
         <font>
+            <name>FlagCount</name>
+            <style>uppercase</style>
+            <filename>RobotoCondensed-Regular.ttf</filename>
+            <size>20</size>
+        </font>
+        <font>
             <name>EPGTimeline</name>
             <filename>RobotoCondensed-Regular.ttf</filename>
             <size>20</size>
@@ -3866,6 +3909,12 @@
             <style>uppercase bold</style>
             <filename>RobotoCondensed-Regular.ttf</filename>
             <size>26</size>
+        </font>
+        <font>
+            <name>FlagCount</name>
+            <style>uppercase bold</style>
+            <filename>RobotoCondensed-Regular.ttf</filename>
+            <size>20</size>
         </font>
         <font>
             <name>EPGTimeline</name>
@@ -4367,6 +4416,12 @@
             <style>uppercase</style>
             <filename>Segoe-Light.ttf</filename>
             <size>26</size>
+        </font>
+        <font>
+            <name>FlagCount</name>
+            <style>uppercase</style>
+            <filename>Segoe-Light.ttf</filename>
+            <size>20</size>
         </font>
         <font>
             <name>EPGTimeline</name>

@@ -550,6 +550,12 @@
         <value>$LOCALIZE[31367]</value>
     </variable>
 
+    <!-- Unwatched episode count for media-status icon (circle) — white on colored fill -->
+    <variable name="Label_Watched_Poster_Unwatched_Count">
+        <value condition="!String.IsEmpty(ListItem.Property(UnWatchedEpisodes))">$INFO[ListItem.Property(UnWatchedEpisodes)]</value>
+        <value condition="!String.IsEmpty(ListItem.Property(UnwatchedEpisodes))">$INFO[ListItem.Property(UnwatchedEpisodes)]</value>
+    </variable>
+
     <variable name="Label_Flag_Indicator_Set_In_Progress">
         <!-- <value condition="Skin.HasSetting(markers.inprogress.percentage) + !String.IsEmpty(ListItem.PercentPlayed)">$INFO[ListItem.PercentPlayed,,%]</value> -->
         <value>$LOCALIZE[31367]</value>
@@ -557,6 +563,9 @@
 
     <variable name="Label_Indicator_Status_Background_Icon">
         <value condition="Skin.HasSetting(hide.markers)"></value>
+        <!-- Colored fill behind unwatched episode count (readable white digits) -->
+        <value condition="$EXP[Show_Unwatched_Episode_Count] + [ListItem.IsResumable | $EXP[IsTVShowInProgress]]">[COLOR=$VAR[Color_Indicator_Background_In_Progress]]&#61833;[/COLOR]</value>
+        <value condition="$EXP[Show_Unwatched_Episode_Count]">[COLOR=$VAR[Color_Indicator_Background_UnWatched]]&#61833;[/COLOR]</value>
         <value condition="ListItem.IsPlaying + !Skin.HasSetting(hide.markers.isplaying)">[COLOR=FF333333]&#61833;[/COLOR]</value>
         <value condition="ListItem.IsResumable + Skin.HasSetting(hide.markers.inprogress)"></value>
         <value condition="ListItem.IsResumable">[COLOR=FF333333]&#61833;[/COLOR]</value>

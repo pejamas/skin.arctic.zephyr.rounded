@@ -2012,6 +2012,42 @@
         <aspectratio aligny="center" align="left">keep</aspectratio>
     </include>
 
+    <include name="Def_Flag_Image_Flix">
+        <fadetime>ExtendedFlagIconsFadetime</fadetime>
+        <width>22</width>
+        <height>22</height>
+        <left>10</left>
+        <top>2</top>
+        <aspectratio aligny="center" align="center">keep</aspectratio>
+    </include>
+
+    <include name="Def_Flag_Label_Flix">
+        <width min="40">auto</width>
+        <height>22</height>
+        <font>Tiny</font>
+        <left>6</left>
+        <top>2</top>
+        <aligny>center</aligny>
+        <textcolor>Dark2</textcolor>
+        <scroll>false</scroll>
+    </include>
+
+    <include name="Def_Flag_Image_Rating">
+        <param name="compact" default="false" />
+        <definition>
+            <include condition="$PARAM[compact]">Def_Flag_Image_Flix</include>
+            <include condition="!$PARAM[compact]">Def_Flag_Image</include>
+        </definition>
+    </include>
+
+    <include name="Def_Flag_Label_Rating">
+        <param name="compact" default="false" />
+        <definition>
+            <include condition="$PARAM[compact]">Def_Flag_Label_Flix</include>
+            <include condition="!$PARAM[compact]">Def_Flag_Label</include>
+        </definition>
+    </include>
+
     <!-- DEF - MEDIA STATUS - LABEL -->
 
     <include name="Def_Media_Status_Icon_Background">
@@ -2033,6 +2069,18 @@
         <align>center</align>
         <aligny>center</aligny>
         <font>SymbolPoster</font>
+    </include>
+
+    <include name="Def_Media_Status_Icon_Count">
+        <top>9</top>
+        <right>8</right>
+        <width>50</width>
+        <height>50</height>
+        <align>center</align>
+        <aligny>center</aligny>
+        <font>FlagCount</font>
+        <textcolor>$VAR[Color_Indicator_Background_Label]</textcolor>
+        <selectedcolor>$VAR[Color_Indicator_Background_Label]</selectedcolor>
     </include>
 
     <include name="Def_Media_Status_Banner_Background">
@@ -3338,6 +3386,10 @@
 
         <onload condition="!Skin.HasSetting(startup.init)">Skin.SetString(Skin.SettingsLevel,$NUMBER[3])</onload>
 
+        <onload condition="Skin.HasSetting(items.focus.border.w2)">Skin.Reset(items.focus.border.w2)</onload>
+        <onload condition="Skin.HasSetting(items.focus.border.w4)">Skin.Reset(items.focus.border.w4)</onload>
+        <onload condition="Skin.HasSetting(items.focus.border.w6)">Skin.Reset(items.focus.border.w6)</onload>
+        <onload>ClearProperty(FocusBorderWidth,Home)</onload>
         <onload condition="!Skin.HasSetting(startup.init)">Skin.SetString(settinghomestyle,5)</onload>
         <onload condition="!Skin.HasSetting(startup.init)">Skin.SetString(settingthemecolor,1)</onload>
         <onload condition="!Skin.HasSetting(startup.init)">Skin.SetString(settingperflevel,2)</onload>

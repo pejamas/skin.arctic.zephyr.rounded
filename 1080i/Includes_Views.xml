@@ -61,40 +61,74 @@
                         <param name="top" value="105" />
                     </include>
 
+                    <!-- RATINGS - FLIX INFO ROW -->
+
+                    <control type="grouplist">
+                        <visible>!Skin.HasSetting(hide.furniture.flags)</visible>
+                        <visible>!$EXP[View_Flix_Show_Clearlogo_Enable]</visible>
+                        <!-- Pull left by first icon gap so row aligns with text above/below -->
+                        <left>-10</left>
+                        <top>94</top>
+                        <height>24</height>
+                        <align>left</align>
+                        <orientation>horizontal</orientation>
+                        <itemgap>0</itemgap>
+                        <usecontrolcoords>true</usecontrolcoords>
+                        <include content="Furniture_Video_Rating_Flags">
+                            <param name="compact" value="true" />
+                            <param name="flix_row" value="true" />
+                        </include>
+                    </control>
+                    <control type="grouplist">
+                        <visible>!Skin.HasSetting(hide.furniture.flags)</visible>
+                        <visible>$EXP[View_Flix_Show_Clearlogo_Enable]</visible>
+                        <left>-10</left>
+                        <top>154</top>
+                        <height>24</height>
+                        <align>left</align>
+                        <orientation>horizontal</orientation>
+                        <itemgap>0</itemgap>
+                        <usecontrolcoords>true</usecontrolcoords>
+                        <include content="Furniture_Video_Rating_Flags">
+                            <param name="compact" value="true" />
+                            <param name="flix_row" value="true" />
+                        </include>
+                    </control>
+
                     <!-- PLOT - WITH SHOW HEADER INFO -->
 
                     <include content="Def_Label_View_Flix_Plot">
                         <param name="visible" value="!$EXP[View_Flix_Show_Clearlogo_Enable] + !$EXP[View_Flix_Hide_Header_Info]" />
-                        <param name="top" value="120" />
-                        <param name="height" value="176" />
+                        <param name="top" value="130" />
+                        <param name="height" value="166" />
                     </include>
                     <include content="Def_Label_View_Flix_Plot">
                         <param name="visible" value="$EXP[View_Flix_Show_Clearlogo_Enable] + !$EXP[Exp_View_524] + !$EXP[View_Flix_Hide_Header_Info]" />
-                        <param name="top" value="180" />
-                        <param name="height" value="140" />
+                        <param name="top" value="190" />
+                        <param name="height" value="130" />
                     </include>
                     <include content="Def_Label_View_Flix_Plot">
                         <param name="visible" value="$EXP[View_Flix_Show_Clearlogo_Enable] + $EXP[Exp_View_524] + !$EXP[View_Flix_Hide_Header_Info]" />
-                        <param name="top" value="180" />
-                        <param name="height" value="112" />
+                        <param name="top" value="190" />
+                        <param name="height" value="102" />
                     </include>
 
                     <!-- PLOT - WITHOUT SHOW HEADER INFO -->
 
                     <include content="Def_Label_View_Flix_Plot">
                         <param name="visible" value="!$EXP[View_Flix_Show_Clearlogo_Enable] + $EXP[View_Flix_Hide_Header_Info]" />
-                        <param name="top" value="120" />
-                        <param name="height" value="216" />
+                        <param name="top" value="130" />
+                        <param name="height" value="206" />
                     </include>
                     <include content="Def_Label_View_Flix_Plot">
                         <param name="visible" value="$EXP[View_Flix_Show_Clearlogo_Enable] + !$EXP[Exp_View_524] + $EXP[View_Flix_Hide_Header_Info]" />
-                        <param name="top" value="180" />
-                        <param name="height" value="180" />
+                        <param name="top" value="190" />
+                        <param name="height" value="170" />
                     </include>
                     <include content="Def_Label_View_Flix_Plot">
                         <param name="visible" value="$EXP[View_Flix_Show_Clearlogo_Enable] + $EXP[Exp_View_524] + $EXP[View_Flix_Hide_Header_Info]" />
-                        <param name="top" value="180" />
-                        <param name="height" value="152" />
+                        <param name="top" value="190" />
+                        <param name="height" value="142" />
                     </include>
                 </control>
             </control>
@@ -182,6 +216,7 @@
                     <visible>Container.Content(files) | [Container.Content(movies) + String.IsEmpty(ListItem.DBType) + !$EXP[IsAnPlugin]] | Container.Content(images)</visible>
                     <visible>Integer.IsGreater(Container(44025).NumItems,0)</visible>
                     <visible>ListItem.IsFolder</visible>
+                    <height>100%</height>
                     <aligny>center</aligny>
                     <align>$PARAM[align]</align>
                     <width>$PARAM[width]</width>
@@ -194,6 +229,7 @@
                     <visible>Container.Content(files) | [Container.Content(movies) + String.IsEmpty(ListItem.DBType) + !$EXP[IsAnPlugin]] | Container.Content(images)</visible>
                     <visible>Integer.IsEqual(Container(44025).NumItems,0)</visible>
                     <visible>ListItem.IsFolder</visible>
+                    <height>100%</height>
                     <aligny>center</aligny>
                     <align>$PARAM[align]</align>
                     <width>$PARAM[width]</width>
@@ -207,6 +243,7 @@
 
                 <control type="label">
                     <visible>String.StartsWith(ListItem.Path,pvr://channels)</visible>
+                    <height>100%</height>
                     <aligny>center</aligny>
                     <align>$PARAM[align]</align>
                     <width>$PARAM[width]</width>
@@ -220,6 +257,7 @@
 
                 <control type="label">
                     <visible>[$EXP[IsAnPlugin] + Container.Content()] | $EXP[IsJlomFolder]</visible>
+                    <height>100%</height>
                     <aligny>center</aligny>
                     <align>$PARAM[align]</align>
                     <width>$PARAM[width]</width>
@@ -233,6 +271,7 @@
 
                 <control type="label">
                     <visible>Container.Content(addons)</visible>
+                    <height>100%</height>
                     <aligny>center</aligny>
                     <align>$PARAM[align]</align>
                     <width>$PARAM[width]</width>
@@ -246,6 +285,7 @@
 
                 <control type="label">
                     <visible>Container.Content(albums) | Container.Content(songs) | container.content(artists)</visible>
+                    <height>100%</height>
                     <aligny>center</aligny>
                     <align>$PARAM[align]</align>
                     <width>$PARAM[width]</width>
@@ -259,6 +299,7 @@
 
                 <control type="label">
                     <visible>Container.Content(images) + !ListItem.IsFolder</visible>
+                    <height>100%</height>
                     <aligny>center</aligny>
                     <align>$PARAM[align]</align>
                     <width>$PARAM[width]</width>
@@ -275,6 +316,7 @@
                     <visible>!container.content(files) | String.IsEqual(Container.FolderPath,playlistvideo://)</visible>
                     <visible>![Container.Content(addons) | [$EXP[IsAnPlugin] + Container.Content()]]</visible>
                     <visible>!$EXP[IsJlomFolder]</visible>
+                    <height>100%</height>
                     <aligny>center</aligny>
                     <align>$PARAM[align]</align>
                     <width>$PARAM[width]</width>
@@ -311,6 +353,7 @@
 
                 <control type="label">
                     <visible>String.IsEqual(ListItem.DBType,song) | $EXP[IsApplePodcastsItem]</visible>
+                    <height>100%</height>
                     <aligny>center</aligny>
                     <align>$PARAM[align]</align>
                     <width>$PARAM[width]</width>
@@ -324,6 +367,7 @@
 
                 <control type="label">
                     <visible>String.IsEqual(ListItem.DBType,movie) | String.IsEqual(ListItem.DBType,video) | String.IsEqual(ListItem.DBType,episode)</visible>
+                    <height>100%</height>
                     <aligny>center</aligny>
                     <align>$PARAM[align]</align>
                     <width>$PARAM[width]</width>
@@ -1151,6 +1195,12 @@
                     <label>$LOCALIZE[31423]:</label>
                     <selected>Skin.HasSetting(enable.items.focus.glow)</selected>
                     <onclick>Skin.ToggleSetting(enable.items.focus.glow)</onclick>
+                </control>
+                <control type="radiobutton" id="90841">
+                    <include>Def_Dialog_Menu_Button_Focus_Select</include>
+                    <label>$LOCALIZE[31632]</label>
+                    <selected>Skin.HasSetting(items.focus.border.thin)</selected>
+                    <onclick>Skin.ToggleSetting(items.focus.border.thin)</onclick>
                 </control>
 
             <!-- BACKGROUND -->

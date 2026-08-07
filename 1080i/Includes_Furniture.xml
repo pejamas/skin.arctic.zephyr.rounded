@@ -25,10 +25,18 @@
                    <include>Animation_Fade_Background_Marker_Icon</include>
                 </control>
 
-                <!-- ICON -->
+                <!-- ICON (movies / playing / watched / etc.) -->
                 <control type="label">
+                   <visible>!$EXP[Show_Unwatched_Episode_Count]</visible>
                    <include>Def_Media_Status_Icon_Symbol</include>
                    <label>$VAR[Label_Watched_Poster]</label>
+                </control>
+
+                <!-- UNWATCHED EPISODE COUNT (tvshow / season) -->
+                <control type="label">
+                   <visible>$EXP[Show_Unwatched_Episode_Count]</visible>
+                   <include>Def_Media_Status_Icon_Count</include>
+                   <label>$VAR[Label_Watched_Poster_Unwatched_Count]</label>
                 </control>
             </control>
         </definition>

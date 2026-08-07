@@ -226,9 +226,13 @@
             </control>
 
             <!-- Widget info for Home Flix style -->
+            <!-- top+height cancel in grouplist Size() (Y+H) so this sits at y=0 without eating stack space -->
             <control type="group" id="$MATH[$PARENT[index] * 1000 + 700 + widgetIndex]">
                 <visible>[$EXP[widgetItemVisible]]</visible>
                 <visible>Skin.HasSetting(home.style.flix)</visible>
+                <top>-765</top>
+                <height>765</height>
+                <width>1920</width>
 
                 <include content="Animation_Fade_Out_Home_Fullscreen_Widget">
                     <param name="condition" value="!Control.HasFocus($MATH[$PARENT[index] * 1000 + 600 + widgetIndex])" />

@@ -1108,6 +1108,16 @@
                     <selected>Skin.HasSetting(enable.items.focus.glow)</selected>
                     <onclick>Skin.ToggleSetting(enable.items.focus.glow)</onclick>
                 </control>
+                <control type="radiobutton" id="9593">
+                    <visible>Container(3000).HasFocus(3)</visible>
+                    <include>Def_Skin_Settings_Level_standard</include>
+                    <include>Def_Settings_Button_Focus_Select_Right_Side</include>
+                    <align>left</align>
+                    <label>$LOCALIZE[31632]</label>
+                    <width>1278</width>
+                    <selected>Skin.HasSetting(items.focus.border.thin)</selected>
+                    <onclick>Skin.ToggleSetting(items.focus.border.thin)</onclick>
+                </control>
                 <control type="radiobutton" id="92580" description="Show vis in background">
                     <width>1278</width>
                     <visible>Container(3000).HasFocus(3)</visible>

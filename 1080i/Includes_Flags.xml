@@ -493,158 +493,175 @@
             <include condition="Skin.HasSetting(show.flags.audio.country)">Furniture_Audiostreams_Flags</include>
             <include condition="Skin.HasSetting(show.flags.subtitles)">Furniture_Subtitles_Flags</include>
 
+            <include content="Furniture_Video_Rating_Flags">
+                <param name="compact" value="false" />
+                <param name="flix_row" value="false" />
+            </include>
+        </control>
+    </include>
+
+    <include name="Furniture_Video_Rating_Flags">
+        <param name="compact" default="false" />
+        <param name="flix_row" default="false" />
+        <definition>
+
             <!-- USER - RATING -->
 
             <control type="image">
-                <visible>!String.IsEmpty(ListItem.UserRating) + Skin.HasSetting(show.flags.rating.user) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Image</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(ListItem.UserRating) + Skin.HasSetting(show.flags.rating.user) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Image_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <texture colordiffuse="$VAR[Def_Flag_Colordiffuse_UserRatung_Star]" background="true">flags/star/userrating/userrating.png</texture>
             </control>
             <control type="label" description="User rating">
-                <visible>!String.IsEmpty(ListItem.UserRating) + Skin.HasSetting(show.flags.rating.user) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Label</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(ListItem.UserRating) + Skin.HasSetting(show.flags.rating.user) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[ListItem.UserRating].0</label>
             </control>
 
             <!-- LETTERBOXD - RATING -->
 
-            <control type="image" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Letterboxd_Rating)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.letterboxd) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Image</include>
+            <control type="image" description="Letterboxd">
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Letterboxd_Rating)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.letterboxd) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Image_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <texture colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" background="true">$VAR[Image_Letterboxd]</texture>
             </control>
-            <control type="label" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Letterboxd_Rating)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.letterboxd) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Label</include>
+            <control type="label" description="Letterboxd">
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Letterboxd_Rating)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.letterboxd) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.Letterboxd_Rating)]</label>
             </control>
 
             <!-- TRAKT - RATING -->
 
-            <control type="image" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Trakt_Rating)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.trakt) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Image</include>
+            <control type="image" description="Trakt">
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Trakt_Rating)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.trakt) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Image_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <texture colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" background="true">$VAR[Image_Trakt]</texture>
             </control>
-            <control type="label" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Trakt_Rating)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.trakt) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Label</include>
+            <control type="label" description="Trakt">
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Trakt_Rating)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.trakt) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.Trakt_Rating)]</label>
             </control>
 
             <!-- METACRITIC - RATING -->
 
             <control type="image">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Metacritic_Rating)) + Skin.HasSetting(show.flags.rating.metacritics) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Image</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Metacritic_Rating)) + Skin.HasSetting(show.flags.rating.metacritics) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Image_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <texture colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" background="true">flags/rating/$VAR[Def_Flag_Color]/metacritic/mc.png</texture>
             </control>
-            <control type="label" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Metacritic_Rating)) + Skin.HasSetting(show.flags.rating.metacritics) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Label</include>
+            <control type="label" description="Metacritic">
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Metacritic_Rating)) + Skin.HasSetting(show.flags.rating.metacritics) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.Metacritic_Rating),,%]</label>
             </control>
 
             <!-- ROTTEN TOMATOES - RATING -->
 
             <control type="image" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.RottenTomatoes_Rating)) + Skin.HasSetting(show.flags.rating.tomatoes) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Image</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.RottenTomatoes_Rating)) + Skin.HasSetting(show.flags.rating.tomatoes) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Image_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <texture colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" background="true">$VAR[Image_RottenTomatoes]</texture>
             </control>
             <control type="label" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.RottenTomatoes_Rating)) + Skin.HasSetting(show.flags.rating.tomatoes) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Label</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.RottenTomatoes_Rating)) + Skin.HasSetting(show.flags.rating.tomatoes) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.RottenTomatoes_Rating),,%]</label>
             </control>
 
             <!-- ROTTEN TOMATOES - USERMETER -->
 
-            <control type="image" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.RottenTomatoes_UserMeter)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.tomatoes) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Image</include>
+            <control type="image" description="Rotten Tomatoes Audience">
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.RottenTomatoes_UserMeter)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.tomatoes) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Image_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <texture colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" background="true">$VAR[Image_RottenTomatoes_Audience]</texture>
             </control>
-            <control type="label" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.RottenTomatoes_UserMeter)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.tomatoes) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Label</include>
+            <control type="label" description="Rotten Tomatoes Audience">
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.RottenTomatoes_UserMeter)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.tomatoes) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.RottenTomatoes_UserMeter),,%]</label>
             </control>
 
             <!-- MDBLIST - RATING -->
 
-            <control type="image" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.MDBList_Rating)) + !String.StartsWith(Window(Home).Property(TMDbHelper.ListItem.MDBList_Rating),-) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.mdblist) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Image</include>
+            <control type="image" description="MDBList">
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.MDBList_Rating)) + !String.StartsWith(Window(Home).Property(TMDbHelper.ListItem.MDBList_Rating),-) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.mdblist) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Image_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <texture colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" background="true">$VAR[Image_Mdblist]</texture>
             </control>
-            <control type="label" description="Rotten Tomatoes">
-                <visible>!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.MDBList_Rating)) + !String.StartsWith(Window(Home).Property(TMDbHelper.ListItem.MDBList_Rating),-) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.mdblist) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Label</include>
+            <control type="label" description="MDBList">
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.MDBList_Rating)) + !String.StartsWith(Window(Home).Property(TMDbHelper.ListItem.MDBList_Rating),-) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.mdblist) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.MDBList_Rating),,%]</label>
             </control>
 
             <!-- TMDB -->
 
             <control type="image">
-                <visible>Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + Skin.HasSetting(enable.furniture.flags.icons)</visible>
                 <visible>$EXP[Condition_Flag_TMDb_Rating]</visible>
                 <visible>$EXP[Condition_TMDb_Rating_Not_Null]</visible>
-                <width>56</width>
-                <include>Def_Flag_Image</include>
+                <include content="Def_Width" condition="$PARAM[compact]"><param name="width" value="38" /></include>
+                <include content="Def_Width" condition="!$PARAM[compact]"><param name="width" value="56" /></include>
+                <include content="Def_Flag_Image_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <texture colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" background="true">flags/rating/$VAR[Def_Flag_Color]/tmdb/tmdb.png</texture>
             </control>
             <control type="label">
-                <visible>Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + Skin.HasSetting(enable.furniture.flags.icons)</visible>
                 <visible>$EXP[Condition_Flag_TMDb_Rating]</visible>
                 <visible>$EXP[Condition_TMDb_Rating_Not_Null]</visible>
-                <include>Def_Flag_Label</include>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$VAR[Value_Item_Rating_TMDb]</label>
             </control>
 
             <!-- IMDB -->
 
             <control type="image">
-                <visible>[!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.IMDb_Rating)) | !String.IsEmpty(ListItem.Rating(imdb))] + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.imdb)</visible>
-                <width>70</width>
-                <include>Def_Flag_Image</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + [!String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.IMDb_Rating)) | !String.IsEmpty(ListItem.Rating(imdb))] + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.imdb)</visible>
+                <include content="Def_Width" condition="$PARAM[compact]"><param name="width" value="44" /></include>
+                <include content="Def_Width" condition="!$PARAM[compact]"><param name="width" value="70" /></include>
+                <include content="Def_Flag_Image_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <texture colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" background="true">flags/rating/$VAR[Def_Flag_Color]/imdb/imdb.png</texture>
             </control>
             <control type="label">
-                <visible>!String.IsEmpty(ListItem.Rating(imdb)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.imdb) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Label</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(ListItem.Rating(imdb)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.imdb) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[ListItem.Rating(imdb)]</label>
             </control>
             <control type="label">
-                <visible>String.IsEmpty(ListItem.Rating(imdb)) + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.IMDb_Rating)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.imdb) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
-                <include>Def_Flag_Label</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + String.IsEmpty(ListItem.Rating(imdb)) + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.IMDb_Rating)) + !ListItem.IsCollection + Skin.HasSetting(show.flags.rating.imdb) + Skin.HasSetting(enable.furniture.flags.icons)</visible>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.IMDb_Rating)]</label>
             </control>
 
             <!-- IMDB TOP 250 -->
 
             <control type="image">
-                <visible>!Skin.HasSetting(hide.flags.top250) + [!String.IsEmpty(ListItem.Top250) | !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Top250))]</visible>
-                <width>42</width>
-                <include>Def_Flag_Image</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !Skin.HasSetting(hide.flags.top250) + [!String.IsEmpty(ListItem.Top250) | !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Top250))]</visible>
+                <include content="Def_Width" condition="$PARAM[compact]"><param name="width" value="28" /></include>
+                <include content="Def_Width" condition="!$PARAM[compact]"><param name="width" value="42" /></include>
+                <include content="Def_Flag_Image_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <texture colordiffuse="Dark1" background="true">flags/rating/white/imdb/imdb_250.png</texture>
             </control>
             <control type="label" description="IMDB Top 250">
-                <visible>!String.IsEmpty(ListItem.Top250) + Skin.HasSetting(show.flags.top250.classement) + !Skin.HasSetting(hide.flags.top250)</visible>
-                <width min="70">auto</width>
-                <include>Def_Flag_Label</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + !String.IsEmpty(ListItem.Top250) + Skin.HasSetting(show.flags.top250.classement) + !Skin.HasSetting(hide.flags.top250)</visible>
+                <include content="Def_Width" condition="$PARAM[compact]"><param name="width" value="70" /></include>
+                <include content="Def_Width" condition="!$PARAM[compact]"><param name="width" value="70" /></include>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[ListItem.Top250,#,]</label>
             </control>
             <control type="label" description="IMDB Top 250">
-                <visible>String.IsEmpty(ListItem.Top250) + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Top250)) + Skin.HasSetting(show.flags.top250.classement) + !Skin.HasSetting(hide.flags.top250)</visible>
-                <width min="70">auto</width>
-                <include>Def_Flag_Label</include>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + String.IsEmpty(ListItem.Top250) + !String.IsEmpty(Window(Home).Property(TMDbHelper.ListItem.Top250)) + Skin.HasSetting(show.flags.top250.classement) + !Skin.HasSetting(hide.flags.top250)</visible>
+                <include content="Def_Width" condition="$PARAM[compact]"><param name="width" value="70" /></include>
+                <include content="Def_Width" condition="!$PARAM[compact]"><param name="width" value="70" /></include>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.Top250),#,]</label>
             </control>
 
             <!-- RATING STAR -->
 
-            <include content="Def_Flags_Furniture_Small" condition="!Skin.HasSetting(hide.flags.rating) + !Container.Content(seasons)">
+            <include content="Def_Flags_Furniture_Small" condition="[$PARAM[flix_row] | !$EXP[View_Flix]] + !$PARAM[compact] + !Skin.HasSetting(hide.flags.rating) + !Container.Content(seasons)">
                 <param name="Star" value="Flagstar" />
                 <param name="visible" value="!Skin.HasSetting(enable.flags.rating.numeric)" />
                 <param name="color" value="$VAR[Def_Flag_Colordiffuse_Star]" />
@@ -653,13 +670,13 @@
             <!-- RATING STAR - LABEL -->
 
             <control type="label" description="Rating">
-                <visible>!String.IsEmpty(ListItem.Rating) | [!String.IsEmpty(ListItem.UserRating) + Skin.HasSetting(userrating.override.kodi.rating.num)]</visible>
-                <visible>Skin.HasSetting(enable.flags.rating.numeric) + !Skin.HasSetting(hide.flags.rating)</visible>
+                <visible>[$PARAM[flix_row] | !$EXP[View_Flix]] + [!String.IsEmpty(ListItem.Rating) | [!String.IsEmpty(ListItem.UserRating) + Skin.HasSetting(userrating.override.kodi.rating.num)]]</visible>
+                <visible>!$PARAM[compact] + Skin.HasSetting(enable.flags.rating.numeric) + !Skin.HasSetting(hide.flags.rating)</visible>
                 <left>-4</left>
-                <include>Def_Flag_Label</include>
+                <include content="Def_Flag_Label_Rating"><param name="compact" value="$PARAM[compact]" /></include>
                 <label>$VAR[Label_Rating]</label>
             </control>
-        </control>
+        </definition>
     </include>
 
     <include name="Furniture_Subtitles_Flags">
