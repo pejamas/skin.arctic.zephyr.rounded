@@ -2550,4 +2550,8 @@ msgctxt "#31632"
 msgid "Thin focus border"
 msgstr "Thin focus border"
 
+msgctxt "#31633"
+msgid "TV episode count"
+msgstr "TV episode count"
+
 

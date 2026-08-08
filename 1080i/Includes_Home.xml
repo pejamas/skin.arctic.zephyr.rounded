@@ -942,7 +942,8 @@
                             <visible>!Skin.HasSetting(show.home.flix.title.clearlogo)</visible>
                             <top>165</top>
                             <width>100%</width>
-                            <height>68</height>
+                            <!-- Cap at 2 lines; Kodi only autoscrolls when text overflows this height -->
+                            <height>72</height>
                             <font>Tiny</font>
                             <align>left</align>
                             <textcolor>Dark2</textcolor>
@@ -953,7 +954,7 @@
                             <visible>Skin.HasSetting(show.home.flix.title.clearlogo)</visible>
                             <top>185</top>
                             <width>100%</width>
-                            <height>68</height>
+                            <height>72</height>
                             <font>Tiny</font>
                             <align>left</align>
                             <textcolor>Dark2</textcolor>
