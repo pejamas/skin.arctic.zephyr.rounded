@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+﻿# Kodi Media Center language file
 # Addon Name: Arctic: Zephyr - Rounded
 # Addon id: skin.arctic.zephyr.mod
 # Addon Provider: jurialmunkey, beatmasterrs
@@ -19,11 +19,11 @@ msgstr ""
 
 msgctxt "#31000"
 msgid "Limit number of items"
-msgstr "Ограничение элементов в виджете"
+msgstr "ÐžÐ³Ñ€Ð°Ð½Ð¸Ñ‡ÐµÐ½Ð¸Ðµ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² Ð² Ð²Ð¸Ð´Ð¶ÐµÑ‚Ðµ"
 
 msgctxt "#31001"
 msgid "Backup / Restore"
-msgstr "Резервное копирование"
+msgstr "Ð ÐµÐ·ÐµÑ€Ð²Ð½Ð¾Ðµ ÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ"
 
 msgctxt "#31002"
 msgid "Director show information"
@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#31003"
 msgid "Feature ends at"
-msgstr "Заканчивается в"
+msgstr "Ð—Ð°ÐºÐ°Ð½Ñ‡Ð¸Ð²Ð°ÐµÑ‚ÑÑ Ð²"
 
 msgctxt "#31004"
 msgid "Flix"
@@ -39,11 +39,11 @@ msgstr "Flix"
 
 msgctxt "#31005"
 msgid "Modern Fanart"
-msgstr "Современный фан-арт"
+msgstr "Ð¡Ð¾Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ð¹ Ñ„Ð°Ð½-Ð°Ñ€Ñ‚"
 
 msgctxt "#31006"
 msgid "Colored icon media flags"
-msgstr "Цветные иконки медиафлагов"
+msgstr "Ð¦Ð²ÐµÑ‚Ð½Ñ‹Ðµ Ð¸ÐºÐ¾Ð½ÐºÐ¸ Ð¼ÐµÐ´Ð¸Ð°Ñ„Ð»Ð°Ð³Ð¾Ð²"
 
 msgctxt "#31007"
 msgid "Arctic Zephyr - Rounded"
@@ -55,255 +55,255 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Resources"
-msgstr "Ресурсы"
+msgstr "Ð ÐµÑÑƒÑ€ÑÑ‹"
 
 msgctxt "#31010"
 msgid "Video Infodialog"
-msgstr "Сведения о видео"
+msgstr "Ð¡Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð¾ Ð²Ð¸Ð´ÐµÐ¾"
 
 msgctxt "#31011"
 msgid "Show clearLogo"
-msgstr "Показать логотип"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð»Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿"
 
 msgctxt "#31012"
 msgid "Videolyrics"
-msgstr "Текст песни на видео"
+msgstr "Ð¢ÐµÐºÑÑ‚ Ð¿ÐµÑÐ½Ð¸ Ð½Ð° Ð²Ð¸Ð´ÐµÐ¾"
 
 msgctxt "#31013"
 msgid "Shifted"
-msgstr "Смещённый"
+msgstr "Ð¡Ð¼ÐµÑ‰Ñ‘Ð½Ð½Ñ‹Ð¹"
 
 msgctxt "#31014"
 msgid "movies in the library"
-msgstr "фильмов в медиатеке"
+msgstr "Ñ„Ð¸Ð»ÑŒÐ¼Ð¾Ð² Ð² Ð¼ÐµÐ´Ð¸Ð°Ñ‚ÐµÐºÐµ"
 
 msgctxt "#31015"
 msgid "Use fanart instead of landscape on Tv Shows"
-msgstr "Использовать фанарт вместо ландшафта в сериалах"
+msgstr "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð½Ð°Ñ€Ñ‚ Ð²Ð¼ÐµÑÑ‚Ð¾ Ð»Ð°Ð½Ð´ÑˆÐ°Ñ„Ñ‚Ð° Ð² ÑÐµÑ€Ð¸Ð°Ð»Ð°Ñ…"
 
 msgctxt "#31016"
 msgid "Use fanart instead of landscape on movies"
-msgstr "Использовать фанарт вместо ландшафта в фильмах"
+msgstr "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð½Ð°Ñ€Ñ‚ Ð²Ð¼ÐµÑÑ‚Ð¾ Ð»Ð°Ð½Ð´ÑˆÐ°Ñ„Ñ‚Ð° Ð² Ñ„Ð¸Ð»ÑŒÐ¼Ð°Ñ…"
 
 msgctxt "#31017"
 msgid "Use fanart instead of landscape on seasons"
-msgstr "Использовать фанарт вместо ландшафта в сезонах"
+msgstr "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð½Ð°Ñ€Ñ‚ Ð²Ð¼ÐµÑÑ‚Ð¾ Ð»Ð°Ð½Ð´ÑˆÐ°Ñ„Ñ‚Ð° Ð² ÑÐµÐ·Ð¾Ð½Ð°Ñ…"
 
 msgctxt "#31018"
 msgid "Hide bar/CD on lyrics"
-msgstr "Скрыть панель/CD, если есть текст песни"
+msgstr "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ð°Ð½ÐµÐ»ÑŒ/CD, ÐµÑÐ»Ð¸ ÐµÑÑ‚ÑŒ Ñ‚ÐµÐºÑÑ‚ Ð¿ÐµÑÐ½Ð¸"
 
 msgctxt "#31019"
 msgid "Show PVR technical info"
-msgstr "Показать техническую информацию о записи эфира"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ñ‚ÐµÑ…Ð½Ð¸Ñ‡ÐµÑÐºÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¾ Ð·Ð°Ð¿Ð¸ÑÐ¸ ÑÑ„Ð¸Ñ€Ð°"
 
 msgctxt "#31020"
 msgid "Fullscreen Fanart"
-msgstr "Фанарт на полный экран"
+msgstr "Ð¤Ð°Ð½Ð°Ñ€Ñ‚ Ð½Ð° Ð¿Ð¾Ð»Ð½Ñ‹Ð¹ ÑÐºÑ€Ð°Ð½"
 
 msgctxt "#31021"
 msgid "Extended information"
-msgstr "Дополнительные сведения"
+msgstr "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ ÑÐ²ÐµÐ´ÐµÐ½Ð¸Ñ"
 
 msgctxt "#31022"
 msgid "IPTV Recorder"
-msgstr "Видеомагнитофон IPTV"
+msgstr "Ð’Ð¸Ð´ÐµÐ¾Ð¼Ð°Ð³Ð½Ð¸Ñ‚Ð¾Ñ„Ð¾Ð½ IPTV"
 
 msgctxt "#31023"
 msgid "Recordings"
-msgstr "Записи"
+msgstr "Ð—Ð°Ð¿Ð¸ÑÐ¸"
 
 msgctxt "#31024"
 msgid "Last Played Channels"
-msgstr "Последние просмотренные каналы"
+msgstr "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ ÐºÐ°Ð½Ð°Ð»Ñ‹"
 
 msgctxt "#31025"
 msgid "All Channels"
-msgstr "Все каналы"
+msgstr "Ð’ÑÐµ ÐºÐ°Ð½Ð°Ð»Ñ‹"
 
 msgctxt "#31026"
 msgid "New Movies"
-msgstr "Новые фильмы"
+msgstr "ÐÐ¾Ð²Ñ‹Ðµ Ñ„Ð¸Ð»ÑŒÐ¼Ñ‹"
 
 msgctxt "#31027"
 msgid "Recently Played Movies"
-msgstr "Недавно просмотренные фильмы"
+msgstr "ÐÐµÐ´Ð°Ð²Ð½Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð¸Ð»ÑŒÐ¼Ñ‹"
 
 msgctxt "#31028"
 msgid "Random Movies"
-msgstr "Случайные фильмы"
+msgstr "Ð¡Ð»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ðµ Ñ„Ð¸Ð»ÑŒÐ¼Ñ‹"
 
 msgctxt "#31029"
 msgid "In Progress Movies"
-msgstr "Текущие фильмы"
+msgstr "Ð¢ÐµÐºÑƒÑ‰Ð¸Ðµ Ñ„Ð¸Ð»ÑŒÐ¼Ñ‹"
 
 msgctxt "#31030"
 msgid "Top Rated Movies"
-msgstr "Лучшие фильмы"
+msgstr "Ð›ÑƒÑ‡ÑˆÐ¸Ðµ Ñ„Ð¸Ð»ÑŒÐ¼Ñ‹"
 
 msgctxt "#31031"
 msgid "Top 250 Movies"
-msgstr "Топ 250 фильмов"
+msgstr "Ð¢Ð¾Ð¿ 250 Ñ„Ð¸Ð»ÑŒÐ¼Ð¾Ð²"
 
 msgctxt "#31032"
 msgid "Unwatched Movies"
-msgstr "Непросмотренные фильмы"
+msgstr "ÐÐµÐ¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð¸Ð»ÑŒÐ¼Ñ‹"
 
 msgctxt "#31033"
 msgid "Movie Sets"
-msgstr "Киноколлекции"
+msgstr "ÐšÐ¸Ð½Ð¾ÐºÐ¾Ð»Ð»ÐµÐºÑ†Ð¸Ð¸"
 
 msgctxt "#31034"
 msgid "New Tv Shows"
-msgstr "Новые сериалы"
+msgstr "ÐÐ¾Ð²Ñ‹Ðµ ÑÐµÑ€Ð¸Ð°Ð»Ñ‹"
 
 msgctxt "#31035"
 msgid "Recently Watched TV Shows"
-msgstr "Недавно добавленные сериалы"
+msgstr "ÐÐµÐ´Ð°Ð²Ð½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ ÑÐµÑ€Ð¸Ð°Ð»Ñ‹"
 
 msgctxt "#31036"
 msgid "Random Tv Shows"
-msgstr "Случайные сериалы"
+msgstr "Ð¡Ð»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ðµ ÑÐµÑ€Ð¸Ð°Ð»Ñ‹"
 
 msgctxt "#31037"
 msgid "Top Rated Tv Shows"
-msgstr "Лучшие сериалы"
+msgstr "Ð›ÑƒÑ‡ÑˆÐ¸Ðµ ÑÐµÑ€Ð¸Ð°Ð»Ñ‹"
 
 msgctxt "#31038"
 msgid "New Episodes"
-msgstr "Новые серии"
+msgstr "ÐÐ¾Ð²Ñ‹Ðµ ÑÐµÑ€Ð¸Ð¸"
 
 msgctxt "#31039"
 msgid "Recently Played Episodes"
-msgstr "Недавно просмотренные серии"
+msgstr "ÐÐµÐ´Ð°Ð²Ð½Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ ÑÐµÑ€Ð¸Ð¸"
 
 msgctxt "#31040"
 msgid "Random Episodes"
-msgstr "Случайные серии"
+msgstr "Ð¡Ð»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ðµ ÑÐµÑ€Ð¸Ð¸"
 
 msgctxt "#31041"
 msgid "Unwatched Episodes"
-msgstr "Непросмотренные серии"
+msgstr "ÐÐµÐ¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ ÑÐµÑ€Ð¸Ð¸"
 
 msgctxt "#31042"
 msgid "In Progress Episodes"
-msgstr "Текущие серии"
+msgstr "Ð¢ÐµÐºÑƒÑ‰Ð¸Ðµ ÑÐµÑ€Ð¸Ð¸"
 
 msgctxt "#31043"
 msgid "Top Rated Episodes"
-msgstr "Лучшие серии"
+msgstr "Ð›ÑƒÑ‡ÑˆÐ¸Ðµ ÑÐµÑ€Ð¸Ð¸"
 
 msgctxt "#31044"
 msgid "New Albums"
-msgstr "Новые альбомы"
+msgstr "ÐÐ¾Ð²Ñ‹Ðµ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ñ‹"
 
 msgctxt "#31045"
 msgid "Recently Played Albums"
-msgstr "Недавно прослушанные альбомы"
+msgstr "ÐÐµÐ´Ð°Ð²Ð½Ð¾ Ð¿Ñ€Ð¾ÑÐ»ÑƒÑˆÐ°Ð½Ð½Ñ‹Ðµ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ñ‹"
 
 msgctxt "#31046"
 msgid "Top Albums"
-msgstr "Лучшие альбомы"
+msgstr "Ð›ÑƒÑ‡ÑˆÐ¸Ðµ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ñ‹"
 
 msgctxt "#31047"
 msgid "Random Albums"
-msgstr "Случайные альбомы"
+msgstr "Ð¡Ð»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ðµ Ð°Ð»ÑŒÐ±Ð¾Ð¼Ñ‹"
 
 msgctxt "#31048"
 msgid "Random Artists"
-msgstr "Случайные исполнители"
+msgstr "Ð¡Ð»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ðµ Ð¸ÑÐ¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»Ð¸"
 
 msgctxt "#31049"
 msgid "Show fanart/landscape view"
-msgstr "Показать вид фанарта/ландшафта"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð²Ð¸Ð´ Ñ„Ð°Ð½Ð°Ñ€Ñ‚Ð°/Ð»Ð°Ð½Ð´ÑˆÐ°Ñ„Ñ‚Ð°"
 
 msgctxt "#31050"
 msgid "Display blur effect"
-msgstr "Включить размытие"
+msgstr "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ€Ð°Ð·Ð¼Ñ‹Ñ‚Ð¸Ðµ"
 
 msgctxt "#31051"
 msgid "This view"
-msgstr "Этот вид"
+msgstr "Ð­Ñ‚Ð¾Ñ‚ Ð²Ð¸Ð´"
 
 msgctxt "#31052"
 msgid "Misc"
-msgstr "Разное"
+msgstr "Ð Ð°Ð·Ð½Ð¾Ðµ"
 
 msgctxt "#31053"
 msgid "Global options"
-msgstr "Общие настройки"
+msgstr "ÐžÐ±Ñ‰Ð¸Ðµ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸"
 
 msgctxt "#31054"
 msgid "Show discart"
-msgstr "Показать диск"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð´Ð¸ÑÐº"
 
 msgctxt "#31055"
 msgid "Fullsize fanart"
-msgstr "Фанарт в полный размер"
+msgstr "Ð¤Ð°Ð½Ð°Ñ€Ñ‚ Ð² Ð¿Ð¾Ð»Ð½Ñ‹Ð¹ Ñ€Ð°Ð·Ð¼ÐµÑ€"
 
 msgctxt "#31056"
 msgid "Double Poster"
-msgstr "Двойной фликс"
+msgstr "Ð”Ð²Ð¾Ð¹Ð½Ð¾Ð¹ Ñ„Ð»Ð¸ÐºÑ"
 
 msgctxt "#31057"
 msgid "Flip poster/fanart"
-msgstr "Поменять постер и фанарт местами"
+msgstr "ÐŸÐ¾Ð¼ÐµÐ½ÑÑ‚ÑŒ Ð¿Ð¾ÑÑ‚ÐµÑ€ Ð¸ Ñ„Ð°Ð½Ð°Ñ€Ñ‚ Ð¼ÐµÑÑ‚Ð°Ð¼Ð¸"
 
 msgctxt "#31058"
 msgid "Show list instead of posters"
-msgstr "Показать список вместо постеров"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÑÐ¿Ð¸ÑÐ¾Ðº Ð²Ð¼ÐµÑÑ‚Ð¾ Ð¿Ð¾ÑÑ‚ÐµÑ€Ð¾Ð²"
 
 msgctxt "#31059"
 msgid "Fanart & poster 2"
-msgstr "Фанарт и постер 2"
+msgstr "Ð¤Ð°Ð½Ð°Ñ€Ñ‚ Ð¸ Ð¿Ð¾ÑÑ‚ÐµÑ€ 2"
 
 msgctxt "#31060"
 msgid "episodes watched"
-msgstr "серий просмотрено"
+msgstr "ÑÐµÑ€Ð¸Ð¹ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð¾"
 
 msgctxt "#31061"
 msgid "h"
-msgstr "ч"
+msgstr "Ñ‡"
 
 msgctxt "#31062"
 msgid "m"
-msgstr "м"
+msgstr "Ð¼"
 
 msgctxt "#31063"
 msgid "New time format"
-msgstr "Новый формат времени"
+msgstr "ÐÐ¾Ð²Ñ‹Ð¹ Ñ„Ð¾Ñ€Ð¼Ð°Ñ‚ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸"
 
 msgctxt "#31064"
 msgid "Double Banner"
-msgstr "Баннер (двойной фликс)"
+msgstr "Ð‘Ð°Ð½Ð½ÐµÑ€ (Ð´Ð²Ð¾Ð¹Ð½Ð¾Ð¹ Ñ„Ð»Ð¸ÐºÑ)"
 
 msgctxt "#31065"
 msgid "Flip fanart/banner"
-msgstr "Поменять фанарт и баннер местами"
+msgstr "ÐŸÐ¾Ð¼ÐµÐ½ÑÑ‚ÑŒ Ñ„Ð°Ð½Ð°Ñ€Ñ‚ Ð¸ Ð±Ð°Ð½Ð½ÐµÑ€ Ð¼ÐµÑÑ‚Ð°Ð¼Ð¸"
 
 msgctxt "#31066"
 msgid "Hourly forecast"
-msgstr "Ежечасный прогноз"
+msgstr "Ð•Ð¶ÐµÑ‡Ð°ÑÐ½Ñ‹Ð¹ Ð¿Ñ€Ð¾Ð³Ð½Ð¾Ð·"
 
 msgctxt "#31067"
 msgid "Next days forecast"
-msgstr "Прогноз на следующие дни"
+msgstr "ÐŸÑ€Ð¾Ð³Ð½Ð¾Ð· Ð½Ð° ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ðµ Ð´Ð½Ð¸"
 
 msgctxt "#31068"
 msgid "Show RSS Feed on home menu"
-msgstr "Показать ленту RSS на главном меню"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð»ÐµÐ½Ñ‚Ñƒ RSS Ð½Ð° Ð³Ð»Ð°Ð²Ð½Ð¾Ð¼ Ð¼ÐµÐ½ÑŽ"
 
 msgctxt "#31069"
 msgid "Show RSS Feed on top instead on bottom"
-msgstr "Показать ленту RSS сверху, а не снизу"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð»ÐµÐ½Ñ‚Ñƒ RSS ÑÐ²ÐµÑ€Ñ…Ñƒ, Ð° Ð½Ðµ ÑÐ½Ð¸Ð·Ñƒ"
 
 msgctxt "#31070"
 msgid "RSS Feed"
-msgstr "Лента RSS"
+msgstr "Ð›ÐµÐ½Ñ‚Ð° RSS"
 
 msgctxt "#31071"
 msgid "Flip list and info"
-msgstr "Поменять список и сведения местами"
+msgstr "ÐŸÐ¾Ð¼ÐµÐ½ÑÑ‚ÑŒ ÑÐ¿Ð¸ÑÐ¾Ðº Ð¸ ÑÐ²ÐµÐ´ÐµÐ½Ð¸Ñ Ð¼ÐµÑÑ‚Ð°Ð¼Ð¸"
 
 msgctxt "#31072"
 msgid "Elapsed / Remaining Time"
@@ -311,75 +311,75 @@ msgstr ""
 
 msgctxt "#31073"
 msgid "items"
-msgstr "элементы"
+msgstr "ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹"
 
 msgctxt "#31074"
 msgid "min"
-msgstr "мин"
+msgstr "Ð¼Ð¸Ð½"
 
 msgctxt "#31075"
 msgid "Live TV"
-msgstr "ТВ"
+msgstr "Ð¢Ð’"
 
 msgctxt "#31076"
 msgid "Used Memory"
-msgstr "Используемая память"
+msgstr "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÐ¼Ð°Ñ Ð¿Ð°Ð¼ÑÑ‚ÑŒ"
 
 msgctxt "#31077"
 msgid "Spotlight"
-msgstr "Сцена"
+msgstr "Ð¡Ñ†ÐµÐ½Ð°"
 
 msgctxt "#31078"
 msgid "Finishes at"
-msgstr "Заканчивается в"
+msgstr "Ð—Ð°ÐºÐ°Ð½Ñ‡Ð¸Ð²Ð°ÐµÑ‚ÑÑ Ð²"
 
 msgctxt "#31079"
 msgid "Video Stream"
-msgstr "Видеопоток"
+msgstr "Ð’Ð¸Ð´ÐµÐ¾Ð¿Ð¾Ñ‚Ð¾Ðº"
 
 msgctxt "#31080"
 msgid "Customise home menu"
-msgstr "Настройка главного меню"
+msgstr "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð³Ð»Ð°Ð²Ð½Ð¾Ð³Ð¾ Ð¼ÐµÐ½ÑŽ"
 
 msgctxt "#31081"
 msgid "Background"
-msgstr "Фон"
+msgstr "Ð¤Ð¾Ð½"
 
 msgctxt "#31082"
 msgid "Show now playing video in background"
-msgstr "Показывать воспроизводящееся видео в фоне"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´ÑÑ‰ÐµÐµÑÑ Ð²Ð¸Ð´ÐµÐ¾ Ð² Ñ„Ð¾Ð½Ðµ"
 
 msgctxt "#31083"
 msgid "Submenu"
-msgstr "Подменю"
+msgstr "ÐŸÐ¾Ð´Ð¼ÐµÐ½ÑŽ"
 
 msgctxt "#31084"
 msgid "No Timer"
-msgstr "Нет таймера"
+msgstr "ÐÐµÑ‚ Ñ‚Ð°Ð¹Ð¼ÐµÑ€Ð°"
 
 msgctxt "#31085"
 msgid "Show header info"
-msgstr "Показывать заголовок"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð·Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº"
 
 msgctxt "#31086"
 msgid "DVD Menu"
-msgstr "Меню DVD"
+msgstr "ÐœÐµÐ½ÑŽ DVD"
 
 msgctxt "#31087"
 msgid "Show artist slideshow"
-msgstr "Показывать слайд-шоу исполнителей"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÐ»Ð°Ð¹Ð´-ÑˆÐ¾Ñƒ Ð¸ÑÐ¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÐµÐ¹"
 
 msgctxt "#31088"
 msgid "Show visualisation behind slideshow"
-msgstr "Показывать визуализацию за слайд-шоу"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð²Ð¸Ð·ÑƒÐ°Ð»Ð¸Ð·Ð°Ñ†Ð¸ÑŽ Ð·Ð° ÑÐ»Ð°Ð¹Ð´-ÑˆÐ¾Ñƒ"
 
 msgctxt "#31089"
 msgid "Animate artist slideshow"
-msgstr "Анимировать слайд-шоу исполнителя"
+msgstr "ÐÐ½Ð¸Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐ»Ð°Ð¹Ð´-ÑˆÐ¾Ñƒ Ð¸ÑÐ¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»Ñ"
 
 msgctxt "#31090"
 msgid "Show fanart"
-msgstr "Показывать фан-арт"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð½-Ð°Ñ€Ñ‚"
 
 msgctxt "#31091"
 msgid "Letterboxd"
@@ -387,19 +387,19 @@ msgstr ""
 
 msgctxt "#31092"
 msgid "Accent colors"
-msgstr "Цвета акцента"
+msgstr "Ð¦Ð²ÐµÑ‚Ð° Ð°ÐºÑ†ÐµÐ½Ñ‚Ð°"
 
 msgctxt "#31093"
 msgid "Rating stars (media flags section)"
-msgstr "Звёзды рейтинга (отдел с медиазначками)"
+msgstr "Ð—Ð²Ñ‘Ð·Ð´Ñ‹ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð° (Ð¾Ñ‚Ð´ÐµÐ» Ñ Ð¼ÐµÐ´Ð¸Ð°Ð·Ð½Ð°Ñ‡ÐºÐ°Ð¼Ð¸)"
 
 msgctxt "#31094"
 msgid "MPAA rating (media flags section)"
-msgstr "Возрастной рейтинг (отдел с медиазначками)"
+msgstr "Ð’Ð¾Ð·Ñ€Ð°ÑÑ‚Ð½Ð¾Ð¹ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³ (Ð¾Ñ‚Ð´ÐµÐ» Ñ Ð¼ÐµÐ´Ð¸Ð°Ð·Ð½Ð°Ñ‡ÐºÐ°Ð¼Ð¸)"
 
 msgctxt "#31095"
 msgid "Focus squares"
-msgstr "Квадраты выбора"
+msgstr "ÐšÐ²Ð°Ð´Ñ€Ð°Ñ‚Ñ‹ Ð²Ñ‹Ð±Ð¾Ñ€Ð°"
 
 msgctxt "#31096"
 msgid "Trakt"
@@ -407,11 +407,11 @@ msgstr ""
 
 msgctxt "#31097"
 msgid "Userrating (media flags section)"
-msgstr "Рейтинг пользователей (отдел с медиазначками)"
+msgstr "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹ (Ð¾Ñ‚Ð´ÐµÐ» Ñ Ð¼ÐµÐ´Ð¸Ð°Ð·Ð½Ð°Ñ‡ÐºÐ°Ð¼Ð¸)"
 
 msgctxt "#31098"
 msgid "Hide watched"
-msgstr "Скрывать просмотренные"
+msgstr "Ð¡ÐºÑ€Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ"
 
 msgctxt "#31099"
 msgid "[CR]Based on the original Arctic: Zephyr skin by jurialmunkey and [CR]Arctic: Zephyr Reloaded  skin by beatmasterrs."
@@ -419,7 +419,7 @@ msgstr ""
 
 msgctxt "#31100"
 msgid "Play trailer in windowed mode"
-msgstr "Воспроизвести трейлер в оконном режиме"
+msgstr "Ð’Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÑÑ‚Ð¸ Ñ‚Ñ€ÐµÐ¹Ð»ÐµÑ€ Ð² Ð¾ÐºÐ¾Ð½Ð½Ð¾Ð¼ Ñ€ÐµÐ¶Ð¸Ð¼Ðµ"
 
 msgctxt "#31101"
 msgid "Youtube"
@@ -427,103 +427,103 @@ msgstr "YouTube"
 
 msgctxt "#31102"
 msgid "Set weather fanart"
-msgstr "Установить фан-арт погоды"
+msgstr "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ñ„Ð°Ð½-Ð°Ñ€Ñ‚ Ð¿Ð¾Ð³Ð¾Ð´Ñ‹"
 
 msgctxt "#31103"
 msgid "Widgets"
-msgstr "Виджеты"
+msgstr "Ð’Ð¸Ð´Ð¶ÐµÑ‚Ñ‹"
 
 msgctxt "#31104"
 msgid "Show time, date and weather"
-msgstr "Показывать погоду"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ð¾Ð³Ð¾Ð´Ñƒ"
 
 msgctxt "#31105"
 msgid "Animate fanart"
-msgstr "Анимировать фан-арт"
+msgstr "ÐÐ½Ð¸Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð½-Ð°Ñ€Ñ‚"
 
 msgctxt "#31106"
 msgid "Extra Info"
-msgstr "Доп. сведения"
+msgstr "Ð”Ð¾Ð¿. ÑÐ²ÐµÐ´ÐµÐ½Ð¸Ñ"
 
 msgctxt "#31107"
 msgid "Wrap list"
-msgstr "Замкнутый список"
+msgstr "Ð—Ð°Ð¼ÐºÐ½ÑƒÑ‚Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº"
 
 msgctxt "#31108"
 msgid "Set fallback image"
-msgstr "Выбрать дополнительное изображение"
+msgstr "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð´Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ"
 
 msgctxt "#31109"
 msgid "Power Menu"
-msgstr "Управление питанием"
+msgstr "Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð¸Ñ‚Ð°Ð½Ð¸ÐµÐ¼"
 
 msgctxt "#31110"
 msgid "Furniture"
-msgstr "Элементы"
+msgstr "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹"
 
 msgctxt "#31111"
 msgid "Show in the header"
-msgstr "Показывать часы"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ‡Ð°ÑÑ‹"
 
 msgctxt "#31112"
 msgid "Show media flags"
-msgstr "Показывать медиа значки"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¼ÐµÐ´Ð¸Ð° Ð·Ð½Ð°Ñ‡ÐºÐ¸"
 
 msgctxt "#31113"
 msgid "Show now playing info"
-msgstr "Показывать информацию для воспроизводимого"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð´Ð»Ñ Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ð¼Ð¾Ð³Ð¾"
 
 msgctxt "#31114"
 msgid "[COLOR=$VAR[Color_Label_AZR]]Rounded[/COLOR] Skin-Settings"
-msgstr "Настройки обложки [COLOR=$VAR[Color_Label_AZR]]Rounded[/COLOR]"
+msgstr "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¾Ð±Ð»Ð¾Ð¶ÐºÐ¸ [COLOR=$VAR[Color_Label_AZR]]Rounded[/COLOR]"
 
 msgctxt "#31115"
 msgid "Trailer of"
-msgstr "Трейлер"
+msgstr "Ð¢Ñ€ÐµÐ¹Ð»ÐµÑ€"
 
 msgctxt "#31116"
 msgid "Movies by"
-msgstr "Фильмы от"
+msgstr "Ð¤Ð¸Ð»ÑŒÐ¼Ñ‹ Ð¾Ñ‚"
 
 msgctxt "#31117"
 msgid "Tv Shows by"
-msgstr "Сериалы от"
+msgstr "Ð¡ÐµÑ€Ð¸Ð°Ð»Ñ‹ Ð¾Ñ‚"
 
 msgctxt "#31118"
-msgid "[B]Configure System Settings[/B][CR][CR] •     Setup and calibrate displays[CR] •     Configure audio output[CR] •     Setup remote controls[CR] •     Set power saving options[CR] •     Enable debugging[CR] •     Setup master lock"
-msgstr "[B]Настройка Параметров Системы[/B][CR][CR] • Установка и калибровка дисплеев[CR] • Настройка аудиовыхода[CR] • Настройка дистанционного управления[CR] • Установить параметры энергосбережения[CR] • Включить режим отладки[CR] • Установка блокировки"
+msgid "[B]Configure System Settings[/B][CR][CR] â€¢     Setup and calibrate displays[CR] â€¢     Configure audio output[CR] â€¢     Setup remote controls[CR] â€¢     Set power saving options[CR] â€¢     Enable debugging[CR] â€¢     Setup master lock"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð¡Ð¸ÑÑ‚ÐµÐ¼Ñ‹[/B][CR][CR] â€¢ Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¸ ÐºÐ°Ð»Ð¸Ð±Ñ€Ð¾Ð²ÐºÐ° Ð´Ð¸ÑÐ¿Ð»ÐµÐµÐ²[CR] â€¢ ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð°ÑƒÐ´Ð¸Ð¾Ð²Ñ‹Ñ…Ð¾Ð´Ð°[CR] â€¢ ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð´Ð¸ÑÑ‚Ð°Ð½Ñ†Ð¸Ð¾Ð½Ð½Ð¾Ð³Ð¾ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ[CR] â€¢ Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ ÑÐ½ÐµÑ€Ð³Ð¾ÑÐ±ÐµÑ€ÐµÐ¶ÐµÐ½Ð¸Ñ[CR] â€¢ Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ€ÐµÐ¶Ð¸Ð¼ Ð¾Ñ‚Ð»Ð°Ð´ÐºÐ¸[CR] â€¢ Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÐ¸"
 
 msgctxt "#31119"
-msgid "[B]Configure Add-Ons[/B][CR][CR] •     Manage your installed Add-ons[CR] •     Install Add-ons from kodi.tv[CR] •     Modify Add-on settings"
-msgstr "[B]Настройка дополнений[/B][CR][CR] • Управление установленными дополнениями[CR] • Установка дополнений с kodi.tv[CR] • Изменить параметры дополнений"
+msgid "[B]Configure Add-Ons[/B][CR][CR] â€¢     Manage your installed Add-ons[CR] â€¢     Install Add-ons from kodi.tv[CR] â€¢     Modify Add-on settings"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð´Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ð¹[/B][CR][CR] â€¢ Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¼Ð¸ Ð´Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸ÑÐ¼Ð¸[CR] â€¢ Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð´Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ð¹ Ñ kodi.tv[CR] â€¢ Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ð´Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ð¹"
 
 msgctxt "#31120"
-msgid "[B]Configure TV Settings[/B][CR][CR] •     Change full screen info[CR] •     Manage EPG data settings"
-msgstr "[B]Настройка Параметров ТВ[/B][CR][CR] • Изменить полноэкранную информацию[CR] • Управление параметрами данных телегида"
+msgid "[B]Configure TV Settings[/B][CR][CR] â€¢     Change full screen info[CR] â€¢     Manage EPG data settings"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð¢Ð’[/B][CR][CR] â€¢ Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð»Ð½Ð¾ÑÐºÑ€Ð°Ð½Ð½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ[CR] â€¢ Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð°Ð¼Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ñ‚ÐµÐ»ÐµÐ³Ð¸Ð´Ð°"
 
 msgctxt "#31121"
-msgid "[B]Configure Service Settings[/B][CR][CR] •     Control via UPnP and HTTP[CR] •     Configure file sharing[CR] •     Enable Zeroconf[CR] •     Configure AirPlay"
-msgstr "[B]Настройка Служебных Параметров[/B][CR][CR] • Управление через UPnP и HTTP[CR] • Настройка совместного использования файлов[CR] • Включить Zeroconf[CR] • Настройка AirPlay"
+msgid "[B]Configure Service Settings[/B][CR][CR] â€¢     Control via UPnP and HTTP[CR] â€¢     Configure file sharing[CR] â€¢     Enable Zeroconf[CR] â€¢     Configure AirPlay"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¡Ð»ÑƒÐ¶ÐµÐ±Ð½Ñ‹Ñ… ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð²[/B][CR][CR] â€¢ Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ñ‡ÐµÑ€ÐµÐ· UPnP Ð¸ HTTP[CR] â€¢ ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÑÐ¾Ð²Ð¼ÐµÑÑ‚Ð½Ð¾Ð³Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ Ñ„Ð°Ð¹Ð»Ð¾Ð²[CR] â€¢ Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Zeroconf[CR] â€¢ ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° AirPlay"
 
 msgctxt "#31122"
-msgid "[B]Configure Profile Settings[/B][CR][CR] •     Setup user profiles[CR] •     Enable login screen[CR] •     Set master locks[CR] •     Control access to content"
-msgstr "[B]Настройка Параметров Профиля[/B][CR][CR] • Установка пользовательских профилей[CR] • Включить экран входа в систему[CR] • Установить блокировку[CR] • Управление доступом к содержимому"
+msgid "[B]Configure Profile Settings[/B][CR][CR] â€¢     Setup user profiles[CR] â€¢     Enable login screen[CR] â€¢     Set master locks[CR] â€¢     Control access to content"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÐŸÑ€Ð¾Ñ„Ð¸Ð»Ñ[/B][CR][CR] â€¢ Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ñ… Ð¿Ñ€Ð¾Ñ„Ð¸Ð»ÐµÐ¹[CR] â€¢ Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÑÐºÑ€Ð°Ð½ Ð²Ñ…Ð¾Ð´Ð° Ð² ÑÐ¸ÑÑ‚ÐµÐ¼Ñƒ[CR] â€¢ Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð±Ð»Ð¾ÐºÐ¸Ñ€Ð¾Ð²ÐºÑƒ[CR] â€¢ Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð¾Ð¼ Ðº ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ð¼Ð¾Ð¼Ñƒ"
 
 msgctxt "#31123"
-msgid "[B]Configure Skin Settings[/B][CR][CR] •     Customise the home screen[CR] •     Set background options[CR] •     Configure OSD options[CR] •     Enable add-on support[CR] •     Disable screen elements"
-msgstr "[B]Настройка Параметров Обложки[/B][CR][CR] • Настройка главного экрана[CR] • Установить параметры фона[CR] • Настройка параметров экранного меню[CR] • Включить поддержку дополнений[CR] • Отключить элементы экрана"
+msgid "[B]Configure Skin Settings[/B][CR][CR] â€¢     Customise the home screen[CR] â€¢     Set background options[CR] â€¢     Configure OSD options[CR] â€¢     Enable add-on support[CR] â€¢     Disable screen elements"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° ÐŸÐ°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÐžÐ±Ð»Ð¾Ð¶ÐºÐ¸[/B][CR][CR] â€¢ ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð³Ð»Ð°Ð²Ð½Ð¾Ð³Ð¾ ÑÐºÑ€Ð°Ð½Ð°[CR] â€¢ Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ñ‹ Ñ„Ð¾Ð½Ð°[CR] â€¢ ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² ÑÐºÑ€Ð°Ð½Ð½Ð¾Ð³Ð¾ Ð¼ÐµÐ½ÑŽ[CR] â€¢ Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÑƒ Ð´Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ð¹[CR] â€¢ ÐžÑ‚ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ ÑÐºÑ€Ð°Ð½Ð°"
 
 msgctxt "#31124"
-msgid "[B]View System Information[/B][CR][CR] •     Summary[CR] •     Storage[CR] •     Network[CR] •     Video[CR] •     Hardware[CR] •     PVR Backend"
-msgstr "[B]Просмотр сведений о системе[/B][CR][CR] • Сведения[CR] • Накопители[CR] • Сеть[CR] • Видео[CR] • Оборудование[CR] • Сервер PVR"
+msgid "[B]View System Information[/B][CR][CR] â€¢     Summary[CR] â€¢     Storage[CR] â€¢     Network[CR] â€¢     Video[CR] â€¢     Hardware[CR] â€¢     PVR Backend"
+msgstr "[B]ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ ÑÐ²ÐµÐ´ÐµÐ½Ð¸Ð¹ Ð¾ ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ[/B][CR][CR] â€¢ Ð¡Ð²ÐµÐ´ÐµÐ½Ð¸Ñ[CR] â€¢ ÐÐ°ÐºÐ¾Ð¿Ð¸Ñ‚ÐµÐ»Ð¸[CR] â€¢ Ð¡ÐµÑ‚ÑŒ[CR] â€¢ Ð’Ð¸Ð´ÐµÐ¾[CR] â€¢ ÐžÐ±Ð¾Ñ€ÑƒÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ[CR] â€¢ Ð¡ÐµÑ€Ð²ÐµÑ€ PVR"
 
 msgctxt "#31125"
 msgid "Startup video or music playlist"
-msgstr "Плейлист при запуске"
+msgstr "ÐŸÐ»ÐµÐ¹Ð»Ð¸ÑÑ‚ Ð¿Ñ€Ð¸ Ð·Ð°Ð¿ÑƒÑÐºÐµ"
 
 msgctxt "#31126"
 msgid "Extras"
-msgstr "Дополнительно"
+msgstr "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾"
 
 msgctxt "#31127"
 msgid "Cinema Experience"
@@ -531,87 +531,87 @@ msgstr "Cinema Experience"
 
 msgctxt "#31128"
 msgid "Movies by"
-msgstr "Фильмы от"
+msgstr "Ð¤Ð¸Ð»ÑŒÐ¼Ñ‹ Ð¾Ñ‚"
 
 msgctxt "#31129"
 msgid "Recently added"
-msgstr "Недавно добавленные"
+msgstr "ÐÐµÐ´Ð°Ð²Ð½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ"
 
 msgctxt "#31130"
 msgid "Recently played"
-msgstr "Недавно проигранные"
+msgstr "ÐÐµÐ´Ð°Ð²Ð½Ð¾ Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ð°Ð½Ð½Ñ‹Ðµ"
 
 msgctxt "#31131"
 msgid "Play random"
-msgstr "Воспроизводить случайные"
+msgstr "Ð’Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÑŒ ÑÐ»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ðµ"
 
 msgctxt "#31132"
 msgid "Delete Settings Shortcut"
-msgstr "Удалить Ярлык Настроек"
+msgstr "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¯Ñ€Ð»Ñ‹Ðº ÐÐ°ÑÑ‚Ñ€Ð¾ÐµÐº"
 
 msgctxt "#31133"
 msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
-msgstr "Вы уверены, что хотите удалить ярлык настроек?[CR]Пожалуйста удостоверьтесь, что у Вас есть альтернативный метод доступа к настройкам перед тем, как удалять этот ярлык."
+msgstr "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ ÑÑ€Ð»Ñ‹Ðº Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº?[CR]ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð° ÑƒÐ´Ð¾ÑÑ‚Ð¾Ð²ÐµÑ€ÑŒÑ‚ÐµÑÑŒ, Ñ‡Ñ‚Ð¾ Ñƒ Ð’Ð°Ñ ÐµÑÑ‚ÑŒ Ð°Ð»ÑŒÑ‚ÐµÑ€Ð½Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ Ð¼ÐµÑ‚Ð¾Ð´ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ð¼ Ð¿ÐµÑ€ÐµÐ´ Ñ‚ÐµÐ¼, ÐºÐ°Ðº ÑƒÐ´Ð°Ð»ÑÑ‚ÑŒ ÑÑ‚Ð¾Ñ‚ ÑÑ€Ð»Ñ‹Ðº."
 
 msgctxt "#31134"
 msgid "Hub items"
-msgstr "Элементы раздела"
+msgstr "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ Ñ€Ð°Ð·Ð´ÐµÐ»Ð°"
 
 msgctxt "#31135"
 msgid "Cast of"
-msgstr "Актёры"
+msgstr "ÐÐºÑ‚Ñ‘Ñ€Ñ‹"
 
 msgctxt "#31136"
 msgid "Similar to"
-msgstr "Похожий на"
+msgstr "ÐŸÐ¾Ñ…Ð¾Ð¶Ð¸Ð¹ Ð½Ð°"
 
 msgctxt "#31137"
 msgid "Fanart of"
-msgstr "Фанарт"
+msgstr "Ð¤Ð°Ð½Ð°Ñ€Ñ‚"
 
 msgctxt "#31138"
 msgid "Youtube videos of"
-msgstr "Видео YouTube о"
+msgstr "Ð’Ð¸Ð´ÐµÐ¾ YouTube Ð¾"
 
 msgctxt "#31139"
 msgid "Crew of"
-msgstr "Съёмочная группа"
+msgstr "Ð¡ÑŠÑ‘Ð¼Ð¾Ñ‡Ð½Ð°Ñ Ð³Ñ€ÑƒÐ¿Ð¿Ð°"
 
 msgctxt "#31140"
 msgid "Big poster"
-msgstr "Большой постер"
+msgstr "Ð‘Ð¾Ð»ÑŒÑˆÐ¾Ð¹ Ð¿Ð¾ÑÑ‚ÐµÑ€"
 
 msgctxt "#31141"
 msgid "Filmography of"
-msgstr "Фильмография"
+msgstr "Ð¤Ð¸Ð»ÑŒÐ¼Ð¾Ð³Ñ€Ð°Ñ„Ð¸Ñ"
 
 msgctxt "#31142"
 msgid "TV Show appearances of"
-msgstr "Появление в сериалах"
+msgstr "ÐŸÐ¾ÑÐ²Ð»ÐµÐ½Ð¸Ðµ Ð² ÑÐµÑ€Ð¸Ð°Ð»Ð°Ñ…"
 
 msgctxt "#31143"
 msgid "Discography of"
-msgstr "Дискография"
+msgstr "Ð”Ð¸ÑÐºÐ¾Ð³Ñ€Ð°Ñ„Ð¸Ñ"
 
 msgctxt "#31144"
 msgid "Movie Hub"
-msgstr "Раздел Фильмов"
+msgstr "Ð Ð°Ð·Ð´ÐµÐ» Ð¤Ð¸Ð»ÑŒÐ¼Ð¾Ð²"
 
 msgctxt "#31145"
 msgid "TV Hub"
-msgstr "Раздел ТВ"
+msgstr "Ð Ð°Ð·Ð´ÐµÐ» Ð¢Ð’"
 
 msgctxt "#31146"
 msgid "Reload Skin"
-msgstr "Перезагрузить Обложку"
+msgstr "ÐŸÐµÑ€ÐµÐ·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒ ÐžÐ±Ð»Ð¾Ð¶ÐºÑƒ"
 
 msgctxt "#31147"
 msgid "Cards"
-msgstr "Карточки"
+msgstr "ÐšÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐ¸"
 
 msgctxt "#31148"
 msgid "Kiosk mode"
-msgstr "Режим киоска"
+msgstr "Ð ÐµÐ¶Ð¸Ð¼ ÐºÐ¸Ð¾ÑÐºÐ°"
 
 msgctxt "#31149"
 msgid "IMDb"
@@ -619,7 +619,7 @@ msgstr ""
 
 msgctxt "#31150"
 msgid "Show detailed info when video is paused"
-msgstr "Показывать детальную информацию, когда видео на паузе"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð´ÐµÑ‚Ð°Ð»ÑŒÐ½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ, ÐºÐ¾Ð³Ð´Ð° Ð²Ð¸Ð´ÐµÐ¾ Ð½Ð° Ð¿Ð°ÑƒÐ·Ðµ"
 
 msgctxt "#31151"
 msgid "Artwork"
@@ -627,63 +627,63 @@ msgstr "Artwork"
 
 msgctxt "#31152"
 msgid "Released by"
-msgstr "Выпущен"
+msgstr "Ð’Ñ‹Ð¿ÑƒÑ‰ÐµÐ½"
 
 msgctxt "#31153"
 msgid "Similar"
-msgstr "Похожий"
+msgstr "ÐŸÐ¾Ñ…Ð¾Ð¶Ð¸Ð¹"
 
 msgctxt "#31154"
 msgid "Movies by"
-msgstr "Фильмы от"
+msgstr "Ð¤Ð¸Ð»ÑŒÐ¼Ñ‹ Ð¾Ñ‚"
 
 msgctxt "#31155"
 msgid "In Cinemas"
-msgstr "В Кинотеатрах"
+msgstr "Ð’ ÐšÐ¸Ð½Ð¾Ñ‚ÐµÐ°Ñ‚Ñ€Ð°Ñ…"
 
 msgctxt "#31156"
 msgid "Upcoming"
-msgstr "Предстоящие"
+msgstr "ÐŸÑ€ÐµÐ´ÑÑ‚Ð¾ÑÑ‰Ð¸Ðµ"
 
 msgctxt "#31157"
 msgid "Popular"
-msgstr "Популярные"
+msgstr "ÐŸÐ¾Ð¿ÑƒÐ»ÑÑ€Ð½Ñ‹Ðµ"
 
 msgctxt "#31158"
 msgid "Top Rated"
-msgstr "Лучшее"
+msgstr "Ð›ÑƒÑ‡ÑˆÐµÐµ"
 
 msgctxt "#31159"
 msgid "Airing"
-msgstr "В эфире"
+msgstr "Ð’ ÑÑ„Ð¸Ñ€Ðµ"
 
 msgctxt "#31160"
 msgid "Today"
-msgstr "Сегодня"
+msgstr "Ð¡ÐµÐ³Ð¾Ð´Ð½Ñ"
 
 msgctxt "#31161"
 msgid "Show plot"
-msgstr "Показывать сюжет"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÑŽÐ¶ÐµÑ‚"
 
 msgctxt "#31162"
 msgid "Tracklist of"
-msgstr "Список треков"
+msgstr "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ñ€ÐµÐºÐ¾Ð²"
 
 msgctxt "#31163"
 msgid "Show numeric rating"
-msgstr "Показывать числовой рейтинг"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ñ‡Ð¸ÑÐ»Ð¾Ð²Ð¾Ð¹ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³"
 
 msgctxt "#31164"
 msgid "Next Aired"
-msgstr "Следующий Эфир"
+msgstr "Ð¡Ð»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¹ Ð­Ñ„Ð¸Ñ€"
 
 msgctxt "#31165"
 msgid "Studio"
-msgstr "Студия"
+msgstr "Ð¡Ñ‚ÑƒÐ´Ð¸Ñ"
 
 msgctxt "#31166"
 msgid "Cast"
-msgstr "В ролях"
+msgstr "Ð’ Ñ€Ð¾Ð»ÑÑ…"
 
 msgctxt "#31167"
 msgid "Youtube"
@@ -691,7 +691,7 @@ msgstr "Youtube"
 
 msgctxt "#31168"
 msgid "Crew"
-msgstr "Команда"
+msgstr "ÐšÐ¾Ð¼Ð°Ð½Ð´Ð°"
 
 msgctxt "#31169"
 msgid "Albums of"
@@ -699,15 +699,15 @@ msgstr ""
 
 msgctxt "#31170"
 msgid "Tracklist"
-msgstr "Список треков"
+msgstr "Ð¡Ð¿Ð¸ÑÐ¾Ðº Ñ‚Ñ€ÐµÐºÐ¾Ð²"
 
 msgctxt "#31171"
 msgid "Screenshots of"
-msgstr "Скриншоты"
+msgstr "Ð¡ÐºÑ€Ð¸Ð½ÑˆÐ¾Ñ‚Ñ‹"
 
 msgctxt "#31172"
 msgid "Reboot to eMMC/NAND"
-msgstr "Перезагрузиться в eMMC/NAND"
+msgstr "ÐŸÐµÑ€ÐµÐ·Ð°Ð³Ñ€ÑƒÐ·Ð¸Ñ‚ÑŒÑÑ Ð² eMMC/NAND"
 
 msgctxt "#31173"
 msgid "TMDb"
@@ -715,183 +715,183 @@ msgstr ""
 
 msgctxt "#31174"
 msgid "Now playing..."
-msgstr "Сейчас воспроизводится…"
+msgstr "Ð¡ÐµÐ¹Ñ‡Ð°Ñ Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÑÑâ€¦"
 
 msgctxt "#31175"
 msgid "Select highlight color"
-msgstr "Выбрать основной цвет"
+msgstr "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ñ†Ð²ÐµÑ‚"
 
 msgctxt "#31176"
 msgid "Current Color"
-msgstr "Текущий цвет"
+msgstr "Ð¢ÐµÐºÑƒÑ‰Ð¸Ð¹ Ñ†Ð²ÐµÑ‚"
 
 msgctxt "#31177"
 msgid "Thumbnail Horizontal"
-msgstr "Квадрат (простой)"
+msgstr "ÐšÐ²Ð°Ð´Ñ€Ð°Ñ‚ (Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ð¹)"
 
 msgctxt "#31178"
 msgid "Icons Info"
-msgstr "Информация о значках"
+msgstr "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð·Ð½Ð°Ñ‡ÐºÐ°Ñ…"
 
 msgctxt "#31179"
 msgid "from themoviedb.org"
-msgstr "Предоставлено themoviedb.org"
+msgstr "ÐŸÑ€ÐµÐ´Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¾ themoviedb.org"
 
 msgctxt "#31180"
 msgid "Startup image"
-msgstr "Картинка при запуске"
+msgstr "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° Ð¿Ñ€Ð¸ Ð·Ð°Ð¿ÑƒÑÐºÐµ"
 
 msgctxt "#31181"
 msgid "Home menu style"
-msgstr "Стиль главного меню"
+msgstr "Ð¡Ñ‚Ð¸Ð»ÑŒ Ð³Ð»Ð°Ð²Ð½Ð¾Ð³Ð¾ Ð¼ÐµÐ½ÑŽ"
 
 msgctxt "#31182"
 msgid "Vertical"
-msgstr "Вертикальный"
+msgstr "Ð’ÐµÑ€Ñ‚Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¹"
 
 msgctxt "#31183"
 msgid "Seasons of"
-msgstr "Сезоны"
+msgstr "Ð¡ÐµÐ·Ð¾Ð½Ñ‹"
 
 msgctxt "#31184"
 msgid "Collections of"
-msgstr "Коллекции"
+msgstr "ÐšÐ¾Ð»Ð»ÐµÐºÑ†Ð¸Ð¸"
 
 msgctxt "#31185"
 msgid "Display OSD at startup"
-msgstr "Всегда показывать информацию и кнопки управления во время визуализации музыки"
+msgstr "Ð’ÑÐµÐ³Ð´Ð° Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¸ ÐºÐ½Ð¾Ð¿ÐºÐ¸ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð²Ð¾ Ð²Ñ€ÐµÐ¼Ñ Ð²Ð¸Ð·ÑƒÐ°Ð»Ð¸Ð·Ð°Ñ†Ð¸Ð¸ Ð¼ÑƒÐ·Ñ‹ÐºÐ¸"
 
 msgctxt "#31186"
 msgid "Fanart Thumbs"
-msgstr "Превью фан-артом"
+msgstr "ÐŸÑ€ÐµÐ²ÑŒÑŽ Ñ„Ð°Ð½-Ð°Ñ€Ñ‚Ð¾Ð¼"
 
 msgctxt "#31187"
 msgid "Extra fanart"
-msgstr "Дополнительный фан-арт"
+msgstr "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ñ„Ð°Ð½-Ð°Ñ€Ñ‚"
 
 msgctxt "#31188"
 msgid "Set weather icons"
-msgstr "Выбрать иконки погоды"
+msgstr "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¸ÐºÐ¾Ð½ÐºÐ¸ Ð¿Ð¾Ð³Ð¾Ð´Ñ‹"
 
 msgctxt "#31189"
 msgid "Widget aspect"
-msgstr "Вид виджета"
+msgstr "Ð’Ð¸Ð´ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð°"
 
 msgctxt "#31190"
 msgid "Poster"
-msgstr "Постер"
+msgstr "ÐŸÐ¾ÑÑ‚ÐµÑ€"
 
 msgctxt "#31191"
 msgid "Square"
-msgstr "Квадрат"
+msgstr "ÐšÐ²Ð°Ð´Ñ€Ð°Ñ‚"
 
 msgctxt "#31192"
 msgid "Extended information"
-msgstr "Расширенный список"
+msgstr "Ð Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº"
 
 msgctxt "#31193"
 msgid "Fanart"
-msgstr "Фан-арт"
+msgstr "Ð¤Ð°Ð½-Ð°Ñ€Ñ‚"
 
 msgctxt "#31194"
 msgid "Action"
-msgstr "Действие"
+msgstr "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ"
 
 msgctxt "#31195"
 msgid "Label"
-msgstr "Название"
+msgstr "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ"
 
 msgctxt "#31196"
 msgid "Fallback widget"
-msgstr "Дополнительный виджет"
+msgstr "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ð²Ð¸Ð´Ð¶ÐµÑ‚"
 
 msgctxt "#31197"
 msgid "Video / Music OSD"
-msgstr "Элементы управления видео/музыкой"
+msgstr "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð²Ð¸Ð´ÐµÐ¾/Ð¼ÑƒÐ·Ñ‹ÐºÐ¾Ð¹"
 
 msgctxt "#31198"
 msgid "Single Image"
-msgstr "Одно изображение"
+msgstr "ÐžÐ´Ð½Ð¾ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ"
 
 msgctxt "#31199"
 msgid "Multi Image"
-msgstr "Несколько изображений"
+msgstr "ÐÐµÑÐºÐ¾Ð»ÑŒÐºÐ¾ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ð¹"
 
 msgctxt "#31200"
 msgid "Hub widget"
-msgstr "Раздел виджета"
+msgstr "Ð Ð°Ð·Ð´ÐµÐ» Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð°"
 
 msgctxt "#31201"
 msgid "Most played Song"
-msgstr "Самая проигрываемая песня"
+msgstr "Ð¡Ð°Ð¼Ð°Ñ Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°ÐµÐ¼Ð°Ñ Ð¿ÐµÑÐ½Ñ"
 
 msgctxt "#31202"
-msgid "[B]Configure Interface Settings[/B][CR][CR] •     Skin[CR] •     Region[CR] •     Control[CR] •     Screensaver[CR] •     Master Lock[CR]"
-msgstr "[B]Настройка параметров интерфейса[/B][CR][CR] •     Обложка[CR] •     Регион[CR] •     Управление[CR] •     Заставка[CR] •     Общая защита[CR]"
+msgid "[B]Configure Interface Settings[/B][CR][CR] â€¢     Skin[CR] â€¢     Region[CR] â€¢     Control[CR] â€¢     Screensaver[CR] â€¢     Master Lock[CR]"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ°[/B][CR][CR] â€¢     ÐžÐ±Ð»Ð¾Ð¶ÐºÐ°[CR] â€¢     Ð ÐµÐ³Ð¸Ð¾Ð½[CR] â€¢     Ð£Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ[CR] â€¢     Ð—Ð°ÑÑ‚Ð°Ð²ÐºÐ°[CR] â€¢     ÐžÐ±Ñ‰Ð°Ñ Ð·Ð°Ñ‰Ð¸Ñ‚Ð°[CR]"
 
 msgctxt "#31203"
-msgid "[B]Configure Library Settings[/B][CR][CR] •     Display[CR] •     Navigation[CR] •     Media Database[CR]"
-msgstr "[B]Настройка параметров библиотеки[/B][CR][CR] •     Отображение[CR] •     Навигация[CR] •     Библиотека[CR]"
+msgid "[B]Configure Library Settings[/B][CR][CR] â€¢     Display[CR] â€¢     Navigation[CR] â€¢     Media Database[CR]"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð±Ð¸Ð±Ð»Ð¸Ð¾Ñ‚ÐµÐºÐ¸[/B][CR][CR] â€¢     ÐžÑ‚Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ[CR] â€¢     ÐÐ°Ð²Ð¸Ð³Ð°Ñ†Ð¸Ñ[CR] â€¢     Ð‘Ð¸Ð±Ð»Ð¸Ð¾Ñ‚ÐµÐºÐ°[CR]"
 
 msgctxt "#31204"
-msgid "[B]Configure Player Settings[/B][CR][CR] •     Playback Actions[CR] •     How Content is Played[CR]"
-msgstr "[B]Настройка параметров проигрывателя[/B][CR][CR] •     Действия воспроизведения[CR] •     Как воспроизводится контент[CR]"
+msgid "[B]Configure Player Settings[/B][CR][CR] â€¢     Playback Actions[CR] â€¢     How Content is Played[CR]"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð°Ñ€Ð°Ð¼ÐµÑ‚Ñ€Ð¾Ð² Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°Ñ‚ÐµÐ»Ñ[/B][CR][CR] â€¢     Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÐ´ÐµÐ½Ð¸Ñ[CR] â€¢     ÐšÐ°Ðº Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÑÑ ÐºÐ¾Ð½Ñ‚ÐµÐ½Ñ‚[CR]"
 
 msgctxt "#31205"
 msgid "Video decoder"
-msgstr "Видеодекодер"
+msgstr "Ð’Ð¸Ð´ÐµÐ¾Ð´ÐµÐºÐ¾Ð´ÐµÑ€"
 
 msgctxt "#31206"
 msgid "Pixel format"
-msgstr "Формат пикселя"
+msgstr "Ð¤Ð¾Ñ€Ð¼Ð°Ñ‚ Ð¿Ð¸ÐºÑÐµÐ»Ñ"
 
 msgctxt "#31207"
 msgid "Play Speed"
-msgstr "Скорость воспроизведения"
+msgstr "Ð¡ÐºÐ¾Ñ€Ð¾ÑÑ‚ÑŒ Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÐ´ÐµÐ½Ð¸Ñ"
 
 msgctxt "#31208"
 msgid "Special Features"
-msgstr "Особые возможности"
+msgstr "ÐžÑÐ¾Ð±Ñ‹Ðµ Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ÑÑ‚Ð¸"
 
 msgctxt "#31209"
 msgid "Select artwork"
-msgstr "Выбрать картинки"
+msgstr "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸"
 
 msgctxt "#31210"
 msgid "Top Songs"
-msgstr "Лучшие песни"
+msgstr "Ð›ÑƒÑ‡ÑˆÐ¸Ðµ Ð¿ÐµÑÐ½Ð¸"
 
 msgctxt "#31211"
 msgid "Random Songs"
-msgstr "Случайные песни"
+msgstr "Ð¡Ð»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ðµ Ð¿ÐµÑÐ½Ð¸"
 
 msgctxt "#31212"
 msgid "Horizontal"
-msgstr "Современный"
+msgstr "Ð¡Ð¾Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ð¹"
 
 msgctxt "#31213"
 msgid "Weather - daily"
-msgstr "Погода - по дням"
+msgstr "ÐŸÐ¾Ð³Ð¾Ð´Ð° - Ð¿Ð¾ Ð´Ð½ÑÐ¼"
 
 msgctxt "#31214"
 msgid "Weather - hourly"
-msgstr "Погода - по часам"
+msgstr "ÐŸÐ¾Ð³Ð¾Ð´Ð° - Ð¿Ð¾ Ñ‡Ð°ÑÐ°Ð¼"
 
 msgctxt "#31215"
 msgid "Open Player Process Information"
-msgstr "Открыть информацию о процессе проигрывателя"
+msgstr "ÐžÑ‚ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¾ Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐµ Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°Ñ‚ÐµÐ»Ñ"
 
 msgctxt "#31216"
 msgid "Player-Cache"
-msgstr "Кеш проигрывателя"
+msgstr "ÐšÐµÑˆ Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°Ñ‚ÐµÐ»Ñ"
 
 msgctxt "#31217"
 msgid "Channel List"
-msgstr "Список каналов"
+msgstr "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÐºÐ°Ð½Ð°Ð»Ð¾Ð²"
 
 msgctxt "#31218"
 msgid "This is your personal rating and will not be published."
-msgstr "Это Ваша личная оценка, и она не будет загружена."
+msgstr "Ð­Ñ‚Ð¾ Ð’Ð°ÑˆÐ° Ð»Ð¸Ñ‡Ð½Ð°Ñ Ð¾Ñ†ÐµÐ½ÐºÐ°, Ð¸ Ð¾Ð½Ð° Ð½Ðµ Ð±ÑƒÐ´ÐµÑ‚ Ð·Ð°Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð°."
 
 msgctxt "#31219"
 msgid "       "
@@ -899,127 +899,127 @@ msgstr "       "
 
 msgctxt "#31220"
 msgid "Video / Music Info"
-msgstr "Сведения о видео/музыке"
+msgstr "Ð¡Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð¾ Ð²Ð¸Ð´ÐµÐ¾/Ð¼ÑƒÐ·Ñ‹ÐºÐµ"
 
 msgctxt "#31221"
 msgid "Show plot on HUB"
-msgstr "Показать сюжет на хабе"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÑÑŽÐ¶ÐµÑ‚ Ð½Ð° Ñ…Ð°Ð±Ðµ"
 
 msgctxt "#31222"
 msgid "Colors"
-msgstr "Цвета"
+msgstr "Ð¦Ð²ÐµÑ‚Ð°"
 
 msgctxt "#31223"
 msgid "Video OSD"
-msgstr "Элементы управления видео"
+msgstr "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð²Ð¸Ð´ÐµÐ¾"
 
 msgctxt "#31224"
 msgid "Music OSD"
-msgstr "Элементы управления музыки"
+msgstr "Ð­Ð»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¼ÑƒÐ·Ñ‹ÐºÐ¸"
 
 msgctxt "#31225"
 msgid "Widgets"
-msgstr "Виджеты"
+msgstr "Ð’Ð¸Ð´Ð¶ÐµÑ‚Ñ‹"
 
 msgctxt "#31226"
 msgid "Views"
-msgstr "Просмотры"
+msgstr "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€Ñ‹"
 
 msgctxt "#31227"
 msgid "HUBs"
-msgstr "Хабы"
+msgstr "Ð¥Ð°Ð±Ñ‹"
 
 msgctxt "#31228"
 msgid "ClearArt"
-msgstr "Прозрачный арт"
+msgstr "ÐŸÑ€Ð¾Ð·Ñ€Ð°Ñ‡Ð½Ñ‹Ð¹ Ð°Ñ€Ñ‚"
 
 msgctxt "#31229"
 msgid "Media-Flags"
-msgstr "Медиазначки"
+msgstr "ÐœÐµÐ´Ð¸Ð°Ð·Ð½Ð°Ñ‡ÐºÐ¸"
 
 msgctxt "#31230"
 msgid "Enable grid"
-msgstr "Включить сетку"
+msgstr "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ ÑÐµÑ‚ÐºÑƒ"
 
 msgctxt "#31231"
 msgid "Hide play/pause info"
-msgstr "Скрыть информацию проигрывания/паузы"
+msgstr "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°Ð½Ð¸Ñ/Ð¿Ð°ÑƒÐ·Ñ‹"
 
 msgctxt "#31232"
 msgid "Auto close OSD after delay (in seconds)"
-msgstr "Автоматически закрывать элементы управления после задержки (в секундах)"
+msgstr "ÐÐ²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ Ð·Ð°ÐºÑ€Ñ‹Ð²Ð°Ñ‚ÑŒ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð¿Ð¾ÑÐ»Ðµ Ð·Ð°Ð´ÐµÑ€Ð¶ÐºÐ¸ (Ð² ÑÐµÐºÑƒÐ½Ð´Ð°Ñ…)"
 
 msgctxt "#31233"
 msgid "Random Artists with biography only"
-msgstr "Случайные исполнители только с биографией"
+msgstr "Ð¡Ð»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ðµ Ð¸ÑÐ¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»Ð¸ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ñ Ð±Ð¸Ð¾Ð³Ñ€Ð°Ñ„Ð¸ÐµÐ¹"
 
 msgctxt "#31234"
 msgid "People"
-msgstr "Люди"
+msgstr "Ð›ÑŽÐ´Ð¸"
 
 msgctxt "#31235"
 msgid "Recently added Artists"
-msgstr "Недавно добавленные исполнители"
+msgstr "ÐÐµÐ´Ð°Ð²Ð½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ Ð¸ÑÐ¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»Ð¸"
 
 msgctxt "#31236"
 msgid "Recently added Artists with biography only"
-msgstr "Недавно добавленные исполнители только с биографией"
+msgstr "ÐÐµÐ´Ð°Ð²Ð½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ Ð¸ÑÐ¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»Ð¸ Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ñ Ð±Ð¸Ð¾Ð³Ñ€Ð°Ñ„Ð¸ÐµÐ¹"
 
 msgctxt "#31237"
 msgid "Top 20 User Rated Movies"
-msgstr "Топ 20 оценённых пользователями фильмов"
+msgstr "Ð¢Ð¾Ð¿ 20 Ð¾Ñ†ÐµÐ½Ñ‘Ð½Ð½Ñ‹Ñ… Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑÐ¼Ð¸ Ñ„Ð¸Ð»ÑŒÐ¼Ð¾Ð²"
 
 msgctxt "#31238"
 msgid "Reset skin settings to defaults?"
-msgstr "Сбросить настройки обложки?"
+msgstr "Ð¡Ð±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¾Ð±Ð»Ð¾Ð¶ÐºÐ¸?"
 
 msgctxt "#31239"
 msgid "Reset skin settings to defaults? WARNING: This will also reset your home menu to skin defaults!"
-msgstr "Сбросить настройки обложки? ВНИМАНИЕ: Главное меню тоже сбросится к настройкам по умолчанию!"
+msgstr "Ð¡Ð±Ñ€Ð¾ÑÐ¸Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð¾Ð±Ð»Ð¾Ð¶ÐºÐ¸? Ð’ÐÐ˜ÐœÐÐÐ˜Ð•: Ð“Ð»Ð°Ð²Ð½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ Ñ‚Ð¾Ð¶Ðµ ÑÐ±Ñ€Ð¾ÑÐ¸Ñ‚ÑÑ Ðº Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ð¼ Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ!"
 
 msgctxt "#31240"
 msgid "Random Actors ordered by movies"
-msgstr "Случайные актёры по порядку фильмов"
+msgstr "Ð¡Ð»ÑƒÑ‡Ð°Ð¹Ð½Ñ‹Ðµ Ð°ÐºÑ‚Ñ‘Ñ€Ñ‹ Ð¿Ð¾ Ð¿Ð¾Ñ€ÑÐ´ÐºÑƒ Ñ„Ð¸Ð»ÑŒÐ¼Ð¾Ð²"
 
 msgctxt "#31241"
 msgid "New Unwatched Movies"
-msgstr "Новые непросмотренные фильмы"
+msgstr "ÐÐ¾Ð²Ñ‹Ðµ Ð½ÐµÐ¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ Ñ„Ð¸Ð»ÑŒÐ¼Ñ‹"
 
 msgctxt "#31242"
 msgid "New Unwatched Episodes"
-msgstr "Новые непросмотренные серии"
+msgstr "ÐÐ¾Ð²Ñ‹Ðµ Ð½ÐµÐ¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ ÑÐµÑ€Ð¸Ð¸"
 
 msgctxt "#31243"
 msgid "New Unwatched Tv Shows"
-msgstr "Новые непросмотренные сериалы"
+msgstr "ÐÐ¾Ð²Ñ‹Ðµ Ð½ÐµÐ¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ ÑÐµÑ€Ð¸Ð°Ð»Ñ‹"
 
 msgctxt "#31244"
 msgid "Search results for"
-msgstr "Результаты поиска по запросу"
+msgstr "Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ñ‹ Ð¿Ð¾Ð¸ÑÐºÐ° Ð¿Ð¾ Ð·Ð°Ð¿Ñ€Ð¾ÑÑƒ"
 
 msgctxt "#31245"
 msgid "Side Cards"
-msgstr "Карточки сбоку"
+msgstr "ÐšÐ°Ñ€Ñ‚Ð¾Ñ‡ÐºÐ¸ ÑÐ±Ð¾ÐºÑƒ"
 
 msgctxt "#31246"
 msgid "Seasons info"
-msgstr "Сведения о сезонах"
+msgstr "Ð¡Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð¾ ÑÐµÐ·Ð¾Ð½Ð°Ñ…"
 
 msgctxt "#31247"
 msgid "ClearLogo"
-msgstr "Логотип"
+msgstr "Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿"
 
 msgctxt "#31248"
 msgid "Show ClearLogo"
-msgstr "Показать логотип/прозрачный арт"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð»Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿/Ð¿Ñ€Ð¾Ð·Ñ€Ð°Ñ‡Ð½Ñ‹Ð¹ Ð°Ñ€Ñ‚"
 
 msgctxt "#31249"
 msgid "Songs by"
-msgstr "Ещё"
+msgstr "Ð•Ñ‰Ñ‘"
 
 msgctxt "#31250"
 msgid "Poster Wall Small"
-msgstr "Стена постеров (маленькие постеры)"
+msgstr "Ð¡Ñ‚ÐµÐ½Ð° Ð¿Ð¾ÑÑ‚ÐµÑ€Ð¾Ð² (Ð¼Ð°Ð»ÐµÐ½ÑŒÐºÐ¸Ðµ Ð¿Ð¾ÑÑ‚ÐµÑ€Ñ‹)"
 
 msgctxt "#31251"
 msgid "MDBList"
@@ -1043,103 +1043,103 @@ msgstr "25"
 
 msgctxt "#31256"
 msgid "Auto-scrolling"
-msgstr "Автопролистывание"
+msgstr "ÐÐ²Ñ‚Ð¾Ð¿Ñ€Ð¾Ð»Ð¸ÑÑ‚Ñ‹Ð²Ð°Ð½Ð¸Ðµ"
 
 msgctxt "#31257"
 msgid "Widget-listtype"
-msgstr "Тип списка виджета"
+msgstr "Ð¢Ð¸Ð¿ ÑÐ¿Ð¸ÑÐºÐ° Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð°"
 
 msgctxt "#31258"
 msgid "List"
-msgstr "Список"
+msgstr "Ð¡Ð¿Ð¸ÑÐ¾Ðº"
 
 msgctxt "#31259"
 msgid "Fixed list"
-msgstr "Фиксированный список"
+msgstr "Ð¤Ð¸ÐºÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº"
 
 msgctxt "#31260"
 msgid "Studio logo"
-msgstr "Логотип студии"
+msgstr "Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿ ÑÑ‚ÑƒÐ´Ð¸Ð¸"
 
 msgctxt "#31261"
 msgid "Rating flag"
-msgstr "Метка рейтинга"
+msgstr "ÐœÐµÑ‚ÐºÐ° Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð°"
 
 msgctxt "#31262"
 msgid "Movie Genre Icons"
-msgstr "Иконки жанров фильма"
+msgstr "Ð˜ÐºÐ¾Ð½ÐºÐ¸ Ð¶Ð°Ð½Ñ€Ð¾Ð² Ñ„Ð¸Ð»ÑŒÐ¼Ð°"
 
 msgctxt "#31263"
 msgid "Studio Icons"
-msgstr "Иконки студий"
+msgstr "Ð˜ÐºÐ¾Ð½ÐºÐ¸ ÑÑ‚ÑƒÐ´Ð¸Ð¹"
 
 msgctxt "#31264"
 msgid "Record Label Icons"
-msgstr "Иконки музыкальных лейблов"
+msgstr "Ð˜ÐºÐ¾Ð½ÐºÐ¸ Ð¼ÑƒÐ·Ñ‹ÐºÐ°Ð»ÑŒÐ½Ñ‹Ñ… Ð»ÐµÐ¹Ð±Ð»Ð¾Ð²"
 
 msgctxt "#31265"
 msgid "Animate fanart/slideshow"
-msgstr "Анимировать фанарт/слайдшоу"
+msgstr "ÐÐ½Ð¸Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ Ñ„Ð°Ð½Ð°Ñ€Ñ‚/ÑÐ»Ð°Ð¹Ð´ÑˆÐ¾Ñƒ"
 
 msgctxt "#31266"
 msgid "Normal"
-msgstr "Нормальное"
+msgstr "ÐÐ¾Ñ€Ð¼Ð°Ð»ÑŒÐ½Ð¾Ðµ"
 
 msgctxt "#31267"
 msgid "Slow"
-msgstr "Медленно"
+msgstr "ÐœÐµÐ´Ð»ÐµÐ½Ð½Ð¾"
 
 msgctxt "#31268"
 msgid "Very slow"
-msgstr "Очень медленно"
+msgstr "ÐžÑ‡ÐµÐ½ÑŒ Ð¼ÐµÐ´Ð»ÐµÐ½Ð½Ð¾"
 
 msgctxt "#31269"
 msgid "Fadetime"
-msgstr "Время перехода"
+msgstr "Ð’Ñ€ÐµÐ¼Ñ Ð¿ÐµÑ€ÐµÑ…Ð¾Ð´Ð°"
 
 msgctxt "#31270"
 msgid "Customise power menu"
-msgstr "Настройка меню питания"
+msgstr "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¼ÐµÐ½ÑŽ Ð¿Ð¸Ñ‚Ð°Ð½Ð¸Ñ"
 
 msgctxt "#31271"
 msgid "Log off: $INFO[system.profilename]"
-msgstr "Выйти: $INFO[system.profilename]"
+msgstr "Ð’Ñ‹Ð¹Ñ‚Ð¸: $INFO[system.profilename]"
 
 msgctxt "#31272"
 msgid "Delete/Disable Settings Menu Item?"
-msgstr "Удалить/Выключить пункт меню настроек?"
+msgstr "Ð£Ð´Ð°Ð»Ð¸Ñ‚ÑŒ/Ð’Ñ‹ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¿ÑƒÐ½ÐºÑ‚ Ð¼ÐµÐ½ÑŽ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº?"
 
 msgctxt "#31273"
 msgid "Are you sure you want to remove the Settings menu item?[CR]Please ensure that you have an alternative method of accessing Settings before you remove this menu item."
-msgstr "Вы уверены, что хотите удалить пункт настроек из меню?[CR]Пожалуйста, удостоверьтесь, что у Вас есть альтернативный метод доступа к настройкам перед тем, как удалять этот пункт."
+msgstr "Ð’Ñ‹ ÑƒÐ²ÐµÑ€ÐµÐ½Ñ‹, Ñ‡Ñ‚Ð¾ Ñ…Ð¾Ñ‚Ð¸Ñ‚Ðµ ÑƒÐ´Ð°Ð»Ð¸Ñ‚ÑŒ Ð¿ÑƒÐ½ÐºÑ‚ Ð½Ð°ÑÑ‚Ñ€Ð¾ÐµÐº Ð¸Ð· Ð¼ÐµÐ½ÑŽ?[CR]ÐŸÐ¾Ð¶Ð°Ð»ÑƒÐ¹ÑÑ‚Ð°, ÑƒÐ´Ð¾ÑÑ‚Ð¾Ð²ÐµÑ€ÑŒÑ‚ÐµÑÑŒ, Ñ‡Ñ‚Ð¾ Ñƒ Ð’Ð°Ñ ÐµÑÑ‚ÑŒ Ð°Ð»ÑŒÑ‚ÐµÑ€Ð½Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ Ð¼ÐµÑ‚Ð¾Ð´ Ð´Ð¾ÑÑ‚ÑƒÐ¿Ð° Ðº Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ°Ð¼ Ð¿ÐµÑ€ÐµÐ´ Ñ‚ÐµÐ¼, ÐºÐ°Ðº ÑƒÐ´Ð°Ð»ÑÑ‚ÑŒ ÑÑ‚Ð¾Ñ‚ Ð¿ÑƒÐ½ÐºÑ‚."
 
 msgctxt "#31274"
 msgid "Shutdown in: [B]$INFO[System.Alarmpos][/B]"
-msgstr "Выключение через: [B]$INFO[System.Alarmpos][/B]"
+msgstr "Ð’Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ñ‡ÐµÑ€ÐµÐ·: [B]$INFO[System.Alarmpos][/B]"
 
 msgctxt "#31275"
 msgid "Show Filenames"
-msgstr "Показать имена файлов"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð¸Ð¼ÐµÐ½Ð° Ñ„Ð°Ð¹Ð»Ð¾Ð²"
 
 msgctxt "#31276"
 msgid "Shifted ClearArt"
-msgstr "Смещённый (прозрачный арт)"
+msgstr "Ð¡Ð¼ÐµÑ‰Ñ‘Ð½Ð½Ñ‹Ð¹ (Ð¿Ñ€Ð¾Ð·Ñ€Ð°Ñ‡Ð½Ñ‹Ð¹ Ð°Ñ€Ñ‚)"
 
 msgctxt "#31277"
 msgid "total"
-msgstr "всего"
+msgstr "Ð²ÑÐµÐ³Ð¾"
 
 msgctxt "#31278"
 msgid "last on"
-msgstr "в прошлый раз"
+msgstr "Ð² Ð¿Ñ€Ð¾ÑˆÐ»Ñ‹Ð¹ Ñ€Ð°Ð·"
 
 msgctxt "#31279"
-msgid "[B]Configure LibreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
-msgstr "[B]Настроить LibreELEC[/B][CR][CR] •     Изменить настройки системы[CR] •     Настроить обновления системы[CR] •     Настроить и калибровать сеть[CR] •     Настроить соединения [CR]"
+msgid "[B]Configure LibreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ LibreELEC[/B][CR][CR] â€¢     Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹[CR] â€¢     ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹[CR] â€¢     ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð¸ ÐºÐ°Ð»Ð¸Ð±Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐµÑ‚ÑŒ[CR] â€¢     ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ñ [CR]"
 
 msgctxt "#31280"
-msgid "[B]Configure CoreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
-msgstr "[B]Настроить CoreELEC[/B][CR][CR] •     Изменить настройки системы[CR] •     Настроить обновления системы[CR] •     Настроить и калибровать сеть[CR] •     Настроить соединения [CR]"
+msgid "[B]Configure CoreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
+msgstr "[B]ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ CoreELEC[/B][CR][CR] â€¢     Ð˜Ð·Ð¼ÐµÐ½Ð¸Ñ‚ÑŒ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹[CR] â€¢     ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹[CR] â€¢     ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ Ð¸ ÐºÐ°Ð»Ð¸Ð±Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÐµÑ‚ÑŒ[CR] â€¢     ÐÐ°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ ÑÐ¾ÐµÐ´Ð¸Ð½ÐµÐ½Ð¸Ñ [CR]"
 
 msgctxt "#31281"
 msgid " -- "
@@ -1147,51 +1147,51 @@ msgstr " -- "
 
 msgctxt "#31282"
 msgid "n/a"
-msgstr "НП"
+msgstr "ÐÐŸ"
 
 msgctxt "#31283"
 msgid "TBD"
-msgstr "Будет определено"
+msgstr "Ð‘ÑƒÐ´ÐµÑ‚ Ð¾Ð¿Ñ€ÐµÐ´ÐµÐ»ÐµÐ½Ð¾"
 
 msgctxt "#31284"
 msgid "Fallback label for ratings in list views"
-msgstr "Резервная надпись для рейтингов в видах \"список\""
+msgstr "Ð ÐµÐ·ÐµÑ€Ð²Ð½Ð°Ñ Ð½Ð°Ð´Ð¿Ð¸ÑÑŒ Ð´Ð»Ñ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð¾Ð² Ð² Ð²Ð¸Ð´Ð°Ñ… \"ÑÐ¿Ð¸ÑÐ¾Ðº\""
 
 msgctxt "#31285"
 msgid "Size of Icons"
-msgstr "Размер иконок"
+msgstr "Ð Ð°Ð·Ð¼ÐµÑ€ Ð¸ÐºÐ¾Ð½Ð¾Ðº"
 
 msgctxt "#31286"
 msgid "Align"
-msgstr "Выровнять"
+msgstr "Ð’Ñ‹Ñ€Ð¾Ð²Ð½ÑÑ‚ÑŒ"
 
 msgctxt "#31287"
 msgid "left"
-msgstr "слева"
+msgstr "ÑÐ»ÐµÐ²Ð°"
 
 msgctxt "#31288"
 msgid "center"
-msgstr "посередине"
+msgstr "Ð¿Ð¾ÑÐµÑ€ÐµÐ´Ð¸Ð½Ðµ"
 
 msgctxt "#31289"
 msgid "ClearLogo with fanart"
-msgstr "Фанарт с логотипом"
+msgstr "Ð¤Ð°Ð½Ð°Ñ€Ñ‚ Ñ Ð»Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿Ð¾Ð¼"
 
 msgctxt "#31290"
 msgid "Fullsize EPG"
-msgstr "Полноразмерный телегид"
+msgstr "ÐŸÐ¾Ð»Ð½Ð¾Ñ€Ð°Ð·Ð¼ÐµÑ€Ð½Ñ‹Ð¹ Ñ‚ÐµÐ»ÐµÐ³Ð¸Ð´"
 
 msgctxt "#31291"
 msgid "Also use for widgets"
-msgstr "Также использовать для виджетов"
+msgstr "Ð¢Ð°ÐºÐ¶Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð»Ñ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð¾Ð²"
 
 msgctxt "#31292"
 msgid "Also use for system-icons"
-msgstr "Также использовать для иконок системы"
+msgstr "Ð¢Ð°ÐºÐ¶Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð´Ð»Ñ Ð¸ÐºÐ¾Ð½Ð¾Ðº ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹"
 
 msgctxt "#31293"
 msgid "DiscArt Fallback"
-msgstr "Тип резервной обложки диска"
+msgstr "Ð¢Ð¸Ð¿ Ñ€ÐµÐ·ÐµÑ€Ð²Ð½Ð¾Ð¹ Ð¾Ð±Ð»Ð¾Ð¶ÐºÐ¸ Ð´Ð¸ÑÐºÐ°"
 
 msgctxt "#31294"
 msgid "CD"
@@ -1199,135 +1199,135 @@ msgstr "CD"
 
 msgctxt "#31295"
 msgid "Fake CD"
-msgstr "Фальшивый CD"
+msgstr "Ð¤Ð°Ð»ÑŒÑˆÐ¸Ð²Ñ‹Ð¹ CD"
 
 msgctxt "#31296"
 msgid "Vinyl"
-msgstr "Винил"
+msgstr "Ð’Ð¸Ð½Ð¸Ð»"
 
 msgctxt "#31297"
 msgid "Limit number of items in hub"
-msgstr "Лимит на количество предметов в хабе"
+msgstr "Ð›Ð¸Ð¼Ð¸Ñ‚ Ð½Ð° ÐºÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ð¾Ð² Ð² Ñ…Ð°Ð±Ðµ"
 
 msgctxt "#31298"
 msgid "Multi-Widgets"
-msgstr "Мульти-виджеты"
+msgstr "ÐœÑƒÐ»ÑŒÑ‚Ð¸-Ð²Ð¸Ð´Ð¶ÐµÑ‚Ñ‹"
 
 msgctxt "#31299"
 msgid "Gradient"
-msgstr "Градиент"
+msgstr "Ð“Ñ€Ð°Ð´Ð¸ÐµÐ½Ñ‚"
 
 msgctxt "#31300"
 msgid "RAM"
-msgstr "ОЗУ"
+msgstr "ÐžÐ—Ð£"
 
 msgctxt "#31301"
 msgid "Skin-Version:"
-msgstr "Версия обложки:"
+msgstr "Ð’ÐµÑ€ÑÐ¸Ñ Ð¾Ð±Ð»Ð¾Ð¶ÐºÐ¸:"
 
 msgctxt "#31302"
 msgid "Scroll behavior"
-msgstr "Поведение пролистки"
+msgstr "ÐŸÐ¾Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¾Ð»Ð¸ÑÑ‚ÐºÐ¸"
 
 msgctxt "#31303"
 msgid "Aspect ratio"
-msgstr "Соотношение сторон"
+msgstr "Ð¡Ð¾Ð¾Ñ‚Ð½Ð¾ÑˆÐµÐ½Ð¸Ðµ ÑÑ‚Ð¾Ñ€Ð¾Ð½"
 
 msgctxt "#31304"
 msgid "Select aspect ratio for square widget"
-msgstr "Выбрать соотношение сторон для квадратного виджета"
+msgstr "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ ÑÐ¾Ð¾Ñ‚Ð½Ð¾ÑˆÐµÐ½Ð¸Ðµ ÑÑ‚Ð¾Ñ€Ð¾Ð½ Ð´Ð»Ñ ÐºÐ²Ð°Ð´Ñ€Ð°Ñ‚Ð½Ð¾Ð³Ð¾ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð°"
 
 msgctxt "#31305"
 msgid "Scale"
-msgstr "Масштаб"
+msgstr "ÐœÐ°ÑÑˆÑ‚Ð°Ð±"
 
 msgctxt "#31306"
 msgid "Sunrise at"
-msgstr "Рассвет в"
+msgstr "Ð Ð°ÑÑÐ²ÐµÑ‚ Ð²"
 
 msgctxt "#31307"
 msgid "Sunset at"
-msgstr "Закат в"
+msgstr "Ð—Ð°ÐºÐ°Ñ‚ Ð²"
 
 msgctxt "#31308"
 msgid "Square small"
-msgstr "Квадрат (маленький)"
+msgstr "ÐšÐ²Ð°Ð´Ñ€Ð°Ñ‚ (Ð¼Ð°Ð»ÐµÐ½ÑŒÐºÐ¸Ð¹)"
 
 msgctxt "#31309"
 msgid "Square medium"
-msgstr "Квадрат (средний)"
+msgstr "ÐšÐ²Ð°Ð´Ñ€Ð°Ñ‚ (ÑÑ€ÐµÐ´Ð½Ð¸Ð¹)"
 
 msgctxt "#31310"
 msgid "Home menu bar"
-msgstr "Полоска главного меню"
+msgstr "ÐŸÐ¾Ð»Ð¾ÑÐºÐ° Ð³Ð»Ð°Ð²Ð½Ð¾Ð³Ð¾ Ð¼ÐµÐ½ÑŽ"
 
 msgctxt "#31311"
 msgid "Fullscreen widget"
-msgstr "Полноэкранный виджет"
+msgstr "ÐŸÐ¾Ð»Ð½Ð¾ÑÐºÑ€Ð°Ð½Ð½Ñ‹Ð¹ Ð²Ð¸Ð´Ð¶ÐµÑ‚"
 
 msgctxt "#31312"
 msgid "Weather location"
-msgstr "Местоположение для погоды"
+msgstr "ÐœÐµÑÑ‚Ð¾Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð´Ð»Ñ Ð¿Ð¾Ð³Ð¾Ð´Ñ‹"
 
 msgctxt "#31313"
 msgid "Big Poster"
-msgstr "Большой постер"
+msgstr "Ð‘Ð¾Ð»ÑŒÑˆÐ¾Ð¹ Ð¿Ð¾ÑÑ‚ÐµÑ€"
 
 msgctxt "#31314"
 msgid "Images"
-msgstr "Изображения"
+msgstr "Ð˜Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ñ"
 
 msgctxt "#31315"
 msgid "Big wide"
-msgstr "Широкий большой"
+msgstr "Ð¨Ð¸Ñ€Ð¾ÐºÐ¸Ð¹ Ð±Ð¾Ð»ÑŒÑˆÐ¾Ð¹"
 
 msgctxt "#31316"
 msgid "Big list"
-msgstr "Широкий список"
+msgstr "Ð¨Ð¸Ñ€Ð¾ÐºÐ¸Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº"
 
 msgctxt "#31317"
 msgid "Customize view types"
-msgstr "Включить форсированные виды (экспериментально)"
+msgstr "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ñ„Ð¾Ñ€ÑÐ¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ Ð²Ð¸Ð´Ñ‹ (ÑÐºÑÐ¿ÐµÑ€Ð¸Ð¼ÐµÐ½Ñ‚Ð°Ð»ÑŒÐ½Ð¾)"
 
 msgctxt "#31318"
 msgid "Seconds"
-msgstr "Секунды"
+msgstr "Ð¡ÐµÐºÑƒÐ½Ð´Ñ‹"
 
 msgctxt "#31319"
 msgid "Big Thumbnail"
-msgstr "Большие иконки"
+msgstr "Ð‘Ð¾Ð»ÑŒÑˆÐ¸Ðµ Ð¸ÐºÐ¾Ð½ÐºÐ¸"
 
 msgctxt "#31320"
 msgid "more..."
-msgstr "ещё..."
+msgstr "ÐµÑ‰Ñ‘..."
 
 msgctxt "#31321"
 msgid "item"
-msgstr "предмет"
+msgstr "Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚"
 
 msgctxt "#31322"
 msgid "Alternative layout"
-msgstr "Альтернативное расположение"
+msgstr "ÐÐ»ÑŒÑ‚ÐµÑ€Ð½Ð°Ñ‚Ð¸Ð²Ð½Ð¾Ðµ Ñ€Ð°ÑÐ¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ"
 
 msgctxt "#31323"
 msgid "Smart Shortcuts"
-msgstr "Умные ярлыки"
+msgstr "Ð£Ð¼Ð½Ñ‹Ðµ ÑÑ€Ð»Ñ‹ÐºÐ¸"
 
 msgctxt "#31324"
 msgid "Movies and TV shows"
-msgstr "Фильмы и сериалы"
+msgstr "Ð¤Ð¸Ð»ÑŒÐ¼Ñ‹ Ð¸ ÑÐµÑ€Ð¸Ð°Ð»Ñ‹"
 
 msgctxt "#31325"
 msgid "Recently added Songs"
-msgstr "Недавно добавленные песни"
+msgstr "ÐÐµÐ´Ð°Ð²Ð½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ Ð¿ÐµÑÐ½Ð¸"
 
 msgctxt "#31326"
 msgid "Most played Songs"
-msgstr "Самые популярные песни"
+msgstr "Ð¡Ð°Ð¼Ñ‹Ðµ Ð¿Ð¾Ð¿ÑƒÐ»ÑÑ€Ð½Ñ‹Ðµ Ð¿ÐµÑÐ½Ð¸"
 
 msgctxt "#31327"
 msgid "Chapter markers"
-msgstr "Маркеры глав"
+msgstr "ÐœÐ°Ñ€ÐºÐµÑ€Ñ‹ Ð³Ð»Ð°Ð²"
 
 msgctxt "#31328"
 msgid "Rotten Tomatoes"
@@ -1335,115 +1335,115 @@ msgstr ""
 
 msgctxt "#31329"
 msgid "Select media flags"
-msgstr "Выбрать медиазначки"
+msgstr "Ð’Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð¼ÐµÐ´Ð¸Ð°Ð·Ð½Ð°Ñ‡ÐºÐ¸"
 
 msgctxt "#31330"
 msgid "Subtitle icon"
-msgstr "Иконка субтитров"
+msgstr "Ð˜ÐºÐ¾Ð½ÐºÐ° ÑÑƒÐ±Ñ‚Ð¸Ñ‚Ñ€Ð¾Ð²"
 
 msgctxt "#31331"
 msgid "Subtitle extended info"
-msgstr "Дополнительная информация о субтитрах"
+msgstr "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ ÑÑƒÐ±Ñ‚Ð¸Ñ‚Ñ€Ð°Ñ…"
 
 msgctxt "#31332"
 msgid "Reminder enabled"
-msgstr "Напоминание включено"
+msgstr "ÐÐ°Ð¿Ð¾Ð¼Ð¸Ð½Ð°Ð½Ð¸Ðµ Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾"
 
 msgctxt "#31333"
 msgid "Reminder Rule enabled"
-msgstr "Правило напоминания включено"
+msgstr "ÐŸÑ€Ð°Ð²Ð¸Ð»Ð¾ Ð½Ð°Ð¿Ð¾Ð¼Ð¸Ð½Ð°Ð½Ð¸Ñ Ð²ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾"
 
 msgctxt "#31334"
 msgid "Debugging"
-msgstr "Отладка"
+msgstr "ÐžÑ‚Ð»Ð°Ð´ÐºÐ°"
 
 msgctxt "#31335"
 msgid "Extended debugging information"
-msgstr "Подробная информация для отладки"
+msgstr "ÐŸÐ¾Ð´Ñ€Ð¾Ð±Ð½Ð°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð´Ð»Ñ Ð¾Ñ‚Ð»Ð°Ð´ÐºÐ¸"
 
 msgctxt "#31336"
 msgid "Extended grid"
-msgstr "Расширенная сетка"
+msgstr "Ð Ð°ÑÑˆÐ¸Ñ€ÐµÐ½Ð½Ð°Ñ ÑÐµÑ‚ÐºÐ°"
 
 msgctxt "#31337"
 msgid "Play next episode"
-msgstr "Воспроизвести следующую серию"
+msgstr "Ð’Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÑÑ‚Ð¸ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰ÑƒÑŽ ÑÐµÑ€Ð¸ÑŽ"
 
 msgctxt "#31338"
 msgid "Widget"
-msgstr "Виджет"
+msgstr "Ð’Ð¸Ð´Ð¶ÐµÑ‚"
 
 msgctxt "#31339"
 msgid "Edge distance"
-msgstr "Дистанция от границы"
+msgstr "Ð”Ð¸ÑÑ‚Ð°Ð½Ñ†Ð¸Ñ Ð¾Ñ‚ Ð³Ñ€Ð°Ð½Ð¸Ñ†Ñ‹"
 
 msgctxt "#31340"
 msgid "30px"
-msgstr "30пикс"
+msgstr "30Ð¿Ð¸ÐºÑ"
 
 msgctxt "#31341"
 msgid "Path intros"
-msgstr "Вступления путей"
+msgstr "Ð’ÑÑ‚ÑƒÐ¿Ð»ÐµÐ½Ð¸Ñ Ð¿ÑƒÑ‚ÐµÐ¹"
 
 msgctxt "#31342"
 msgid "Trailer count"
-msgstr "Количество трейлеров"
+msgstr "ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ñ‚Ñ€ÐµÐ¹Ð»ÐµÑ€Ð¾Ð²"
 
 msgctxt "#31343"
 msgid "Some other"
-msgstr "Какие-то другие"
+msgstr "ÐšÐ°ÐºÐ¸Ðµ-Ñ‚Ð¾ Ð´Ñ€ÑƒÐ³Ð¸Ðµ"
 
 msgctxt "#31344"
 msgid "Video preview"
-msgstr "Предпросмотр видео"
+msgstr "ÐŸÑ€ÐµÐ´Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð²Ð¸Ð´ÐµÐ¾"
 
 msgctxt "#31345"
 msgid "DiscArt"
-msgstr "Обложка диска"
+msgstr "ÐžÐ±Ð»Ð¾Ð¶ÐºÐ° Ð´Ð¸ÑÐºÐ°"
 
 msgctxt "#31346"
 msgid "Fake Blu-ray"
-msgstr "Фальшивый Blu-ray"
+msgstr "Ð¤Ð°Ð»ÑŒÑˆÐ¸Ð²Ñ‹Ð¹ Blu-ray"
 
 msgctxt "#31347"
 msgid "Artwork section"
-msgstr "Секция картинок"
+msgstr "Ð¡ÐµÐºÑ†Ð¸Ñ ÐºÐ°Ñ€Ñ‚Ð¸Ð½Ð¾Ðº"
 
 msgctxt "#31348"
 msgid "Landscape"
-msgstr "Ландшафт"
+msgstr "Ð›Ð°Ð½Ð´ÑˆÐ°Ñ„Ñ‚"
 
 msgctxt "#31349"
 msgid "Artwork of"
-msgstr "Картинка к"
+msgstr "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° Ðº"
 
 msgctxt "#31350"
 msgid "disabled"
-msgstr "выключено"
+msgstr "Ð²Ñ‹ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¾"
 
 msgctxt "#31351"
 msgid "Required add-ons"
-msgstr "Необходимые дополнения"
+msgstr "ÐÐµÐ¾Ð±Ñ…Ð¾Ð´Ð¸Ð¼Ñ‹Ðµ Ð´Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ"
 
 msgctxt "#31352"
 msgid "Recommended add-ons"
-msgstr "Рекомендованные дополнения"
+msgstr "Ð ÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð¾Ð²Ð°Ð½Ð½Ñ‹Ðµ Ð´Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ñ"
 
 msgctxt "#31353"
 msgid "CoreELEC Settings"
-msgstr "Настройки CoreELEC"
+msgstr "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ CoreELEC"
 
 msgctxt "#31354"
 msgid "Configure custom widget"
-msgstr "Настройка пользовательского виджета"
+msgstr "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ° Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¾Ð³Ð¾ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð°"
 
 msgctxt "#31355"
 msgid "Flix fanart window"
-msgstr "Фанарт-окно Flix"
+msgstr "Ð¤Ð°Ð½Ð°Ñ€Ñ‚-Ð¾ÐºÐ½Ð¾ Flix"
 
 msgctxt "#31356"
 msgid "Media status"
-msgstr "Индикаторы"
+msgstr "Ð˜Ð½Ð´Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñ‹"
 
 msgctxt "#31357"
 msgid "HDR"
@@ -1455,19 +1455,19 @@ msgstr "Blu-ray / HD DVD / DVD / Web-DL"
 
 msgctxt "#31359"
 msgid "IMDB Top 250"
-msgstr "Топ 250 IMDb"
+msgstr "Ð¢Ð¾Ð¿ 250 IMDb"
 
 msgctxt "#31360"
 msgid "Audio Channels"
-msgstr "Аудиоканалы"
+msgstr "ÐÑƒÐ´Ð¸Ð¾ÐºÐ°Ð½Ð°Ð»Ñ‹"
 
 msgctxt "#31361"
 msgid "Widget path"
-msgstr "Путь к виджету сцены"
+msgstr "ÐŸÑƒÑ‚ÑŒ Ðº Ð²Ð¸Ð´Ð¶ÐµÑ‚Ñƒ ÑÑ†ÐµÐ½Ñ‹"
 
 msgctxt "#31362"
 msgid "Origin"
-msgstr "Происхождение"
+msgstr "ÐŸÑ€Ð¾Ð¸ÑÑ…Ð¾Ð¶Ð´ÐµÐ½Ð¸Ðµ"
 
 msgctxt "#31363"
 msgid "Trakt"
@@ -1475,363 +1475,363 @@ msgstr "Trakt"
 
 msgctxt "#31364"
 msgid "CPU"
-msgstr "Процессор"
+msgstr "ÐŸÑ€Ð¾Ñ†ÐµÑÑÐ¾Ñ€"
 
 msgctxt "#31365"
 msgid "Underlined homemenu items"
-msgstr "Подчеркнуть предметы главного меню"
+msgstr "ÐŸÐ¾Ð´Ñ‡ÐµÑ€ÐºÐ½ÑƒÑ‚ÑŒ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ñ‹ Ð³Ð»Ð°Ð²Ð½Ð¾Ð³Ð¾ Ð¼ÐµÐ½ÑŽ"
 
 msgctxt "#31366"
 msgid "Poster Flix"
-msgstr "Постер-фликс v2"
+msgstr "ÐŸÐ¾ÑÑ‚ÐµÑ€-Ñ„Ð»Ð¸ÐºÑ v2"
 
 msgctxt "#31367"
 msgid "Paused"
-msgstr "Пауза"
+msgstr "ÐŸÐ°ÑƒÐ·Ð°"
 
 msgctxt "#31368"
 msgid "Watched"
-msgstr "Просмотрено"
+msgstr "ÐŸÑ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð¾"
 
 msgctxt "#31369"
 msgid "New!"
-msgstr "Новое!"
+msgstr "ÐÐ¾Ð²Ð¾Ðµ!"
 
 msgctxt "#31370"
 msgid "Alternative indicators"
-msgstr "Альтернативные индикаторы"
+msgstr "ÐÐ»ÑŒÑ‚ÐµÑ€Ð½Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ðµ Ð¸Ð½Ð´Ð¸ÐºÐ°Ñ‚Ð¾Ñ€Ñ‹"
 
 msgctxt "#31371"
 msgid "Label"
-msgstr "Название"
+msgstr "ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ðµ"
 
 msgctxt "#31372"
 msgid "Director"
-msgstr "Фильмы от этого режиссёра"
+msgstr "Ð¤Ð¸Ð»ÑŒÐ¼Ñ‹ Ð¾Ñ‚ ÑÑ‚Ð¾Ð³Ð¾ Ñ€ÐµÐ¶Ð¸ÑÑÑ‘Ñ€Ð°"
 
 msgctxt "#31373"
 msgid "Collection"
-msgstr "Коллекция"
+msgstr "ÐšÐ¾Ð»Ð»ÐµÐºÑ†Ð¸Ñ"
 
 msgctxt "#31374"
 msgid "Prefer percentage"
-msgstr "Предпочитать процент"
+msgstr "ÐŸÑ€ÐµÐ´Ð¿Ð¾Ñ‡Ð¸Ñ‚Ð°Ñ‚ÑŒ Ð¿Ñ€Ð¾Ñ†ÐµÐ½Ñ‚"
 
 msgctxt "#31375"
 msgid "Prefer local list information"
-msgstr "Предпочитать локальную информацию"
+msgstr "ÐŸÑ€ÐµÐ´Ð¿Ð¾Ñ‡Ð¸Ñ‚Ð°Ñ‚ÑŒ Ð»Ð¾ÐºÐ°Ð»ÑŒÐ½ÑƒÑŽ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸ÑŽ"
 
 msgctxt "#31376"
 msgid "On back, widgets do not return to initial position"
-msgstr "При возврате не возвращать виджеты на начальную позицию"
+msgstr "ÐŸÑ€Ð¸ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‚Ðµ Ð½Ðµ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‰Ð°Ñ‚ÑŒ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ñ‹ Ð½Ð° Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½ÑƒÑŽ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸ÑŽ"
 
 msgctxt "#31377"
 msgid "On up, when at first widget, do not jump back to last widget"
-msgstr "При нажатии вверх на первом виджете не возвращаться к последнему"
+msgstr "ÐŸÑ€Ð¸ Ð½Ð°Ð¶Ð°Ñ‚Ð¸Ð¸ Ð²Ð²ÐµÑ€Ñ… Ð½Ð° Ð¿ÐµÑ€Ð²Ð¾Ð¼ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ðµ Ð½Ðµ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‰Ð°Ñ‚ÑŒÑÑ Ðº Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ¼Ñƒ"
 
 msgctxt "#31378"
 msgid "On down, when at last widget, widgets do not return to initial position"
-msgstr "При нажатии вниз на последнем виджете не возвращаться на начальную позицию"
+msgstr "ÐŸÑ€Ð¸ Ð½Ð°Ð¶Ð°Ñ‚Ð¸Ð¸ Ð²Ð½Ð¸Ð· Ð½Ð° Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ¼ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ðµ Ð½Ðµ Ð²Ð¾Ð·Ð²Ñ€Ð°Ñ‰Ð°Ñ‚ÑŒÑÑ Ð½Ð° Ð½Ð°Ñ‡Ð°Ð»ÑŒÐ½ÑƒÑŽ Ð¿Ð¾Ð·Ð¸Ñ†Ð¸ÑŽ"
 
 msgctxt "#31379"
 msgid "On up/down at first/last widget, go to last/first widget"
-msgstr "При нажатии вверх/вниз на первом/последнем виджете, вернуться к первому/последнему виджету"
+msgstr "ÐŸÑ€Ð¸ Ð½Ð°Ð¶Ð°Ñ‚Ð¸Ð¸ Ð²Ð²ÐµÑ€Ñ…/Ð²Ð½Ð¸Ð· Ð½Ð° Ð¿ÐµÑ€Ð²Ð¾Ð¼/Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ¼ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ðµ, Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ðº Ð¿ÐµÑ€Ð²Ð¾Ð¼Ñƒ/Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ¼Ñƒ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ñƒ"
 
 msgctxt "#31380"
 msgid "Layout options"
-msgstr "Настройки расположения"
+msgstr "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ñ€Ð°ÑÐ¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ"
 
 msgctxt "#31381"
 msgid "Global"
-msgstr "Общий"
+msgstr "ÐžÐ±Ñ‰Ð¸Ð¹"
 
 msgctxt "#31382"
 msgid "4K Movies"
-msgstr "Фильмы 4K"
+msgstr "Ð¤Ð¸Ð»ÑŒÐ¼Ñ‹ 4K"
 
 msgctxt "#31383"
 msgid "Recent recordings"
-msgstr "Последние записи"
+msgstr "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð·Ð°Ð¿Ð¸ÑÐ¸"
 
 msgctxt "#31384"
 msgid "Grouped recent recordings"
-msgstr "Недавние записи по группам"
+msgstr "ÐÐµÐ´Ð°Ð²Ð½Ð¸Ðµ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð¿Ð¾ Ð³Ñ€ÑƒÐ¿Ð¿Ð°Ð¼"
 
 msgctxt "#31385"
 msgid "Grouped deleted recordings"
-msgstr "Удалённые записи по группам"
+msgstr "Ð£Ð´Ð°Ð»Ñ‘Ð½Ð½Ñ‹Ðµ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð¿Ð¾ Ð³Ñ€ÑƒÐ¿Ð¿Ð°Ð¼"
 
 msgctxt "#31386"
 msgid "Hide"
-msgstr "Скрыть"
+msgstr "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ"
 
 msgctxt "#31387"
 msgid "Last Played Radio Channels"
-msgstr "Последние проигранные радиостанции"
+msgstr "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ð°Ð½Ð½Ñ‹Ðµ Ñ€Ð°Ð´Ð¸Ð¾ÑÑ‚Ð°Ð½Ñ†Ð¸Ð¸"
 
 msgctxt "#31388"
 msgid "Mini-EPG (vertical, only 5 Items)"
-msgstr "Мини-телегид (вертикальный, только 5 предметов)"
+msgstr "ÐœÐ¸Ð½Ð¸-Ñ‚ÐµÐ»ÐµÐ³Ð¸Ð´ (Ð²ÐµÑ€Ñ‚Ð¸ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¹, Ñ‚Ð¾Ð»ÑŒÐºÐ¾ 5 Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ð¾Ð²)"
 
 msgctxt "#31389"
 msgid "Unwatched Tv Shows"
-msgstr "Непросмотренные сериалы"
+msgstr "ÐÐµÐ¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ ÑÐµÑ€Ð¸Ð°Ð»Ñ‹"
 
 msgctxt "#31390"
 msgid "for"
-msgstr "для"
+msgstr "Ð´Ð»Ñ"
 
 msgctxt "#31391"
 msgid "Poster Wall"
-msgstr "Стена постеров"
+msgstr "Ð¡Ñ‚ÐµÐ½Ð° Ð¿Ð¾ÑÑ‚ÐµÑ€Ð¾Ð²"
 
 msgctxt "#31392"
 msgid "Fanart Flix"
-msgstr "Фанарт-фликс v2"
+msgstr "Ð¤Ð°Ð½Ð°Ñ€Ñ‚-Ñ„Ð»Ð¸ÐºÑ v2"
 
 msgctxt "#31393"
 msgid "IMDB Position"
-msgstr "Позиция IMDb"
+msgstr "ÐŸÐ¾Ð·Ð¸Ñ†Ð¸Ñ IMDb"
 
 msgctxt "#31394"
 msgid "Use default MPAA rating icons"
-msgstr "Использовать иконки рейтинга MPAA по умолчанию"
+msgstr "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð¸ÐºÐ¾Ð½ÐºÐ¸ Ñ€ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð° MPAA Ð¿Ð¾ ÑƒÐ¼Ð¾Ð»Ñ‡Ð°Ð½Ð¸ÑŽ"
 
 msgctxt "#31395"
 msgid "Seasons info v2"
-msgstr "Информация о сезонах v2"
+msgstr "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ ÑÐµÐ·Ð¾Ð½Ð°Ñ… v2"
 
 msgctxt "#31396"
 msgid "Up Next"
-msgstr "Дополнение Up Next (Далее)"
+msgstr "Ð”Ð¾Ð¿Ð¾Ð»Ð½ÐµÐ½Ð¸Ðµ Up Next (Ð”Ð°Ð»ÐµÐµ)"
 
 msgctxt "#31397"
 msgid "Use thumbnail instead of fanart"
-msgstr "Использовать предпросмотр вместо фанарта"
+msgstr "Ð˜ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€ÐµÐ´Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð²Ð¼ÐµÑÑ‚Ð¾ Ñ„Ð°Ð½Ð°Ñ€Ñ‚Ð°"
 
 msgctxt "#31398"
 msgid "Clean and minimal"
-msgstr "Чистый и минимальный"
+msgstr "Ð§Ð¸ÑÑ‚Ñ‹Ð¹ Ð¸ Ð¼Ð¸Ð½Ð¸Ð¼Ð°Ð»ÑŒÐ½Ñ‹Ð¹"
 
 msgctxt "#31399"
 msgid "Hide plot, when widget is not focused"
-msgstr "Скрыть сюжет когда виджет не выбран"
+msgstr "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ ÑÑŽÐ¶ÐµÑ‚ ÐºÐ¾Ð³Ð´Ð° Ð²Ð¸Ð´Ð¶ÐµÑ‚ Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½"
 
 msgctxt "#31400"
 msgid "Audio streams"
-msgstr "Аудиопотоки"
+msgstr "ÐÑƒÐ´Ð¸Ð¾Ð¿Ð¾Ñ‚Ð¾ÐºÐ¸"
 
 msgctxt "#31401"
 msgid "Info slider"
-msgstr "Слайдер информации"
+msgstr "Ð¡Ð»Ð°Ð¹Ð´ÐµÑ€ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¸"
 
 msgctxt "#31402"
 msgid "Additional fanart"
-msgstr "Дополнительный фанарт"
+msgstr "Ð”Ð¾Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ Ñ„Ð°Ð½Ð°Ñ€Ñ‚"
 
 msgctxt "#31403"
 msgid "HD Movies"
-msgstr "HD фильмы"
+msgstr "HD Ñ„Ð¸Ð»ÑŒÐ¼Ñ‹"
 
 msgctxt "#31404"
 msgid "Hide, when not focused/used"
-msgstr "Скрыть когда не выбран и не используется"
+msgstr "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ ÐºÐ¾Ð³Ð´Ð° Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½ Ð¸ Ð½Ðµ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·ÑƒÐµÑ‚ÑÑ"
 
 msgctxt "#31405"
 msgid "Hide seekbar"
-msgstr "Скрыть полоску перемотки"
+msgstr "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ð¾Ð»Ð¾ÑÐºÑƒ Ð¿ÐµÑ€ÐµÐ¼Ð¾Ñ‚ÐºÐ¸"
 
 msgctxt "#31406"
 msgid "Hide OSD"
-msgstr "Скрыть элементы управления"
+msgstr "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ"
 
 msgctxt "#31407"
 msgid "Scrolling text"
-msgstr "Пролистывающийся текст"
+msgstr "ÐŸÑ€Ð¾Ð»Ð¸ÑÑ‚Ñ‹Ð²Ð°ÑŽÑ‰Ð¸Ð¹ÑÑ Ñ‚ÐµÐºÑÑ‚"
 
 msgctxt "#31408"
 msgid "Numeric rating"
-msgstr "Рейтинг цифрами"
+msgstr "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³ Ñ†Ð¸Ñ„Ñ€Ð°Ð¼Ð¸"
 
 msgctxt "#31409"
 msgid "Artist slideshow"
-msgstr "Слайдшоу актёров"
+msgstr "Ð¡Ð»Ð°Ð¹Ð´ÑˆÐ¾Ñƒ Ð°ÐºÑ‚Ñ‘Ñ€Ð¾Ð²"
 
 msgctxt "#31410"
 msgid "Low list"
-msgstr "Список снизу"
+msgstr "Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑÐ½Ð¸Ð·Ñƒ"
 
 msgctxt "#31411"
 msgid "Filenames"
-msgstr "Имена файлов"
+msgstr "Ð˜Ð¼ÐµÐ½Ð° Ñ„Ð°Ð¹Ð»Ð¾Ð²"
 
 msgctxt "#31412"
 msgid "Fallback image"
-msgstr "Резервное изображение"
+msgstr "Ð ÐµÐ·ÐµÑ€Ð²Ð½Ð¾Ðµ Ð¸Ð·Ð¾Ð±Ñ€Ð°Ð¶ÐµÐ½Ð¸Ðµ"
 
 msgctxt "#31413"
 msgid "ClearLogo/ClearArt"
-msgstr "Логотип/прозрачный арт"
+msgstr "Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿/Ð¿Ñ€Ð¾Ð·Ñ€Ð°Ñ‡Ð½Ñ‹Ð¹ Ð°Ñ€Ñ‚"
 
 msgctxt "#31414"
 msgid "Clearlogo instead of title"
-msgstr "Логотип вместо названия"
+msgstr "Ð›Ð¾Ð³Ð¾Ñ‚Ð¸Ð¿ Ð²Ð¼ÐµÑÑ‚Ð¾ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ñ"
 
 msgctxt "#31415"
 msgid "Media flags"
-msgstr "Медиазначки"
+msgstr "ÐœÐµÐ´Ð¸Ð°Ð·Ð½Ð°Ñ‡ÐºÐ¸"
 
 msgctxt "#31416"
 msgid "Play/pause info"
-msgstr "Информация воспроизведения/паузы"
+msgstr "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÐ´ÐµÐ½Ð¸Ñ/Ð¿Ð°ÑƒÐ·Ñ‹"
 
 msgctxt "#31417"
 msgid "PVR technical info"
-msgstr "Техническая информация о записи эфира"
+msgstr "Ð¢ÐµÑ…Ð½Ð¸Ñ‡ÐµÑÐºÐ°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ Ð¾ Ð·Ð°Ð¿Ð¸ÑÐ¸ ÑÑ„Ð¸Ñ€Ð°"
 
 msgctxt "#31418"
 msgid "Progress graphic"
-msgstr "Картинка загрузки"
+msgstr "ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ° Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸"
 
 msgctxt "#31419"
 msgid "Hide widget label"
-msgstr "Скрыть надпись виджета"
+msgstr "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð½Ð°Ð´Ð¿Ð¸ÑÑŒ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð°"
 
 msgctxt "#31420"
 msgid "Show behind slideshow"
-msgstr "Показать за слайдшоу"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ Ð·Ð° ÑÐ»Ð°Ð¹Ð´ÑˆÐ¾Ñƒ"
 
 msgctxt "#31421"
 msgid "Zoom focused items"
-msgstr "Увеличить выбранные предметы"
+msgstr "Ð£Ð²ÐµÐ»Ð¸Ñ‡Ð¸Ñ‚ÑŒ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ðµ Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ñ‹"
 
 msgctxt "#31422"
 msgid "Enable auto scrolling for titles"
-msgstr "Включить автопрокрутку названий"
+msgstr "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð°Ð²Ñ‚Ð¾Ð¿Ñ€Ð¾ÐºÑ€ÑƒÑ‚ÐºÑƒ Ð½Ð°Ð·Ð²Ð°Ð½Ð¸Ð¹"
 
 msgctxt "#31423"
 msgid "Show glow on focused items"
-msgstr "Интенсивность сияния выбранных предметов"
+msgstr "Ð˜Ð½Ñ‚ÐµÐ½ÑÐ¸Ð²Ð½Ð¾ÑÑ‚ÑŒ ÑÐ¸ÑÐ½Ð¸Ñ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð½Ñ‹Ñ… Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚Ð¾Ð²"
 
 msgctxt "#31424"
 msgid "List type"
-msgstr "Тип списка"
+msgstr "Ð¢Ð¸Ð¿ ÑÐ¿Ð¸ÑÐºÐ°"
 
 msgctxt "#31425"
 msgid "Enable auto playing trailers in flix views"
-msgstr "Включить проигрывание трейлеров в видах \"фликс\""
+msgstr "Ð’ÐºÐ»ÑŽÑ‡Ð¸Ñ‚ÑŒ Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°Ð½Ð¸Ðµ Ñ‚Ñ€ÐµÐ¹Ð»ÐµÑ€Ð¾Ð² Ð² Ð²Ð¸Ð´Ð°Ñ… \"Ñ„Ð»Ð¸ÐºÑ\""
 
 msgctxt "#31426"
 msgid "Try to hide black bars"
-msgstr "Попытаться скрыть чёрные полосы"
+msgstr "ÐŸÐ¾Ð¿Ñ‹Ñ‚Ð°Ñ‚ÑŒÑÑ ÑÐºÑ€Ñ‹Ñ‚ÑŒ Ñ‡Ñ‘Ñ€Ð½Ñ‹Ðµ Ð¿Ð¾Ð»Ð¾ÑÑ‹"
 
 msgctxt "#31427"
 msgid "playing"
-msgstr "проигрывается"
+msgstr "Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°ÐµÑ‚ÑÑ"
 
 msgctxt "#31428"
 msgid "paused"
-msgstr "на паузе"
+msgstr "Ð½Ð° Ð¿Ð°ÑƒÐ·Ðµ"
 
 msgctxt "#31429"
 msgid "caching"
-msgstr "загружается"
+msgstr "Ð·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÑ‚ÑÑ"
 
 msgctxt "#31430"
 msgid "Auto start delay"
-msgstr "Задержка авто-начала"
+msgstr "Ð—Ð°Ð´ÐµÑ€Ð¶ÐºÐ° Ð°Ð²Ñ‚Ð¾-Ð½Ð°Ñ‡Ð°Ð»Ð°"
 
 msgctxt "#31431"
 msgid "Auto playing trailers"
-msgstr "Авто-проигрывание трейлеров"
+msgstr "ÐÐ²Ñ‚Ð¾-Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°Ð½Ð¸Ðµ Ñ‚Ñ€ÐµÐ¹Ð»ÐµÑ€Ð¾Ð²"
 
 msgctxt "#31432"
 msgid "None"
-msgstr "Нет"
+msgstr "ÐÐµÑ‚"
 
 msgctxt "#31433"
 msgid "Medium"
-msgstr "Средне"
+msgstr "Ð¡Ñ€ÐµÐ´Ð½Ðµ"
 
 msgctxt "#31434"
 msgid "Maximal"
-msgstr "Максимально"
+msgstr "ÐœÐ°ÐºÑÐ¸Ð¼Ð°Ð»ÑŒÐ½Ð¾"
 
 msgctxt "#31435"
 msgid "On back, jump to first item in widget list"
-msgstr "При нажатии \"назад\", вернуться на первый элемент в списке виджетов"
+msgstr "ÐŸÑ€Ð¸ Ð½Ð°Ð¶Ð°Ñ‚Ð¸Ð¸ \"Ð½Ð°Ð·Ð°Ð´\", Ð²ÐµÑ€Ð½ÑƒÑ‚ÑŒÑÑ Ð½Ð° Ð¿ÐµÑ€Ð²Ñ‹Ð¹ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚ Ð² ÑÐ¿Ð¸ÑÐºÐµ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ð¾Ð²"
 
 msgctxt "#31436"
 msgid "After that, focus home menu"
-msgstr "После этого, перевести выбор на главное меню"
+msgstr "ÐŸÐ¾ÑÐ»Ðµ ÑÑ‚Ð¾Ð³Ð¾, Ð¿ÐµÑ€ÐµÐ²ÐµÑÑ‚Ð¸ Ð²Ñ‹Ð±Ð¾Ñ€ Ð½Ð° Ð³Ð»Ð°Ð²Ð½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ"
 
 msgctxt "#31437"
 msgid "If home menu is focused, jump to widgets on back"
-msgstr "Если выбрано главное меню, при нажатии \"назад\" выбрать виджеты"
+msgstr "Ð•ÑÐ»Ð¸ Ð²Ñ‹Ð±Ñ€Ð°Ð½Ð¾ Ð³Ð»Ð°Ð²Ð½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ, Ð¿Ñ€Ð¸ Ð½Ð°Ð¶Ð°Ñ‚Ð¸Ð¸ \"Ð½Ð°Ð·Ð°Ð´\" Ð²Ñ‹Ð±Ñ€Ð°Ñ‚ÑŒ Ð²Ð¸Ð´Ð¶ÐµÑ‚Ñ‹"
 
 msgctxt "#31438"
 msgid "Only, when widget is focused"
-msgstr "Только когда выбран виджет"
+msgstr "Ð¢Ð¾Ð»ÑŒÐºÐ¾ ÐºÐ¾Ð³Ð´Ð° Ð²Ñ‹Ð±Ñ€Ð°Ð½ Ð²Ð¸Ð´Ð¶ÐµÑ‚"
 
 msgctxt "#31439"
 msgid "Hide mouse warning"
-msgstr "Скрыть предупреждение о мыши"
+msgstr "Ð¡ÐºÑ€Ñ‹Ñ‚ÑŒ Ð¿Ñ€ÐµÐ´ÑƒÐ¿Ñ€ÐµÐ¶Ð´ÐµÐ½Ð¸Ðµ Ð¾ Ð¼Ñ‹ÑˆÐ¸"
 
 msgctxt "#31440"
 msgid "EDL markers"
-msgstr "Маркеры EDL"
+msgstr "ÐœÐ°Ñ€ÐºÐµÑ€Ñ‹ EDL"
 
 msgctxt "#31441"
 msgid "Hub widget content type"
-msgstr "Тип контента в виджете хаба"
+msgstr "Ð¢Ð¸Ð¿ ÐºÐ¾Ð½Ñ‚ÐµÐ½Ñ‚Ð° Ð² Ð²Ð¸Ð´Ð¶ÐµÑ‚Ðµ Ñ…Ð°Ð±Ð°"
 
 msgctxt "#31442"
 msgid "Playback action when video info dialog is shown"
-msgstr "Действие воспроизведения когда показывается диалог со сведениями о видео"
+msgstr "Ð”ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÐ´ÐµÐ½Ð¸Ñ ÐºÐ¾Ð³Ð´Ð° Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°ÐµÑ‚ÑÑ Ð´Ð¸Ð°Ð»Ð¾Ð³ ÑÐ¾ ÑÐ²ÐµÐ´ÐµÐ½Ð¸ÑÐ¼Ð¸ Ð¾ Ð²Ð¸Ð´ÐµÐ¾"
 
 msgctxt "#31443"
 msgid "Stop playback when item is no longer focused"
-msgstr "Остановить воспроизведение когда предмет больше не выбран"
+msgstr "ÐžÑÑ‚Ð°Ð½Ð¾Ð²Ð¸Ñ‚ÑŒ Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ ÐºÐ¾Ð³Ð´Ð° Ð¿Ñ€ÐµÐ´Ð¼ÐµÑ‚ Ð±Ð¾Ð»ÑŒÑˆÐµ Ð½Ðµ Ð²Ñ‹Ð±Ñ€Ð°Ð½"
 
 msgctxt "#31444"
 msgid "LibreELEC Settings"
-msgstr "Настройки LibreELEC"
+msgstr "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ LibreELEC"
 
 msgctxt "#31445"
 msgid "Is playing"
-msgstr "Воспроизводится"
+msgstr "Ð’Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÑÑ"
 
 msgctxt "#31446"
 msgid "Icon"
-msgstr "Значок"
+msgstr "Ð—Ð½Ð°Ñ‡Ð¾Ðº"
 
 msgctxt "#31447"
 msgid "Now playing"
-msgstr "Сейчас воспроизводится"
+msgstr "Ð¡ÐµÐ¹Ñ‡Ð°Ñ Ð²Ð¾ÑÐ¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´Ð¸Ñ‚ÑÑ"
 
 msgctxt "#31448"
 msgid "Now playing..."
-msgstr "Сейчас играет..."
+msgstr "Ð¡ÐµÐ¹Ñ‡Ð°Ñ Ð¸Ð³Ñ€Ð°ÐµÑ‚..."
 
 msgctxt "#31449"
 msgid "User rating overrides"
-msgstr "Приоритет оценке пользователей"
+msgstr "ÐŸÑ€Ð¸Ð¾Ñ€Ð¸Ñ‚ÐµÑ‚ Ð¾Ñ†ÐµÐ½ÐºÐµ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¹"
 
 msgctxt "#31450"
 msgid "Star rating and value"
-msgstr "Оценка звёздами и значение"
+msgstr "ÐžÑ†ÐµÐ½ÐºÐ° Ð·Ð²Ñ‘Ð·Ð´Ð°Ð¼Ð¸ Ð¸ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ"
 
 msgctxt "#31451"
 msgid "Show player controls"
-msgstr "Показать управление проигрывателем"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ð°Ñ‚ÑŒ ÑƒÐ¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ Ð¿Ñ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°Ñ‚ÐµÐ»ÐµÐ¼"
 
 msgctxt "#31452"
 msgid "Show clearart"
-msgstr "Показывать прозрачный арт"
+msgstr "ÐŸÐ¾ÐºÐ°Ð·Ñ‹Ð²Ð°Ñ‚ÑŒ Ð¿Ñ€Ð¾Ð·Ñ€Ð°Ñ‡Ð½Ñ‹Ð¹ Ð°Ñ€Ñ‚"
 
 msgctxt "#31453"
 msgid "Ratings"
-msgstr "Рейтинги"
+msgstr "Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³Ð¸"
 
 msgctxt "#31454"
 msgid "Show detailed info when video starts (in seconds)"
@@ -1847,7 +1847,7 @@ msgstr ""
 
 msgctxt "#31457"
 msgid "Preset"
-msgstr "Предустановка"
+msgstr "ÐŸÑ€ÐµÐ´ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ°"
 
 msgctxt "#31458"
 msgid "Lavender"
@@ -1887,7 +1887,7 @@ msgstr ""
 
 msgctxt "#31467"
 msgid "Player"
-msgstr "Проигрыватель"
+msgstr "ÐŸÑ€Ð¾Ð¸Ð³Ñ€Ñ‹Ð²Ð°Ñ‚ÐµÐ»ÑŒ"
 
 msgctxt "#31468"
 msgid "Players"
@@ -1895,7 +1895,7 @@ msgstr ""
 
 msgctxt "#31469"
 msgid "Local"
-msgstr "Локальный"
+msgstr "Ð›Ð¾ÐºÐ°Ð»ÑŒÐ½Ñ‹Ð¹"
 
 msgctxt "#31470"
 msgid "Online"
@@ -1903,7 +1903,7 @@ msgstr ""
 
 msgctxt "#31471"
 msgid "Game studio/flag icons"
-msgstr "Игровая студия / значки флагов"
+msgstr "Ð˜Ð³Ñ€Ð¾Ð²Ð°Ñ ÑÑ‚ÑƒÐ´Ð¸Ñ / Ð·Ð½Ð°Ñ‡ÐºÐ¸ Ñ„Ð»Ð°Ð³Ð¾Ð²"
 
 msgctxt "#31472"
 msgid "Pick a color..."
@@ -1966,7 +1966,7 @@ msgid "Tv Shows of the year"
 msgstr ""
 
 msgctxt "#31487"
-msgid "[B]File Manager[/B][CR][CR] •     Copy[CR] •     Move[CR] •     Delete[CR] •     Rename[CR] •     Manage Source"
+msgid "[B]File Manager[/B][CR][CR] â€¢     Copy[CR] â€¢     Move[CR] â€¢     Delete[CR] â€¢     Rename[CR] â€¢     Manage Source"
 msgstr ""
 
 msgctxt "#31488"
@@ -2218,7 +2218,7 @@ msgid "Event log"
 msgstr ""
 
 msgctxt "#31550"
-msgid "[B]Show event log[/B][CR][CR] •     Basic[CR] •     Information[CR] •     Warning[CR] •     Error [CR]"
+msgid "[B]Show event log[/B][CR][CR] â€¢     Basic[CR] â€¢     Information[CR] â€¢     Warning[CR] â€¢     Error [CR]"
 msgstr ""
 
 msgctxt "#31551"
@@ -2511,36 +2511,51 @@ msgstr ""
 
 msgctxt "#31623"
 msgid "Cancelled"
-msgstr "Отменено"
+msgstr "ÐžÑ‚Ð¼ÐµÐ½ÐµÐ½Ð¾"
 
 msgctxt "#31624"
 msgid "Ended"
-msgstr "Завршено"
+msgstr "Ð—Ð°Ð²Ñ€ÑˆÐµÐ½Ð¾"
 
 msgctxt "#31625"
 msgid "Released"
-msgstr "Выпущен"
+msgstr "Ð’Ñ‹Ð¿ÑƒÑ‰ÐµÐ½"
 
 msgctxt "#31626"
 msgid "In-Production"
-msgstr "В производстве"
+msgstr "Ð’ Ð¿Ñ€Ð¾Ð¸Ð·Ð²Ð¾Ð´ÑÑ‚Ð²Ðµ"
 
 msgctxt "#31627"
 msgid "Planned"
-msgstr "Запланировано"
+msgstr "Ð—Ð°Ð¿Ð»Ð°Ð½Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¾"
 
 msgctxt "#31628"
 msgid "Premiering"
-msgstr "Премьера"
+msgstr "ÐŸÑ€ÐµÐ¼ÑŒÐµÑ€Ð°"
 
 msgctxt "#31629"
 msgid "Returning"
-msgstr "Возвращение"
+msgstr "Ð’Ð¾Ð·Ð²Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ"
 
 msgctxt "#31630"
 msgid "Airing"
-msgstr "Выходит"
+msgstr "Ð’Ñ‹Ñ…Ð¾Ð´Ð¸Ñ‚"
 
 msgctxt "#31631"
 msgid "Last aired"
-msgstr "Последний выпуск"
+msgstr "ÐŸÐ¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ Ð²Ñ‹Ð¿ÑƒÑÐº"
+
+msgctxt "#31632"
+msgid "Rewind"
+msgstr "ÐŸÐµÑ€ÐµÐ¼Ð¾Ñ‚ÐºÐ° Ð½Ð°Ð·Ð°Ð´"
+
+msgctxt "#31633"
+msgid "Fast forward"
+msgstr "ÐŸÐµÑ€ÐµÐ¼Ð¾Ñ‚ÐºÐ° Ð²Ð¿ÐµÑ€ÐµÐ´"
+msgctxt "#31634"
+msgid "Thin focus border"
+msgstr ""
+
+msgctxt "#31635"
+msgid "TV episode count"
+msgstr ""

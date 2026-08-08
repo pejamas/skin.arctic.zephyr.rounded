@@ -1113,7 +1113,7 @@
                     <include>Def_Skin_Settings_Level_standard</include>
                     <include>Def_Settings_Button_Focus_Select_Right_Side</include>
                     <align>left</align>
-                    <label>$LOCALIZE[31632]</label>
+                    <label>$LOCALIZE[31634]</label>
                     <width>1278</width>
                     <selected>Skin.HasSetting(items.focus.border.thin)</selected>
                     <onclick>Skin.ToggleSetting(items.focus.border.thin)</onclick>
@@ -1744,7 +1744,7 @@
                     <visible>Container(3000).HasFocus(5)</visible>
                     <include>Def_Skin_Settings_Level_standard</include>
                     <include>Def_Settings_Button_Focus_Select_Right_Side</include>
-                    <label>$LOCALIZE[31219]$LOCALIZE[31633]</label>
+                    <label>$LOCALIZE[31219]$LOCALIZE[31635]</label>
                     <align>left</align>
                     <selected>!Skin.HasSetting(hide.markers.tv.episode.count)</selected>
                     <onclick>Skin.ToggleSetting(hide.markers.tv.episode.count)</onclick>

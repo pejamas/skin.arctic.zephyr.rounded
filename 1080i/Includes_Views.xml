@@ -1198,7 +1198,7 @@
                 </control>
                 <control type="radiobutton" id="90841">
                     <include>Def_Dialog_Menu_Button_Focus_Select</include>
-                    <label>$LOCALIZE[31632]</label>
+                    <label>$LOCALIZE[31634]</label>
                     <selected>Skin.HasSetting(items.focus.border.thin)</selected>
                     <onclick>Skin.ToggleSetting(items.focus.border.thin)</onclick>
                 </control>

@@ -1,4 +1,4 @@
-# Kodi Media Center language file
+﻿# Kodi Media Center language file
 # Addon Name: Arctic: Zephyr - Rounded
 # Addon id: skin.arctic.zephyr.mod
 # Addon Provider: jurialmunkey, beatmasterrs
@@ -135,11 +135,11 @@ msgstr ""
 
 msgctxt "#31029"
 msgid "In Progress Movies"
-msgstr "進行中のムービー"
+msgstr "é€²è¡Œä¸­ã®ãƒ ãƒ¼ãƒ“ãƒ¼"
 
 msgctxt "#31030"
 msgid "Top Rated Movies"
-msgstr "評価の高いムービー"
+msgstr "è©•ä¾¡ã®é«˜ã„ãƒ ãƒ¼ãƒ“ãƒ¼"
 
 msgctxt "#31031"
 msgid "Top 250 Movies"
@@ -199,7 +199,7 @@ msgstr ""
 
 msgctxt "#31045"
 msgid "Recently Played Albums"
-msgstr "最近再生されたアルバム"
+msgstr "æœ€è¿‘å†ç”Ÿã•ã‚ŒãŸã‚¢ãƒ«ãƒãƒ "
 
 msgctxt "#31046"
 msgid "Top Albums"
@@ -267,7 +267,7 @@ msgstr "h"
 
 msgctxt "#31062"
 msgid "m"
-msgstr "分"
+msgstr "åˆ†"
 
 msgctxt "#31063"
 msgid "New time format"
@@ -283,7 +283,7 @@ msgstr ""
 
 msgctxt "#31066"
 msgid "Hourly forecast"
-msgstr "1時間ごとの予報"
+msgstr "1æ™‚é–“ã”ã¨ã®äºˆå ±"
 
 msgctxt "#31067"
 msgid "Next days forecast"
@@ -311,15 +311,15 @@ msgstr ""
 
 msgctxt "#31073"
 msgid "items"
-msgstr "アイテム"
+msgstr "ã‚¢ã‚¤ãƒ†ãƒ "
 
 msgctxt "#31074"
 msgid "min"
-msgstr "分"
+msgstr "åˆ†"
 
 msgctxt "#31075"
 msgid "Live TV"
-msgstr "ライブTV"
+msgstr "ãƒ©ã‚¤ãƒ–TV"
 
 msgctxt "#31076"
 msgid "Used Memory"
@@ -343,7 +343,7 @@ msgstr ""
 
 msgctxt "#31081"
 msgid "Background"
-msgstr "バックグラウンド"
+msgstr "ãƒãƒƒã‚¯ã‚°ãƒ©ã‚¦ãƒ³ãƒ‰"
 
 msgctxt "#31082"
 msgid "Show now playing video in background"
@@ -363,7 +363,7 @@ msgstr ""
 
 msgctxt "#31086"
 msgid "DVD Menu"
-msgstr "DVDメニュー"
+msgstr "DVDãƒ¡ãƒ‹ãƒ¥ãƒ¼"
 
 msgctxt "#31087"
 msgid "Show artist slideshow"
@@ -379,7 +379,7 @@ msgstr ""
 
 msgctxt "#31090"
 msgid "Show fanart"
-msgstr "ファンアートを見る"
+msgstr "ãƒ•ã‚¡ãƒ³ã‚¢ãƒ¼ãƒˆã‚’è¦‹ã‚‹"
 
 msgctxt "#31091"
 msgid "Letterboxd"
@@ -431,7 +431,7 @@ msgstr ""
 
 msgctxt "#31103"
 msgid "Widgets"
-msgstr "ウィジェット"
+msgstr "ã‚¦ã‚£ã‚¸ã‚§ãƒƒãƒˆ"
 
 msgctxt "#31104"
 msgid "Show time, date and weather"
@@ -443,7 +443,7 @@ msgstr ""
 
 msgctxt "#31106"
 msgid "Extra Info"
-msgstr "エクストラ インフォ"
+msgstr "ã‚¨ã‚¯ã‚¹ãƒˆãƒ© ã‚¤ãƒ³ãƒ•ã‚©"
 
 msgctxt "#31107"
 msgid "Wrap list"
@@ -467,7 +467,7 @@ msgstr ""
 
 msgctxt "#31112"
 msgid "Show media flags"
-msgstr "メディアのフラグを表示"
+msgstr "ãƒ¡ãƒ‡ã‚£ã‚¢ã®ãƒ•ãƒ©ã‚°ã‚’è¡¨ç¤º"
 
 msgctxt "#31113"
 msgid "Show now playing info"
@@ -490,31 +490,31 @@ msgid "Tv Shows by"
 msgstr ""
 
 msgctxt "#31118"
-msgid "[B]Configure System Settings[/B][CR][CR] •     Setup and calibrate displays[CR] •     Configure audio output[CR] •     Setup remote controls[CR] •     Set power saving options[CR] •     Enable debugging[CR] •     Setup master lock"
+msgid "[B]Configure System Settings[/B][CR][CR] â€¢     Setup and calibrate displays[CR] â€¢     Configure audio output[CR] â€¢     Setup remote controls[CR] â€¢     Set power saving options[CR] â€¢     Enable debugging[CR] â€¢     Setup master lock"
 msgstr ""
 
 msgctxt "#31119"
-msgid "[B]Configure Add-Ons[/B][CR][CR] •     Manage your installed Add-ons[CR] •     Install Add-ons from kodi.tv[CR] •     Modify Add-on settings"
+msgid "[B]Configure Add-Ons[/B][CR][CR] â€¢     Manage your installed Add-ons[CR] â€¢     Install Add-ons from kodi.tv[CR] â€¢     Modify Add-on settings"
 msgstr ""
 
 msgctxt "#31120"
-msgid "[B]Configure TV Settings[/B][CR][CR] •     Change full screen info[CR] •     Manage EPG data settings"
+msgid "[B]Configure TV Settings[/B][CR][CR] â€¢     Change full screen info[CR] â€¢     Manage EPG data settings"
 msgstr ""
 
 msgctxt "#31121"
-msgid "[B]Configure Service Settings[/B][CR][CR] •     Control via UPnP and HTTP[CR] •     Configure file sharing[CR] •     Enable Zeroconf[CR] •     Configure AirPlay"
+msgid "[B]Configure Service Settings[/B][CR][CR] â€¢     Control via UPnP and HTTP[CR] â€¢     Configure file sharing[CR] â€¢     Enable Zeroconf[CR] â€¢     Configure AirPlay"
 msgstr ""
 
 msgctxt "#31122"
-msgid "[B]Configure Profile Settings[/B][CR][CR] •     Setup user profiles[CR] •     Enable login screen[CR] •     Set master locks[CR] •     Control access to content"
+msgid "[B]Configure Profile Settings[/B][CR][CR] â€¢     Setup user profiles[CR] â€¢     Enable login screen[CR] â€¢     Set master locks[CR] â€¢     Control access to content"
 msgstr ""
 
 msgctxt "#31123"
-msgid "[B]Configure Skin Settings[/B][CR][CR] •     Customise the home screen[CR] •     Set background options[CR] •     Configure OSD options[CR] •     Enable add-on support[CR] •     Disable screen elements"
+msgid "[B]Configure Skin Settings[/B][CR][CR] â€¢     Customise the home screen[CR] â€¢     Set background options[CR] â€¢     Configure OSD options[CR] â€¢     Enable add-on support[CR] â€¢     Disable screen elements"
 msgstr ""
 
 msgctxt "#31124"
-msgid "[B]View System Information[/B][CR][CR] •     Summary[CR] •     Storage[CR] •     Network[CR] •     Video[CR] •     Hardware[CR] •     PVR Backend"
+msgid "[B]View System Information[/B][CR][CR] â€¢     Summary[CR] â€¢     Storage[CR] â€¢     Network[CR] â€¢     Video[CR] â€¢     Hardware[CR] â€¢     PVR Backend"
 msgstr ""
 
 msgctxt "#31125"
@@ -523,11 +523,11 @@ msgstr ""
 
 msgctxt "#31126"
 msgid "Extras"
-msgstr "エクストラ"
+msgstr "ã‚¨ã‚¯ã‚¹ãƒˆãƒ©"
 
 msgctxt "#31127"
 msgid "Cinema Experience"
-msgstr "シネマ体験"
+msgstr "ã‚·ãƒãƒžä½“é¨“"
 
 msgctxt "#31128"
 msgid "Movies by"
@@ -535,7 +535,7 @@ msgstr ""
 
 msgctxt "#31129"
 msgid "Recently added"
-msgstr "最近追加"
+msgstr "æœ€è¿‘è¿½åŠ "
 
 msgctxt "#31130"
 msgid "Recently played"
@@ -611,7 +611,7 @@ msgstr ""
 
 msgctxt "#31148"
 msgid "Kiosk mode"
-msgstr "キオスクモード"
+msgstr "ã‚­ã‚ªã‚¹ã‚¯ãƒ¢ãƒ¼ãƒ‰"
 
 msgctxt "#31149"
 msgid "IMDb"
@@ -639,7 +639,7 @@ msgstr ""
 
 msgctxt "#31155"
 msgid "In Cinemas"
-msgstr "映画館で"
+msgstr "æ˜ ç”»é¤¨ã§"
 
 msgctxt "#31156"
 msgid "Upcoming"
@@ -779,19 +779,19 @@ msgstr ""
 
 msgctxt "#31190"
 msgid "Poster"
-msgstr "ポスター"
+msgstr "ãƒã‚¹ã‚¿ãƒ¼"
 
 msgctxt "#31191"
 msgid "Square"
-msgstr "正方形"
+msgstr "æ­£æ–¹å½¢"
 
 msgctxt "#31192"
 msgid "Extended information"
-msgstr "拡張されたリスト"
+msgstr "æ‹¡å¼µã•ã‚ŒãŸãƒªã‚¹ãƒˆ"
 
 msgctxt "#31193"
 msgid "Fanart"
-msgstr "ファンアート"
+msgstr "ãƒ•ã‚¡ãƒ³ã‚¢ãƒ¼ãƒˆ"
 
 msgctxt "#31194"
 msgid "Action"
@@ -799,7 +799,7 @@ msgstr ""
 
 msgctxt "#31195"
 msgid "Label"
-msgstr "レーベル"
+msgstr "ãƒ¬ãƒ¼ãƒ™ãƒ«"
 
 msgctxt "#31196"
 msgid "Fallback widget"
@@ -811,11 +811,11 @@ msgstr ""
 
 msgctxt "#31198"
 msgid "Single Image"
-msgstr "単一画像"
+msgstr "å˜ä¸€ç”»åƒ"
 
 msgctxt "#31199"
 msgid "Multi Image"
-msgstr "複数の画像"
+msgstr "è¤‡æ•°ã®ç”»åƒ"
 
 msgctxt "#31200"
 msgid "Hub widget"
@@ -826,24 +826,24 @@ msgid "Most played Song"
 msgstr ""
 
 msgctxt "#31202"
-msgid "[B]Configure Interface Settings[/B][CR][CR] •     Skin[CR] •     Region[CR] •     Control[CR] •     Screensaver[CR] •     Master Lock[CR]"
+msgid "[B]Configure Interface Settings[/B][CR][CR] â€¢     Skin[CR] â€¢     Region[CR] â€¢     Control[CR] â€¢     Screensaver[CR] â€¢     Master Lock[CR]"
 msgstr ""
 
 msgctxt "#31203"
-msgid "[B]Configure Library Settings[/B][CR][CR] •     Display[CR] •     Navigation[CR] •     Media Database[CR]"
+msgid "[B]Configure Library Settings[/B][CR][CR] â€¢     Display[CR] â€¢     Navigation[CR] â€¢     Media Database[CR]"
 msgstr ""
 
 msgctxt "#31204"
-msgid "[B]Configure Player Settings[/B][CR][CR] •     Playback Actions[CR] •     How Content is Played[CR]"
+msgid "[B]Configure Player Settings[/B][CR][CR] â€¢     Playback Actions[CR] â€¢     How Content is Played[CR]"
 msgstr ""
 
 msgctxt "#31205"
 msgid "Video decoder"
-msgstr "ビデオデコーダー"
+msgstr "ãƒ“ãƒ‡ã‚ªãƒ‡ã‚³ãƒ¼ãƒ€ãƒ¼"
 
 msgctxt "#31206"
 msgid "Pixel format"
-msgstr "ピクセルの形式"
+msgstr "ãƒ”ã‚¯ã‚»ãƒ«ã®å½¢å¼"
 
 msgctxt "#31207"
 msgid "Play Speed"
@@ -911,19 +911,19 @@ msgstr ""
 
 msgctxt "#31223"
 msgid "Video OSD"
-msgstr "ビデオ OSD"
+msgstr "ãƒ“ãƒ‡ã‚ª OSD"
 
 msgctxt "#31224"
 msgid "Music OSD"
-msgstr "ミュージック OSD"
+msgstr "ãƒŸãƒ¥ãƒ¼ã‚¸ãƒƒã‚¯ OSD"
 
 msgctxt "#31225"
 msgid "Widgets"
-msgstr "ウィジェット"
+msgstr "ã‚¦ã‚£ã‚¸ã‚§ãƒƒãƒˆ"
 
 msgctxt "#31226"
 msgid "Views"
-msgstr "ビュー"
+msgstr "ãƒ“ãƒ¥ãƒ¼"
 
 msgctxt "#31227"
 msgid "HUBs"
@@ -1051,7 +1051,7 @@ msgstr ""
 
 msgctxt "#31258"
 msgid "List"
-msgstr "リスト"
+msgstr "ãƒªã‚¹ãƒˆ"
 
 msgctxt "#31259"
 msgid "Fixed list"
@@ -1083,7 +1083,7 @@ msgstr ""
 
 msgctxt "#31266"
 msgid "Normal"
-msgstr "ノーマル"
+msgstr "ãƒŽãƒ¼ãƒžãƒ«"
 
 msgctxt "#31267"
 msgid "Slow"
@@ -1134,11 +1134,11 @@ msgid "last on"
 msgstr ""
 
 msgctxt "#31279"
-msgid "[B]Configure LibreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
+msgid "[B]Configure LibreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
 msgstr ""
 
 msgctxt "#31280"
-msgid "[B]Configure CoreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
+msgid "[B]Configure CoreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
 msgstr ""
 
 msgctxt "#31281"
@@ -1275,7 +1275,7 @@ msgstr ""
 
 msgctxt "#31314"
 msgid "Images"
-msgstr "画像"
+msgstr "ç”»åƒ"
 
 msgctxt "#31315"
 msgid "Big wide"
@@ -1291,7 +1291,7 @@ msgstr ""
 
 msgctxt "#31318"
 msgid "Seconds"
-msgstr "秒"
+msgstr "ç§’"
 
 msgctxt "#31319"
 msgid "Big Thumbnail"
@@ -1371,7 +1371,7 @@ msgstr ""
 
 msgctxt "#31338"
 msgid "Widget"
-msgstr "ウィジェット"
+msgstr "ã‚¦ã‚£ã‚¸ã‚§ãƒƒãƒˆ"
 
 msgctxt "#31339"
 msgid "Edge distance"
@@ -1411,7 +1411,7 @@ msgstr ""
 
 msgctxt "#31348"
 msgid "Landscape"
-msgstr "ランドスケープ"
+msgstr "ãƒ©ãƒ³ãƒ‰ã‚¹ã‚±ãƒ¼ãƒ—"
 
 msgctxt "#31349"
 msgid "Artwork of"
@@ -1431,7 +1431,7 @@ msgstr ""
 
 msgctxt "#31353"
 msgid "CoreELEC Settings"
-msgstr "CoreELECの設定"
+msgstr "CoreELECã®è¨­å®š"
 
 msgctxt "#31354"
 msgid "Configure custom widget"
@@ -1467,7 +1467,7 @@ msgstr ""
 
 msgctxt "#31362"
 msgid "Origin"
-msgstr "オリジン"
+msgstr "ã‚ªãƒªã‚¸ãƒ³"
 
 msgctxt "#31363"
 msgid "Trakt"
@@ -1503,7 +1503,7 @@ msgstr ""
 
 msgctxt "#31371"
 msgid "Label"
-msgstr "レーベル"
+msgstr "ãƒ¬ãƒ¼ãƒ™ãƒ«"
 
 msgctxt "#31372"
 msgid "Director"
@@ -1543,7 +1543,7 @@ msgstr ""
 
 msgctxt "#31381"
 msgid "Global"
-msgstr "グローバル"
+msgstr "ã‚°ãƒ­ãƒ¼ãƒãƒ«"
 
 msgctxt "#31382"
 msgid "4K Movies"
@@ -1551,7 +1551,7 @@ msgstr ""
 
 msgctxt "#31383"
 msgid "Recent recordings"
-msgstr "最近の録画"
+msgstr "æœ€è¿‘ã®éŒ²ç”»"
 
 msgctxt "#31384"
 msgid "Grouped recent recordings"
@@ -1563,7 +1563,7 @@ msgstr ""
 
 msgctxt "#31386"
 msgid "Hide"
-msgstr "隠す"
+msgstr "éš ã™"
 
 msgctxt "#31387"
 msgid "Last Played Radio Channels"
@@ -1795,7 +1795,7 @@ msgstr ""
 
 msgctxt "#31444"
 msgid "LibreELEC Settings"
-msgstr "LibreELECの設定"
+msgstr "LibreELECã®è¨­å®š"
 
 msgctxt "#31445"
 msgid "Is playing"
@@ -1803,11 +1803,11 @@ msgstr ""
 
 msgctxt "#31446"
 msgid "Icon"
-msgstr "アイコン"
+msgstr "ã‚¢ã‚¤ã‚³ãƒ³"
 
 msgctxt "#31447"
 msgid "Now playing"
-msgstr "再生中"
+msgstr "å†ç”Ÿä¸­"
 
 msgctxt "#31448"
 msgid "Now playing..."
@@ -1847,7 +1847,7 @@ msgstr ""
 
 msgctxt "#31457"
 msgid "Preset"
-msgstr "プリセット"
+msgstr "ãƒ—ãƒªã‚»ãƒƒãƒˆ"
 
 msgctxt "#31458"
 msgid "Lavender"
@@ -1887,7 +1887,7 @@ msgstr ""
 
 msgctxt "#31467"
 msgid "Player"
-msgstr "プレーヤー"
+msgstr "ãƒ—ãƒ¬ãƒ¼ãƒ¤ãƒ¼"
 
 msgctxt "#31468"
 msgid "Players"
@@ -1895,7 +1895,7 @@ msgstr ""
 
 msgctxt "#31469"
 msgid "Local"
-msgstr "ローカル"
+msgstr "ãƒ­ãƒ¼ã‚«ãƒ«"
 
 msgctxt "#31470"
 msgid "Online"
@@ -1966,7 +1966,7 @@ msgid "Tv Shows of the year"
 msgstr ""
 
 msgctxt "#31487"
-msgid "[B]File Manager[/B][CR][CR] •     Copy[CR] •     Move[CR] •     Delete[CR] •     Rename[CR] •     Manage Source"
+msgid "[B]File Manager[/B][CR][CR] â€¢     Copy[CR] â€¢     Move[CR] â€¢     Delete[CR] â€¢     Rename[CR] â€¢     Manage Source"
 msgstr ""
 
 msgctxt "#31488"
@@ -2218,7 +2218,7 @@ msgid "Event log"
 msgstr ""
 
 msgctxt "#31550"
-msgid "[B]Show event log[/B][CR][CR] •     Basic[CR] •     Information[CR] •     Warning[CR] •     Error [CR]"
+msgid "[B]Show event log[/B][CR][CR] â€¢     Basic[CR] â€¢     Information[CR] â€¢     Warning[CR] â€¢     Error [CR]"
 msgstr ""
 
 msgctxt "#31551"
@@ -2543,4 +2543,19 @@ msgstr ""
 
 msgctxt "#31631"
 msgid "Last aired"
+msgstr ""
+
+msgctxt "#31632"
+msgid "Rewind"
+msgstr "å·»ãæˆ»ã—"
+
+msgctxt "#31633"
+msgid "Fast forward"
+msgstr "æ—©é€ã‚Š"
+msgctxt "#31634"
+msgid "Thin focus border"
+msgstr ""
+
+msgctxt "#31635"
+msgid "TV episode count"
 msgstr ""
