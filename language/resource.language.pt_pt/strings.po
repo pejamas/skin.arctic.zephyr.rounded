@@ -1,4 +1,4 @@
-﻿# Kodi Media Center language file
+# Kodi Media Center language file
 # Addon Name: Arctic: Zephyr - Rounded
 # Addon id: skin.arctic.zephyr.mod
 # Addon Provider: jurialmunkey, beatmasterrs
@@ -19,7 +19,7 @@ msgstr ""
 
 msgctxt "#31000"
 msgid "Limit number of items"
-msgstr "Limitar o nÃºmero de itens no widget"
+msgstr "Limitar o número de itens no widget"
 
 msgctxt "#31001"
 msgid "Backup / Restore"
@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#31047"
 msgid "Random Albums"
-msgstr "Ãlbuns aleatÃ³rios"
+msgstr "Álbuns aleatórios"
 
 msgctxt "#31048"
 msgid "Random Artists"
@@ -283,7 +283,7 @@ msgstr ""
 
 msgctxt "#31066"
 msgid "Hourly forecast"
-msgstr "PrevisÃ£o horÃ¡ria"
+msgstr "Previsão horária"
 
 msgctxt "#31067"
 msgid "Next days forecast"
@@ -467,7 +467,7 @@ msgstr ""
 
 msgctxt "#31112"
 msgid "Show media flags"
-msgstr "Mostrar emblemas de mÃ©dia"
+msgstr "Mostrar emblemas de média"
 
 msgctxt "#31113"
 msgid "Show now playing info"
@@ -490,31 +490,31 @@ msgid "Tv Shows by"
 msgstr ""
 
 msgctxt "#31118"
-msgid "[B]Configure System Settings[/B][CR][CR] â€¢     Setup and calibrate displays[CR] â€¢     Configure audio output[CR] â€¢     Setup remote controls[CR] â€¢     Set power saving options[CR] â€¢     Enable debugging[CR] â€¢     Setup master lock"
+msgid "[B]Configure System Settings[/B][CR][CR] •     Setup and calibrate displays[CR] •     Configure audio output[CR] •     Setup remote controls[CR] •     Set power saving options[CR] •     Enable debugging[CR] •     Setup master lock"
 msgstr ""
 
 msgctxt "#31119"
-msgid "[B]Configure Add-Ons[/B][CR][CR] â€¢     Manage your installed Add-ons[CR] â€¢     Install Add-ons from kodi.tv[CR] â€¢     Modify Add-on settings"
+msgid "[B]Configure Add-Ons[/B][CR][CR] •     Manage your installed Add-ons[CR] •     Install Add-ons from kodi.tv[CR] •     Modify Add-on settings"
 msgstr ""
 
 msgctxt "#31120"
-msgid "[B]Configure TV Settings[/B][CR][CR] â€¢     Change full screen info[CR] â€¢     Manage EPG data settings"
+msgid "[B]Configure TV Settings[/B][CR][CR] •     Change full screen info[CR] •     Manage EPG data settings"
 msgstr ""
 
 msgctxt "#31121"
-msgid "[B]Configure Service Settings[/B][CR][CR] â€¢     Control via UPnP and HTTP[CR] â€¢     Configure file sharing[CR] â€¢     Enable Zeroconf[CR] â€¢     Configure AirPlay"
+msgid "[B]Configure Service Settings[/B][CR][CR] •     Control via UPnP and HTTP[CR] •     Configure file sharing[CR] •     Enable Zeroconf[CR] •     Configure AirPlay"
 msgstr ""
 
 msgctxt "#31122"
-msgid "[B]Configure Profile Settings[/B][CR][CR] â€¢     Setup user profiles[CR] â€¢     Enable login screen[CR] â€¢     Set master locks[CR] â€¢     Control access to content"
+msgid "[B]Configure Profile Settings[/B][CR][CR] •     Setup user profiles[CR] •     Enable login screen[CR] •     Set master locks[CR] •     Control access to content"
 msgstr ""
 
 msgctxt "#31123"
-msgid "[B]Configure Skin Settings[/B][CR][CR] â€¢     Customise the home screen[CR] â€¢     Set background options[CR] â€¢     Configure OSD options[CR] â€¢     Enable add-on support[CR] â€¢     Disable screen elements"
+msgid "[B]Configure Skin Settings[/B][CR][CR] •     Customise the home screen[CR] •     Set background options[CR] •     Configure OSD options[CR] •     Enable add-on support[CR] •     Disable screen elements"
 msgstr ""
 
 msgctxt "#31124"
-msgid "[B]View System Information[/B][CR][CR] â€¢     Summary[CR] â€¢     Storage[CR] â€¢     Network[CR] â€¢     Video[CR] â€¢     Hardware[CR] â€¢     PVR Backend"
+msgid "[B]View System Information[/B][CR][CR] •     Summary[CR] •     Storage[CR] •     Network[CR] •     Video[CR] •     Hardware[CR] •     PVR Backend"
 msgstr ""
 
 msgctxt "#31125"
@@ -527,7 +527,7 @@ msgstr "Extras"
 
 msgctxt "#31127"
 msgid "Cinema Experience"
-msgstr "ExperiÃªncia Cinema"
+msgstr "Experiência Cinema"
 
 msgctxt "#31128"
 msgid "Movies by"
@@ -535,7 +535,7 @@ msgstr ""
 
 msgctxt "#31129"
 msgid "Recently added"
-msgstr "AdiÃ§Ãµes recentes"
+msgstr "Adições recentes"
 
 msgctxt "#31130"
 msgid "Recently played"
@@ -811,11 +811,11 @@ msgstr ""
 
 msgctxt "#31198"
 msgid "Single Image"
-msgstr "Imagem Ãºnica"
+msgstr "Imagem única"
 
 msgctxt "#31199"
 msgid "Multi Image"
-msgstr "MÃºltiplas imagens"
+msgstr "Múltiplas imagens"
 
 msgctxt "#31200"
 msgid "Hub widget"
@@ -826,24 +826,24 @@ msgid "Most played Song"
 msgstr ""
 
 msgctxt "#31202"
-msgid "[B]Configure Interface Settings[/B][CR][CR] â€¢     Skin[CR] â€¢     Region[CR] â€¢     Control[CR] â€¢     Screensaver[CR] â€¢     Master Lock[CR]"
+msgid "[B]Configure Interface Settings[/B][CR][CR] •     Skin[CR] •     Region[CR] •     Control[CR] •     Screensaver[CR] •     Master Lock[CR]"
 msgstr ""
 
 msgctxt "#31203"
-msgid "[B]Configure Library Settings[/B][CR][CR] â€¢     Display[CR] â€¢     Navigation[CR] â€¢     Media Database[CR]"
+msgid "[B]Configure Library Settings[/B][CR][CR] •     Display[CR] •     Navigation[CR] •     Media Database[CR]"
 msgstr ""
 
 msgctxt "#31204"
-msgid "[B]Configure Player Settings[/B][CR][CR] â€¢     Playback Actions[CR] â€¢     How Content is Played[CR]"
+msgid "[B]Configure Player Settings[/B][CR][CR] •     Playback Actions[CR] •     How Content is Played[CR]"
 msgstr ""
 
 msgctxt "#31205"
 msgid "Video decoder"
-msgstr "Descodificador de vÃ­deo"
+msgstr "Descodificador de vídeo"
 
 msgctxt "#31206"
 msgid "Pixel format"
-msgstr "Formato de pÃ­xel"
+msgstr "Formato de píxel"
 
 msgctxt "#31207"
 msgid "Play Speed"
@@ -911,11 +911,11 @@ msgstr ""
 
 msgctxt "#31223"
 msgid "Video OSD"
-msgstr "Controlos de VÃ­deo"
+msgstr "Controlos de Vídeo"
 
 msgctxt "#31224"
 msgid "Music OSD"
-msgstr "Controlos de MÃºsica"
+msgstr "Controlos de Música"
 
 msgctxt "#31225"
 msgid "Widgets"
@@ -970,7 +970,7 @@ msgid "Top 20 User Rated Movies"
 msgstr ""
 
 msgctxt "#31238"
-msgid "Reset skin settings to defaults?"
+msgid "Reset skin settings to defaults"
 msgstr ""
 
 msgctxt "#31239"
@@ -1134,11 +1134,11 @@ msgid "last on"
 msgstr ""
 
 msgctxt "#31279"
-msgid "[B]Configure LibreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
+msgid "[B]Configure LibreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
 msgstr ""
 
 msgctxt "#31280"
-msgid "[B]Configure CoreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
+msgid "[B]Configure CoreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
 msgstr ""
 
 msgctxt "#31281"
@@ -1431,7 +1431,7 @@ msgstr ""
 
 msgctxt "#31353"
 msgid "CoreELEC Settings"
-msgstr "ConfiguraÃ§Ãµes do CoreELEC"
+msgstr "Configurações do CoreELEC"
 
 msgctxt "#31354"
 msgid "Configure custom widget"
@@ -1551,7 +1551,7 @@ msgstr ""
 
 msgctxt "#31383"
 msgid "Recent recordings"
-msgstr "GravaÃ§Ãµes recentes"
+msgstr "Gravações recentes"
 
 msgctxt "#31384"
 msgid "Grouped recent recordings"
@@ -1795,7 +1795,7 @@ msgstr ""
 
 msgctxt "#31444"
 msgid "LibreELEC Settings"
-msgstr "DefiniÃ§Ãµes do LibreELEC"
+msgstr "Definições do LibreELEC"
 
 msgctxt "#31445"
 msgid "Is playing"
@@ -1803,11 +1803,11 @@ msgstr ""
 
 msgctxt "#31446"
 msgid "Icon"
-msgstr "Ãcone"
+msgstr "Ícone"
 
 msgctxt "#31447"
 msgid "Now playing"
-msgstr "Em reproduÃ§Ã£o"
+msgstr "Em reprodução"
 
 msgctxt "#31448"
 msgid "Now playing..."
@@ -1847,7 +1847,7 @@ msgstr ""
 
 msgctxt "#31457"
 msgid "Preset"
-msgstr "PrÃ©-SelecÃ§Ã£o"
+msgstr "Pré-Selecção"
 
 msgctxt "#31458"
 msgid "Lavender"
@@ -1966,7 +1966,7 @@ msgid "Tv Shows of the year"
 msgstr ""
 
 msgctxt "#31487"
-msgid "[B]File Manager[/B][CR][CR] â€¢     Copy[CR] â€¢     Move[CR] â€¢     Delete[CR] â€¢     Rename[CR] â€¢     Manage Source"
+msgid "[B]File Manager[/B][CR][CR] •     Copy[CR] •     Move[CR] •     Delete[CR] •     Rename[CR] •     Manage Source"
 msgstr ""
 
 msgctxt "#31488"
@@ -2050,7 +2050,7 @@ msgid "Background presets"
 msgstr ""
 
 msgctxt "#31508"
-msgid "Autoscrolling"
+msgid "Auto-scrolling"
 msgstr ""
 
 msgctxt "#31509"
@@ -2218,7 +2218,7 @@ msgid "Event log"
 msgstr ""
 
 msgctxt "#31550"
-msgid "[B]Show event log[/B][CR][CR] â€¢     Basic[CR] â€¢     Information[CR] â€¢     Warning[CR] â€¢     Error [CR]"
+msgid "[B]Show event log[/B][CR][CR] •     Basic[CR] •     Information[CR] •     Warning[CR] •     Error [CR]"
 msgstr ""
 
 msgctxt "#31551"
@@ -2551,11 +2551,8 @@ msgstr "Recuar"
 
 msgctxt "#31633"
 msgid "Fast forward"
-msgstr "AvanÃ§ar"
-msgctxt "#31634"
-msgid "Thin focus border"
-msgstr ""
+msgstr "Avançar"
 
-msgctxt "#31635"
-msgid "TV episode count"
-msgstr ""
+msgctxt "#31634"
+msgid "Bookmark"
+msgstr "Marcador"

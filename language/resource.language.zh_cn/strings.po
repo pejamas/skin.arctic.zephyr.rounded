@@ -1,4 +1,4 @@
-﻿# Kodi Media Center language file
+# Kodi Media Center language file
 # Addon Name: Arctic: Zephyr - Rounded
 # Addon id: skin.arctic.zephyr.mod
 # Addon Provider: jurialmunkey, beatmasterrs
@@ -19,31 +19,31 @@ msgstr ""
 
 msgctxt "#31000"
 msgid "Limit number of items"
-msgstr "å°ç»„ä»¶ä¸­é¡¹ç›®æ•°ä¸Šé™"
+msgstr "小组件中项目数上限"
 
 msgctxt "#31001"
 msgid "Backup / Restore"
-msgstr "å¤‡ä»½/æ¢å¤"
+msgstr "备份/恢复"
 
 msgctxt "#31002"
 msgid "Director show information"
-msgstr "æ˜¾ç¤ºå¯¼æ¼”ä¿¡æ¯"
+msgstr "显示导演信息"
 
 msgctxt "#31003"
 msgid "Feature ends at"
-msgstr "åŠŸèƒ½ç»“æŸäºŽ"
+msgstr "功能结束于"
 
 msgctxt "#31004"
 msgid "Flix"
-msgstr "ç½‘é£žé£Žæ ¼"
+msgstr "网飞风格"
 
 msgctxt "#31005"
 msgid "Modern Fanart"
-msgstr "çŽ°ä»£èƒŒæ™¯å›¾"
+msgstr "现代背景图"
 
 msgctxt "#31006"
 msgid "Colored icon media flags"
-msgstr "å½©è‰²å›¾æ ‡åª’ä½“æ ‡è¯†"
+msgstr "彩色图标媒体标识"
 
 msgctxt "#31007"
 msgid "Arctic Zephyr - Rounded"
@@ -55,331 +55,331 @@ msgstr "Metacritic"
 
 msgctxt "#31009"
 msgid "Resources"
-msgstr "èµ„æº"
+msgstr "资源"
 
 msgctxt "#31010"
 msgid "Video Infodialog"
-msgstr "è§†é¢‘ä¿¡æ¯å¯¹è¯æ¡†"
+msgstr "视频信息对话框"
 
 msgctxt "#31011"
 msgid "Show clearLogo"
-msgstr "æ˜¾ç¤ºé€æ˜Žå¾½æ ‡"
+msgstr "显示透明徽标"
 
 msgctxt "#31012"
 msgid "Videolyrics"
-msgstr "è§†é¢‘æ­Œè¯"
+msgstr "视频歌词"
 
 msgctxt "#31013"
 msgid "Shifted"
-msgstr "åç§»å¸ƒå±€"
+msgstr "偏移布局"
 
 msgctxt "#31014"
 msgid "movies in the library"
-msgstr "èµ„æ–™åº“ä¸­çš„ç”µå½±"
+msgstr "资料库中的电影"
 
 msgctxt "#31015"
 msgid "Use fanart instead of landscape on Tv Shows"
-msgstr "ç”µè§†å‰§ä½¿ç”¨èƒŒæ™¯å›¾è€Œéžæ¨ªç‰ˆå›¾"
+msgstr "电视剧使用背景图而非横版图"
 
 msgctxt "#31016"
 msgid "Use fanart instead of landscape on movies"
-msgstr "ç”µå½±ä½¿ç”¨èƒŒæ™¯å›¾è€Œéžæ¨ªç‰ˆå›¾"
+msgstr "电影使用背景图而非横版图"
 
 msgctxt "#31017"
 msgid "Use fanart instead of landscape on seasons"
-msgstr "å­£é›†ä½¿ç”¨èƒŒæ™¯å›¾è€Œéžæ¨ªç‰ˆå›¾"
+msgstr "季集使用背景图而非横版图"
 
 msgctxt "#31018"
 msgid "Hide bar/CD on lyrics"
-msgstr "æ­Œè¯ç•Œé¢éšè—æŽ§åˆ¶æ /å…‰ç›˜å›¾"
+msgstr "歌词界面隐藏控制栏/光盘图"
 
 msgctxt "#31019"
 msgid "Show PVR technical info"
-msgstr "æ˜¾ç¤º PVR æŠ€æœ¯ä¿¡æ¯"
+msgstr "显示 PVR 技术信息"
 
 msgctxt "#31020"
 msgid "Fullscreen Fanart"
-msgstr "å…¨å±èƒŒæ™¯å›¾"
+msgstr "全屏背景图"
 
 msgctxt "#31021"
 msgid "Extended information"
-msgstr "æ›´å¤šä¿¡æ¯"
+msgstr "更多信息"
 
 msgctxt "#31022"
 msgid "IPTV Recorder"
-msgstr "IPTV å½•åˆ¶"
+msgstr "IPTV 录制"
 
 msgctxt "#31023"
 msgid "Recordings"
-msgstr "å½•åˆ¶æ–‡ä»¶"
+msgstr "录制文件"
 
 msgctxt "#31024"
 msgid "Last Played Channels"
-msgstr "ä¸Šæ¬¡è§‚çœ‹çš„é¢‘é“"
+msgstr "上次观看的频道"
 
 msgctxt "#31025"
 msgid "All Channels"
-msgstr "æ‰€æœ‰é¢‘é“"
+msgstr "所有频道"
 
 msgctxt "#31026"
 msgid "New Movies"
-msgstr "æ–°ç”µå½±"
+msgstr "新电影"
 
 msgctxt "#31027"
 msgid "Recently Played Movies"
-msgstr "æœ€è¿‘æ’­æ”¾çš„ç”µå½±"
+msgstr "最近播放的电影"
 
 msgctxt "#31028"
 msgid "Random Movies"
-msgstr "éšæœºç”µå½±"
+msgstr "随机电影"
 
 msgctxt "#31029"
 msgid "In Progress Movies"
-msgstr "æ­£åœ¨è§‚çœ‹çš„ç”µå½±"
+msgstr "正在观看的电影"
 
 msgctxt "#31030"
 msgid "Top Rated Movies"
-msgstr "æœ€é«˜åˆ†ç”µå½±"
+msgstr "最高分电影"
 
 msgctxt "#31031"
 msgid "Top 250 Movies"
-msgstr "Top250 ç”µå½±"
+msgstr "Top250 电影"
 
 msgctxt "#31032"
 msgid "Unwatched Movies"
-msgstr "æœªè§‚çœ‹çš„ç”µå½±"
+msgstr "未观看的电影"
 
 msgctxt "#31033"
 msgid "Movie Sets"
-msgstr "ç”µå½±åˆé›†"
+msgstr "电影合集"
 
 msgctxt "#31034"
 msgid "New Tv Shows"
-msgstr "æ–°ç”µè§†å‰§"
+msgstr "新电视剧"
 
 msgctxt "#31035"
 msgid "Recently Watched TV Shows"
-msgstr "æœ€è¿‘è§‚çœ‹çš„ç”µè§†å‰§"
+msgstr "最近观看的电视剧"
 
 msgctxt "#31036"
 msgid "Random Tv Shows"
-msgstr "éšæœºç”µè§†å‰§"
+msgstr "随机电视剧"
 
 msgctxt "#31037"
 msgid "Top Rated Tv Shows"
-msgstr "æœ€é«˜åˆ†ç”µè§†å‰§"
+msgstr "最高分电视剧"
 
 msgctxt "#31038"
 msgid "New Episodes"
-msgstr "æ–°å‰§é›†"
+msgstr "新剧集"
 
 msgctxt "#31039"
 msgid "Recently Played Episodes"
-msgstr "æœ€è¿‘æ’­æ”¾çš„å‰§é›†"
+msgstr "最近播放的剧集"
 
 msgctxt "#31040"
 msgid "Random Episodes"
-msgstr "éšæœºå‰§é›†"
+msgstr "随机剧集"
 
 msgctxt "#31041"
 msgid "Unwatched Episodes"
-msgstr "æœªè§‚çœ‹çš„å‰§é›†"
+msgstr "未观看的剧集"
 
 msgctxt "#31042"
 msgid "In Progress Episodes"
-msgstr "æ­£åœ¨è§‚çœ‹çš„å‰§é›†"
+msgstr "正在观看的剧集"
 
 msgctxt "#31043"
 msgid "Top Rated Episodes"
-msgstr "æœ€é«˜åˆ†å‰§é›†"
+msgstr "最高分剧集"
 
 msgctxt "#31044"
 msgid "New Albums"
-msgstr "æ–°ä¸“è¾‘"
+msgstr "新专辑"
 
 msgctxt "#31045"
 msgid "Recently Played Albums"
-msgstr "æœ€è¿‘æ’­æ”¾çš„ä¸“è¾‘"
+msgstr "最近播放的专辑"
 
 msgctxt "#31046"
 msgid "Top Albums"
-msgstr "æœ€é«˜åˆ†ä¸“è¾‘"
+msgstr "最高分专辑"
 
 msgctxt "#31047"
 msgid "Random Albums"
-msgstr "éšæœºä¸“è¾‘"
+msgstr "随机专辑"
 
 msgctxt "#31048"
 msgid "Random Artists"
-msgstr "éšæœºè‰ºæœ¯å®¶"
+msgstr "随机艺术家"
 
 msgctxt "#31049"
 msgid "Show fanart/landscape view"
-msgstr "æ˜¾ç¤ºèƒŒæ™¯å›¾/æ¨ªç‰ˆå›¾è§†å›¾"
+msgstr "显示背景图/横版图视图"
 
 msgctxt "#31050"
 msgid "Display blur effect"
-msgstr "å¯ç”¨æ¨¡ç³Š"
+msgstr "启用模糊"
 
 msgctxt "#31051"
 msgid "This view"
-msgstr "æ­¤è§†å›¾"
+msgstr "此视图"
 
 msgctxt "#31052"
 msgid "Misc"
-msgstr "æ‚é¡¹"
+msgstr "杂项"
 
 msgctxt "#31053"
 msgid "Global options"
-msgstr "å…¨å±€é€‰é¡¹"
+msgstr "全局选项"
 
 msgctxt "#31054"
 msgid "Show discart"
-msgstr "æ˜¾ç¤ºå…‰ç›˜å°é¢"
+msgstr "显示光盘封面"
 
 msgctxt "#31055"
 msgid "Fullsize fanart"
-msgstr "å®Œæ•´èƒŒæ™¯å›¾"
+msgstr "完整背景图"
 
 msgctxt "#31056"
 msgid "Double Poster"
-msgstr "åŒæµ·æŠ¥å¸ƒå±€"
+msgstr "双海报布局"
 
 msgctxt "#31057"
 msgid "Flip poster/fanart"
-msgstr "åˆ‡æ¢æµ·æŠ¥/èƒŒæ™¯å›¾æ˜¾ç¤º"
+msgstr "切换海报/背景图显示"
 
 msgctxt "#31058"
 msgid "Show list instead of posters"
-msgstr "æ˜¾ç¤ºåˆ—è¡¨è€Œéžæµ·æŠ¥"
+msgstr "显示列表而非海报"
 
 msgctxt "#31059"
 msgid "Fanart & poster 2"
-msgstr "èƒŒæ™¯å›¾ï¼†æµ·æŠ¥ 2"
+msgstr "背景图＆海报 2"
 
 msgctxt "#31060"
 msgid "episodes watched"
-msgstr "å·²è§‚çœ‹çš„å‰§é›†"
+msgstr "已观看的剧集"
 
 msgctxt "#31061"
 msgid "h"
-msgstr "æ—¶"
+msgstr "时"
 
 msgctxt "#31062"
 msgid "m"
-msgstr "åˆ†"
+msgstr "分"
 
 msgctxt "#31063"
 msgid "New time format"
-msgstr "æ–°çš„æ—¶é—´æ ¼å¼"
+msgstr "新的时间格式"
 
 msgctxt "#31064"
 msgid "Double Banner"
-msgstr "åŒæ¨ªå¹…å¸ƒå±€"
+msgstr "双横幅布局"
 
 msgctxt "#31065"
 msgid "Flip fanart/banner"
-msgstr "åˆ‡æ¢èƒŒæ™¯å›¾/æ¨ªå¹…æ˜¾ç¤º"
+msgstr "切换背景图/横幅显示"
 
 msgctxt "#31066"
 msgid "Hourly forecast"
-msgstr "æ¯å°æ—¶é¢„æµ‹"
+msgstr "每小时预测"
 
 msgctxt "#31067"
 msgid "Next days forecast"
-msgstr "æœªæ¥å‡ å¤©é¢„æµ‹"
+msgstr "未来几天预测"
 
 msgctxt "#31068"
 msgid "Show RSS Feed on home menu"
-msgstr "åœ¨ä¸»èœå•æ˜¾ç¤º RSS è®¢é˜…"
+msgstr "在主菜单显示 RSS 订阅"
 
 msgctxt "#31069"
 msgid "Show RSS Feed on top instead on bottom"
-msgstr "RSS è®¢é˜…åœ¨é¡¶éƒ¨è€Œéžåº•éƒ¨æ˜¾ç¤º"
+msgstr "RSS 订阅在顶部而非底部显示"
 
 msgctxt "#31070"
 msgid "RSS Feed"
-msgstr "RSS è®¢é˜…"
+msgstr "RSS 订阅"
 
 msgctxt "#31071"
 msgid "Flip list and info"
-msgstr "ç¿»è½¬åˆ—è¡¨å’Œä¿¡æ¯"
+msgstr "翻转列表和信息"
 
 msgctxt "#31072"
 msgid "Elapsed / Remaining Time"
-msgstr "å·²æ’­æ”¾ / å‰©ä½™æ—¶é—´"
+msgstr "已播放 / 剩余时间"
 
 msgctxt "#31073"
 msgid "items"
-msgstr "é¡¹ç›®"
+msgstr "项目"
 
 msgctxt "#31074"
 msgid "min"
-msgstr "åˆ†é’Ÿ"
+msgstr "分钟"
 
 msgctxt "#31075"
 msgid "Live TV"
-msgstr "ç›´æ’­ç”µè§†"
+msgstr "直播电视"
 
 msgctxt "#31076"
 msgid "Used Memory"
-msgstr "å·²ç”¨å†…å­˜"
+msgstr "已用内存"
 
 msgctxt "#31077"
 msgid "Spotlight"
-msgstr "ç²¾é€‰æŽ¨è"
+msgstr "精选推荐"
 
 msgctxt "#31078"
 msgid "Finishes at"
-msgstr "ç»“æŸäºŽ"
+msgstr "结束于"
 
 msgctxt "#31079"
 msgid "Video Stream"
-msgstr "è§†é¢‘æµ"
+msgstr "视频流"
 
 msgctxt "#31080"
 msgid "Customise home menu"
-msgstr "è‡ªå®šä¹‰ä¸»èœå•"
+msgstr "自定义主菜单"
 
 msgctxt "#31081"
 msgid "Background"
-msgstr "èƒŒæ™¯"
+msgstr "背景"
 
 msgctxt "#31082"
 msgid "Show now playing video in background"
-msgstr "åœ¨èƒŒæ™¯æ˜¾ç¤ºæ­£åœ¨æ’­æ”¾çš„è§†é¢‘"
+msgstr "在背景显示正在播放的视频"
 
 msgctxt "#31083"
 msgid "Submenu"
-msgstr "å­èœå•"
+msgstr "子菜单"
 
 msgctxt "#31084"
 msgid "No Timer"
-msgstr "æ— è®¡æ—¶"
+msgstr "无计时"
 
 msgctxt "#31085"
 msgid "Show header info"
-msgstr "æ˜¾ç¤ºé¡¶éƒ¨ä¿¡æ¯"
+msgstr "显示顶部信息"
 
 msgctxt "#31086"
 msgid "DVD Menu"
-msgstr "DVD èœå•"
+msgstr "DVD 菜单"
 
 msgctxt "#31087"
 msgid "Show artist slideshow"
-msgstr "æ˜¾ç¤ºè‰ºæœ¯å®¶å¹»ç¯ç‰‡"
+msgstr "显示艺术家幻灯片"
 
 msgctxt "#31088"
 msgid "Show visualisation behind slideshow"
-msgstr "å¹»ç¯ç‰‡èƒŒæ™¯æ˜¾ç¤ºéŸ³é¢‘å¯è§†åŒ–"
+msgstr "幻灯片背景显示音频可视化"
 
 msgctxt "#31089"
 msgid "Animate artist slideshow"
-msgstr "åŠ¨æ€è‰ºæœ¯å®¶å¹»ç¯ç‰‡"
+msgstr "动态艺术家幻灯片"
 
 msgctxt "#31090"
 msgid "Show fanart"
-msgstr "æ˜¾ç¤ºèƒŒæ™¯å›¾"
+msgstr "显示背景图"
 
 msgctxt "#31091"
 msgid "Letterboxd"
@@ -387,19 +387,19 @@ msgstr "Letterboxd"
 
 msgctxt "#31092"
 msgid "Accent colors"
-msgstr "å¼ºè°ƒè‰²"
+msgstr "强调色"
 
 msgctxt "#31093"
 msgid "Rating stars (media flags section)"
-msgstr "è¯„åˆ†æ˜Ÿçº§ï¼ˆåª’ä½“æ ‡è¯†éƒ¨åˆ†ï¼‰"
+msgstr "评分星级（媒体标识部分）"
 
 msgctxt "#31094"
 msgid "MPAA rating (media flags section)"
-msgstr "MPAAè¯„åˆ†ï¼ˆåª’ä½“æ ‡è¯†éƒ¨åˆ†ï¼‰"
+msgstr "MPAA评分（媒体标识部分）"
 
 msgctxt "#31095"
 msgid "Focus squares"
-msgstr "èšç„¦æ–¹æ¡†"
+msgstr "聚焦方框"
 
 msgctxt "#31096"
 msgid "Trakt"
@@ -407,211 +407,211 @@ msgstr "Trakt"
 
 msgctxt "#31097"
 msgid "Userrating (media flags section)"
-msgstr "ç”¨æˆ·è¯„åˆ†ï¼ˆåª’ä½“æ ‡è¯†éƒ¨åˆ†ï¼‰"
+msgstr "用户评分（媒体标识部分）"
 
 msgctxt "#31098"
 msgid "Hide watched"
-msgstr "éšè—å·²è§‚çœ‹"
+msgstr "隐藏已观看"
 
 msgctxt "#31099"
 msgid "[CR]Based on the original Arctic: Zephyr skin by jurialmunkey and [CR]Arctic: Zephyr Reloaded  skin by beatmasterrs."
-msgstr "[CR]åŸºäºŽ jurialmunkey åŽŸç‰ˆ Arctic: Zephyr çš®è‚¤ä¸Ž[CR]beatmasterrs çš„ Arctic: Zephyr Reloaded çš®è‚¤ä¿®æ”¹ã€‚"
+msgstr "[CR]基于 jurialmunkey 原版 Arctic: Zephyr 皮肤与[CR]beatmasterrs 的 Arctic: Zephyr Reloaded 皮肤修改。"
 
 msgctxt "#31100"
 msgid "Play trailer in windowed mode"
-msgstr "çª—å£åŒ–æ’­æ”¾é¢„å‘Š"
+msgstr "窗口化播放预告"
 
 msgctxt "#31101"
 msgid "Youtube"
-msgstr "æ²¹ç®¡"
+msgstr "油管"
 
 msgctxt "#31102"
 msgid "Set weather fanart"
-msgstr "è®¾ç½®å¤©æ°”èƒŒæ™¯å›¾"
+msgstr "设置天气背景图"
 
 msgctxt "#31103"
 msgid "Widgets"
-msgstr "å°ç»„ä»¶"
+msgstr "小组件"
 
 msgctxt "#31104"
 msgid "Show time, date and weather"
-msgstr "æ˜¾ç¤ºå¤©æ°”"
+msgstr "显示天气"
 
 msgctxt "#31105"
 msgid "Animate fanart"
-msgstr "åŠ¨æ€èƒŒæ™¯å›¾"
+msgstr "动态背景图"
 
 msgctxt "#31106"
 msgid "Extra Info"
-msgstr "é™„åŠ ä¿¡æ¯"
+msgstr "附加信息"
 
 msgctxt "#31107"
 msgid "Wrap list"
-msgstr "é¦–å°¾ç›¸æŽ¥åˆ—è¡¨"
+msgstr "首尾相接列表"
 
 msgctxt "#31108"
 msgid "Set fallback image"
-msgstr "è®¾ç½®å¤‡ç”¨å›¾åƒ"
+msgstr "设置备用图像"
 
 msgctxt "#31109"
 msgid "Power Menu"
-msgstr "ç”µæºèœå•"
+msgstr "电源菜单"
 
 msgctxt "#31110"
 msgid "Furniture"
-msgstr "ç•Œé¢å…ƒç´ "
+msgstr "界面元素"
 
 msgctxt "#31111"
 msgid "Show in the header"
-msgstr "æ˜¾ç¤ºæ—¶é’Ÿ"
+msgstr "显示时钟"
 
 msgctxt "#31112"
 msgid "Show media flags"
-msgstr "æ˜¾ç¤ºåª’ä½“æ ‡è¯†"
+msgstr "显示媒体标识"
 
 msgctxt "#31113"
 msgid "Show now playing info"
-msgstr "æ˜¾ç¤ºæ­£åœ¨æ’­æ”¾ä¿¡æ¯"
+msgstr "显示正在播放信息"
 
 msgctxt "#31114"
 msgid "[COLOR=$VAR[Color_Label_AZR]]Rounded[/COLOR] Skin-Settings"
-msgstr "[COLOR=$VAR[Color_Label_AZR]]åœ†æ¶¦[/COLOR] çš®è‚¤è®¾ç½®"
+msgstr "[COLOR=$VAR[Color_Label_AZR]]圆润[/COLOR] 皮肤设置"
 
 msgctxt "#31115"
 msgid "Trailer of"
-msgstr "é¢„å‘Šç‰‡ï¼š"
+msgstr "预告片："
 
 msgctxt "#31116"
 msgid "Directed by"
-msgstr "å¯¼æ¼”ï¼š"
+msgstr "导演："
 
 msgctxt "#31117"
 msgid "Tv Shows by"
-msgstr "ç”µè§†å‰§ï¼š"
+msgstr "电视剧："
 
 msgctxt "#31118"
-msgid "[B]Configure System Settings[/B][CR][CR] â€¢     Setup and calibrate displays[CR] â€¢     Configure audio output[CR] â€¢     Setup remote controls[CR] â€¢     Set power saving options[CR] â€¢     Enable debugging[CR] â€¢     Setup master lock"
-msgstr "[B]é…ç½®ç³»ç»Ÿè®¾ç½®[/B][CR][CR] â€¢     è®¾ç½®å’Œæ ¡å‡†æ˜¾ç¤ºå™¨[CR] â€¢     é…ç½®éŸ³é¢‘è¾“å‡º[CR] â€¢     é…ç½®é¥æŽ§[CR] â€¢     é…ç½®èŠ‚ç”µé€‰é¡¹[CR] â€¢     å¯ç”¨è°ƒè¯•[CR] â€¢     é…ç½®ä¸»é”"
+msgid "[B]Configure System Settings[/B][CR][CR] •     Setup and calibrate displays[CR] •     Configure audio output[CR] •     Setup remote controls[CR] •     Set power saving options[CR] •     Enable debugging[CR] •     Setup master lock"
+msgstr "[B]配置系统设置[/B][CR][CR] •     设置和校准显示器[CR] •     配置音频输出[CR] •     配置遥控[CR] •     配置节电选项[CR] •     启用调试[CR] •     配置主锁"
 
 msgctxt "#31119"
-msgid "[B]Configure Add-Ons[/B][CR][CR] â€¢     Manage your installed Add-ons[CR] â€¢     Install Add-ons from kodi.tv[CR] â€¢     Modify Add-on settings"
-msgstr "[B]é…ç½®æ’ä»¶[/B][CR][CR] â€¢     ç®¡ç†å·²å®‰è£…æ’ä»¶[CR] â€¢     ä»Ž kodi.tv å®‰è£…æ’ä»¶[CR] â€¢     ä¿®æ”¹æ’ä»¶è®¾ç½®"
+msgid "[B]Configure Add-Ons[/B][CR][CR] •     Manage your installed Add-ons[CR] •     Install Add-ons from kodi.tv[CR] •     Modify Add-on settings"
+msgstr "[B]配置插件[/B][CR][CR] •     管理已安装插件[CR] •     从 kodi.tv 安装插件[CR] •     修改插件设置"
 
 msgctxt "#31120"
-msgid "[B]Configure TV Settings[/B][CR][CR] â€¢     Change full screen info[CR] â€¢     Manage EPG data settings"
-msgstr "[B]é…ç½®ç”µè§†è®¾ç½®[/B][CR][CR] â€¢     æ›´æ”¹å…¨å±ä¿¡æ¯[CR] â€¢     ç®¡ç† EPG æ•°æ®è®¾ç½®"
+msgid "[B]Configure TV Settings[/B][CR][CR] •     Change full screen info[CR] •     Manage EPG data settings"
+msgstr "[B]配置电视设置[/B][CR][CR] •     更改全屏信息[CR] •     管理 EPG 数据设置"
 
 msgctxt "#31121"
-msgid "[B]Configure Service Settings[/B][CR][CR] â€¢     Control via UPnP and HTTP[CR] â€¢     Configure file sharing[CR] â€¢     Enable Zeroconf[CR] â€¢     Configure AirPlay"
-msgstr "[B]é…ç½®æœåŠ¡è®¾ç½®[/B][CR][CR] â€¢     é€šè¿‡ UPnP å’Œ HTTP æŽ§åˆ¶[CR] â€¢     é…ç½® æ–‡ä»¶å…±äº«[CR] â€¢     å¯ç”¨ Zeroconf[CR] â€¢     é…ç½® AirPlay"
+msgid "[B]Configure Service Settings[/B][CR][CR] •     Control via UPnP and HTTP[CR] •     Configure file sharing[CR] •     Enable Zeroconf[CR] •     Configure AirPlay"
+msgstr "[B]配置服务设置[/B][CR][CR] •     通过 UPnP 和 HTTP 控制[CR] •     配置 文件共享[CR] •     启用 Zeroconf[CR] •     配置 AirPlay"
 
 msgctxt "#31122"
-msgid "[B]Configure Profile Settings[/B][CR][CR] â€¢     Setup user profiles[CR] â€¢     Enable login screen[CR] â€¢     Set master locks[CR] â€¢     Control access to content"
-msgstr "[B]è®¾ç½®é…ç½®æ–‡ä»¶[/B][CR][CR] â€¢     è®¾ç½®ç”¨æˆ·é…ç½®æ–‡ä»¶[CR] â€¢     å¯ç”¨ç™»å½•ç•Œé¢[CR] â€¢     è®¾ç½®ä¸»é”[CR] â€¢     æŽ§åˆ¶å†…å®¹è®¿é—®"
+msgid "[B]Configure Profile Settings[/B][CR][CR] •     Setup user profiles[CR] •     Enable login screen[CR] •     Set master locks[CR] •     Control access to content"
+msgstr "[B]设置配置文件[/B][CR][CR] •     设置用户配置文件[CR] •     启用登录界面[CR] •     设置主锁[CR] •     控制内容访问"
 
 msgctxt "#31123"
-msgid "[B]Configure Skin Settings[/B][CR][CR] â€¢     Customise the home screen[CR] â€¢     Set background options[CR] â€¢     Configure OSD options[CR] â€¢     Enable add-on support[CR] â€¢     Disable screen elements"
-msgstr "[B]é…ç½®çš®è‚¤è®¾ç½®[/B][CR][CR] â€¢     è‡ªå®šä¹‰ä¸»å±å¹•[CR] â€¢     è®¾ç½®èƒŒæ™¯é€‰é¡¹[CR] â€¢     é…ç½® OSD é€‰é¡¹[CR] â€¢     å¯ç”¨é™„åŠ æ”¯æŒ[CR] â€¢     ç¦ç”¨å±å¹•å…ƒç´ "
+msgid "[B]Configure Skin Settings[/B][CR][CR] •     Customise the home screen[CR] •     Set background options[CR] •     Configure OSD options[CR] •     Enable add-on support[CR] •     Disable screen elements"
+msgstr "[B]配置皮肤设置[/B][CR][CR] •     自定义主屏幕[CR] •     设置背景选项[CR] •     配置 OSD 选项[CR] •     启用附加支持[CR] •     禁用屏幕元素"
 
 msgctxt "#31124"
-msgid "[B]View System Information[/B][CR][CR] â€¢     Summary[CR] â€¢     Storage[CR] â€¢     Network[CR] â€¢     Video[CR] â€¢     Hardware[CR] â€¢     PVR Backend"
-msgstr "[B]æŸ¥çœ‹ç³»ç»Ÿä¿¡æ¯[/B][CR][CR] â€¢     æ¦‚è§ˆ[CR] â€¢     å­˜å‚¨[CR] â€¢     ç½‘ç»œ[CR] â€¢     è§†é¢‘[CR] â€¢     ç¡¬ä»¶[CR] â€¢     PVR åŽç«¯"
+msgid "[B]View System Information[/B][CR][CR] •     Summary[CR] •     Storage[CR] •     Network[CR] •     Video[CR] •     Hardware[CR] •     PVR Backend"
+msgstr "[B]查看系统信息[/B][CR][CR] •     概览[CR] •     存储[CR] •     网络[CR] •     视频[CR] •     硬件[CR] •     PVR 后端"
 
 msgctxt "#31125"
 msgid "Startup video or music playlist"
-msgstr "å¯åŠ¨æ—¶çš„è§†é¢‘/éŸ³ä¹æ’­æ”¾åˆ—è¡¨"
+msgstr "启动时的视频/音乐播放列表"
 
 msgctxt "#31126"
 msgid "Extras"
-msgstr "é¢å¤–"
+msgstr "额外"
 
 msgctxt "#31127"
 msgid "Cinema Experience"
-msgstr "å½±é™¢ä½“éªŒ"
+msgstr "影院体验"
 
 msgctxt "#31128"
 msgid "Movies by"
-msgstr "ç”µå½±ï¼š"
+msgstr "电影："
 
 msgctxt "#31129"
 msgid "Recently added"
-msgstr "æœ€è¿‘æ–°å¢ž"
+msgstr "最近新增"
 
 msgctxt "#31130"
 msgid "Recently played"
-msgstr "æœ€è¿‘æ’­æ”¾"
+msgstr "最近播放"
 
 msgctxt "#31131"
 msgid "Play random"
-msgstr "éšæœºæ’­æ”¾"
+msgstr "随机播放"
 
 msgctxt "#31132"
 msgid "Delete Settings Shortcut"
-msgstr "åˆ é™¤è®¾ç½®å¿«æ·æ–¹å¼"
+msgstr "删除设置快捷方式"
 
 msgctxt "#31133"
 msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
-msgstr "æ‚¨ç¡®å®šè¦åˆ é™¤è®¾ç½®å¿«æ·æ–¹å¼å—ï¼Ÿ[CR]åœ¨åˆ é™¤æ­¤å¿«æ·æ–¹å¼ä¹‹å‰ï¼Œè¯·ç¡®ä¿æ‚¨æœ‰å…¶ä»–è®¿é—®è®¾ç½®çš„æ–¹æ³•ã€‚"
+msgstr "您确定要删除设置快捷方式吗？[CR]在删除此快捷方式之前，请确保您有其他访问设置的方法。"
 
 msgctxt "#31134"
 msgid "Hub items"
-msgstr "åˆ†ç±»ä¸­å¿ƒé¡¹"
+msgstr "分类中心项"
 
 msgctxt "#31135"
 msgid "Cast of"
-msgstr "æ¼”å‘˜é˜µå®¹ï¼š"
+msgstr "演员阵容："
 
 msgctxt "#31136"
 msgid "Similar to"
-msgstr "ç±»ä¼¼ä½œå“ï¼š"
+msgstr "类似作品："
 
 msgctxt "#31137"
 msgid "Fanart of"
-msgstr "èƒŒæ™¯å›¾ï¼š"
+msgstr "背景图："
 
 msgctxt "#31138"
 msgid "Youtube videos of"
-msgstr "Youtube è§†é¢‘ï¼š"
+msgstr "Youtube 视频："
 
 msgctxt "#31139"
 msgid "Crew of"
-msgstr "æ‘„åˆ¶ç»„ï¼š"
+msgstr "摄制组："
 
 msgctxt "#31140"
 msgid "Big poster"
-msgstr "å¤§æµ·æŠ¥"
+msgstr "大海报"
 
 msgctxt "#31141"
 msgid "Filmography of"
-msgstr "å½±è§†ä½œå“ï¼š"
+msgstr "影视作品："
 
 msgctxt "#31142"
 msgid "TV Show appearances of"
-msgstr "å‚æ¼”ç”µè§†å‰§ï¼š"
+msgstr "参演电视剧："
 
 msgctxt "#31143"
 msgid "Discography of"
-msgstr "éŸ³ä¹ä½œå“ï¼š"
+msgstr "音乐作品："
 
 msgctxt "#31144"
 msgid "Movie Hub"
-msgstr "ç”µå½±åˆ†ç±»ä¸­å¿ƒ"
+msgstr "电影分类中心"
 
 msgctxt "#31145"
 msgid "TV Hub"
-msgstr "ç”µè§†ä¸­å¿ƒ"
+msgstr "电视中心"
 
 msgctxt "#31146"
 msgid "Reload Skin"
-msgstr "é‡è½½çš®è‚¤"
+msgstr "重载皮肤"
 
 msgctxt "#31147"
 msgid "Cards"
-msgstr "å¡ç‰‡"
+msgstr "卡片"
 
 msgctxt "#31148"
 msgid "Kiosk mode"
-msgstr "å”®è´§äº­æ¨¡å¼"
+msgstr "售货亭模式"
 
 msgctxt "#31149"
 msgid "IMDb"
@@ -619,95 +619,95 @@ msgstr "IMDb"
 
 msgctxt "#31150"
 msgid "Show detailed info when video is paused"
-msgstr "åœ¨è§†é¢‘æš‚åœæ—¶æ˜¾ç¤ºè¯¦ç»†ä¿¡æ¯"
+msgstr "在视频暂停时显示详细信息"
 
 msgctxt "#31151"
 msgid "Artwork"
-msgstr "è‰ºæœ¯å›¾"
+msgstr "艺术图"
 
 msgctxt "#31152"
 msgid "Released by"
-msgstr "å‘è¡Œæ–¹ï¼š"
+msgstr "发行方："
 
 msgctxt "#31153"
 msgid "Similar"
-msgstr "ç±»ä¼¼"
+msgstr "类似"
 
 msgctxt "#31154"
 msgid "Studio movies"
-msgstr "åˆ¶ç‰‡åŽ‚å‡ºå“å½±ç‰‡"
+msgstr "制片厂出品影片"
 
 msgctxt "#31155"
 msgid "In Cinemas"
-msgstr "å½±é™¢çƒ­æ˜ "
+msgstr "影院热映"
 
 msgctxt "#31156"
 msgid "Upcoming"
-msgstr "æœªä¸Šæ˜ "
+msgstr "未上映"
 
 msgctxt "#31157"
 msgid "Popular"
-msgstr "æµè¡Œ"
+msgstr "流行"
 
 msgctxt "#31158"
 msgid "Top Rated"
-msgstr "æœ€é«˜åˆ†"
+msgstr "最高分"
 
 msgctxt "#31159"
 msgid "Airing"
-msgstr "æ­£åœ¨æ’­å‡º"
+msgstr "正在播出"
 
 msgctxt "#31160"
 msgid "Today"
-msgstr "ä»Šæ—¥"
+msgstr "今日"
 
 msgctxt "#31161"
 msgid "Show plot"
-msgstr "æ˜¾ç¤ºå‰§æƒ…ç®€ä»‹"
+msgstr "显示剧情简介"
 
 msgctxt "#31162"
 msgid "Tracklist of"
-msgstr "æ›²ç›®åˆ—è¡¨ï¼š"
+msgstr "曲目列表："
 
 msgctxt "#31163"
 msgid "Show numeric rating"
-msgstr "æ˜¾ç¤ºæ•°å­—è¯„åˆ†"
+msgstr "显示数字评分"
 
 msgctxt "#31164"
 msgid "Next Aired"
-msgstr "æŽ¥ä¸‹æ¥æ”¾é€"
+msgstr "接下来放送"
 
 msgctxt "#31165"
 msgid "Studio"
-msgstr "å·¥ä½œå®¤"
+msgstr "工作室"
 
 msgctxt "#31166"
 msgid "Cast"
-msgstr "æ¼”å‘˜é˜µå®¹"
+msgstr "演员阵容"
 
 msgctxt "#31167"
 msgid "Youtube"
-msgstr "æ²¹ç®¡"
+msgstr "油管"
 
 msgctxt "#31168"
 msgid "Crew"
-msgstr "æ‘„åˆ¶ç»„"
+msgstr "摄制组"
 
 msgctxt "#31169"
 msgid "Albums of"
-msgstr "ç›¸å…³ä¸“è¾‘ï¼š"
+msgstr "相关专辑："
 
 msgctxt "#31170"
 msgid "Tracklist"
-msgstr "éŸ³è½¨"
+msgstr "音轨"
 
 msgctxt "#31171"
 msgid "Screenshots of"
-msgstr "æˆªå›¾ï¼š"
+msgstr "截图："
 
 msgctxt "#31172"
 msgid "Reboot to eMMC/NAND"
-msgstr "é‡å¯åˆ° eMMC/NAND"
+msgstr "重启到 eMMC/NAND"
 
 msgctxt "#31173"
 msgid "TMDb"
@@ -715,183 +715,183 @@ msgstr "TMDb"
 
 msgctxt "#31174"
 msgid "Now playing..."
-msgstr "æ­£åœ¨æ’­æ”¾â€¦"
+msgstr "正在播放…"
 
 msgctxt "#31175"
 msgid "Select highlight color"
-msgstr "é€‰æ‹©é«˜äº®é¢œè‰²"
+msgstr "选择高亮颜色"
 
 msgctxt "#31176"
 msgid "Current Color"
-msgstr "å½“å‰é¢œè‰²"
+msgstr "当前颜色"
 
 msgctxt "#31177"
 msgid "Thumbnail Horizontal"
-msgstr "æ¨ªç‰ˆç¼©ç•¥å›¾"
+msgstr "横版缩略图"
 
 msgctxt "#31178"
 msgid "Icons Info"
-msgstr "å›¾æ ‡ä¿¡æ¯"
+msgstr "图标信息"
 
 msgctxt "#31179"
 msgid "from themoviedb.org"
-msgstr "æ•°æ®æ¥æºï¼šthemoviedb.org"
+msgstr "数据来源：themoviedb.org"
 
 msgctxt "#31180"
 msgid "Startup image"
-msgstr "å¯åŠ¨æ—¶å›¾åƒ"
+msgstr "启动时图像"
 
 msgctxt "#31181"
 msgid "Home menu style"
-msgstr "ä¸»èœå•æ ·å¼"
+msgstr "主菜单样式"
 
 msgctxt "#31182"
 msgid "Vertical"
-msgstr "åž‚ç›´"
+msgstr "垂直"
 
 msgctxt "#31183"
 msgid "Seasons of"
-msgstr "å­£ï¼š"
+msgstr "季："
 
 msgctxt "#31184"
 msgid "Collections of"
-msgstr "åˆé›†ï¼š"
+msgstr "合集："
 
 msgctxt "#31185"
 msgid "Display OSD at startup"
-msgstr "å¯åŠ¨æ—¶æ˜¾ç¤º OSD"
+msgstr "启动时显示 OSD"
 
 msgctxt "#31186"
 msgid "Fanart Thumbs"
-msgstr "ç¼©ç•¥å›¾ï¼ˆèƒŒæ™¯å›¾ï¼‰"
+msgstr "缩略图（背景图）"
 
 msgctxt "#31187"
 msgid "Extra fanart"
-msgstr "é¢å¤–èƒŒæ™¯å›¾"
+msgstr "额外背景图"
 
 msgctxt "#31188"
 msgid "Set weather icons"
-msgstr "è®¾ç½®å¤©æ°”å›¾æ ‡"
+msgstr "设置天气图标"
 
 msgctxt "#31189"
 msgid "Widget aspect"
-msgstr "å°ç»„ä»¶ç±»åž‹"
+msgstr "小组件类型"
 
 msgctxt "#31190"
 msgid "Poster"
-msgstr "æµ·æŠ¥"
+msgstr "海报"
 
 msgctxt "#31191"
 msgid "Square"
-msgstr "æ–¹å½¢"
+msgstr "方形"
 
 msgctxt "#31192"
 msgid "Extended information"
-msgstr "é™„åŠ åˆ—è¡¨"
+msgstr "附加列表"
 
 msgctxt "#31193"
 msgid "Fanart"
-msgstr "èƒŒæ™¯å›¾"
+msgstr "背景图"
 
 msgctxt "#31194"
 msgid "Action"
-msgstr "åŠ¨ä½œ"
+msgstr "动作"
 
 msgctxt "#31195"
 msgid "Label"
-msgstr "æ ‡ç­¾"
+msgstr "标签"
 
 msgctxt "#31196"
 msgid "Fallback widget"
-msgstr "é»˜è®¤å°ç»„ä»¶"
+msgstr "默认小组件"
 
 msgctxt "#31197"
 msgid "Video / Music OSD"
-msgstr "è§†é¢‘/éŸ³ä¹ OSD"
+msgstr "视频/音乐 OSD"
 
 msgctxt "#31198"
 msgid "Single Image"
-msgstr "å•å›¾"
+msgstr "单图"
 
 msgctxt "#31199"
 msgid "Multi Image"
-msgstr "å¤šå›¾"
+msgstr "多图"
 
 msgctxt "#31200"
 msgid "Hub widget"
-msgstr "åˆ†ç±»ä¸­å¿ƒå°ç»„ä»¶"
+msgstr "分类中心小组件"
 
 msgctxt "#31201"
 msgid "Most played Song"
-msgstr "æœ€å¸¸æ’­æ”¾æ­Œæ›²"
+msgstr "最常播放歌曲"
 
 msgctxt "#31202"
-msgid "[B]Configure Interface Settings[/B][CR][CR] â€¢     Skin[CR] â€¢     Region[CR] â€¢     Control[CR] â€¢     Screensaver[CR] â€¢     Master Lock[CR]"
-msgstr "[B]é…ç½®äº¤äº’ç•Œé¢è®¾ç½®[/B][CR][CR] â€¢     çš®è‚¤[CR] â€¢     åœ°åŒº[CR] â€¢     æŽ§åˆ¶[CR] â€¢     å±ä¿[CR] â€¢     ä¸»é”[CR]"
+msgid "[B]Configure Interface Settings[/B][CR][CR] •     Skin[CR] •     Region[CR] •     Control[CR] •     Screensaver[CR] •     Master Lock[CR]"
+msgstr "[B]配置交互界面设置[/B][CR][CR] •     皮肤[CR] •     地区[CR] •     控制[CR] •     屏保[CR] •     主锁[CR]"
 
 msgctxt "#31203"
-msgid "[B]Configure Library Settings[/B][CR][CR] â€¢     Display[CR] â€¢     Navigation[CR] â€¢     Media Database[CR]"
-msgstr "[B]é…ç½®èµ„æ–™åº“è®¾ç½®[/B][CR][CR] â€¢     æ˜¾ç¤º[CR] â€¢     å¯¼èˆª[CR] â€¢     åª’ä½“æ•°æ®åº“[CR]"
+msgid "[B]Configure Library Settings[/B][CR][CR] •     Display[CR] •     Navigation[CR] •     Media Database[CR]"
+msgstr "[B]配置资料库设置[/B][CR][CR] •     显示[CR] •     导航[CR] •     媒体数据库[CR]"
 
 msgctxt "#31204"
-msgid "[B]Configure Player Settings[/B][CR][CR] â€¢     Playback Actions[CR] â€¢     How Content is Played[CR]"
-msgstr "[B]é…ç½®æ’­æ”¾å™¨è®¾ç½®[/B][CR][CR] â€¢     æ’­æ”¾åŠ¨ä½œ[CR] â€¢     å†…å®¹æ’­æ”¾æ–¹å¼[CR]"
+msgid "[B]Configure Player Settings[/B][CR][CR] •     Playback Actions[CR] •     How Content is Played[CR]"
+msgstr "[B]配置播放器设置[/B][CR][CR] •     播放动作[CR] •     内容播放方式[CR]"
 
 msgctxt "#31205"
 msgid "Video decoder"
-msgstr "è§†é¢‘è§£ç å™¨"
+msgstr "视频解码器"
 
 msgctxt "#31206"
 msgid "Pixel format"
-msgstr "åƒç´ æ ¼å¼"
+msgstr "像素格式"
 
 msgctxt "#31207"
 msgid "Play Speed"
-msgstr "æ’­æ”¾é€Ÿåº¦"
+msgstr "播放速度"
 
 msgctxt "#31208"
 msgid "Special Features"
-msgstr "ç‰¹åˆ«æ”¶å½•"
+msgstr "特别收录"
 
 msgctxt "#31209"
 msgid "Select artwork"
-msgstr "é€‰æ‹©è‰ºæœ¯å›¾"
+msgstr "选择艺术图"
 
 msgctxt "#31210"
 msgid "Top Songs"
-msgstr "æœ€é«˜åˆ†æ­Œæ›²"
+msgstr "最高分歌曲"
 
 msgctxt "#31211"
 msgid "Random Songs"
-msgstr "éšæœºæ­Œæ›²"
+msgstr "随机歌曲"
 
 msgctxt "#31212"
 msgid "Horizontal"
-msgstr "æ°´å¹³"
+msgstr "水平"
 
 msgctxt "#31213"
 msgid "Weather - daily"
-msgstr "æ¯æ—¥å¤©æ°”"
+msgstr "每日天气"
 
 msgctxt "#31214"
 msgid "Weather - hourly"
-msgstr "æ¯å°æ—¶å¤©æ°”"
+msgstr "每小时天气"
 
 msgctxt "#31215"
 msgid "Open Player Process Information"
-msgstr "æ‰“å¼€æ’­æ”¾å™¨è¿›ç¨‹ä¿¡æ¯"
+msgstr "打开播放器进程信息"
 
 msgctxt "#31216"
 msgid "Player-Cache"
-msgstr "æ’­æ”¾å™¨ç¼“å­˜"
+msgstr "播放器缓存"
 
 msgctxt "#31217"
 msgid "Channel List"
-msgstr "é¢‘é“åˆ—è¡¨"
+msgstr "频道列表"
 
 msgctxt "#31218"
 msgid "This is your personal rating and will not be published."
-msgstr "è¿™æ˜¯æ‚¨çš„ä¸ªäººè¯„åˆ†ï¼Œä¸ä¼šå…¬å¸ƒã€‚"
+msgstr "这是您的个人评分，不会公布。"
 
 msgctxt "#31219"
 msgid "       "
@@ -899,127 +899,127 @@ msgstr "      "
 
 msgctxt "#31220"
 msgid "Video / Music Info"
-msgstr "è§†é¢‘/éŸ³ä¹ ä¿¡æ¯"
+msgstr "视频/音乐 信息"
 
 msgctxt "#31221"
 msgid "Show plot on HUB"
-msgstr "åœ¨åˆ†ç±»ä¸­å¿ƒæ˜¾ç¤ºå‰§æƒ…ç®€ä»‹"
+msgstr "在分类中心显示剧情简介"
 
 msgctxt "#31222"
 msgid "Colors"
-msgstr "é¢œè‰²"
+msgstr "颜色"
 
 msgctxt "#31223"
 msgid "Video OSD"
-msgstr "è§†é¢‘ OSD"
+msgstr "视频 OSD"
 
 msgctxt "#31224"
 msgid "Music OSD"
-msgstr "éŸ³ä¹ OSD"
+msgstr "音乐 OSD"
 
 msgctxt "#31225"
 msgid "Widgets"
-msgstr "å°ç»„ä»¶"
+msgstr "小组件"
 
 msgctxt "#31226"
 msgid "Views"
-msgstr "è§†å›¾"
+msgstr "视图"
 
 msgctxt "#31227"
 msgid "HUBs"
-msgstr "åˆ†ç±»ä¸­å¿ƒ"
+msgstr "分类中心"
 
 msgctxt "#31228"
 msgid "ClearArt"
-msgstr "é€æ˜Žè‰ºæœ¯å›¾"
+msgstr "透明艺术图"
 
 msgctxt "#31229"
 msgid "Media-Flags"
-msgstr "åª’ä½“-æ ‡è¯†"
+msgstr "媒体-标识"
 
 msgctxt "#31230"
 msgid "Enable grid"
-msgstr "å¯ç”¨ç½‘æ ¼"
+msgstr "启用网格"
 
 msgctxt "#31231"
 msgid "Hide play/pause info"
-msgstr "éšè—æ’­æ”¾/æš‚åœä¿¡æ¯"
+msgstr "隐藏播放/暂停信息"
 
 msgctxt "#31232"
 msgid "Auto close OSD after delay (in seconds)"
-msgstr "å»¶æ—¶è‡ªåŠ¨å…³é—­ OSDï¼ˆä»¥ç§’ä¸ºå•ä½ï¼‰"
+msgstr "延时自动关闭 OSD（以秒为单位）"
 
 msgctxt "#31233"
 msgid "Random Artists with biography only"
-msgstr "ä»…é™å¸¦æœ‰ä¼ è®°çš„éšæœºè‰ºæœ¯å®¶"
+msgstr "仅限带有传记的随机艺术家"
 
 msgctxt "#31234"
 msgid "People"
-msgstr "äººç‰©"
+msgstr "人物"
 
 msgctxt "#31235"
 msgid "Recently added Artists"
-msgstr "æœ€è¿‘æ·»åŠ çš„è‰ºæœ¯å®¶"
+msgstr "最近添加的艺术家"
 
 msgctxt "#31236"
 msgid "Recently added Artists with biography only"
-msgstr "ä»…é™å¸¦æœ‰ä¼ è®°çš„æœ€è¿‘æ·»åŠ çš„è‰ºæœ¯å®¶"
+msgstr "仅限带有传记的最近添加的艺术家"
 
 msgctxt "#31237"
 msgid "Top 20 User Rated Movies"
-msgstr "ç”¨æˆ·è¯„ä»·æœ€é«˜çš„ 20 éƒ¨ç”µå½±"
+msgstr "用户评价最高的 20 部电影"
 
 msgctxt "#31238"
-msgid "Reset skin settings to defaults?"
-msgstr "å°†çš®è‚¤è®¾ç½®é‡ç½®ä¸ºé»˜è®¤å€¼ï¼Ÿ"
+msgid "Reset skin settings to defaults"
+msgstr "将皮肤设置重置为默认值？"
 
 msgctxt "#31239"
 msgid "Reset skin settings to defaults? WARNING: This will also reset your home menu to skin defaults!"
-msgstr "å°†çš®è‚¤è®¾ç½®é‡ç½®ä¸ºé»˜è®¤å€¼ï¼Ÿè­¦å‘Š:è¿™ä¹Ÿå°†æŠŠä½ çš„ä¸»é¡µèœå•é‡ç½®ä¸ºçš®è‚¤é»˜è®¤å€¼ï¼"
+msgstr "将皮肤设置重置为默认值？警告:这也将把你的主页菜单重置为皮肤默认值！"
 
 msgctxt "#31240"
 msgid "Random Actors ordered by movies"
-msgstr "æŒ‰ç”µå½±æŽ’åºçš„éšæœºæ¼”å‘˜"
+msgstr "按电影排序的随机演员"
 
 msgctxt "#31241"
 msgid "New Unwatched Movies"
-msgstr "æœªè§‚çœ‹çš„æ–°ç”µå½±"
+msgstr "未观看的新电影"
 
 msgctxt "#31242"
 msgid "New Unwatched Episodes"
-msgstr "æœªè§‚çœ‹çš„æ–°å‰§é›†"
+msgstr "未观看的新剧集"
 
 msgctxt "#31243"
 msgid "New Unwatched Tv Shows"
-msgstr "æœªè§‚çœ‹çš„æ–°ç”µè§†å‰§"
+msgstr "未观看的新电视剧"
 
 msgctxt "#31244"
 msgid "Search results for"
-msgstr "æœç´¢ç»“æžœå‡ºè‡ª"
+msgstr "搜索结果出自"
 
 msgctxt "#31245"
 msgid "Side Cards"
-msgstr "ä¾§æ»‘å¡ç‰‡"
+msgstr "侧滑卡片"
 
 msgctxt "#31246"
 msgid "Seasons info"
-msgstr "å­£ä¿¡æ¯"
+msgstr "季信息"
 
 msgctxt "#31247"
 msgid "ClearLogo"
-msgstr "é€æ˜Žå¾½æ ‡"
+msgstr "透明徽标"
 
 msgctxt "#31248"
 msgid "Show ClearLogo"
-msgstr "æ˜¾ç¤ºé€æ˜Žå¾½æ ‡/è‰ºæœ¯å›¾"
+msgstr "显示透明徽标/艺术图"
 
 msgctxt "#31249"
 msgid "Songs by"
-msgstr "æ¼”å”±ï¼š"
+msgstr "演唱："
 
 msgctxt "#31250"
 msgid "Poster Wall Small"
-msgstr "æµ·æŠ¥å¢™ï¼ˆå°ï¼‰"
+msgstr "海报墙（小）"
 
 msgctxt "#31251"
 msgid "MDBList"
@@ -1043,103 +1043,103 @@ msgstr "25"
 
 msgctxt "#31256"
 msgid "Auto-scrolling"
-msgstr "è‡ªåŠ¨æ»šåŠ¨"
+msgstr "自动滚动"
 
 msgctxt "#31257"
 msgid "Widget-listtype"
-msgstr "å°ç»„ä»¶-åˆ—è¡¨æ¨¡å¼"
+msgstr "小组件-列表模式"
 
 msgctxt "#31258"
 msgid "List"
-msgstr "åˆ—è¡¨"
+msgstr "列表"
 
 msgctxt "#31259"
 msgid "Fixed list"
-msgstr "å›ºå®šåˆ—è¡¨"
+msgstr "固定列表"
 
 msgctxt "#31260"
 msgid "Studio logo"
-msgstr "å·¥ä½œå®¤å¾½æ ‡"
+msgstr "工作室徽标"
 
 msgctxt "#31261"
 msgid "Rating flag"
-msgstr "è¯„åˆ†æ ‡è¯†"
+msgstr "评分标识"
 
 msgctxt "#31262"
 msgid "Movie Genre Icons"
-msgstr "ç”µå½±ç±»åž‹å›¾æ ‡"
+msgstr "电影类型图标"
 
 msgctxt "#31263"
 msgid "Studio Icons"
-msgstr "å·¥ä½œå®¤å›¾æ ‡"
+msgstr "工作室图标"
 
 msgctxt "#31264"
 msgid "Record Label Icons"
-msgstr "å”±ç‰‡å…¬å¸å›¾æ ‡"
+msgstr "唱片公司图标"
 
 msgctxt "#31265"
 msgid "Animate fanart/slideshow"
-msgstr "åŠ¨æ€æ˜¾ç¤ºèƒŒæ™¯å›¾/å¹»ç¯ç‰‡"
+msgstr "动态显示背景图/幻灯片"
 
 msgctxt "#31266"
 msgid "Normal"
-msgstr "æ™®é€š"
+msgstr "普通"
 
 msgctxt "#31267"
 msgid "Slow"
-msgstr "æ…¢"
+msgstr "慢"
 
 msgctxt "#31268"
 msgid "Very slow"
-msgstr "éžå¸¸æ…¢"
+msgstr "非常慢"
 
 msgctxt "#31269"
 msgid "Fadetime"
-msgstr "æ·¡å‡ºæ—¶é—´"
+msgstr "淡出时间"
 
 msgctxt "#31270"
 msgid "Customise power menu"
-msgstr "è‡ªå®šä¹‰ç”µæºèœå•"
+msgstr "自定义电源菜单"
 
 msgctxt "#31271"
 msgid "Log off: $INFO[system.profilename]"
-msgstr "æ³¨é”€ï¼š$INFO[system.profilename]"
+msgstr "注销：$INFO[system.profilename]"
 
 msgctxt "#31272"
 msgid "Delete/Disable Settings Menu Item?"
-msgstr "åˆ é™¤/ç¦ç”¨è®¾ç½®èœå•é¡¹ï¼Ÿ"
+msgstr "删除/禁用设置菜单项？"
 
 msgctxt "#31273"
 msgid "Are you sure you want to remove the Settings menu item?[CR]Please ensure that you have an alternative method of accessing Settings before you remove this menu item."
-msgstr "æ‚¨ç¡®å®šè¦åˆ é™¤è®¾ç½®èœå•é¡¹å—ï¼Ÿ[CR]åœ¨åˆ é™¤æ­¤èœå•é¡¹ä¹‹å‰ï¼Œè¯·ç¡®ä¿æ‚¨æœ‰å…¶ä»–è®¿é—®è®¾ç½®çš„æ–¹æ³•ã€‚"
+msgstr "您确定要删除设置菜单项吗？[CR]在删除此菜单项之前，请确保您有其他访问设置的方法。"
 
 msgctxt "#31274"
 msgid "Shutdown in: [B]$INFO[System.Alarmpos][/B]"
-msgstr "å°†åœ¨ [B]$INFO[System.Alarmpos][/B] åŽå…³æœº"
+msgstr "将在 [B]$INFO[System.Alarmpos][/B] 后关机"
 
 msgctxt "#31275"
 msgid "Show Filenames"
-msgstr "æ˜¾ç¤ºæ–‡ä»¶å"
+msgstr "显示文件名"
 
 msgctxt "#31276"
 msgid "Shifted ClearArt"
-msgstr "åç§»é€æ˜Žè‰ºæœ¯å›¾"
+msgstr "偏移透明艺术图"
 
 msgctxt "#31277"
 msgid "total"
-msgstr "å…¨éƒ¨"
+msgstr "全部"
 
 msgctxt "#31278"
 msgid "last on"
-msgstr "æœ€åŽåœ¨"
+msgstr "最后在"
 
 msgctxt "#31279"
-msgid "[B]Configure LibreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
-msgstr "[B]é…ç½® LibreELEC è®¾ç½®[/B][CR][CR] â€¢     ç³»ç»Ÿè®¾ç½®[CR] â€¢     é…ç½®ç³»ç»Ÿæ›´æ–°ä¸Žæ ¡å‡†ç½‘ç»œ[CR] â€¢     è®¾ç½®ä¸Žæ ¡å‡†ç½‘ç»œ[CR] â€¢     é…ç½®è¿žæŽ¥[CR]"
+msgid "[B]Configure LibreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
+msgstr "[B]配置 LibreELEC 设置[/B][CR][CR] •     系统设置[CR] •     配置系统更新与校准网络[CR] •     设置与校准网络[CR] •     配置连接[CR]"
 
 msgctxt "#31280"
-msgid "[B]Configure CoreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
-msgstr "[B]é…ç½®  CoreELEC è®¾ç½®[/B][CR][CR] â€¢     ç³»ç»Ÿè®¾ç½®[CR] â€¢     é…ç½®ç³»ç»Ÿæ›´æ–°ä¸Žæ ¡å‡†ç½‘ç»œ[CR] â€¢     è®¾ç½®ä¸Žæ ¡å‡†ç½‘ç»œ[CR] â€¢     é…ç½®è¿žæŽ¥[CR]"
+msgid "[B]Configure CoreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
+msgstr "[B]配置  CoreELEC 设置[/B][CR][CR] •     系统设置[CR] •     配置系统更新与校准网络[CR] •     设置与校准网络[CR] •     配置连接[CR]"
 
 msgctxt "#31281"
 msgid " -- "
@@ -1151,231 +1151,231 @@ msgstr "N/A"
 
 msgctxt "#31283"
 msgid "TBD"
-msgstr "å¾…å®š"
+msgstr "待定"
 
 msgctxt "#31284"
 msgid "Fallback label for ratings in list views"
-msgstr "åˆ—è¡¨è§†å›¾ä¸­çš„é»˜è®¤è¯„åˆ†æ ‡ç­¾"
+msgstr "列表视图中的默认评分标签"
 
 msgctxt "#31285"
 msgid "Size of Icons"
-msgstr "å›¾æ ‡å¤§å°"
+msgstr "图标大小"
 
 msgctxt "#31286"
 msgid "Align"
-msgstr "å¯¹é½"
+msgstr "对齐"
 
 msgctxt "#31287"
 msgid "left"
-msgstr "å·¦"
+msgstr "左"
 
 msgctxt "#31288"
 msgid "center"
-msgstr "ä¸­å¿ƒ"
+msgstr "中心"
 
 msgctxt "#31289"
 msgid "ClearLogo with fanart"
-msgstr "å¸¦èƒŒæ™¯å›¾çš„é€æ˜Žå¾½æ ‡"
+msgstr "带背景图的透明徽标"
 
 msgctxt "#31290"
 msgid "Fullsize EPG"
-msgstr "å…¨å±ç”µå­èŠ‚ç›®æŒ‡å—"
+msgstr "全屏电子节目指南"
 
 msgctxt "#31291"
 msgid "Also use for widgets"
-msgstr "ä¹Ÿç”¨äºŽå°ç»„ä»¶"
+msgstr "也用于小组件"
 
 msgctxt "#31292"
 msgid "Also use for system-icons"
-msgstr "ä¹Ÿç”¨äºŽç³»ç»Ÿå›¾æ ‡"
+msgstr "也用于系统图标"
 
 msgctxt "#31293"
 msgid "DiscArt Fallback"
-msgstr "å…‰ç›˜å°é¢å¤‡ç”¨æ ·å¼"
+msgstr "光盘封面备用样式"
 
 msgctxt "#31294"
 msgid "CD"
-msgstr "å…‰ç›˜å°é¢"
+msgstr "光盘封面"
 
 msgctxt "#31295"
 msgid "Fake CD"
-msgstr "æ¨¡æ‹Ÿå…‰ç›˜"
+msgstr "模拟光盘"
 
 msgctxt "#31296"
 msgid "Vinyl"
-msgstr "é»‘èƒ¶"
+msgstr "黑胶"
 
 msgctxt "#31297"
 msgid "Limit number of items in hub"
-msgstr "åˆ†ç±»ä¸­å¿ƒçš„é¡¹ç›®æ•°ä¸Šé™"
+msgstr "分类中心的项目数上限"
 
 msgctxt "#31298"
 msgid "Multi-Widgets"
-msgstr "å¤šå°ç»„ä»¶"
+msgstr "多小组件"
 
 msgctxt "#31299"
 msgid "Gradient"
-msgstr "æ¸å˜"
+msgstr "渐变"
 
 msgctxt "#31300"
 msgid "RAM"
-msgstr "å†…å­˜"
+msgstr "内存"
 
 msgctxt "#31301"
 msgid "Skin-Version:"
-msgstr "çš®è‚¤ç‰ˆæœ¬ï¼š"
+msgstr "皮肤版本："
 
 msgctxt "#31302"
 msgid "Scroll behavior"
-msgstr "æ»šåŠ¨è¡Œä¸º"
+msgstr "滚动行为"
 
 msgctxt "#31303"
 msgid "Aspect ratio"
-msgstr "å®½é«˜æ¯”"
+msgstr "宽高比"
 
 msgctxt "#31304"
 msgid "Select aspect ratio for square widget"
-msgstr "é€‰æ‹©æ–¹å½¢å°ç»„ä»¶çš„æ¯”ä¾‹ç±»åž‹"
+msgstr "选择方形小组件的比例类型"
 
 msgctxt "#31305"
 msgid "Scale"
-msgstr "ç¼©æ”¾"
+msgstr "缩放"
 
 msgctxt "#31306"
 msgid "Sunrise at"
-msgstr "æ—¥å‡ºäºŽ"
+msgstr "日出于"
 
 msgctxt "#31307"
 msgid "Sunset at"
-msgstr "æ—¥è½äºŽ"
+msgstr "日落于"
 
 msgctxt "#31308"
 msgid "Square small"
-msgstr "æ–¹å½¢ï¼ˆå°ï¼‰"
+msgstr "方形（小）"
 
 msgctxt "#31309"
 msgid "Square medium"
-msgstr "æ–¹å½¢ï¼ˆä¸­ï¼‰"
+msgstr "方形（中）"
 
 msgctxt "#31310"
 msgid "Home menu bar"
-msgstr "ä¸»èœå•æ "
+msgstr "主菜单栏"
 
 msgctxt "#31311"
 msgid "Fullscreen widget"
-msgstr "å…¨å±å°ç»„ä»¶"
+msgstr "全屏小组件"
 
 msgctxt "#31312"
 msgid "Weather location"
-msgstr "å¤©æ°”ä½ç½®"
+msgstr "天气位置"
 
 msgctxt "#31313"
 msgid "Big Poster"
-msgstr "å¤§æµ·æŠ¥"
+msgstr "大海报"
 
 msgctxt "#31314"
 msgid "Images"
-msgstr "å›¾åƒ"
+msgstr "图像"
 
 msgctxt "#31315"
 msgid "Thumbnail Flix"
-msgstr "ç¼©ç•¥å›¾ï¼ˆç½‘é£žé£Žæ ¼ï¼‰"
+msgstr "缩略图（网飞风格）"
 
 msgctxt "#31316"
 msgid "Big list"
-msgstr "åˆ—è¡¨ï¼ˆå¤§ï¼‰"
+msgstr "列表（大）"
 
 msgctxt "#31317"
 msgid "Customize view types"
-msgstr "å¯ç”¨å¼ºåˆ¶è§†å›¾ï¼ˆå®žéªŒæ€§ï¼‰"
+msgstr "启用强制视图（实验性）"
 
 msgctxt "#31318"
 msgid "Seconds"
-msgstr "ç§’"
+msgstr "秒"
 
 msgctxt "#31319"
 msgid "Big Thumbnail"
-msgstr "å¤§å›¾æ ‡"
+msgstr "大图标"
 
 msgctxt "#31320"
 msgid "more..."
-msgstr "æ›´å¤šâ€¦"
+msgstr "更多…"
 
 msgctxt "#31321"
 msgid "item"
-msgstr "é¡¹ç›®"
+msgstr "项目"
 
 msgctxt "#31322"
 msgid "Alternative layout"
-msgstr "å¤‡é€‰å¸ƒå±€"
+msgstr "备选布局"
 
 msgctxt "#31323"
 msgid "Smart Shortcuts"
-msgstr "æ™ºèƒ½å¿«æ·æ–¹å¼"
+msgstr "智能快捷方式"
 
 msgctxt "#31324"
 msgid "Movies and TV shows"
-msgstr "ç”µå½±å’Œç”µè§†å‰§"
+msgstr "电影和电视剧"
 
 msgctxt "#31325"
 msgid "Recently added Songs"
-msgstr "æœ€è¿‘æ·»åŠ çš„æ­Œæ›²"
+msgstr "最近添加的歌曲"
 
 msgctxt "#31326"
 msgid "Most played Songs"
-msgstr "æœ€å¸¸æ’­æ”¾çš„æ­Œæ›²"
+msgstr "最常播放的歌曲"
 
 msgctxt "#31327"
 msgid "Chapter markers"
-msgstr "ç« èŠ‚æ ‡è®°"
+msgstr "章节标记"
 
 msgctxt "#31328"
 msgid "Rotten Tomatoes"
-msgstr "çƒ‚ç•ªèŒ„"
+msgstr "烂番茄"
 
 msgctxt "#31329"
 msgid "Select media flags"
-msgstr "é€‰æ‹©åª’ä½“æ ‡è¯†"
+msgstr "选择媒体标识"
 
 msgctxt "#31330"
 msgid "Subtitle icon"
-msgstr "å­—å¹•å›¾æ ‡"
+msgstr "字幕图标"
 
 msgctxt "#31331"
 msgid "Subtitle extended info"
-msgstr "å­—å¹•é™„åŠ ä¿¡æ¯"
+msgstr "字幕附加信息"
 
 msgctxt "#31332"
 msgid "Reminder enabled"
-msgstr "æé†’å·²å¯ç”¨"
+msgstr "提醒已启用"
 
 msgctxt "#31333"
 msgid "Reminder Rule enabled"
-msgstr "æé†’è§„åˆ™å·²å¯ç”¨"
+msgstr "提醒规则已启用"
 
 msgctxt "#31334"
 msgid "Debugging"
-msgstr "æ­£åœ¨è°ƒè¯•"
+msgstr "正在调试"
 
 msgctxt "#31335"
 msgid "Extended debugging information"
-msgstr "é™„åŠ è°ƒè¯•ä¿¡æ¯"
+msgstr "附加调试信息"
 
 msgctxt "#31336"
 msgid "Extended grid"
-msgstr "æ‰©å±•ç½‘æ ¼"
+msgstr "扩展网格"
 
 msgctxt "#31337"
 msgid "Play next episode"
-msgstr "æ’­æ”¾ä¸‹ä¸€é›†"
+msgstr "播放下一集"
 
 msgctxt "#31338"
 msgid "Widget"
-msgstr "å°ç»„ä»¶"
+msgstr "小组件"
 
 msgctxt "#31339"
 msgid "Edge distance"
-msgstr "è¾¹ç¼˜è·ç¦»"
+msgstr "边缘距离"
 
 msgctxt "#31340"
 msgid "30px"
@@ -1383,67 +1383,67 @@ msgstr "30px"
 
 msgctxt "#31341"
 msgid "Path intros"
-msgstr "è·¯å¾„ç‰‡å¤´"
+msgstr "路径片头"
 
 msgctxt "#31342"
 msgid "Trailer count"
-msgstr "é¢„å‘Šç‰‡æ•°é‡"
+msgstr "预告片数量"
 
 msgctxt "#31343"
 msgid "Some other"
-msgstr "å…¶ä»–"
+msgstr "其他"
 
 msgctxt "#31344"
 msgid "Video preview"
-msgstr "è§†é¢‘é¢„è§ˆ"
+msgstr "视频预览"
 
 msgctxt "#31345"
 msgid "DiscArt"
-msgstr "å…‰ç›˜å›¾"
+msgstr "光盘图"
 
 msgctxt "#31346"
 msgid "Fake Blu-ray"
-msgstr "è™šæ‹Ÿè“å…‰"
+msgstr "虚拟蓝光"
 
 msgctxt "#31347"
 msgid "Artwork section"
-msgstr "è‰ºæœ¯å›¾å±•åŒº"
+msgstr "艺术图展区"
 
 msgctxt "#31348"
 msgid "Landscape"
-msgstr "æ¨ªç‰ˆ"
+msgstr "横版"
 
 msgctxt "#31349"
 msgid "Artwork of"
-msgstr "è‰ºæœ¯å›¾ï¼š"
+msgstr "艺术图："
 
 msgctxt "#31350"
 msgid "disabled"
-msgstr "å·²ç¦ç”¨"
+msgstr "已禁用"
 
 msgctxt "#31351"
 msgid "Required add-ons"
-msgstr "å¿…éœ€çš„æ’ä»¶"
+msgstr "必需的插件"
 
 msgctxt "#31352"
 msgid "Recommended add-ons"
-msgstr "æŽ¨èçš„æ’ä»¶"
+msgstr "推荐的插件"
 
 msgctxt "#31353"
 msgid "CoreELEC Settings"
-msgstr "Coreelec è®¾ç½®"
+msgstr "Coreelec 设置"
 
 msgctxt "#31354"
 msgid "Configure custom widget"
-msgstr "é…ç½®è‡ªå®šä¹‰å°ç»„ä»¶"
+msgstr "配置自定义小组件"
 
 msgctxt "#31355"
 msgid "Flix fanart window"
-msgstr "ç½‘é£žé£Žæ ¼èƒŒæ™¯å›¾çª—å£"
+msgstr "网飞风格背景图窗口"
 
 msgctxt "#31356"
 msgid "Media status"
-msgstr "åª’ä½“çŠ¶æ€"
+msgstr "媒体状态"
 
 msgctxt "#31357"
 msgid "HDR"
@@ -1459,15 +1459,15 @@ msgstr "IMDB"
 
 msgctxt "#31360"
 msgid "Audio Channels"
-msgstr "éŸ³é¢‘å£°é“"
+msgstr "音频声道"
 
 msgctxt "#31361"
 msgid "Widget path"
-msgstr "å°ç»„ä»¶è·¯å¾„"
+msgstr "小组件路径"
 
 msgctxt "#31362"
 msgid "Origin"
-msgstr "åŽŸå§‹"
+msgstr "原始"
 
 msgctxt "#31363"
 msgid "Trakt"
@@ -1475,1087 +1475,1084 @@ msgstr "TRAKT"
 
 msgctxt "#31364"
 msgid "CPU"
-msgstr "å¤„ç†å™¨"
+msgstr "处理器"
 
 msgctxt "#31365"
 msgid "Underlined homemenu items"
-msgstr "å¸¦ä¸‹åˆ’çº¿çš„ä¸»èœå•é¡¹"
+msgstr "带下划线的主菜单项"
 
 msgctxt "#31366"
 msgid "Poster Flix"
-msgstr "æµ·æŠ¥ï¼ˆç½‘é£žé£Žæ ¼ï¼‰"
+msgstr "海报（网飞风格）"
 
 msgctxt "#31367"
 msgid "Paused"
-msgstr "å·²æš‚åœ"
+msgstr "已暂停"
 
 msgctxt "#31368"
 msgid "Watched"
-msgstr "å·²è§‚çœ‹"
+msgstr "已观看"
 
 msgctxt "#31369"
 msgid "New!"
-msgstr "æ–°å¢žï¼"
+msgstr "新增！"
 
 msgctxt "#31370"
 msgid "Alternative indicators"
-msgstr "å¤‡é€‰æŒ‡ç¤ºå™¨"
+msgstr "备选指示器"
 
 msgctxt "#31371"
 msgid "Label"
-msgstr "æ ‡ç­¾"
+msgstr "标签"
 
 msgctxt "#31372"
 msgid "Director"
-msgstr "å¯¼æ¼”"
+msgstr "导演"
 
 msgctxt "#31373"
 msgid "Collection"
-msgstr "åˆé›†"
+msgstr "合集"
 
 msgctxt "#31374"
 msgid "Prefer percentage"
-msgstr "é¦–é€‰ç™¾åˆ†æ¯”"
+msgstr "首选百分比"
 
 msgctxt "#31375"
 msgid "Prefer local list information"
-msgstr "é¦–é€‰æœ¬åœ°åˆ—è¡¨ä¿¡æ¯"
+msgstr "首选本地列表信息"
 
 msgctxt "#31376"
 msgid "On back, widgets do not return to initial position"
-msgstr "è¿”å›žæ—¶ï¼Œå°ç»„ä»¶ä¸ä¼šè¿”å›žåˆå§‹ä½ç½®"
+msgstr "返回时，小组件不会返回初始位置"
 
 msgctxt "#31377"
 msgid "On up, when at first widget, do not jump back to last widget"
-msgstr "åœ¨é¡¶éƒ¨å°ç»„ä»¶æŒ‰â€œä¸Šé”®â€æ—¶ï¼Œä¸è·³è½¬åˆ°æœ€åŽä¸€ä¸ªå°ç»„ä»¶"
+msgstr "在顶部小组件按“上键”时，不跳转到最后一个小组件"
 
 msgctxt "#31378"
 msgid "On down, when at last widget, widgets do not return to initial position"
-msgstr "åœ¨åº•éƒ¨å°ç»„ä»¶æŒ‰â€œä¸‹é”®â€æ—¶ï¼Œå°ç»„ä»¶ä¸è¿”å›žåˆå§‹ä½ç½®"
+msgstr "在底部小组件按“下键”时，小组件不返回初始位置"
 
 msgctxt "#31379"
 msgid "On up/down at first/last widget, go to last/first widget"
-msgstr "å°ç»„ä»¶ä¸Šä¸‹å¾ªçŽ¯æ»šåŠ¨"
+msgstr "小组件上下循环滚动"
 
 msgctxt "#31380"
 msgid "Layout options"
-msgstr "å¸ƒå±€é€‰é¡¹"
+msgstr "布局选项"
 
 msgctxt "#31381"
 msgid "Global"
-msgstr "å…¨å±€"
+msgstr "全局"
 
 msgctxt "#31382"
 msgid "4K Movies"
-msgstr "4K ç”µå½±"
+msgstr "4K 电影"
 
 msgctxt "#31383"
 msgid "Recent recordings"
-msgstr "æœ€è¿‘çš„å½•åˆ¶"
+msgstr "最近的录制"
 
 msgctxt "#31384"
 msgid "Grouped recent recordings"
-msgstr "åˆ†ç»„çš„æœ€è¿‘å½•åˆ¶"
+msgstr "分组的最近录制"
 
 msgctxt "#31385"
 msgid "Grouped deleted recordings"
-msgstr "åˆ†ç»„çš„å·²åˆ é™¤å½•åˆ¶"
+msgstr "分组的已删除录制"
 
 msgctxt "#31386"
 msgid "Hide"
-msgstr "éšè—"
+msgstr "隐藏"
 
 msgctxt "#31387"
 msgid "Last Played Radio Channels"
-msgstr "ä¸Šæ¬¡æ’­æ”¾çš„å¹¿æ’­é¢‘é“"
+msgstr "上次播放的广播频道"
 
 msgctxt "#31388"
 msgid "Mini-EPG (vertical, only 5 Items)"
-msgstr "è¿·ä½  EPGï¼ˆåž‚ç›´ï¼Œä»… 5 é¡¹ï¼‰"
+msgstr "迷你 EPG（垂直，仅 5 项）"
 
 msgctxt "#31389"
 msgid "Unwatched Tv Shows"
-msgstr "æœªæ”¶çœ‹çš„ç”µè§†å‰§"
+msgstr "未收看的电视剧"
 
 msgctxt "#31390"
 msgid "for"
-msgstr "ç»™"
+msgstr "给"
 
 msgctxt "#31391"
 msgid "Poster Wall"
-msgstr "æµ·æŠ¥å¢™"
+msgstr "海报墙"
 
 msgctxt "#31392"
 msgid "Fanart Flix"
-msgstr "èƒŒæ™¯å›¾ï¼ˆç½‘é£žé£Žæ ¼ï¼‰"
+msgstr "背景图（网飞风格）"
 
 msgctxt "#31393"
 msgid "IMDB Position"
-msgstr "IMDB æŽ’å/ä½ç½®"
+msgstr "IMDB 排名/位置"
 
 msgctxt "#31394"
 msgid "Use default MPAA rating icons"
-msgstr "ä½¿ç”¨é»˜è®¤ MPAA è¯„çº§å›¾æ ‡"
+msgstr "使用默认 MPAA 评级图标"
 
 msgctxt "#31395"
 msgid "Seasons info v2"
-msgstr "å­£ä¿¡æ¯ v2"
+msgstr "季信息 v2"
 
 msgctxt "#31396"
 msgid "Up Next"
-msgstr "ä¸‹ä¸ªæ’­æ”¾"
+msgstr "下个播放"
 
 msgctxt "#31397"
 msgid "Use thumbnail instead of fanart"
-msgstr "ä½¿ç”¨ç¼©ç•¥å›¾è€Œä¸æ˜¯èƒŒæ™¯å›¾"
+msgstr "使用缩略图而不是背景图"
 
 msgctxt "#31398"
 msgid "Clean and minimal"
-msgstr "ç®€æ´"
+msgstr "简洁"
 
 msgctxt "#31399"
 msgid "Hide plot, when widget is not focused"
-msgstr "å½“å°ç»„ä»¶æœªèšç„¦æ—¶éšè—å‰§æƒ…ç®€ä»‹"
+msgstr "当小组件未聚焦时隐藏剧情简介"
 
 msgctxt "#31400"
 msgid "Audio streams"
-msgstr "éŸ³é¢‘æµ"
+msgstr "音频流"
 
 msgctxt "#31401"
 msgid "Info slider"
-msgstr "ä¿¡æ¯æ»‘å—"
+msgstr "信息滑块"
 
 msgctxt "#31402"
 msgid "Additional fanart"
-msgstr "é¢å¤–èƒŒæ™¯å›¾"
+msgstr "额外背景图"
 
 msgctxt "#31403"
 msgid "HD Movies"
-msgstr "é«˜æ¸…ç”µå½±"
+msgstr "高清电影"
 
 msgctxt "#31404"
 msgid "Hide, when not focused/used"
-msgstr "æœªèšç„¦/ä½¿ç”¨æ—¶ï¼Œéšè—"
+msgstr "未聚焦/使用时，隐藏"
 
 msgctxt "#31405"
 msgid "Hide seekbar"
-msgstr "éšè—æœç´¢æ "
+msgstr "隐藏搜索栏"
 
 msgctxt "#31406"
 msgid "Hide OSD"
-msgstr "éšè— OSD"
+msgstr "隐藏 OSD"
 
 msgctxt "#31407"
 msgid "Scrolling text"
-msgstr "æ»šåŠ¨æ–‡æœ¬"
+msgstr "滚动文本"
 
 msgctxt "#31408"
 msgid "Numeric rating"
-msgstr "æ•°å­—è¯„åˆ†"
+msgstr "数字评分"
 
 msgctxt "#31409"
 msgid "Artist slideshow"
-msgstr "è‰ºæœ¯å®¶å¹»ç¯ç‰‡"
+msgstr "艺术家幻灯片"
 
 msgctxt "#31410"
 msgid "Low list"
-msgstr "åº•ç½®åˆ—è¡¨"
+msgstr "底置列表"
 
 msgctxt "#31411"
 msgid "Filenames"
-msgstr "æ–‡ä»¶å"
+msgstr "文件名"
 
 msgctxt "#31412"
 msgid "Fallback image"
-msgstr "å›žæ»šå›¾åƒ"
+msgstr "回滚图像"
 
 msgctxt "#31413"
 msgid "ClearLogo/ClearArt"
-msgstr "é€æ˜Žå¾½æ ‡/è‰ºæœ¯å›¾"
+msgstr "透明徽标/艺术图"
 
 msgctxt "#31414"
 msgid "Clearlogo instead of title"
-msgstr "æ˜¾ç¤ºé€æ˜Žå¾½æ ‡è€Œéžæ ‡é¢˜"
+msgstr "显示透明徽标而非标题"
 
 msgctxt "#31415"
 msgid "Media flags"
-msgstr "åª’ä½“æ ‡è¯†"
+msgstr "媒体标识"
 
 msgctxt "#31416"
 msgid "Play/pause info"
-msgstr "æ’­æ”¾/æš‚åœä¿¡æ¯"
+msgstr "播放/暂停信息"
 
 msgctxt "#31417"
 msgid "PVR technical info"
-msgstr "PVR æŠ€æœ¯ä¿¡æ¯"
+msgstr "PVR 技术信息"
 
 msgctxt "#31418"
 msgid "Progress graphic"
-msgstr "è¿›åº¦æ¡"
+msgstr "进度条"
 
 msgctxt "#31419"
 msgid "Hide widget label"
-msgstr "éšè—å°ç»„ä»¶æ ‡ç­¾"
+msgstr "隐藏小组件标签"
 
 msgctxt "#31420"
 msgid "Show behind slideshow"
-msgstr "åœ¨å¹»ç¯ç‰‡åŽé¢æ˜¾ç¤ºåœ¨å¹»ç¯ç‰‡åŽé¢æ˜¾ç¤º"
+msgstr "在幻灯片后面显示在幻灯片后面显示"
 
 msgctxt "#31421"
 msgid "Zoom focused items"
-msgstr "æ”¾å¤§èšç„¦é¡¹"
+msgstr "放大聚焦项"
 
 msgctxt "#31422"
 msgid "Enable auto scrolling for titles"
-msgstr "å¯ç”¨æ ‡é¢˜è‡ªåŠ¨æ»šåŠ¨"
+msgstr "启用标题自动滚动"
 
 msgctxt "#31423"
 msgid "Show glow on focused items"
-msgstr "èšç„¦é¡¹å‘å…‰å¼ºåº¦"
+msgstr "聚焦项发光强度"
 
 msgctxt "#31424"
 msgid "List type"
-msgstr "åˆ—è¡¨æ ·å¼"
+msgstr "列表样式"
 
 msgctxt "#31425"
 msgid "Enable auto playing trailers in flix views"
-msgstr "åœ¨ç½‘é£žé£Žæ ¼è§†å›¾ä¸­å¯ç”¨è‡ªåŠ¨æ’­æ”¾é¢„å‘Šç‰‡"
+msgstr "在网飞风格视图中启用自动播放预告片"
 
 msgctxt "#31426"
 msgid "Try to hide black bars"
-msgstr "å°è¯•è‡ªåŠ¨éšè—é»‘è¾¹"
+msgstr "尝试自动隐藏黑边"
 
 msgctxt "#31427"
 msgid "playing"
-msgstr "æ­£åœ¨æ’­æ”¾"
+msgstr "正在播放"
 
 msgctxt "#31428"
 msgid "paused"
-msgstr "å·²æš‚åœ"
+msgstr "已暂停"
 
 msgctxt "#31429"
 msgid "caching"
-msgstr "æ­£åœ¨ç¼“å­˜"
+msgstr "正在缓存"
 
 msgctxt "#31430"
 msgid "Auto start delay"
-msgstr "è‡ªåŠ¨å¯åŠ¨å»¶è¿Ÿ"
+msgstr "自动启动延迟"
 
 msgctxt "#31431"
 msgid "Auto playing trailers"
-msgstr "è‡ªåŠ¨æ’­æ”¾é¢„å‘Šç‰‡"
+msgstr "自动播放预告片"
 
 msgctxt "#31432"
 msgid "None"
-msgstr "æ— "
+msgstr "无"
 
 msgctxt "#31433"
 msgid "Medium"
-msgstr "ä¸­ç­‰"
+msgstr "中等"
 
 msgctxt "#31434"
 msgid "Maximal"
-msgstr "æœ€å¤§"
+msgstr "最大"
 
 msgctxt "#31435"
 msgid "On back, jump to first item in widget list"
-msgstr "æŒ‰â€œè¿”å›žé”®â€ï¼Œè·³è½¬åˆ°å°ç»„ä»¶åˆ—è¡¨ä¸­ç¬¬ä¸€é¡¹"
+msgstr "按“返回键”，跳转到小组件列表中第一项"
 
 msgctxt "#31436"
 msgid "After that, focus home menu"
-msgstr "ä¹‹åŽï¼Œèšç„¦ä¸»èœå•"
+msgstr "之后，聚焦主菜单"
 
 msgctxt "#31437"
 msgid "If home menu is focused, jump to widgets on back"
-msgstr "åœ¨ä¸»èœå•æŒ‰â€œä¸‹é”®â€è¿”å›žï¼Œè·³è½¬åˆ°å°ç»„ä»¶"
+msgstr "在主菜单按“下键”返回，跳转到小组件"
 
 msgctxt "#31438"
 msgid "Only, when widget is focused"
-msgstr "ä»…å½“å°ç»„ä»¶è¢«èšç„¦æ—¶"
+msgstr "仅当小组件被聚焦时"
 
 msgctxt "#31439"
 msgid "Hide mouse warning"
-msgstr "éšè—é¼ æ ‡è­¦å‘Š"
+msgstr "隐藏鼠标警告"
 
 msgctxt "#31440"
 msgid "EDL markers"
-msgstr "EDL æ ‡è®°"
+msgstr "EDL 标记"
 
 msgctxt "#31441"
 msgid "Hub widget content type"
-msgstr "åˆ†ç±»ä¸­å¿ƒå°ç»„ä»¶çš„å†…å®¹æ ·å¼"
+msgstr "分类中心小组件的内容样式"
 
 msgctxt "#31442"
 msgid "Playback action when video info dialog is shown"
-msgstr "æ˜¾ç¤ºè§†é¢‘ä¿¡æ¯å¯¹è¯æ¡†æ—¶å¼€å§‹æ’­æ”¾"
+msgstr "显示视频信息对话框时开始播放"
 
 msgctxt "#31443"
 msgid "Stop playback when item is no longer focused"
-msgstr "å½“é¡¹ç›®ä¸å†èšç„¦æ—¶åœæ­¢æ’­æ”¾"
+msgstr "当项目不再聚焦时停止播放"
 
 msgctxt "#31444"
 msgid "LibreELEC Settings"
-msgstr "LibreELEC è®¾ç½®"
+msgstr "LibreELEC 设置"
 
 msgctxt "#31445"
 msgid "Is playing"
-msgstr "æ­£åœ¨æ’­æ”¾"
+msgstr "正在播放"
 
 msgctxt "#31446"
 msgid "Icon"
-msgstr "å›¾æ ‡"
+msgstr "图标"
 
 msgctxt "#31447"
 msgid "Now playing"
-msgstr "æ­£åœ¨æ’­æ”¾"
+msgstr "正在播放"
 
 msgctxt "#31448"
 msgid "Now playing..."
-msgstr "å½“å‰æ’­æ”¾..."
+msgstr "当前播放..."
 
 msgctxt "#31449"
 msgid "User rating overrides"
-msgstr "ç”¨æˆ·è¯„åˆ†è¦†ç›–"
+msgstr "用户评分覆盖"
 
 msgctxt "#31450"
 msgid "Star rating and value"
-msgstr "æ˜Ÿçº§å’Œè¯„åˆ†"
+msgstr "星级和评分"
 
 msgctxt "#31451"
 msgid "Show player controls"
-msgstr "æ˜¾ç¤ºæ’­æ”¾å™¨æŽ§åˆ¶"
+msgstr "显示播放器控制"
 
 msgctxt "#31452"
 msgid "Show clearart"
-msgstr "æ˜¾ç¤ºé€æ˜Žè‰ºæœ¯å›¾"
+msgstr "显示透明艺术图"
 
 msgctxt "#31453"
 msgid "Ratings"
-msgstr "è¯„åˆ†"
+msgstr "评分"
 
 msgctxt "#31454"
 msgid "Show detailed info when video starts (in seconds)"
-msgstr "è§†é¢‘å¼€å§‹æ—¶æ˜¾ç¤ºè¯¦ç»†ä¿¡æ¯ï¼ˆç§’ï¼‰"
+msgstr "视频开始时显示详细信息（秒）"
 
 msgctxt "#31455"
 msgid "Customized"
-msgstr "è‡ªå®šä¹‰"
+msgstr "自定义"
 
 msgctxt "#31456"
 msgid "Color presets"
-msgstr "é¢œè‰²é¢„è®¾"
+msgstr "颜色预设"
 
 msgctxt "#31457"
 msgid "Preset"
-msgstr "é¢„è®¾"
+msgstr "预设"
 
 msgctxt "#31458"
 msgid "Lavender"
-msgstr "è–°è¡£è‰ç´«"
+msgstr "薰衣草紫"
 
 msgctxt "#31459"
 msgid "Bright Turquoise"
-msgstr "äº®é’ç»¿æ¾çŸ³è‰²"
+msgstr "亮青绿松石色"
 
 msgctxt "#31460"
 msgid "Orange Pumpkin"
-msgstr "å—ç“œæ©™"
+msgstr "南瓜橙"
 
 msgctxt "#31461"
 msgid "Azure Blue"
-msgstr "å¤©é’è“"
+msgstr "天青蓝"
 
 msgctxt "#31462"
 msgid "Spring Green"
-msgstr "æ˜¥æ—¥ç»¿"
+msgstr "春日绿"
 
 msgctxt "#31463"
 msgid "Brick Red"
-msgstr "ç –çº¢"
+msgstr "砖红"
 
 msgctxt "#31464"
 msgid "Save color configuration"
-msgstr "ä¿å­˜é¢œè‰²é…ç½®"
+msgstr "保存颜色配置"
 
 msgctxt "#31465"
 msgid "Overwrite existing color configuration?"
-msgstr "æ˜¯å¦è¦†ç›–çŽ°æœ‰çš„é¢œè‰²é…ç½®ï¼Ÿ"
+msgstr "是否覆盖现有的颜色配置？"
 
 msgctxt "#31466"
 msgid "Hide PVR recording dialog"
-msgstr "éšè— PVR å½•åƒå¯¹è¯æ¡†"
+msgstr "隐藏 PVR 录像对话框"
 
 msgctxt "#31467"
 msgid "Player"
-msgstr "æ’­æ”¾å™¨"
+msgstr "播放器"
 
 msgctxt "#31468"
 msgid "Players"
-msgstr "æ’­æ”¾å™¨"
+msgstr "播放器"
 
 msgctxt "#31469"
 msgid "Local"
-msgstr "æœ¬åœ°"
+msgstr "本地"
 
 msgctxt "#31470"
 msgid "Online"
-msgstr "åœ¨çº¿"
+msgstr "在线"
 
 msgctxt "#31471"
 msgid "Game studio/flag icons"
-msgstr "æ¸¸æˆå·¥ä½œå®¤/æ ‡å¿—å›¾æ ‡"
+msgstr "游戏工作室/标志图标"
 
 msgctxt "#31472"
 msgid "Pick a color..."
-msgstr "é€‰æ‹©é¢œè‰²â€¦"
+msgstr "选择颜色…"
 
 msgctxt "#31473"
 msgid "Use thumb for episodes background"
-msgstr "å‰§é›†èƒŒæ™¯ä½¿ç”¨ç¼©ç•¥å›¾"
+msgstr "剧集背景使用缩略图"
 
 msgctxt "#31474"
 msgid "Small landscape"
-msgstr "æ¨ªç‰ˆï¼ˆå°ï¼‰"
+msgstr "横版（小）"
 
 msgctxt "#31475"
 msgid "Small fanart"
-msgstr "èƒŒæ™¯å›¾ï¼ˆå°ï¼‰"
+msgstr "背景图（小）"
 
 msgctxt "#31476"
 msgid "Small poster fanart"
-msgstr "å°æµ·æŠ¥èƒŒæ™¯å›¾"
+msgstr "小海报背景图"
 
 msgctxt "#31477"
 msgid "Wikipedia"
-msgstr "ç»´åŸºç™¾ç§‘"
+msgstr "维基百科"
 
 msgctxt "#31478"
 msgid "Rating stars"
-msgstr "è¯„åˆ†æ˜Ÿçº§"
+msgstr "评分星级"
 
 msgctxt "#31479"
 msgid "Auto show now playing info after 5 seconds delay if hidden"
-msgstr "éšè—åŽå»¶è¿Ÿ 5 ç§’è‡ªåŠ¨æ˜¾ç¤ºæ­£åœ¨æ’­æ”¾ä¿¡æ¯"
+msgstr "隐藏后延迟 5 秒自动显示正在播放信息"
 
 msgctxt "#31480"
 msgid "Animation"
-msgstr "åŠ¨ç”»"
+msgstr "动画"
 
 msgctxt "#31481"
 msgid "Year"
-msgstr "å¹´ä»½"
+msgstr "年份"
 
 msgctxt "#31482"
 msgid "Prefer to separate animation from movies"
-msgstr "ä¼˜å…ˆå°†åŠ¨ç”»ä¸Žç”µå½±åˆ†å¼€"
+msgstr "优先将动画与电影分开"
 
 msgctxt "#31483"
 msgid "Widgets/Items return to initial position on return to menu"
-msgstr "è¿”å›žèœå•æ—¶å°ç»„ä»¶/é¡¹ç›®è¿”å›žåˆå§‹ä½ç½®"
+msgstr "返回菜单时小组件/项目返回初始位置"
 
 msgctxt "#31484"
 msgid "Documentary"
-msgstr "çºªå½•ç‰‡"
+msgstr "纪录片"
 
 msgctxt "#31485"
 msgid "End at"
-msgstr "ç»“æŸäºŽ"
+msgstr "结束于"
 
 msgctxt "#31486"
 msgid "Tv Shows of the year"
-msgstr "å¹´åº¦ç”µè§†å‰§"
+msgstr "年度电视剧"
 
 msgctxt "#31487"
-msgid "[B]File Manager[/B][CR][CR] â€¢     Copy[CR] â€¢     Move[CR] â€¢     Delete[CR] â€¢     Rename[CR] â€¢     Manage Source"
-msgstr "[B]æ–‡ä»¶ç®¡ç†[/B][CR][CR] â€¢     å¤åˆ¶[CR] â€¢     ç§»åŠ¨[CR] â€¢     åˆ é™¤[CR] â€¢     é‡å‘½å[CR] â€¢     ç®¡ç†æº"
+msgid "[B]File Manager[/B][CR][CR] •     Copy[CR] •     Move[CR] •     Delete[CR] •     Rename[CR] •     Manage Source"
+msgstr "[B]文件管理[/B][CR][CR] •     复制[CR] •     移动[CR] •     删除[CR] •     重命名[CR] •     管理源"
 
 msgctxt "#31488"
 msgid "Hide OSD / Seekbar on pause"
-msgstr "æš‚åœæ—¶éšè— OSD / æœç´¢æ "
+msgstr "暂停时隐藏 OSD / 搜索栏"
 
 msgctxt "#31489"
 msgid "IMDb rating"
-msgstr "IMDb è¯„åˆ†"
+msgstr "IMDb 评分"
 
 msgctxt "#31490"
 msgid "Use PreShow Experience add-on instead"
-msgstr "ä½¿ç”¨ PreShow Experience æ’ä»¶æ›¿ä»£"
+msgstr "使用 PreShow Experience 插件替代"
 
 msgctxt "#31491"
 msgid "Light Taupe"
-msgstr "æµ…ç°è¤"
+msgstr "浅灰褐"
 
 msgctxt "#31492"
 msgid "Show media path"
-msgstr "æ˜¾ç¤ºåª’ä½“è·¯å¾„"
+msgstr "显示媒体路径"
 
 msgctxt "#31493"
 msgid "On down, when at last widget, do not jump back to first widget"
-msgstr "å½“å¤„äºŽæœ€åŽä¸€ä¸ªå°ç»„ä»¶æ—¶æŒ‰â€œä¸‹é”®â€ï¼Œä¸è¦è·³å›žç¬¬ä¸€ä¸ªå°ç»„ä»¶"
+msgstr "当处于最后一个小组件时按“下键”，不要跳回第一个小组件"
 
 msgctxt "#31494"
 msgid "Hide in others views"
-msgstr "åœ¨å…¶ä»–è§†å›¾ä¸­éšè—"
+msgstr "在其他视图中隐藏"
 
 msgctxt "#31495"
 msgid "Hide home menu bar and header"
-msgstr "éšè—ä¸»èœå•æ å’Œæ ‡é¢˜"
+msgstr "隐藏主菜单栏和标题"
 
 msgctxt "#31496"
 msgid "Hide the shadows"
-msgstr "éšè—é˜´å½±"
+msgstr "隐藏阴影"
 
 msgctxt "#31497"
 msgid "DiscArt fallback only"
-msgstr "ä»…å…‰ç›˜å°é¢å¤‡ç”¨æ ·å¼"
+msgstr "仅光盘封面备用样式"
 
 msgctxt "#31498"
 msgid "On left go to last item widget"
-msgstr "æŒ‰â€œå·¦é”®â€å‰å¾€æœ€åŽä¸€ä¸ªå°ç»„ä»¶é¡¹ç›®"
+msgstr "按“左键”前往最后一个小组件项目"
 
 msgctxt "#31499"
 msgid "Show debug item info"
-msgstr "æ˜¾ç¤ºè°ƒè¯•é¡¹ç›®ä¿¡æ¯"
+msgstr "显示调试项目信息"
 
 msgctxt "#31500"
 msgid "Countries Icons"
-msgstr "å›½å®¶å›¾æ ‡"
+msgstr "国家图标"
 
 msgctxt "#31501"
 msgid "Back auto to main menu after 10s"
-msgstr "10 ç§’åŽè‡ªåŠ¨è¿”å›žä¸»èœå•"
+msgstr "10 秒后自动返回主菜单"
 
 msgctxt "#31502"
 msgid "From submenu only"
-msgstr "ä»…é™å­èœå•"
+msgstr "仅限子菜单"
 
 msgctxt "#31503"
 msgid "Replace jumpbar by wall view"
-msgstr "ç”¨å¢™è§†å›¾æ›¿æ¢è·³è½¬æ "
+msgstr "用墙视图替换跳转栏"
 
 msgctxt "#31504"
 msgid "Display info in footer"
-msgstr "åœ¨åº•éƒ¨æ˜¾ç¤ºä¿¡æ¯"
+msgstr "在底部显示信息"
 
 msgctxt "#31505"
 msgid "vertical"
-msgstr "åž‚ç›´"
+msgstr "垂直"
 
 msgctxt "#31506"
 msgid "Horizontal"
-msgstr "æ°´å¹³"
+msgstr "水平"
 
 msgctxt "#31507"
 msgid "Background presets"
-msgstr "èƒŒæ™¯é¢„è®¾"
+msgstr "背景预设"
 
 msgctxt "#31508"
-msgid "Autoscrolling"
-msgstr "è‡ªåŠ¨æ»šåŠ¨"
+msgid "Auto-scrolling"
+msgstr "自动滚动"
 
 msgctxt "#31509"
 msgid "Slow"
-msgstr "æ…¢"
+msgstr "慢"
 
 msgctxt "#31510"
 msgid "Thumbnail Wall Small"
-msgstr "ç¼©ç•¥å›¾å¢™ï¼ˆå°ï¼‰"
+msgstr "缩略图墙（小）"
 
 msgctxt "#31511"
 msgid "Sort by"
-msgstr "æŽ’åºæ–¹å¼"
+msgstr "排序方式"
 
 msgctxt "#31512"
 msgid "Order"
-msgstr "é¡ºåº"
+msgstr "顺序"
 
 msgctxt "#31513"
 msgid "Thumbnail Square Small"
-msgstr "ç¼©ç•¥å›¾ï¼ˆå°æ–¹å½¢ï¼‰"
+msgstr "缩略图（小方形）"
 
 msgctxt "#31514"
 msgid "Initialising Skin"
-msgstr "æ­£åœ¨åˆå§‹åŒ–çš®è‚¤"
+msgstr "正在初始化皮肤"
 
 msgctxt "#31515"
 msgid "Building includes"
-msgstr "æ­£åœ¨æž„å»ºåŒ…å«é¡¹"
+msgstr "正在构建包含项"
 
 msgctxt "#31516"
 msgid "Press [B]Down[/B]"
-msgstr "æŒ‰ [B]ä¸‹é”®[/B]"
+msgstr "按 [B]下键[/B]"
 
 msgctxt "#31517"
 msgid "Display menu label on focus"
-msgstr "èšç„¦æ—¶æ˜¾ç¤ºèœå•æ ‡ç­¾"
+msgstr "聚焦时显示菜单标签"
 
 msgctxt "#31518"
 msgid "Listened"
-msgstr "å·²æ”¶å¬"
+msgstr "已收听"
 
 msgctxt "#31519"
 msgid "Show menu background"
-msgstr "æ˜¾ç¤ºèœå•èƒŒæ™¯"
+msgstr "显示菜单背景"
 
 msgctxt "#31520"
 msgid "Extended Info on artist"
-msgstr "è‰ºæœ¯å®¶è¯¦ç»†ä¿¡æ¯"
+msgstr "艺术家详细信息"
 
 msgctxt "#31521"
 msgid "Extended Info on this song"
-msgstr "æ­¤æ­Œæ›²è¯¦ç»†ä¿¡æ¯"
+msgstr "此歌曲详细信息"
 
 msgctxt "#31522"
 msgid "Known For"
-msgstr "çŸ¥åä½œå“"
+msgstr "知名作品"
 
 msgctxt "#31523"
 msgid "Birthdate"
-msgstr "å‡ºç”Ÿæ—¥æœŸ"
+msgstr "出生日期"
 
 msgctxt "#31524"
 msgid "Place of Birth"
-msgstr "å‡ºç”Ÿåœ°"
+msgstr "出生地"
 
 msgctxt "#31525"
 msgid "Age"
-msgstr "å¹´é¾„"
+msgstr "年龄"
 
 msgctxt "#31526"
 msgid "Written by"
-msgstr "ä½œè€…"
+msgstr "作者"
 
 msgctxt "#31527"
 msgid "Writer"
-msgstr "ç¼–å‰§"
+msgstr "编剧"
 
 msgctxt "#31528"
 msgid "Day of Death"
-msgstr "åŽ»ä¸–æ—¥æœŸ"
+msgstr "去世日期"
 
 msgctxt "#31529"
 msgid "Tv shows with"
-msgstr "å‚æ¼”ç”µè§†å‰§"
+msgstr "参演电视剧"
 
 msgctxt "#31530"
 msgid "years old"
-msgstr "å²"
+msgstr "岁"
 
 msgctxt "#31531"
 msgid "Pictures of"
-msgstr "å›¾ç‰‡ï¼š"
+msgstr "图片："
 
 msgctxt "#31532"
 msgid "Studio series"
-msgstr "å·¥ä½œå®¤ç³»åˆ—"
+msgstr "工作室系列"
 
 msgctxt "#31533"
 msgid "Recommended"
-msgstr "æŽ¨è"
+msgstr "推荐"
 
 msgctxt "#31534"
 msgid "Creator"
-msgstr "åˆ›ä½œè€…"
+msgstr "创作者"
 
 msgctxt "#31535"
 msgid "in the crew"
-msgstr "å‰§ç»„"
+msgstr "剧组"
 
 msgctxt "#31536"
 msgid "members"
-msgstr "æˆå‘˜"
+msgstr "成员"
 
 msgctxt "#31537"
 msgid "Created by"
-msgstr "åˆ›å»ºï¼š"
+msgstr "创建："
 
 msgctxt "#31538"
 msgid "Video version management"
-msgstr "è§†é¢‘ç‰ˆæœ¬ç®¡ç†"
+msgstr "视频版本管理"
 
 msgctxt "#31539"
 msgid "Manage extras"
-msgstr "ç®¡ç†é™„åŠ å†…å®¹"
+msgstr "管理附加内容"
 
 msgctxt "#31540"
 msgid "Press [B]RIGHT[/B] to execute the search"
-msgstr "æŒ‰ [B]å³é”®[/B] æ‰§è¡Œæœç´¢"
+msgstr "按 [B]右键[/B] 执行搜索"
 
 msgctxt "#31541"
 msgid "Display submenu on CLICK"
-msgstr "ç‚¹å‡»æ—¶æ˜¾ç¤ºå­èœå•"
+msgstr "点击时显示子菜单"
 
 msgctxt "#31542"
 msgid "On up, when at first widget, do not jump back to main menu"
-msgstr "å½“å¤„äºŽç¬¬ä¸€ä¸ªå°ç»„ä»¶æ—¶æŒ‰â€œä¸Šé”®â€ï¼Œä¸è¦è·³å›žä¸»èœå•"
+msgstr "当处于第一个小组件时按“上键”，不要跳回主菜单"
 
 msgctxt "#31543"
 msgid "Display sub menu"
-msgstr "æ˜¾ç¤ºå­èœå•"
+msgstr "显示子菜单"
 
 msgctxt "#31544"
 msgid "Button info local only?"
-msgstr "ä»…æœ¬åœ°æŒ‰é’®ä¿¡æ¯ï¼Ÿ"
+msgstr "仅本地按钮信息？"
 
 msgctxt "#31545"
 msgid "Show video in flix windows"
-msgstr "åœ¨ç½‘é£žé£Žæ ¼çª—å£ä¸­æ˜¾ç¤ºè§†é¢‘"
+msgstr "在网飞风格窗口中显示视频"
 
 msgctxt "#31546"
 msgid "Loading info"
-msgstr "æ­£åœ¨åŠ è½½ä¿¡æ¯"
+msgstr "正在加载信息"
 
 msgctxt "#31547"
 msgid "Press [B]Down[/B] displays other buttons"
-msgstr "æŒ‰ [B]ä¸‹é”®[/B] æ˜¾ç¤ºå…¶ä»–æŒ‰é’®"
+msgstr "按 [B]下键[/B] 显示其他按钮"
 
 msgctxt "#31548"
 msgid "Display item"
-msgstr "æ˜¾ç¤ºé¡¹ç›®"
+msgstr "显示项目"
 
 msgctxt "#31549"
 msgid "Event log"
-msgstr "äº‹ä»¶æ—¥å¿—"
+msgstr "事件日志"
 
 msgctxt "#31550"
-msgid "[B]Show event log[/B][CR][CR] â€¢     Basic[CR] â€¢     Information[CR] â€¢     Warning[CR] â€¢     Error [CR]"
-msgstr "[B]æ˜¾ç¤ºäº‹ä»¶æ—¥å¿—[/B][CR][CR] â€¢     åŸºæœ¬[CR] â€¢     ä¿¡æ¯[CR] â€¢     è­¦å‘Š[CR] â€¢     é”™è¯¯ [CR]"
+msgid "[B]Show event log[/B][CR][CR] •     Basic[CR] •     Information[CR] •     Warning[CR] •     Error [CR]"
+msgstr "[B]显示事件日志[/B][CR][CR] •     基本[CR] •     信息[CR] •     警告[CR] •     错误 [CR]"
 
 msgctxt "#31551"
 msgid "Customize color"
-msgstr "è‡ªå®šä¹‰é¢œè‰²"
+msgstr "自定义颜色"
 
 msgctxt "#31552"
 msgid "local"
-msgstr "æœ¬åœ°"
+msgstr "本地"
 
 msgctxt "#31553"
 msgid "online"
-msgstr "åœ¨çº¿"
+msgstr "在线"
 
 msgctxt "#31554"
 msgid "Music Infodialog"
-msgstr "éŸ³ä¹ä¿¡æ¯å¯¹è¯æ¡†"
+msgstr "音乐信息对话框"
 
 msgctxt "#31555"
 msgid "Show poster"
-msgstr "æ˜¾ç¤ºæµ·æŠ¥"
+msgstr "显示海报"
 
 msgctxt "#31556"
 msgid "Flix List"
-msgstr "åˆ—è¡¨ï¼ˆç½‘é£žé£Žæ ¼ï¼‰"
+msgstr "列表（网飞风格）"
 
 msgctxt "#31557"
 msgid "Press [B]Up[/B]"
-msgstr "æŒ‰ [B]ä¸Šé”®[/B]"
+msgstr "按 [B]上键[/B]"
 
 msgctxt "#31558"
 msgid "Choose widget"
-msgstr "é€‰æ‹©å°ç»„ä»¶"
+msgstr "选择小组件"
 
 msgctxt "#31559"
 msgid "Content type"
-msgstr "å†…å®¹ç±»åž‹"
+msgstr "内容类型"
 
 msgctxt "#31560"
 msgid "Show only background Other / Unknown"
-msgstr "ä»…æ˜¾ç¤ºå…¶ä»–/æœªçŸ¥èƒŒæ™¯"
+msgstr "仅显示其他/未知背景"
 
 msgctxt "#31561"
 msgid "Text"
-msgstr "æ–‡æœ¬"
+msgstr "文本"
 
 msgctxt "#31562"
 msgid "Menu style"
-msgstr "èœå•æ ·å¼"
+msgstr "菜单样式"
 
 msgctxt "#31563"
 msgid "Submenu style"
-msgstr "å­èœå•æ ·å¼"
+msgstr "子菜单样式"
 
 msgctxt "#31564"
 msgid "Show video in flix views"
-msgstr "åœ¨ç½‘é£žé£Žæ ¼è§†å›¾ä¸­æ˜¾ç¤ºè§†é¢‘"
+msgstr "在网飞风格视图中显示视频"
 
 msgctxt "#31565"
 msgid "Show profile picture"
-msgstr "æ˜¾ç¤ºä¸ªäººèµ„æ–™å›¾ç‰‡"
+msgstr "显示个人资料图片"
 
 msgctxt "#31566"
 msgid "Prefer casting"
-msgstr "ä¼˜å…ˆæŠ•å±"
+msgstr "优先投屏"
 
 msgctxt "#31567"
 msgid "No gradient"
-msgstr "æ— æ¸å˜"
+msgstr "无渐变"
 
 msgctxt "#31568"
 msgid "Disable colour"
-msgstr "ç¦ç”¨é¢œè‰²"
+msgstr "禁用颜色"
 
 msgctxt "#31569"
 msgid "Focus, information"
-msgstr "èšç„¦ï¼Œä¿¡æ¯"
+msgstr "聚焦，信息"
 
 msgctxt "#31570"
 msgid "Settings menu title"
-msgstr "è®¾ç½®èœå•æ ‡é¢˜"
+msgstr "设置菜单标题"
 
 msgctxt "#31571"
 msgid "Invert info colour"
-msgstr "åè½¬ä¿¡æ¯é¢œè‰²"
+msgstr "反转信息颜色"
 
 msgctxt "#31572"
 msgid "Show logo Record Company"
-msgstr "æ˜¾ç¤ºå”±ç‰‡å…¬å¸å¾½æ ‡"
+msgstr "显示唱片公司徽标"
 
 msgctxt "#31573"
 msgid "Next location"
-msgstr "ä¸‹ä¸€ä½ç½®"
+msgstr "下一位置"
 
 msgctxt "#31574"
 msgid "Banner Wall"
-msgstr "æ¨ªå¹…å¢™"
+msgstr "横幅墙"
 
 msgctxt "#31575"
 msgid "Online casting loading"
-msgstr "åœ¨çº¿æŠ•å±åŠ è½½ä¸­"
+msgstr "在线投屏加载中"
 
 msgctxt "#31576"
 msgid "Press [B]Down[/B] displays next location"
-msgstr "æŒ‰ [B]ä¸‹é”®[/B] æ˜¾ç¤ºä¸‹ä¸€ä½ç½®"
+msgstr "按 [B]下键[/B] 显示下一位置"
 
 msgctxt "#31577"
 msgid "Loading photos"
-msgstr "æ­£åœ¨åŠ è½½ç…§ç‰‡"
+msgstr "正在加载照片"
 
 msgctxt "#31578"
 msgid "Episode of"
-msgstr "å‰§é›†ï¼š"
+msgstr "剧集："
 
 msgctxt "#31579"
 msgid "Show music visualisation in background"
-msgstr "åœ¨èƒŒæ™¯æ˜¾ç¤ºéŸ³ä¹å¯è§†åŒ–"
+msgstr "在背景显示音乐可视化"
 
 msgctxt "#31580"
 msgid "Thumbnail Wall"
-msgstr "ç¼©ç•¥å›¾å¢™"
+msgstr "缩略图墙"
 
 msgctxt "#31581"
 msgid "Big Poster v2"
-msgstr "å¤§æµ·æŠ¥ v2"
+msgstr "大海报 v2"
 
 msgctxt "#31582"
 msgid "Creator show information"
-msgstr "æ˜¾ç¤ºåˆ›ä½œè€…ä¿¡æ¯"
+msgstr "显示创作者信息"
 
 msgctxt "#31583"
 msgid "Hide channel numbers"
-msgstr "éšè—é¢‘é“ç¼–å·"
+msgstr "隐藏频道编号"
 
 msgctxt "#31584"
 msgid "Remaining"
-msgstr "å‰©ä½™"
+msgstr "剩余"
 
 msgctxt "#31585"
 msgid "Search history"
-msgstr "æœç´¢åŽ†å²"
+msgstr "搜索历史"
 
 msgctxt "#31586"
 msgid "Automatic proposal"
-msgstr "è‡ªåŠ¨å»ºè®®"
+msgstr "自动建议"
 
 msgctxt "#31587"
 msgid "List Square"
-msgstr "åˆ—è¡¨ï¼ˆæ–¹å½¢ï¼‰"
+msgstr "列表（方形）"
 
 msgctxt "#31588"
 msgid "Show plot on pause"
-msgstr "æš‚åœæ—¶æ˜¾ç¤ºå‰§æƒ…"
+msgstr "暂停时显示剧情"
 
 msgctxt "#31589"
 msgid "Navigation"
-msgstr "å¯¼èˆª"
+msgstr "导航"
 
 msgctxt "#31590"
 msgid "Movies of the year"
-msgstr "å¹´åº¦ç”µå½±"
+msgstr "年度电影"
 
 msgctxt "#31591"
 msgid "No favourites found. You can add items from media and other views by using the context menu."
-msgstr "æœªæ‰¾åˆ°æ”¶è—é¡¹ã€‚æ‚¨å¯ä»¥é€šè¿‡ä¸Šä¸‹æ–‡èœå•ä»Žåª’ä½“å’Œå…¶ä»–è§†å›¾æ·»åŠ é¡¹ç›®ã€‚"
+msgstr "未找到收藏项。您可以通过上下文菜单从媒体和其他视图添加项目。"
 
 msgctxt "#31592"
 msgid "Auto close"
-msgstr "è‡ªåŠ¨å…³é—­"
+msgstr "自动关闭"
 
 msgctxt "#31593"
 msgid "Extended information about the album"
-msgstr "ä¸“è¾‘è¯¦ç»†ä¿¡æ¯"
+msgstr "专辑详细信息"
 
 msgctxt "#31594"
 msgid "Local subtitle available"
-msgstr "å¯ç”¨æœ¬åœ°å­—å¹•"
+msgstr "可用本地字幕"
 
 msgctxt "#31595"
 msgid "No auto-update"
-msgstr "æ— è‡ªåŠ¨æ›´æ–°"
+msgstr "无自动更新"
 
 msgctxt "#31596"
 msgid "Online"
-msgstr "åœ¨çº¿"
+msgstr "在线"
 
 msgctxt "#31597"
 msgid "Local"
-msgstr "æœ¬åœ°"
+msgstr "本地"
 
 msgctxt "#31598"
 msgid "Prefer list information"
-msgstr "ä¼˜å…ˆåˆ—è¡¨ä¿¡æ¯"
+msgstr "优先列表信息"
 
 msgctxt "#31599"
 msgid "Recommended skin settings for limited processors"
-msgstr "é’ˆå¯¹ä½Žé…å¤„ç†å™¨çš„æŽ¨èçš®è‚¤è®¾ç½®"
+msgstr "针对低配处理器的推荐皮肤设置"
 
 msgctxt "#31600"
 msgid "Press [B]Left[/B] to step back, or [B]Right[/B] to step forward"
-msgstr "æŒ‰ [B]å·¦é”®[/B] åŽé€€ï¼Œæˆ– [B]å³é”®[/B] å‰è¿›"
+msgstr "按 [B]左键[/B] 后退，或 [B]右键[/B] 前进"
 
 msgctxt "#31601"
 msgid "Press [B]Right[/B] to frame advance"
-msgstr "æŒ‰ [B]å³é”®[/B] é€å¸§å‰è¿›"
+msgstr "按 [B]右键[/B] 逐帧前进"
 
 msgctxt "#31602"
 msgid "Press [B]OK[/B] to select"
-msgstr "æŒ‰ [B]ç¡®å®š[/B] é€‰æ‹©"
+msgstr "按 [B]确定[/B] 选择"
 
 msgctxt "#31603"
 msgid "Hide Tips"
-msgstr "éšè—æç¤º"
+msgstr "隐藏提示"
 
 msgctxt "#31604"
 msgid "Rewind / Forward"
-msgstr "å¿«é€€ / å¿«è¿›"
+msgstr "快退 / 快进"
 
 msgctxt "#31605"
 msgid "Recommended movies"
-msgstr "æŽ¨èç”µå½±"
+msgstr "推荐电影"
 
 msgctxt "#31606"
 msgid "Recommended Tv Shows"
-msgstr "æŽ¨èç”µè§†å‰§"
+msgstr "推荐电视剧"
 
 msgctxt "#31607"
 msgid "Misc options"
-msgstr "å…¶ä»–é€‰é¡¹"
+msgstr "其他选项"
 
 msgctxt "#31608"
 msgid "Audio podcast"
-msgstr "éŸ³é¢‘æ’­å®¢"
+msgstr "音频播客"
 
 msgctxt "#31609"
 msgid "Edit nodes"
-msgstr "ç¼–è¾‘èŠ‚ç‚¹"
+msgstr "编辑节点"
 
 msgctxt "#31610"
 msgid "Performance"
-msgstr "æ€§èƒ½"
+msgstr "性能"
 
 msgctxt "#31611"
 msgid "Balanced"
-msgstr "å¹³è¡¡"
+msgstr "平衡"
 
 msgctxt "#31612"
 msgid "Quality"
-msgstr "è´¨é‡"
+msgstr "质量"
 
 msgctxt "#31613"
 msgid "Dark"
-msgstr "æ·±è‰²"
+msgstr "深色"
 
 msgctxt "#31614"
 msgid "Light"
-msgstr "æµ…è‰²"
+msgstr "浅色"
 
 msgctxt "#31615"
 msgid "Auto day and night mode"
-msgstr "è‡ªåŠ¨æ—¥/å¤œæ¨¡å¼"
+msgstr "自动日/夜模式"
 
 msgctxt "#31616"
 msgid "Reset all menus and widgets to defaults"
-msgstr "å°†æ‰€æœ‰èœå•å’Œå°ç»„ä»¶é‡ç½®ä¸ºé»˜è®¤å€¼"
+msgstr "将所有菜单和小组件重置为默认值"
 
 msgctxt "#31617"
 msgid "Auto Play / Pause"
-msgstr "è‡ªåŠ¨æ’­æ”¾/æš‚åœ"
+msgstr "自动播放/暂停"
 
 msgctxt "#31618"
 msgid "No preview"
-msgstr "æ— é¢„è§ˆ"
+msgstr "无预览"
 
 msgctxt "#31619"
 msgid "Lowercase"
-msgstr "å°å†™"
+msgstr "小写"
 
 msgctxt "#31620"
 msgid "Squarepics"
-msgstr "æ–¹å½¢å›¾ç‰‡"
+msgstr "方形图片"
 
 msgctxt "#31621"
 msgid "Slider"
-msgstr "æ»‘å—"
+msgstr "滑块"
 
 msgctxt "#31622"
 msgid "Setup wizard"
-msgstr "è®¾ç½®å‘å¯¼"
+msgstr "设置向导"
 
 msgctxt "#31623"
 msgid "Cancelled"
-msgstr "å·²å–æ¶ˆ"
+msgstr "已取消"
 
 msgctxt "#31624"
 msgid "Ended"
-msgstr "å·²å®Œç»“"
+msgstr "已完结"
 
 msgctxt "#31625"
 msgid "Released"
-msgstr "å·²å‘è¡Œ"
+msgstr "已发行"
 
 msgctxt "#31626"
 msgid "In-Production"
-msgstr "åˆ¶ä½œä¸­"
+msgstr "制作中"
 
 msgctxt "#31627"
 msgid "Planned"
-msgstr "è®¡åˆ’ä¸­"
+msgstr "计划中"
 
 msgctxt "#31628"
 msgid "Premiering"
-msgstr "é¦–æ˜ ä¸­"
+msgstr "首映中"
 
 msgctxt "#31629"
 msgid "Returning"
-msgstr "å›žå½’"
+msgstr "回归"
 
 msgctxt "#31630"
 msgid "Airing"
-msgstr "æ’­å‡ºä¸­"
+msgstr "播出中"
 
 msgctxt "#31631"
 msgid "Last aired"
-msgstr "ä¸Šæ¬¡æ’­å‡º"
+msgstr "上次播出"
 
 msgctxt "#31632"
 msgid "Rewind"
-msgstr "å›žé€€"
+msgstr "回退"
 
 msgctxt "#31633"
 msgid "Fast forward"
-msgstr "å¿«è¿›"
-msgctxt "#31634"
-msgid "Thin focus border"
-msgstr ""
+msgstr "快进"
 
-msgctxt "#31635"
-msgid "TV episode count"
-msgstr ""
+msgctxt "#31634"
+msgid "Bookmark"
+msgstr "书签"

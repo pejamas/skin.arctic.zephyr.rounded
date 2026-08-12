@@ -1,4 +1,4 @@
-﻿# Kodi Media Center language file
+# Kodi Media Center language file
 # Addon Name: Arctic: Zephyr - Rounded
 # Addon id: skin.arctic.zephyr.mod
 # Addon Provider: jurialmunkey, beatmasterrs
@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#31003"
 msgid "Feature ends at"
-msgstr "La funzionalitÃ  termina alle"
+msgstr "La funzionalità termina alle"
 
 msgctxt "#31004"
 msgid "Flix"
@@ -167,7 +167,7 @@ msgstr "Serie TV casuali"
 
 msgctxt "#31037"
 msgid "Top Rated Tv Shows"
-msgstr "Serie TV piÃ¹ votate"
+msgstr "Serie TV più votate"
 
 msgctxt "#31038"
 msgid "New Episodes"
@@ -296,7 +296,7 @@ msgstr "Mostra feed RSS nel menu principale"
 
 msgctxt "#31069"
 msgid "Show RSS Feed on top instead on bottom"
-msgstr "Mostra feed RSS in alto anzichÃ© in basso"
+msgstr "Mostra feed RSS in alto anziché in basso"
 
 msgctxt "#31070"
 msgid "RSS Feed"
@@ -340,7 +340,7 @@ msgstr "Streaming Video"
 
 msgctxt "#31080"
 msgid "Customise home menu"
-msgstr "Personalizza menÃ¹ principale"
+msgstr "Personalizza menù principale"
 
 msgctxt "#31081"
 msgid "Background"
@@ -352,7 +352,7 @@ msgstr "Mostra ora in esecuzione nello sfondo"
 
 msgctxt "#31083"
 msgid "Submenu"
-msgstr "SottomenÃ¹"
+msgstr "Sottomenù"
 
 msgctxt "#31084"
 msgid "No Timer"
@@ -364,7 +364,7 @@ msgstr "Mostra intestazione"
 
 msgctxt "#31086"
 msgid "DVD Menu"
-msgstr "MenÃ¹ DVD"
+msgstr "Menù DVD"
 
 msgctxt "#31087"
 msgid "Show artist slideshow"
@@ -412,7 +412,7 @@ msgstr "Voto Utenete (sezione media flags)"
 
 msgctxt "#31098"
 msgid "Hide watched"
-msgstr "Nascondi giÃ  visti"
+msgstr "Nascondi già visti"
 
 msgctxt "#31099"
 msgid "[CR]Based on the original Arctic: Zephyr skin by jurialmunkey and [CR]Arctic: Zephyr Reloaded  skin by beatmasterrs."
@@ -491,32 +491,32 @@ msgid "Tv Shows by"
 msgstr "Serie TV di"
 
 msgctxt "#31118"
-msgid "[B]Configure System Settings[/B][CR][CR] â€¢     Setup and calibrate displays[CR] â€¢     Configure audio output[CR] â€¢     Setup remote controls[CR] â€¢     Set power saving options[CR] â€¢     Enable debugging[CR] â€¢     Setup master lock"
-msgstr "[B]Configura Impostazioni di Sistema[/B][CR][CR] â€¢ Imposta e calibra il video[CR] â€¢ Configura l'uscita audio[CR] â€¢ Imposta i controlli remoti[CR] â€¢ Imposta le ozioni di risparmio energetico[CR] â€¢ Abilita il debug[CR] â€¢ Imposta il master lock"
+msgid "[B]Configure System Settings[/B][CR][CR] •     Setup and calibrate displays[CR] •     Configure audio output[CR] •     Setup remote controls[CR] •     Set power saving options[CR] •     Enable debugging[CR] •     Setup master lock"
+msgstr "[B]Configura Impostazioni di Sistema[/B][CR][CR] • Imposta e calibra il video[CR] • Configura l'uscita audio[CR] • Imposta i controlli remoti[CR] • Imposta le ozioni di risparmio energetico[CR] • Abilita il debug[CR] • Imposta il master lock"
 
 msgctxt "#31119"
-msgid "[B]Configure Add-Ons[/B][CR][CR] â€¢     Manage your installed Add-ons[CR] â€¢     Install Add-ons from kodi.tv[CR] â€¢     Modify Add-on settings"
-msgstr "[B]Configura gli add-on[/B][CR][CR] â€¢ Gestisci i tuoi add-on[CR] â€¢ Installa gli add-on da kodi.tv[CR] â€¢ Modifica le impostazioni degli add-on"
+msgid "[B]Configure Add-Ons[/B][CR][CR] •     Manage your installed Add-ons[CR] •     Install Add-ons from kodi.tv[CR] •     Modify Add-on settings"
+msgstr "[B]Configura gli add-on[/B][CR][CR] • Gestisci i tuoi add-on[CR] • Installa gli add-on da kodi.tv[CR] • Modifica le impostazioni degli add-on"
 
 msgctxt "#31120"
-msgid "[B]Configure TV Settings[/B][CR][CR] â€¢     Change full screen info[CR] â€¢     Manage EPG data settings"
-msgstr "[B]Configura impostazioni TV[/B][CR][CR] â€¢ Modifica info schermo intero[CR] â€¢ Gestisci impostazioni dati EPG"
+msgid "[B]Configure TV Settings[/B][CR][CR] •     Change full screen info[CR] •     Manage EPG data settings"
+msgstr "[B]Configura impostazioni TV[/B][CR][CR] • Modifica info schermo intero[CR] • Gestisci impostazioni dati EPG"
 
 msgctxt "#31121"
-msgid "[B]Configure Service Settings[/B][CR][CR] â€¢     Control via UPnP and HTTP[CR] â€¢     Configure file sharing[CR] â€¢     Enable Zeroconf[CR] â€¢     Configure AirPlay"
-msgstr "[B]Configura Impostazioni di Rete[/B][CR][CR] â€¢ Imposta il controllo di Kodi via UPnP e HTTP[CR] â€¢ Configura la condivisione dei file[CR] â€¢ Abilita Zeroconf[CR] â€¢ Configura AirPlay"
+msgid "[B]Configure Service Settings[/B][CR][CR] •     Control via UPnP and HTTP[CR] •     Configure file sharing[CR] •     Enable Zeroconf[CR] •     Configure AirPlay"
+msgstr "[B]Configura Impostazioni di Rete[/B][CR][CR] • Imposta il controllo di Kodi via UPnP e HTTP[CR] • Configura la condivisione dei file[CR] • Abilita Zeroconf[CR] • Configura AirPlay"
 
 msgctxt "#31122"
-msgid "[B]Configure Profile Settings[/B][CR][CR] â€¢     Setup user profiles[CR] â€¢     Enable login screen[CR] â€¢     Set master locks[CR] â€¢     Control access to content"
-msgstr "[B]Configura Impostazioni Profilo[/B][CR][CR] â€¢ Imposta profili utente[CR] â€¢ Abilita schermata di accesso[CR] â€¢ Imposta master locks[CR] â€¢ Controllo accessi ail contenuti"
+msgid "[B]Configure Profile Settings[/B][CR][CR] •     Setup user profiles[CR] •     Enable login screen[CR] •     Set master locks[CR] •     Control access to content"
+msgstr "[B]Configura Impostazioni Profilo[/B][CR][CR] • Imposta profili utente[CR] • Abilita schermata di accesso[CR] • Imposta master locks[CR] • Controllo accessi ail contenuti"
 
 msgctxt "#31123"
-msgid "[B]Configure Skin Settings[/B][CR][CR] â€¢     Customise the home screen[CR] â€¢     Set background options[CR] â€¢     Configure OSD options[CR] â€¢     Enable add-on support[CR] â€¢     Disable screen elements"
-msgstr "[B]Configura Impostazioni Skin[/B][CR][CR] â€¢ Prsonalizza schermata home[CR] â€¢ Imposta opzioni dello sfondo[CR] â€¢ Configura opzioni OSD[CR] â€¢ Abilita supporto add-on[CR] â€¢ Disabilita elementi sullo schermo"
+msgid "[B]Configure Skin Settings[/B][CR][CR] •     Customise the home screen[CR] •     Set background options[CR] •     Configure OSD options[CR] •     Enable add-on support[CR] •     Disable screen elements"
+msgstr "[B]Configura Impostazioni Skin[/B][CR][CR] • Prsonalizza schermata home[CR] • Imposta opzioni dello sfondo[CR] • Configura opzioni OSD[CR] • Abilita supporto add-on[CR] • Disabilita elementi sullo schermo"
 
 msgctxt "#31124"
-msgid "[B]View System Information[/B][CR][CR] â€¢     Summary[CR] â€¢     Storage[CR] â€¢     Network[CR] â€¢     Video[CR] â€¢     Hardware[CR] â€¢     PVR Backend"
-msgstr "[B]Visualizza Informazioni di Sistema[/B][CR][CR] â€¢ Sommario[CR] â€¢ CapacitÃ [CR] â€¢ Rete[CR] â€¢ Video[CR] â€¢ Hardware[CR] â€¢ PVR"
+msgid "[B]View System Information[/B][CR][CR] •     Summary[CR] •     Storage[CR] •     Network[CR] •     Video[CR] •     Hardware[CR] •     PVR Backend"
+msgstr "[B]Visualizza Informazioni di Sistema[/B][CR][CR] • Sommario[CR] • Capacità[CR] • Rete[CR] • Video[CR] • Hardware[CR] • PVR"
 
 msgctxt "#31125"
 msgid "Startup video or music playlist"
@@ -612,7 +612,7 @@ msgstr "Schede"
 
 msgctxt "#31148"
 msgid "Kiosk mode"
-msgstr "ModalitÃ  Kiosk"
+msgstr "Modalità Kiosk"
 
 msgctxt "#31149"
 msgid "IMDb"
@@ -652,7 +652,7 @@ msgstr "Popolare"
 
 msgctxt "#31158"
 msgid "Top Rated"
-msgstr "PiÃ¹ votati"
+msgstr "Più votati"
 
 msgctxt "#31159"
 msgid "Airing"
@@ -744,7 +744,7 @@ msgstr "Immagine di avvio"
 
 msgctxt "#31181"
 msgid "Home menu style"
-msgstr "Stile del menÃ¹ Home"
+msgstr "Stile del menù Home"
 
 msgctxt "#31182"
 msgid "Vertical"
@@ -824,19 +824,19 @@ msgstr "Hub widget"
 
 msgctxt "#31201"
 msgid "Most played Song"
-msgstr "Brani piÃ¹ riprodotti"
+msgstr "Brani più riprodotti"
 
 msgctxt "#31202"
-msgid "[B]Configure Interface Settings[/B][CR][CR] â€¢     Skin[CR] â€¢     Region[CR] â€¢     Control[CR] â€¢     Screensaver[CR] â€¢     Master Lock[CR]"
-msgstr "[B]Configura Impostazioni Interfaccia[/B][CR][CR] â€¢     Skin[CR] â€¢     Regione[CR] â€¢     Controllo[CR] â€¢     Screensaver[CR] â€¢     Blocco Master[CR]"
+msgid "[B]Configure Interface Settings[/B][CR][CR] •     Skin[CR] •     Region[CR] •     Control[CR] •     Screensaver[CR] •     Master Lock[CR]"
+msgstr "[B]Configura Impostazioni Interfaccia[/B][CR][CR] •     Skin[CR] •     Regione[CR] •     Controllo[CR] •     Screensaver[CR] •     Blocco Master[CR]"
 
 msgctxt "#31203"
-msgid "[B]Configure Library Settings[/B][CR][CR] â€¢     Display[CR] â€¢     Navigation[CR] â€¢     Media Database[CR]"
-msgstr "[B]Configura Impostazioni Libreria[/B][CR][CR] â€¢     Schermo[CR] â€¢     Navigazione[CR] â€¢     Database Media[CR"
+msgid "[B]Configure Library Settings[/B][CR][CR] •     Display[CR] •     Navigation[CR] •     Media Database[CR]"
+msgstr "[B]Configura Impostazioni Libreria[/B][CR][CR] •     Schermo[CR] •     Navigazione[CR] •     Database Media[CR"
 
 msgctxt "#31204"
-msgid "[B]Configure Player Settings[/B][CR][CR] â€¢     Playback Actions[CR] â€¢     How Content is Played[CR]"
-msgstr "[B]Configura Impostazioni Player[/B][CR][CR] â€¢     Comando Roproduci[CR] â€¢     Come riprodurre i Contenuti[CR]"
+msgid "[B]Configure Player Settings[/B][CR][CR] •     Playback Actions[CR] •     How Content is Played[CR]"
+msgstr "[B]Configura Impostazioni Player[/B][CR][CR] •     Comando Roproduci[CR] •     Come riprodurre i Contenuti[CR]"
 
 msgctxt "#31205"
 msgid "Video decoder"
@@ -848,7 +848,7 @@ msgstr "Formato pixel"
 
 msgctxt "#31207"
 msgid "Play Speed"
-msgstr "VelocitÃ  Riproduzione"
+msgstr "Velocità Riproduzione"
 
 msgctxt "#31208"
 msgid "Special Features"
@@ -892,7 +892,7 @@ msgstr "Elenco Canali"
 
 msgctxt "#31218"
 msgid "This is your personal rating and will not be published."
-msgstr "Questo Ã¨ il tuo voto personale e non sarÃ  pubblicato."
+msgstr "Questo è il tuo voto personale e non sarà pubblicato."
 
 msgctxt "#31219"
 msgid "       "
@@ -971,12 +971,12 @@ msgid "Top 20 User Rated Movies"
 msgstr "Top 20 Film votati dall'utente"
 
 msgctxt "#31238"
-msgid "Reset skin settings to defaults?"
-msgstr "Reimpostare impostazioni della skin ai valori predefiniti?"
+msgid "Reset skin settings to defaults"
+msgstr "Reimpostare impostazioni della skin ai valori predefiniti"
 
 msgctxt "#31239"
 msgid "Reset skin settings to defaults? WARNING: This will also reset your home menu to skin defaults!"
-msgstr "Reimpostare impostazioni della skin ai valori predefiniti? ATTENZIONE: questo reimposterÃ  anche il tuo menu principale alle impostazioni predefinite della skin!"
+msgstr "Reimpostare impostazioni della skin ai valori predefiniti? ATTENZIONE: questo reimposterà anche il tuo menu principale alle impostazioni predefinite della skin!"
 
 msgctxt "#31240"
 msgid "Random Actors ordered by movies"
@@ -1016,7 +1016,7 @@ msgstr "Mostra ClearLogo/Art"
 
 msgctxt "#31249"
 msgid "Songs by"
-msgstr "PiÃ¹ di"
+msgstr "Più di"
 
 msgctxt "#31250"
 msgid "Poster Wall Small"
@@ -1135,12 +1135,12 @@ msgid "last on"
 msgstr "last on"
 
 msgctxt "#31279"
-msgid "[B]Configure LibreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
-msgstr "[B]Configura impostazioni LibreELEC[/B][CR][CR] â€¢ Configura impostazioni di sistema[CR] â€¢ Configura aggiornamenti di sistema â€¢ Configura e calibra rete[CR] â€¢ Configura e calibra rete[CR] â€¢ Configura connessioni [CR]"
+msgid "[B]Configure LibreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
+msgstr "[B]Configura impostazioni LibreELEC[/B][CR][CR] • Configura impostazioni di sistema[CR] • Configura aggiornamenti di sistema • Configura e calibra rete[CR] • Configura e calibra rete[CR] • Configura connessioni [CR]"
 
 msgctxt "#31280"
-msgid "[B]Configure CoreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
-msgstr "[B]Configura impostazioni CoreELEC[/B][CR][CR] â€¢ Configura impostazioni di sistema[CR] â€¢ Configura aggiornamenti di sistema â€¢ Configura e calibra rete[CR] â€¢ Configura e calibra rete[CR] â€¢ Configura connessioni [CR]"
+msgid "[B]Configure CoreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
+msgstr "[B]Configura impostazioni CoreELEC[/B][CR][CR] • Configura impostazioni di sistema[CR] • Configura aggiornamenti di sistema • Configura e calibra rete[CR] • Configura e calibra rete[CR] • Configura connessioni [CR]"
 
 msgctxt "#31281"
 msgid " -- "
@@ -1300,7 +1300,7 @@ msgstr "Icone Grandi"
 
 msgctxt "#31320"
 msgid "more..."
-msgstr "PiÃ¹..."
+msgstr "Più..."
 
 msgctxt "#31321"
 msgid "item"
@@ -1324,7 +1324,7 @@ msgstr "Brani aggiunti di recente"
 
 msgctxt "#31326"
 msgid "Most played Songs"
-msgstr "Brani piÃ¹ ascoltati"
+msgstr "Brani più ascoltati"
 
 msgctxt "#31327"
 msgid "Chapter markers"
@@ -1528,15 +1528,15 @@ msgstr "Quando premi indietro, i widget non tornano alla posizione iniziale"
 
 msgctxt "#31377"
 msgid "On up, when at first widget, do not jump back to last widget"
-msgstr "Quando su, al primo widget, non saltare giÃ¹ all'ultimo widget"
+msgstr "Quando su, al primo widget, non saltare giù all'ultimo widget"
 
 msgctxt "#31378"
 msgid "On down, when at last widget, widgets do not return to initial position"
-msgstr "Quando giÃ¹, all'ultimo widget, i widget non tornano alla posizione iniziale"
+msgstr "Quando giù, all'ultimo widget, i widget non tornano alla posizione iniziale"
 
 msgctxt "#31379"
 msgid "On up/down at first/last widget, go to last/first widget"
-msgstr "Quando su/giÃ¹ al primo/ultimo widget, vai a ultimo/primo widget"
+msgstr "Quando su/giù al primo/ultimo widget, vai a ultimo/primo widget"
 
 msgctxt "#31380"
 msgid "Layout options"
@@ -1616,7 +1616,7 @@ msgstr "Pulito e minimale"
 
 msgctxt "#31399"
 msgid "Hide plot, when widget is not focused"
-msgstr "Nascondi trama, quando il widget non Ã¨ selezionato"
+msgstr "Nascondi trama, quando il widget non è selezionato"
 
 msgctxt "#31400"
 msgid "Audio streams"
@@ -1712,7 +1712,7 @@ msgstr "Abilita scorrimento automatico per i titoli"
 
 msgctxt "#31423"
 msgid "Show glow on focused items"
-msgstr "IntensitÃ  del glow per gli elementi selezionati"
+msgstr "Intensità del glow per gli elementi selezionati"
 
 msgctxt "#31424"
 msgid "List type"
@@ -1768,11 +1768,11 @@ msgstr "Dopo questo, selezione la barra home"
 
 msgctxt "#31437"
 msgid "If home menu is focused, jump to widgets on back"
-msgstr "Se la barra home Ã¨ selezionata, ritorna al widget con tasto \"indietro\""
+msgstr "Se la barra home è selezionata, ritorna al widget con tasto \"indietro\""
 
 msgctxt "#31438"
 msgid "Only, when widget is focused"
-msgstr "Solo, quando il widget Ã¨ selezionato"
+msgstr "Solo, quando il widget è selezionato"
 
 msgctxt "#31439"
 msgid "Hide mouse warning"
@@ -1792,7 +1792,7 @@ msgstr "Azione riproduzione quando viene mostrata la finestra info"
 
 msgctxt "#31443"
 msgid "Stop playback when item is no longer focused"
-msgstr "Ferma riproduzione quando l'elemento non Ã¨ piÃ¹ selezionato"
+msgstr "Ferma riproduzione quando l'elemento non è più selezionato"
 
 msgctxt "#31444"
 msgid "LibreELEC Settings"
@@ -1967,7 +1967,7 @@ msgid "Tv Shows of the year"
 msgstr ""
 
 msgctxt "#31487"
-msgid "[B]File Manager[/B][CR][CR] â€¢     Copy[CR] â€¢     Move[CR] â€¢     Delete[CR] â€¢     Rename[CR] â€¢     Manage Source"
+msgid "[B]File Manager[/B][CR][CR] •     Copy[CR] •     Move[CR] •     Delete[CR] •     Rename[CR] •     Manage Source"
 msgstr ""
 
 msgctxt "#31488"
@@ -2051,7 +2051,7 @@ msgid "Background presets"
 msgstr ""
 
 msgctxt "#31508"
-msgid "Autoscrolling"
+msgid "Auto-scrolling"
 msgstr ""
 
 msgctxt "#31509"
@@ -2219,7 +2219,7 @@ msgid "Event log"
 msgstr ""
 
 msgctxt "#31550"
-msgid "[B]Show event log[/B][CR][CR] â€¢     Basic[CR] â€¢     Information[CR] â€¢     Warning[CR] â€¢     Error [CR]"
+msgid "[B]Show event log[/B][CR][CR] •     Basic[CR] •     Information[CR] •     Warning[CR] •     Error [CR]"
 msgstr ""
 
 msgctxt "#31551"
@@ -2553,10 +2553,7 @@ msgstr "Indietro veloce"
 msgctxt "#31633"
 msgid "Fast forward"
 msgstr "Avanti veloce"
-msgctxt "#31634"
-msgid "Thin focus border"
-msgstr ""
 
-msgctxt "#31635"
-msgid "TV episode count"
-msgstr ""
+msgctxt "#31634"
+msgid "Bookmark"
+msgstr "Segnalibro"

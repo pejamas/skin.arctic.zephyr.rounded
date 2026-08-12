@@ -1,4 +1,4 @@
-﻿# Kodi Media Center language file
+# Kodi Media Center language file
 # Addon Name: Arctic: Zephyr - Rounded
 # Addon id: skin.arctic.zephyr.mod
 # Addon Provider: jurialmunkey, beatmasterrs
@@ -19,7 +19,7 @@ msgstr ""
 
 msgctxt "#31000"
 msgid "Limit number of items"
-msgstr "NÃºmero de elementos en widget"
+msgstr "Número de elementos en widget"
 
 msgctxt "#31001"
 msgid "Backup / Restore"
@@ -59,7 +59,7 @@ msgstr "Recursos"
 
 msgctxt "#31010"
 msgid "Video Infodialog"
-msgstr "InfoDialog VÃ­deo"
+msgstr "InfoDialog Vídeo"
 
 msgctxt "#31011"
 msgid "Show clearLogo"
@@ -75,7 +75,7 @@ msgstr "Shifted"
 
 msgctxt "#31014"
 msgid "movies in the library"
-msgstr "pelÃ­culas en la biblioteca"
+msgstr "películas en la biblioteca"
 
 msgctxt "#31015"
 msgid "Use fanart instead of landscape on Tv Shows"
@@ -83,7 +83,7 @@ msgstr "Usar fanart en lugar de landscape en programas de tv"
 
 msgctxt "#31016"
 msgid "Use fanart instead of landscape on movies"
-msgstr "Usar fanart en lugar de landscape en pelÃ­culas"
+msgstr "Usar fanart en lugar de landscape en películas"
 
 msgctxt "#31017"
 msgid "Use fanart instead of landscape on seasons"
@@ -91,11 +91,11 @@ msgstr "Usar fanart en lugar de landscape en temporadas"
 
 msgctxt "#31018"
 msgid "Hide bar/CD on lyrics"
-msgstr "Ocultar barra de reproducciÃ³n durante letras"
+msgstr "Ocultar barra de reproducción durante letras"
 
 msgctxt "#31019"
 msgid "Show PVR technical info"
-msgstr "Mostrar informaciÃ³n tÃ©cnica PVR"
+msgstr "Mostrar información técnica PVR"
 
 msgctxt "#31020"
 msgid "Fullscreen Fanart"
@@ -103,7 +103,7 @@ msgstr "Fanart a pantalla completa"
 
 msgctxt "#31021"
 msgid "Extended information"
-msgstr "InformaciÃ³n Extendida"
+msgstr "Información Extendida"
 
 msgctxt "#31022"
 msgid "IPTV Recorder"
@@ -115,7 +115,7 @@ msgstr "Grabaciones"
 
 msgctxt "#31024"
 msgid "Last Played Channels"
-msgstr "Ãšltimos canales reproducidos"
+msgstr "Últimos canales reproducidos"
 
 msgctxt "#31025"
 msgid "All Channels"
@@ -123,31 +123,31 @@ msgstr "Todos los canales"
 
 msgctxt "#31026"
 msgid "New Movies"
-msgstr "Nuevas pelÃ­culas"
+msgstr "Nuevas películas"
 
 msgctxt "#31027"
 msgid "Recently Played Movies"
-msgstr "PelÃ­culas reproducidas recientemente"
+msgstr "Películas reproducidas recientemente"
 
 msgctxt "#31028"
 msgid "Random Movies"
-msgstr "PelÃ­culas aleatorias"
+msgstr "Películas aleatorias"
 
 msgctxt "#31029"
 msgid "In Progress Movies"
-msgstr "PelÃ­culas en progreso"
+msgstr "Películas en progreso"
 
 msgctxt "#31030"
 msgid "Top Rated Movies"
-msgstr "PelÃ­culas mejor valoradas"
+msgstr "Películas mejor valoradas"
 
 msgctxt "#31031"
 msgid "Top 250 Movies"
-msgstr "Top 250 pelÃ­culas"
+msgstr "Top 250 películas"
 
 msgctxt "#31032"
 msgid "Unwatched Movies"
-msgstr "PelÃ­culas no vistas"
+msgstr "Películas no vistas"
 
 msgctxt "#31033"
 msgid "Movie Sets"
@@ -195,23 +195,23 @@ msgstr "Episodios mejor valorados"
 
 msgctxt "#31044"
 msgid "New Albums"
-msgstr "Nuevos Ãlbumes"
+msgstr "Nuevos Álbumes"
 
 msgctxt "#31045"
 msgid "Recently Played Albums"
-msgstr "Ãlbumes reproducidos recientemente"
+msgstr "Álbumes reproducidos recientemente"
 
 msgctxt "#31046"
 msgid "Top Albums"
-msgstr "Ãlbumes mejor valorados"
+msgstr "Álbumes mejor valorados"
 
 msgctxt "#31047"
 msgid "Random Albums"
-msgstr "Ãlbumes aleatorios"
+msgstr "Álbumes aleatorios"
 
 msgctxt "#31048"
 msgid "Random Artists"
-msgstr "IntÃ©rpretes aleatorios"
+msgstr "Intérpretes aleatorios"
 
 msgctxt "#31049"
 msgid "Show fanart/landscape view"
@@ -227,7 +227,7 @@ msgstr "Esta vista"
 
 msgctxt "#31052"
 msgid "Misc"
-msgstr "MiscelÃ¡neo"
+msgstr "Misceláneo"
 
 msgctxt "#31053"
 msgid "Global options"
@@ -239,7 +239,7 @@ msgstr "Mostrar arte del disco"
 
 msgctxt "#31055"
 msgid "Fullsize fanart"
-msgstr "Fanart a tamaÃ±o completo"
+msgstr "Fanart a tamaño completo"
 
 msgctxt "#31056"
 msgid "Double Poster"
@@ -251,11 +251,11 @@ msgstr "Intercambiar poster/fanart"
 
 msgctxt "#31058"
 msgid "Show list instead of posters"
-msgstr "Mostrar lista en lugar de pÃ³ster"
+msgstr "Mostrar lista en lugar de póster"
 
 msgctxt "#31059"
 msgid "Fanart & poster 2"
-msgstr "Fanart y pÃ³ster 2"
+msgstr "Fanart y póster 2"
 
 msgctxt "#31060"
 msgid "episodes watched"
@@ -283,15 +283,15 @@ msgstr "Intercambiar fanart/pancarta"
 
 msgctxt "#31066"
 msgid "Hourly forecast"
-msgstr "PronÃ³stico por hora"
+msgstr "Pronóstico por hora"
 
 msgctxt "#31067"
 msgid "Next days forecast"
-msgstr "PronÃ³stico prÃ³ximos dÃ­as"
+msgstr "Pronóstico próximos días"
 
 msgctxt "#31068"
 msgid "Show RSS Feed on home menu"
-msgstr "Mostrar noticias RSS en el menÃº de inicio"
+msgstr "Mostrar noticias RSS en el menú de inicio"
 
 msgctxt "#31069"
 msgid "Show RSS Feed on top instead on bottom"
@@ -303,7 +303,7 @@ msgstr "Feed RSS"
 
 msgctxt "#31071"
 msgid "Flip list and info"
-msgstr "Intercambiar lista/informaciÃ³n"
+msgstr "Intercambiar lista/información"
 
 msgctxt "#31072"
 msgid "Elapsed / Remaining Time"
@@ -335,11 +335,11 @@ msgstr "Finaliza en"
 
 msgctxt "#31079"
 msgid "Video Stream"
-msgstr "Secuencia de vÃ­deo"
+msgstr "Secuencia de vídeo"
 
 msgctxt "#31080"
 msgid "Customise home menu"
-msgstr "Personalizar menÃº de inicio"
+msgstr "Personalizar menú de inicio"
 
 msgctxt "#31081"
 msgid "Background"
@@ -347,11 +347,11 @@ msgstr "Fondo"
 
 msgctxt "#31082"
 msgid "Show now playing video in background"
-msgstr "Mostrar vÃ­deo en reproducciÃ³n como fondo"
+msgstr "Mostrar vídeo en reproducción como fondo"
 
 msgctxt "#31083"
 msgid "Submenu"
-msgstr "SubmenÃº"
+msgstr "Submenú"
 
 msgctxt "#31084"
 msgid "No Timer"
@@ -363,19 +363,19 @@ msgstr "Mostrar cabecera"
 
 msgctxt "#31086"
 msgid "DVD Menu"
-msgstr "MenÃº DVD"
+msgstr "Menú DVD"
 
 msgctxt "#31087"
 msgid "Show artist slideshow"
-msgstr "Mostrar presentaciÃ³n de diapositivas del intÃ©rprete"
+msgstr "Mostrar presentación de diapositivas del intérprete"
 
 msgctxt "#31088"
 msgid "Show visualisation behind slideshow"
-msgstr "Mostrar visualizaciÃ³n detrÃ¡s de la presentaciÃ³n de diapositivas"
+msgstr "Mostrar visualización detrás de la presentación de diapositivas"
 
 msgctxt "#31089"
 msgid "Animate artist slideshow"
-msgstr "Mostrar animaciÃ³n en la presentaciÃ³n de diapositivas del intÃ©rprete"
+msgstr "Mostrar animación en la presentación de diapositivas del intérprete"
 
 msgctxt "#31090"
 msgid "Show fanart"
@@ -391,7 +391,7 @@ msgstr "Colores de acentuado"
 
 msgctxt "#31093"
 msgid "Rating stars (media flags section)"
-msgstr "Estrellas de valoraciÃ³n (indicadores de contenido)"
+msgstr "Estrellas de valoración (indicadores de contenido)"
 
 msgctxt "#31094"
 msgid "MPAA rating (media flags section)"
@@ -407,7 +407,7 @@ msgstr ""
 
 msgctxt "#31097"
 msgid "Userrating (media flags section)"
-msgstr "ValoraciÃ³n del usuario (indicadores de contenido)"
+msgstr "Valoración del usuario (indicadores de contenido)"
 
 msgctxt "#31098"
 msgid "Hide watched"
@@ -419,7 +419,7 @@ msgstr "[CR]Basado en el original Arctic: Zephyr skin por jurialmunkey y [CR]Arc
 
 msgctxt "#31100"
 msgid "Play trailer in windowed mode"
-msgstr "Reproducir trÃ¡iler en modo ventana"
+msgstr "Reproducir tráiler en modo ventana"
 
 msgctxt "#31101"
 msgid "Youtube"
@@ -427,7 +427,7 @@ msgstr "Youtube"
 
 msgctxt "#31102"
 msgid "Set weather fanart"
-msgstr "Establecer fanart de tiempo meteorolÃ³gico"
+msgstr "Establecer fanart de tiempo meteorológico"
 
 msgctxt "#31103"
 msgid "Widgets"
@@ -435,7 +435,7 @@ msgstr "Widgets"
 
 msgctxt "#31104"
 msgid "Show time, date and weather"
-msgstr "Mostrar tiempo meteorolÃ³gico"
+msgstr "Mostrar tiempo meteorológico"
 
 msgctxt "#31105"
 msgid "Animate fanart"
@@ -455,7 +455,7 @@ msgstr "Establecer imagen de fondo"
 
 msgctxt "#31109"
 msgid "Power Menu"
-msgstr "MenÃº de energÃ­a"
+msgstr "Menú de energía"
 
 msgctxt "#31110"
 msgid "Furniture"
@@ -471,7 +471,7 @@ msgstr "Mostrar indicadores de contenido"
 
 msgctxt "#31113"
 msgid "Show now playing info"
-msgstr "Mostrar informaciÃ³n de reproducciÃ³n"
+msgstr "Mostrar información de reproducción"
 
 msgctxt "#31114"
 msgid "[COLOR=$VAR[Color_Label_AZR]]Rounded[/COLOR] Skin-Settings"
@@ -479,47 +479,47 @@ msgstr "Ajustes de skin"
 
 msgctxt "#31115"
 msgid "Trailer of"
-msgstr "TrÃ¡iler de"
+msgstr "Tráiler de"
 
 msgctxt "#31116"
 msgid "Movies by"
-msgstr "PelÃ­culas de"
+msgstr "Películas de"
 
 msgctxt "#31117"
 msgid "Tv Shows by"
 msgstr "Programas TV de"
 
 msgctxt "#31118"
-msgid "[B]Configure System Settings[/B][CR][CR] â€¢     Setup and calibrate displays[CR] â€¢     Configure audio output[CR] â€¢     Setup remote controls[CR] â€¢     Set power saving options[CR] â€¢     Enable debugging[CR] â€¢     Setup master lock"
-msgstr "[B]Configurar ajustes del sistema[/B][CR][CR] â€¢ Ajustar y calibrar la pantalla[CR] â€¢ Configurar salida del audio[CR] â€¢ Configurar control remoto[CR] â€¢ Ajustar opciones de ahorro de energÃ­a[CR] â€¢ Activar modo depuraciÃ³n[CR] â€¢ Ajustar bloqueo maestro"
+msgid "[B]Configure System Settings[/B][CR][CR] •     Setup and calibrate displays[CR] •     Configure audio output[CR] •     Setup remote controls[CR] •     Set power saving options[CR] •     Enable debugging[CR] •     Setup master lock"
+msgstr "[B]Configurar ajustes del sistema[/B][CR][CR] • Ajustar y calibrar la pantalla[CR] • Configurar salida del audio[CR] • Configurar control remoto[CR] • Ajustar opciones de ahorro de energía[CR] • Activar modo depuración[CR] • Ajustar bloqueo maestro"
 
 msgctxt "#31119"
-msgid "[B]Configure Add-Ons[/B][CR][CR] â€¢     Manage your installed Add-ons[CR] â€¢     Install Add-ons from kodi.tv[CR] â€¢     Modify Add-on settings"
-msgstr "[B]Configurar Add-ons[/B][CR][CR] â€¢     Gestionar los Add-ons instalados[CR] â€¢     Instalar Add-ons desde kodi.tv[CR] â€¢     Modificar los ajustes de los complementos"
+msgid "[B]Configure Add-Ons[/B][CR][CR] •     Manage your installed Add-ons[CR] •     Install Add-ons from kodi.tv[CR] •     Modify Add-on settings"
+msgstr "[B]Configurar Add-ons[/B][CR][CR] •     Gestionar los Add-ons instalados[CR] •     Instalar Add-ons desde kodi.tv[CR] •     Modificar los ajustes de los complementos"
 
 msgctxt "#31120"
-msgid "[B]Configure TV Settings[/B][CR][CR] â€¢     Change full screen info[CR] â€¢     Manage EPG data settings"
-msgstr "[B]Configurar ajustes de TV[/B][CR][CR] â€¢ Cambiar informaciÃ³n de pantalla completa[CR] â€¢ Configurar datos EPG"
+msgid "[B]Configure TV Settings[/B][CR][CR] •     Change full screen info[CR] •     Manage EPG data settings"
+msgstr "[B]Configurar ajustes de TV[/B][CR][CR] • Cambiar información de pantalla completa[CR] • Configurar datos EPG"
 
 msgctxt "#31121"
-msgid "[B]Configure Service Settings[/B][CR][CR] â€¢     Control via UPnP and HTTP[CR] â€¢     Configure file sharing[CR] â€¢     Enable Zeroconf[CR] â€¢     Configure AirPlay"
-msgstr "[B]Configurar servicios[/B][CR][CR] â€¢ Control via UPnP y HTTP[CR] â€¢ Configurar comparticiÃ³n de archivos[CR] â€¢ Activar Zeroconf[CR] â€¢ Configurar AirPlay"
+msgid "[B]Configure Service Settings[/B][CR][CR] •     Control via UPnP and HTTP[CR] •     Configure file sharing[CR] •     Enable Zeroconf[CR] •     Configure AirPlay"
+msgstr "[B]Configurar servicios[/B][CR][CR] • Control via UPnP y HTTP[CR] • Configurar compartición de archivos[CR] • Activar Zeroconf[CR] • Configurar AirPlay"
 
 msgctxt "#31122"
-msgid "[B]Configure Profile Settings[/B][CR][CR] â€¢     Setup user profiles[CR] â€¢     Enable login screen[CR] â€¢     Set master locks[CR] â€¢     Control access to content"
-msgstr "[B]Configurar ajustes de perfil[/B][CR][CR] â€¢ Perfiles de usuario[CR] â€¢ Activar pantalla de inicio de sesiÃ³n[CR] â€¢ Ajustar bloqueo maestro[CR] â€¢ Control parental"
+msgid "[B]Configure Profile Settings[/B][CR][CR] •     Setup user profiles[CR] •     Enable login screen[CR] •     Set master locks[CR] •     Control access to content"
+msgstr "[B]Configurar ajustes de perfil[/B][CR][CR] • Perfiles de usuario[CR] • Activar pantalla de inicio de sesión[CR] • Ajustar bloqueo maestro[CR] • Control parental"
 
 msgctxt "#31123"
-msgid "[B]Configure Skin Settings[/B][CR][CR] â€¢     Customise the home screen[CR] â€¢     Set background options[CR] â€¢     Configure OSD options[CR] â€¢     Enable add-on support[CR] â€¢     Disable screen elements"
-msgstr "[B]Configurar los ajustes del skin[/B][CR][CR] â€¢     Personalizar la pantalla de inicio[CR] â€¢     Ajustar opciones de fondo[CR] â€¢     Configurar las opciones del OSD[CR] â€¢     Activar compatibilidad con add-on[CR] â€¢     Desactivar los elementos de la pantalla"
+msgid "[B]Configure Skin Settings[/B][CR][CR] •     Customise the home screen[CR] •     Set background options[CR] •     Configure OSD options[CR] •     Enable add-on support[CR] •     Disable screen elements"
+msgstr "[B]Configurar los ajustes del skin[/B][CR][CR] •     Personalizar la pantalla de inicio[CR] •     Ajustar opciones de fondo[CR] •     Configurar las opciones del OSD[CR] •     Activar compatibilidad con add-on[CR] •     Desactivar los elementos de la pantalla"
 
 msgctxt "#31124"
-msgid "[B]View System Information[/B][CR][CR] â€¢     Summary[CR] â€¢     Storage[CR] â€¢     Network[CR] â€¢     Video[CR] â€¢     Hardware[CR] â€¢     PVR Backend"
-msgstr "[B]InformaciÃ³n del sistema[/B][CR][CR] â€¢ Resumen de hardware[CR] â€¢ Almacenamiento[CR] â€¢ Red[CR] â€¢ VÃ­deo[CR] â€¢ Hardware[CR] â€¢ PVR"
+msgid "[B]View System Information[/B][CR][CR] •     Summary[CR] •     Storage[CR] •     Network[CR] •     Video[CR] •     Hardware[CR] •     PVR Backend"
+msgstr "[B]Información del sistema[/B][CR][CR] • Resumen de hardware[CR] • Almacenamiento[CR] • Red[CR] • Vídeo[CR] • Hardware[CR] • PVR"
 
 msgctxt "#31125"
 msgid "Startup video or music playlist"
-msgstr "Arrancar con lista de reproducciÃ³n"
+msgstr "Arrancar con lista de reproducción"
 
 msgctxt "#31126"
 msgid "Extras"
@@ -531,11 +531,11 @@ msgstr "Cinema Experience"
 
 msgctxt "#31128"
 msgid "Movies by"
-msgstr "PelÃ­culas de"
+msgstr "Películas de"
 
 msgctxt "#31129"
 msgid "Recently added"
-msgstr "AÃ±adidos recientemente"
+msgstr "Añadidos recientemente"
 
 msgctxt "#31130"
 msgid "Recently played"
@@ -551,7 +551,7 @@ msgstr "Eliminar acceso directo a Ajustes"
 
 msgctxt "#31133"
 msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
-msgstr "Â¿EstÃ¡ seguro que quiere eliminar el acceso directo a Ajustes?[CR]CR]Por favor, asegÃºrese de tener un mÃ©todo alternativo para acceder a la configuraciÃ³n antes de eliminar este acceso directo."
+msgstr "¿Está seguro que quiere eliminar el acceso directo a Ajustes?[CR]CR]Por favor, asegúrese de tener un método alternativo para acceder a la configuración antes de eliminar este acceso directo."
 
 msgctxt "#31134"
 msgid "Hub items"
@@ -571,7 +571,7 @@ msgstr "Foto de"
 
 msgctxt "#31138"
 msgid "Youtube videos of"
-msgstr "VÃ­deos en Youtube para"
+msgstr "Vídeos en Youtube para"
 
 msgctxt "#31139"
 msgid "Crew of"
@@ -583,7 +583,7 @@ msgstr "Cartel grande"
 
 msgctxt "#31141"
 msgid "Filmography of"
-msgstr "FilmografÃ­a de"
+msgstr "Filmografía de"
 
 msgctxt "#31142"
 msgid "TV Show appearances of"
@@ -591,11 +591,11 @@ msgstr "Apariciones en programas TV de"
 
 msgctxt "#31143"
 msgid "Discography of"
-msgstr "DiscografÃ­a de"
+msgstr "Discografía de"
 
 msgctxt "#31144"
 msgid "Movie Hub"
-msgstr "Hub pelÃ­cula"
+msgstr "Hub película"
 
 msgctxt "#31145"
 msgid "TV Hub"
@@ -619,7 +619,7 @@ msgstr ""
 
 msgctxt "#31150"
 msgid "Show detailed info when video is paused"
-msgstr "Mostrar informaciÃ³n detallada cuando el vÃ­deo estÃ¡ en pausa"
+msgstr "Mostrar información detallada cuando el vídeo está en pausa"
 
 msgctxt "#31151"
 msgid "Artwork"
@@ -635,7 +635,7 @@ msgstr "Similar"
 
 msgctxt "#31154"
 msgid "Movies by"
-msgstr "PelÃ­culas de"
+msgstr "Películas de"
 
 msgctxt "#31155"
 msgid "In Cinemas"
@@ -643,7 +643,7 @@ msgstr "En cines"
 
 msgctxt "#31156"
 msgid "Upcoming"
-msgstr "PrÃ³ximamente"
+msgstr "Próximamente"
 
 msgctxt "#31157"
 msgid "Popular"
@@ -655,7 +655,7 @@ msgstr "Los mejor valorados"
 
 msgctxt "#31159"
 msgid "Airing"
-msgstr "En emisiÃ³n"
+msgstr "En emisión"
 
 msgctxt "#31160"
 msgid "Today"
@@ -671,11 +671,11 @@ msgstr "Lista de canciones de"
 
 msgctxt "#31163"
 msgid "Show numeric rating"
-msgstr "Mostrar valoraciÃ³n numÃ©rica"
+msgstr "Mostrar valoración numérica"
 
 msgctxt "#31164"
 msgid "Next Aired"
-msgstr "PrÃ³xima emisiÃ³n"
+msgstr "Próxima emisión"
 
 msgctxt "#31165"
 msgid "Studio"
@@ -743,7 +743,7 @@ msgstr "Imagen de inicio"
 
 msgctxt "#31181"
 msgid "Home menu style"
-msgstr "Estilo menÃº de inicio"
+msgstr "Estilo menú de inicio"
 
 msgctxt "#31182"
 msgid "Vertical"
@@ -759,7 +759,7 @@ msgstr "Colecciones de"
 
 msgctxt "#31185"
 msgid "Display OSD at startup"
-msgstr "Mostrar siempre informaciÃ³n y controles OSD en visualizaciÃ³n de mÃºsica"
+msgstr "Mostrar siempre información y controles OSD en visualización de música"
 
 msgctxt "#31186"
 msgid "Fanart Thumbs"
@@ -771,7 +771,7 @@ msgstr "Fanart extra"
 
 msgctxt "#31188"
 msgid "Set weather icons"
-msgstr "Establecer iconos meteorolÃ³gicos"
+msgstr "Establecer iconos meteorológicos"
 
 msgctxt "#31189"
 msgid "Widget aspect"
@@ -779,7 +779,7 @@ msgstr "Aspecto del widget"
 
 msgctxt "#31190"
 msgid "Poster"
-msgstr "PÃ³ster"
+msgstr "Póster"
 
 msgctxt "#31191"
 msgid "Square"
@@ -795,7 +795,7 @@ msgstr "Fanart"
 
 msgctxt "#31194"
 msgid "Action"
-msgstr "AcciÃ³n"
+msgstr "Acción"
 
 msgctxt "#31195"
 msgid "Label"
@@ -807,7 +807,7 @@ msgstr "Widget de reserva"
 
 msgctxt "#31197"
 msgid "Video / Music OSD"
-msgstr "OSD de vÃ­deo y mÃºsica"
+msgstr "OSD de vídeo y música"
 
 msgctxt "#31198"
 msgid "Single Image"
@@ -815,7 +815,7 @@ msgstr "Imagen individual"
 
 msgctxt "#31199"
 msgid "Multi Image"
-msgstr "Imagen mÃºltiple"
+msgstr "Imagen múltiple"
 
 msgctxt "#31200"
 msgid "Hub widget"
@@ -823,35 +823,35 @@ msgstr "Widget hub"
 
 msgctxt "#31201"
 msgid "Most played Song"
-msgstr "CanciÃ³n mÃ¡s reproducida"
+msgstr "Canción más reproducida"
 
 msgctxt "#31202"
-msgid "[B]Configure Interface Settings[/B][CR][CR] â€¢     Skin[CR] â€¢     Region[CR] â€¢     Control[CR] â€¢     Screensaver[CR] â€¢     Master Lock[CR]"
-msgstr "[B]Configurar ajustes de interfaz[/B][CR][CR] â€¢ Skin[CR] â€¢ RegiÃ³n[CR] â€¢ Salvapantallas[CR] â€¢ Bloqueo maestro[CR] â€¢ Arranque[CR]"
+msgid "[B]Configure Interface Settings[/B][CR][CR] •     Skin[CR] •     Region[CR] •     Control[CR] •     Screensaver[CR] •     Master Lock[CR]"
+msgstr "[B]Configurar ajustes de interfaz[/B][CR][CR] • Skin[CR] • Región[CR] • Salvapantallas[CR] • Bloqueo maestro[CR] • Arranque[CR]"
 
 msgctxt "#31203"
-msgid "[B]Configure Library Settings[/B][CR][CR] â€¢     Display[CR] â€¢     Navigation[CR] â€¢     Media Database[CR]"
-msgstr "[B]Configurar opciones de la biblioteca[/B][CR][CR] â€¢ Pantalla[CR] â€¢ NavegaciÃ³n[CR] â€¢ Base de datos[CR]"
+msgid "[B]Configure Library Settings[/B][CR][CR] •     Display[CR] •     Navigation[CR] •     Media Database[CR]"
+msgstr "[B]Configurar opciones de la biblioteca[/B][CR][CR] • Pantalla[CR] • Navegación[CR] • Base de datos[CR]"
 
 msgctxt "#31204"
-msgid "[B]Configure Player Settings[/B][CR][CR] â€¢     Playback Actions[CR] â€¢     How Content is Played[CR]"
-msgstr "[B]Configurar opciones del reproductor[/B][CR][CR] â€¢ Acciones de reproducciÃ³n[CR] â€¢ CÃ³mo se reproduce el contenido[CR]"
+msgid "[B]Configure Player Settings[/B][CR][CR] •     Playback Actions[CR] •     How Content is Played[CR]"
+msgstr "[B]Configurar opciones del reproductor[/B][CR][CR] • Acciones de reproducción[CR] • Cómo se reproduce el contenido[CR]"
 
 msgctxt "#31205"
 msgid "Video decoder"
-msgstr "Decodificador de VÃ­deo"
+msgstr "Decodificador de Vídeo"
 
 msgctxt "#31206"
 msgid "Pixel format"
-msgstr "Formato PÃ­xel"
+msgstr "Formato Píxel"
 
 msgctxt "#31207"
 msgid "Play Speed"
-msgstr "Velocidad de reproducciÃ³n"
+msgstr "Velocidad de reproducción"
 
 msgctxt "#31208"
 msgid "Special Features"
-msgstr "CaracterÃ­sticas especiales"
+msgstr "Características especiales"
 
 msgctxt "#31209"
 msgid "Select artwork"
@@ -871,19 +871,19 @@ msgstr "Moderno"
 
 msgctxt "#31213"
 msgid "Weather - daily"
-msgstr "MeteorologÃ­a - diaria"
+msgstr "Meteorología - diaria"
 
 msgctxt "#31214"
 msgid "Weather - hourly"
-msgstr "MeteorologÃ­a - horaria"
+msgstr "Meteorología - horaria"
 
 msgctxt "#31215"
 msgid "Open Player Process Information"
-msgstr "Abrir informaciÃ³n de procesos del reproductor"
+msgstr "Abrir información de procesos del reproductor"
 
 msgctxt "#31216"
 msgid "Player-Cache"
-msgstr "CachÃ© reproductor"
+msgstr "Caché reproductor"
 
 msgctxt "#31217"
 msgid "Channel List"
@@ -891,7 +891,7 @@ msgstr "Lista canales"
 
 msgctxt "#31218"
 msgid "This is your personal rating and will not be published."
-msgstr "Esta es su valoraciÃ³n personal y no serÃ¡ publicada."
+msgstr "Esta es su valoración personal y no será publicada."
 
 msgctxt "#31219"
 msgid "       "
@@ -899,7 +899,7 @@ msgstr "       "
 
 msgctxt "#31220"
 msgid "Video / Music Info"
-msgstr "DiÃ¡logo de informaciÃ³n"
+msgstr "Diálogo de información"
 
 msgctxt "#31221"
 msgid "Show plot on HUB"
@@ -911,11 +911,11 @@ msgstr "Colores"
 
 msgctxt "#31223"
 msgid "Video OSD"
-msgstr "OSD VÃ­deo"
+msgstr "OSD Vídeo"
 
 msgctxt "#31224"
 msgid "Music OSD"
-msgstr "OSD MÃºsica"
+msgstr "OSD Música"
 
 msgctxt "#31225"
 msgid "Widgets"
@@ -939,19 +939,19 @@ msgstr "Indicadores de medios"
 
 msgctxt "#31230"
 msgid "Enable grid"
-msgstr "Habilitar cuadrÃ­cula"
+msgstr "Habilitar cuadrícula"
 
 msgctxt "#31231"
 msgid "Hide play/pause info"
-msgstr "Ocultar informaciÃ³n de reproducciÃ³n/pausa"
+msgstr "Ocultar información de reproducción/pausa"
 
 msgctxt "#31232"
 msgid "Auto close OSD after delay (in seconds)"
-msgstr "Tiempo para cierre automÃ¡tico de controles OSD (en segundos)"
+msgstr "Tiempo para cierre automático de controles OSD (en segundos)"
 
 msgctxt "#31233"
 msgid "Random Artists with biography only"
-msgstr "IntÃ©rpretes aleatorios solo con biografÃ­a"
+msgstr "Intérpretes aleatorios solo con biografía"
 
 msgctxt "#31234"
 msgid "People"
@@ -959,31 +959,31 @@ msgstr "Personas"
 
 msgctxt "#31235"
 msgid "Recently added Artists"
-msgstr "IntÃ©rpretes aÃ±adidos recientemente"
+msgstr "Intérpretes añadidos recientemente"
 
 msgctxt "#31236"
 msgid "Recently added Artists with biography only"
-msgstr "IntÃ©rpretes aÃ±adidos recientemente solo con biografÃ­a"
+msgstr "Intérpretes añadidos recientemente solo con biografía"
 
 msgctxt "#31237"
 msgid "Top 20 User Rated Movies"
-msgstr "Top 20 pelÃ­culas valoradas por el usuario"
+msgstr "Top 20 películas valoradas por el usuario"
 
 msgctxt "#31238"
-msgid "Reset skin settings to defaults?"
+msgid "Reset skin settings to defaults"
 msgstr "Restablecer ajustes del skin a valores por defecto"
 
 msgctxt "#31239"
 msgid "Reset skin settings to defaults? WARNING: This will also reset your home menu to skin defaults!"
-msgstr "Â¿Restaurar ajustes del skin a valores por defecto? ADVERTENCIA: Â¡Esto tambiÃ©n restablecerÃ¡ su menÃº de inicio a los valores predeterminados para el skin!"
+msgstr "¿Restaurar ajustes del skin a valores por defecto? ADVERTENCIA: ¡Esto también restablecerá su menú de inicio a los valores predeterminados para el skin!"
 
 msgctxt "#31240"
 msgid "Random Actors ordered by movies"
-msgstr "Actores aleatorios ordenados por pelÃ­culas"
+msgstr "Actores aleatorios ordenados por películas"
 
 msgctxt "#31241"
 msgid "New Unwatched Movies"
-msgstr "PelÃ­culas nuevas no vistas"
+msgstr "Películas nuevas no vistas"
 
 msgctxt "#31242"
 msgid "New Unwatched Episodes"
@@ -1015,11 +1015,11 @@ msgstr "Mostrar ClearLogo/Art"
 
 msgctxt "#31249"
 msgid "Songs by"
-msgstr "MÃ¡s de"
+msgstr "Más de"
 
 msgctxt "#31250"
 msgid "Poster Wall Small"
-msgstr "Muro pequeÃ±o"
+msgstr "Muro pequeño"
 
 msgctxt "#31251"
 msgid "MDBList"
@@ -1063,11 +1063,11 @@ msgstr "Logo de estudio"
 
 msgctxt "#31261"
 msgid "Rating flag"
-msgstr "ValoraciÃ³n"
+msgstr "Valoración"
 
 msgctxt "#31262"
 msgid "Movie Genre Icons"
-msgstr "Iconos de gÃ©nero de pelÃ­cula"
+msgstr "Iconos de género de película"
 
 msgctxt "#31263"
 msgid "Studio Icons"
@@ -1075,7 +1075,7 @@ msgstr "Iconos de estudio"
 
 msgctxt "#31264"
 msgid "Record Label Icons"
-msgstr "Iconos de sello discogrÃ¡fico"
+msgstr "Iconos de sello discográfico"
 
 msgctxt "#31265"
 msgid "Animate fanart/slideshow"
@@ -1099,19 +1099,19 @@ msgstr "Tiempo de desvanecimiento"
 
 msgctxt "#31270"
 msgid "Customise power menu"
-msgstr "Personalizar menÃº de apagado"
+msgstr "Personalizar menú de apagado"
 
 msgctxt "#31271"
 msgid "Log off: $INFO[system.profilename]"
-msgstr "Cerrar sesiÃ³n: $INFO[system.profilename]"
+msgstr "Cerrar sesión: $INFO[system.profilename]"
 
 msgctxt "#31272"
 msgid "Delete/Disable Settings Menu Item?"
-msgstr "Â¿Eliminar/Deshabilitar elemento de menÃº Ajustes?"
+msgstr "¿Eliminar/Deshabilitar elemento de menú Ajustes?"
 
 msgctxt "#31273"
 msgid "Are you sure you want to remove the Settings menu item?[CR]Please ensure that you have an alternative method of accessing Settings before you remove this menu item."
-msgstr "Â¿EstÃ¡ seguro de que desea eliminar el elemento del menÃº ConfiguraciÃ³n?[CR]AsegÃºrese de tener un mÃ©todo alternativo para acceder a la ConfiguraciÃ³n antes de eliminar este elemento del menÃº."
+msgstr "¿Está seguro de que desea eliminar el elemento del menú Configuración?[CR]Asegúrese de tener un método alternativo para acceder a la Configuración antes de eliminar este elemento del menú."
 
 msgctxt "#31274"
 msgid "Shutdown in: [B]$INFO[System.Alarmpos][/B]"
@@ -1131,15 +1131,15 @@ msgstr "total"
 
 msgctxt "#31278"
 msgid "last on"
-msgstr "Ãºltimo en"
+msgstr "último en"
 
 msgctxt "#31279"
-msgid "[B]Configure LibreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
-msgstr "[B]Configurar ajustes LibreELEC[/B][CR][CR] â€¢ Configurar ajustes del sistema[CR] â€¢ Configurar actualizaciones del sistema y red[CR] â€¢ Configurar y calibrar red[CR] â€¢ Configurar conexiones[CR]"
+msgid "[B]Configure LibreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
+msgstr "[B]Configurar ajustes LibreELEC[/B][CR][CR] • Configurar ajustes del sistema[CR] • Configurar actualizaciones del sistema y red[CR] • Configurar y calibrar red[CR] • Configurar conexiones[CR]"
 
 msgctxt "#31280"
-msgid "[B]Configure CoreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
-msgstr "[B]Configurar ajustes LibreELEC[/B][CR][CR] â€¢ Configurar ajustes del sistema[CR] â€¢ Configurar actualizaciones del sistema y red[CR] â€¢ Configurar y calibrar red[CR] â€¢ Configurar conexiones[CR]"
+msgid "[B]Configure CoreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
+msgstr "[B]Configurar ajustes LibreELEC[/B][CR][CR] • Configurar ajustes del sistema[CR] • Configurar actualizaciones del sistema y red[CR] • Configurar y calibrar red[CR] • Configurar conexiones[CR]"
 
 msgctxt "#31281"
 msgid " -- "
@@ -1151,15 +1151,15 @@ msgstr "no disponible"
 
 msgctxt "#31283"
 msgid "TBD"
-msgstr "aÃºn no definido"
+msgstr "aún no definido"
 
 msgctxt "#31284"
 msgid "Fallback label for ratings in list views"
-msgstr "Etiqueta de reserva para valoraciÃ³n en modo lista"
+msgstr "Etiqueta de reserva para valoración en modo lista"
 
 msgctxt "#31285"
 msgid "Size of Icons"
-msgstr "TamaÃ±o de iconos"
+msgstr "Tamaño de iconos"
 
 msgctxt "#31286"
 msgid "Align"
@@ -1179,15 +1179,15 @@ msgstr "Fanart con ClearLogo"
 
 msgctxt "#31290"
 msgid "Fullsize EPG"
-msgstr "EPG a tamaÃ±o completo"
+msgstr "EPG a tamaño completo"
 
 msgctxt "#31291"
 msgid "Also use for widgets"
-msgstr "Usar tambiÃ©n para widgets"
+msgstr "Usar también para widgets"
 
 msgctxt "#31292"
 msgid "Also use for system-icons"
-msgstr "Usar tambiÃ©n para iconos del sistema"
+msgstr "Usar también para iconos del sistema"
 
 msgctxt "#31293"
 msgid "DiscArt Fallback"
@@ -1207,7 +1207,7 @@ msgstr "Vinilo"
 
 msgctxt "#31297"
 msgid "Limit number of items in hub"
-msgstr "Limitar nÃºmero de elementos en hub"
+msgstr "Limitar número de elementos en hub"
 
 msgctxt "#31298"
 msgid "Multi-Widgets"
@@ -1223,7 +1223,7 @@ msgstr "RAM"
 
 msgctxt "#31301"
 msgid "Skin-Version:"
-msgstr "VersiÃ³n Skin:"
+msgstr "Versión Skin:"
 
 msgctxt "#31302"
 msgid "Scroll behavior"
@@ -1231,11 +1231,11 @@ msgstr "Comportamiento del desplazamiento"
 
 msgctxt "#31303"
 msgid "Aspect ratio"
-msgstr "RelaciÃ³n de aspecto"
+msgstr "Relación de aspecto"
 
 msgctxt "#31304"
 msgid "Select aspect ratio for square widget"
-msgstr "Elija la relaciÃ³n de aspecto para un widget cuadrado"
+msgstr "Elija la relación de aspecto para un widget cuadrado"
 
 msgctxt "#31305"
 msgid "Scale"
@@ -1251,7 +1251,7 @@ msgstr "Anochecer"
 
 msgctxt "#31308"
 msgid "Square small"
-msgstr "Cuadrado pequeÃ±o"
+msgstr "Cuadrado pequeño"
 
 msgctxt "#31309"
 msgid "Square medium"
@@ -1259,7 +1259,7 @@ msgstr "Cuadrado medio"
 
 msgctxt "#31310"
 msgid "Home menu bar"
-msgstr "Barra de menÃº de inicio"
+msgstr "Barra de menú de inicio"
 
 msgctxt "#31311"
 msgid "Fullscreen widget"
@@ -1267,7 +1267,7 @@ msgstr "Widget a pantalla completa"
 
 msgctxt "#31312"
 msgid "Weather location"
-msgstr "UbicaciÃ³n para meteorologÃ­a"
+msgstr "Ubicación para meteorología"
 
 msgctxt "#31313"
 msgid "Big Poster"
@@ -1275,7 +1275,7 @@ msgstr "Cartel Grande"
 
 msgctxt "#31314"
 msgid "Images"
-msgstr "ImÃ¡genes"
+msgstr "Imágenes"
 
 msgctxt "#31315"
 msgid "Big wide"
@@ -1307,7 +1307,7 @@ msgstr "elemento"
 
 msgctxt "#31322"
 msgid "Alternative layout"
-msgstr "DisposiciÃ³n alternativa"
+msgstr "Disposición alternativa"
 
 msgctxt "#31323"
 msgid "Smart Shortcuts"
@@ -1315,19 +1315,19 @@ msgstr "Atajos Inteligentes"
 
 msgctxt "#31324"
 msgid "Movies and TV shows"
-msgstr "PelÃ­culas y series"
+msgstr "Películas y series"
 
 msgctxt "#31325"
 msgid "Recently added Songs"
-msgstr "Canciones aÃ±adidas recientemente"
+msgstr "Canciones añadidas recientemente"
 
 msgctxt "#31326"
 msgid "Most played Songs"
-msgstr "Canciones mÃ¡s escuchadas"
+msgstr "Canciones más escuchadas"
 
 msgctxt "#31327"
 msgid "Chapter markers"
-msgstr "Marcas de capÃ­tulos"
+msgstr "Marcas de capítulos"
 
 msgctxt "#31328"
 msgid "Rotten Tomatoes"
@@ -1339,11 +1339,11 @@ msgstr "Elija banderas de contenido"
 
 msgctxt "#31330"
 msgid "Subtitle icon"
-msgstr "Icono de subtÃ­tulo"
+msgstr "Icono de subtítulo"
 
 msgctxt "#31331"
 msgid "Subtitle extended info"
-msgstr "Info extendida de subtÃ­tulo"
+msgstr "Info extendida de subtítulo"
 
 msgctxt "#31332"
 msgid "Reminder enabled"
@@ -1359,7 +1359,7 @@ msgstr "Depurando"
 
 msgctxt "#31335"
 msgid "Extended debugging information"
-msgstr "InformaciÃ³n de depuraciÃ³n extendida"
+msgstr "Información de depuración extendida"
 
 msgctxt "#31336"
 msgid "Extended grid"
@@ -1391,11 +1391,11 @@ msgstr "Contador de trailer"
 
 msgctxt "#31343"
 msgid "Some other"
-msgstr "AlgÃºn otro"
+msgstr "Algún otro"
 
 msgctxt "#31344"
 msgid "Video preview"
-msgstr "Vista previa de vÃ­deo"
+msgstr "Vista previa de vídeo"
 
 msgctxt "#31345"
 msgid "DiscArt"
@@ -1479,7 +1479,7 @@ msgstr "CPU"
 
 msgctxt "#31365"
 msgid "Underlined homemenu items"
-msgstr "Elementos subrayados del menÃº de inicio"
+msgstr "Elementos subrayados del menú de inicio"
 
 msgctxt "#31366"
 msgid "Poster Flix"
@@ -1507,7 +1507,7 @@ msgstr "Etiqueta"
 
 msgctxt "#31372"
 msgid "Director"
-msgstr "PelÃ­culas de este director"
+msgstr "Películas de este director"
 
 msgctxt "#31373"
 msgid "Collection"
@@ -1519,27 +1519,27 @@ msgstr "Preferir porcentaje"
 
 msgctxt "#31375"
 msgid "Prefer local list information"
-msgstr "Preferir lista de informaciÃ³n local"
+msgstr "Preferir lista de información local"
 
 msgctxt "#31376"
 msgid "On back, widgets do not return to initial position"
-msgstr "Al volver, los widgets no recuperarÃ¡n la posiciÃ³n inicial"
+msgstr "Al volver, los widgets no recuperarán la posición inicial"
 
 msgctxt "#31377"
 msgid "On up, when at first widget, do not jump back to last widget"
-msgstr "Al subir estando en el primer widget, no saltar al Ãºltimo widget"
+msgstr "Al subir estando en el primer widget, no saltar al último widget"
 
 msgctxt "#31378"
 msgid "On down, when at last widget, widgets do not return to initial position"
-msgstr "Al bajar estando en el Ãºltimo widget, los widgets no recuperarÃ¡n la posiciÃ³n inicial"
+msgstr "Al bajar estando en el último widget, los widgets no recuperarán la posición inicial"
 
 msgctxt "#31379"
 msgid "On up/down at first/last widget, go to last/first widget"
-msgstr "Al subir/bajar en el primer/Ãºltimo widget, ir al Ãºltimo/primer widget"
+msgstr "Al subir/bajar en el primer/último widget, ir al último/primer widget"
 
 msgctxt "#31380"
 msgid "Layout options"
-msgstr "Opciones de diseÃ±o"
+msgstr "Opciones de diseño"
 
 msgctxt "#31381"
 msgid "Global"
@@ -1547,7 +1547,7 @@ msgstr "Global"
 
 msgctxt "#31382"
 msgid "4K Movies"
-msgstr "PelÃ­culas 4K"
+msgstr "Películas 4K"
 
 msgctxt "#31383"
 msgid "Recent recordings"
@@ -1567,7 +1567,7 @@ msgstr "Ocultar"
 
 msgctxt "#31387"
 msgid "Last Played Radio Channels"
-msgstr "Ãšltimos Canales de Radio Reproducidos"
+msgstr "Últimos Canales de Radio Reproducidos"
 
 msgctxt "#31388"
 msgid "Mini-EPG (vertical, only 5 Items)"
@@ -1591,11 +1591,11 @@ msgstr "Fanart Flix"
 
 msgctxt "#31393"
 msgid "IMDB Position"
-msgstr "PosiciÃ³n en IMDB"
+msgstr "Posición en IMDB"
 
 msgctxt "#31394"
 msgid "Use default MPAA rating icons"
-msgstr "Usar iconos de valoraciÃ³n MPAA por defecto"
+msgstr "Usar iconos de valoración MPAA por defecto"
 
 msgctxt "#31395"
 msgid "Seasons info v2"
@@ -1603,7 +1603,7 @@ msgstr "Info de Temporada v2"
 
 msgctxt "#31396"
 msgid "Up Next"
-msgstr "PrÃ³ximo add-on"
+msgstr "Próximo add-on"
 
 msgctxt "#31397"
 msgid "Use thumbnail instead of fanart"
@@ -1615,7 +1615,7 @@ msgstr "Limpia y minimalista"
 
 msgctxt "#31399"
 msgid "Hide plot, when widget is not focused"
-msgstr "Ocultar argumento cuando el widget no estÃ¡ seleccionado"
+msgstr "Ocultar argumento cuando el widget no está seleccionado"
 
 msgctxt "#31400"
 msgid "Audio streams"
@@ -1631,15 +1631,15 @@ msgstr "Fanart adicional"
 
 msgctxt "#31403"
 msgid "HD Movies"
-msgstr "PelÃ­culas HD"
+msgstr "Películas HD"
 
 msgctxt "#31404"
 msgid "Hide, when not focused/used"
-msgstr "Ocultar cuando no estÃ¡ seleccionado o usado"
+msgstr "Ocultar cuando no está seleccionado o usado"
 
 msgctxt "#31405"
 msgid "Hide seekbar"
-msgstr "Ocultar barra de bÃºsqueda"
+msgstr "Ocultar barra de búsqueda"
 
 msgctxt "#31406"
 msgid "Hide OSD"
@@ -1651,11 +1651,11 @@ msgstr "Texto desplazante"
 
 msgctxt "#31408"
 msgid "Numeric rating"
-msgstr "ValoraciÃ³n numÃ©rica"
+msgstr "Valoración numérica"
 
 msgctxt "#31409"
 msgid "Artist slideshow"
-msgstr "PresentaciÃ³n de intÃ©rprete"
+msgstr "Presentación de intérprete"
 
 msgctxt "#31410"
 msgid "Low list"
@@ -1675,7 +1675,7 @@ msgstr "ClearLogo/Art"
 
 msgctxt "#31414"
 msgid "Clearlogo instead of title"
-msgstr "Clearlogo en lugar de tÃ­tulo"
+msgstr "Clearlogo en lugar de título"
 
 msgctxt "#31415"
 msgid "Media flags"
@@ -1683,15 +1683,15 @@ msgstr "Tipos de contenido"
 
 msgctxt "#31416"
 msgid "Play/pause info"
-msgstr "Info reproducciÃ³n/pausa"
+msgstr "Info reproducción/pausa"
 
 msgctxt "#31417"
 msgid "PVR technical info"
-msgstr "Info tÃ©cnica PVR"
+msgstr "Info técnica PVR"
 
 msgctxt "#31418"
 msgid "Progress graphic"
-msgstr "GrÃ¡fico de progreso"
+msgstr "Gráfico de progreso"
 
 msgctxt "#31419"
 msgid "Hide widget label"
@@ -1699,7 +1699,7 @@ msgstr "Ocultar etiqueta de widget"
 
 msgctxt "#31420"
 msgid "Show behind slideshow"
-msgstr "Mostrar detras de presentaciÃ³n"
+msgstr "Mostrar detras de presentación"
 
 msgctxt "#31421"
 msgid "Zoom focused items"
@@ -1707,7 +1707,7 @@ msgstr "Zoom de elementos seleccionados"
 
 msgctxt "#31422"
 msgid "Enable auto scrolling for titles"
-msgstr "Activar desplazamiento automÃ¡tico de tÃ­tulos"
+msgstr "Activar desplazamiento automático de títulos"
 
 msgctxt "#31423"
 msgid "Show glow on focused items"
@@ -1719,7 +1719,7 @@ msgstr "Tipo de lista"
 
 msgctxt "#31425"
 msgid "Enable auto playing trailers in flix views"
-msgstr "Activar reproducciÃ³n automÃ¡tica de trÃ¡ilers en vistas flix"
+msgstr "Activar reproducción automática de tráilers en vistas flix"
 
 msgctxt "#31426"
 msgid "Try to hide black bars"
@@ -1739,11 +1739,11 @@ msgstr "cacheando"
 
 msgctxt "#31430"
 msgid "Auto start delay"
-msgstr "Retardo de inicio automÃ¡tico"
+msgstr "Retardo de inicio automático"
 
 msgctxt "#31431"
 msgid "Auto playing trailers"
-msgstr "Reproducir AutomÃ¡ticamente trÃ¡ilers"
+msgstr "Reproducir Automáticamente tráilers"
 
 msgctxt "#31432"
 msgid "None"
@@ -1755,7 +1755,7 @@ msgstr "Medio"
 
 msgctxt "#31434"
 msgid "Maximal"
-msgstr "MÃ¡ximo"
+msgstr "Máximo"
 
 msgctxt "#31435"
 msgid "On back, jump to first item in widget list"
@@ -1763,19 +1763,19 @@ msgstr "Al retroceder, saltar al primer elemento en la lista de widget"
 
 msgctxt "#31436"
 msgid "After that, focus home menu"
-msgstr "DespuÃ©s, seleccionar menÃº de inicio"
+msgstr "Después, seleccionar menú de inicio"
 
 msgctxt "#31437"
 msgid "If home menu is focused, jump to widgets on back"
-msgstr "Si el menÃº de inicio estÃ¡ seleccionado, saltar a los widgets de atrÃ¡s"
+msgstr "Si el menú de inicio está seleccionado, saltar a los widgets de atrás"
 
 msgctxt "#31438"
 msgid "Only, when widget is focused"
-msgstr "SÃ³lo cuando el widget estÃ¡ seleccionado"
+msgstr "Sólo cuando el widget está seleccionado"
 
 msgctxt "#31439"
 msgid "Hide mouse warning"
-msgstr "Ocultar advertencia de ratÃ³n"
+msgstr "Ocultar advertencia de ratón"
 
 msgctxt "#31440"
 msgid "EDL markers"
@@ -1787,11 +1787,11 @@ msgstr "Widget concentrador de tipos de contenido"
 
 msgctxt "#31442"
 msgid "Playback action when video info dialog is shown"
-msgstr "AcciÃ³n de reproducir cuando se muetra el diÃ¡logo de info de vÃ­deo"
+msgstr "Acción de reproducir cuando se muetra el diálogo de info de vídeo"
 
 msgctxt "#31443"
 msgid "Stop playback when item is no longer focused"
-msgstr "Parar reproducciÃ³n cuando el elemento no estÃ¡ ya seleccionado"
+msgstr "Parar reproducción cuando el elemento no está ya seleccionado"
 
 msgctxt "#31444"
 msgid "LibreELEC Settings"
@@ -1819,7 +1819,7 @@ msgstr "Sobreescritura de valoraciones de usuario"
 
 msgctxt "#31450"
 msgid "Star rating and value"
-msgstr "ValoraciÃ³n por estrellas y valores"
+msgstr "Valoración por estrellas y valores"
 
 msgctxt "#31451"
 msgid "Show player controls"
@@ -1835,7 +1835,7 @@ msgstr "Valoraciones"
 
 msgctxt "#31454"
 msgid "Show detailed info when video starts (in seconds)"
-msgstr "Mostrar informaciÃ³n detallada cuando empiece el vÃ­deo (en segundos)"
+msgstr "Mostrar información detallada cuando empiece el vídeo (en segundos)"
 
 msgctxt "#31455"
 msgid "Customized"
@@ -1875,15 +1875,15 @@ msgstr ""
 
 msgctxt "#31464"
 msgid "Save color configuration"
-msgstr "Guardar configuraciÃ³n de color"
+msgstr "Guardar configuración de color"
 
 msgctxt "#31465"
 msgid "Overwrite existing color configuration?"
-msgstr "Â¿Sobreescribir la configuraciÃ³n de color existente?"
+msgstr "¿Sobreescribir la configuración de color existente?"
 
 msgctxt "#31466"
 msgid "Hide PVR recording dialog"
-msgstr "Ocultar diÃ¡logo de grabaciÃ³n PVR"
+msgstr "Ocultar diálogo de grabación PVR"
 
 msgctxt "#31467"
 msgid "Player"
@@ -1899,7 +1899,7 @@ msgstr "Local"
 
 msgctxt "#31470"
 msgid "Online"
-msgstr "En lÃ­nea"
+msgstr "En línea"
 
 msgctxt "#31471"
 msgid "Game studio/flag icons"
@@ -1915,15 +1915,15 @@ msgstr "Usar una miniatura como fondo de los episodios"
 
 msgctxt "#31474"
 msgid "Small landscape"
-msgstr "PequeÃ±o paisaje"
+msgstr "Pequeño paisaje"
 
 msgctxt "#31475"
 msgid "Small fanart"
-msgstr "PequeÃ±o fanart"
+msgstr "Pequeño fanart"
 
 msgctxt "#31476"
 msgid "Small poster fanart"
-msgstr "PequeÃ±o pÃ³ster fanart"
+msgstr "Pequeño póster fanart"
 
 msgctxt "#31477"
 msgid "Wikipedia"
@@ -1931,7 +1931,7 @@ msgstr ""
 
 msgctxt "#31478"
 msgid "Rating stars"
-msgstr "Estrellas de valoraciÃ³n"
+msgstr "Estrellas de valoración"
 
 msgctxt "#31479"
 msgid "Auto show now playing info after 5 seconds delay if hidden"
@@ -1966,7 +1966,7 @@ msgid "Tv Shows of the year"
 msgstr ""
 
 msgctxt "#31487"
-msgid "[B]File Manager[/B][CR][CR] â€¢     Copy[CR] â€¢     Move[CR] â€¢     Delete[CR] â€¢     Rename[CR] â€¢     Manage Source"
+msgid "[B]File Manager[/B][CR][CR] •     Copy[CR] •     Move[CR] •     Delete[CR] •     Rename[CR] •     Manage Source"
 msgstr ""
 
 msgctxt "#31488"
@@ -2050,7 +2050,7 @@ msgid "Background presets"
 msgstr ""
 
 msgctxt "#31508"
-msgid "Autoscrolling"
+msgid "Auto-scrolling"
 msgstr ""
 
 msgctxt "#31509"
@@ -2218,7 +2218,7 @@ msgid "Event log"
 msgstr ""
 
 msgctxt "#31550"
-msgid "[B]Show event log[/B][CR][CR] â€¢     Basic[CR] â€¢     Information[CR] â€¢     Warning[CR] â€¢     Error [CR]"
+msgid "[B]Show event log[/B][CR][CR] •     Basic[CR] •     Information[CR] •     Warning[CR] •     Error [CR]"
 msgstr ""
 
 msgctxt "#31551"
@@ -2523,7 +2523,7 @@ msgstr "Estrenada"
 
 msgctxt "#31626"
 msgid "In-Production"
-msgstr "En producciÃ³n"
+msgstr "En producción"
 
 msgctxt "#31627"
 msgid "Planned"
@@ -2539,11 +2539,11 @@ msgstr "Regresa"
 
 msgctxt "#31630"
 msgid "Airing"
-msgstr "En emisiÃ³n"
+msgstr "En emisión"
 
 msgctxt "#31631"
 msgid "Last aired"
-msgstr "Ãšltima emisiÃ³n"
+msgstr "Última emisión"
 
 msgctxt "#31632"
 msgid "Rewind"
@@ -2551,11 +2551,8 @@ msgstr "Rebobinar"
 
 msgctxt "#31633"
 msgid "Fast forward"
-msgstr "Avance rÃ¡pido"
-msgctxt "#31634"
-msgid "Thin focus border"
-msgstr ""
+msgstr "Avance rápido"
 
-msgctxt "#31635"
-msgid "TV episode count"
-msgstr ""
+msgctxt "#31634"
+msgid "Bookmark"
+msgstr "Marcador"

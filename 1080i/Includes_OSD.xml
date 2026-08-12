@@ -466,6 +466,7 @@
         <param name="icon_colordiffuse_disabled" default="$VAR[Color_OSD_Icon_Disabled]" />
         <param name="back_colordiffuse" default="$VAR[Color_OSD_Background_Button]" />
         <param name="vertical" default="false" />
+        <param name="flag_bookmarks" default="false" />
         <param name="flag_lang_audio" default="false" />
         <param name="flag_lang_subtitle" default="false" />
         <param name="show_not_enabled" default="false" />
@@ -556,6 +557,18 @@
                        <height>21</height>
                        <texture>$INFO[VideoPlayer.AudioLanguage,flags/lang/32x32/,.png]</texture>
                        <visible>$PARAM[flag_lang_audio]</visible>
+                    </control>
+
+                    <!-- FLAG - BOOKMARKS -->
+
+                    <control type="image">
+                       <bottom>-3</bottom>
+                       <right>-6</right>
+                       <width>24</width>
+                       <height>21</height>
+                       <texture background="true" colordiffuse="$VAR[Color_OSD_Icon_Bookmarks]">buttonsdialogs/bookmark-star.png</texture>
+                       <visible>$PARAM[flag_bookmarks]</visible>
+                       <visible>Player.HasBookmarks</visible>
                     </control>
                 </control>
             </control>
@@ -1379,6 +1392,30 @@
         </control>
     </include>
 
+    <include name="Def_OSD_Bookmarks_Icon">
+        <param name="right" value="$PARAM[right]" default="5" />
+        <param name="bottom" value="$PARAM[bottom]" default="-10" />
+
+        <definition>
+            <control type="group">
+                <visible>ListItem.Property(isbookmark)</visible>
+
+                <right>$PARAM[right]</right>
+                <bottom>$PARAM[bottom]</bottom>
+
+                <control type="image">
+                    <include>Def_Background_Poster_Rating_Info_Right</include>
+                    <texture background="true" colordiffuse="$VAR[Color_OSD_Background_Bookmarks]">diffuse/circle_64.png</texture>
+                    <include>Animation_Fade_Background_Marker_Icon</include>
+                </control>
+                <control type="image">
+                    <include>Def_Image_Poster_Rating_Info_Right</include>
+                    <texture background="true" colordiffuse="$VAR[Color_OSD_Icon_Bookmarks]">buttonsdialogs/bookmark-star.png</texture>
+                </control>
+            </control>
+        </definition>
+    </include>
+
     <!-- OSD - BUTTON - CENTER - VIDEO -->
 
     <include name="OSD_Video_Controls">
@@ -1551,6 +1588,7 @@
             <param name="groupid" value="6099" />
             <param name="back_colordiffuse" value="$VAR[Color_OSD_Button_Background]" />
             <align>right</align>
+            <include>Def_OSD_UpDown_Video_Info</include>
             <onclick>StereoMode</onclick>
             <disabledcolor>PanelWhite12</disabledcolor>
         </include>
@@ -1565,11 +1603,12 @@
             <param name="groupid" value="7199" />
             <param name="back_colordiffuse" value="$VAR[Color_OSD_Button_Background]" />
             <align>right</align>
+            <include>Def_OSD_UpDown_Video_Info</include>
             <onclick>runscript(script.audio.profiles,popup)</onclick>
             <disabledcolor>PanelWhite12</disabledcolor>
         </include>
 
-        <!-- BOOKMARK -->
+        <!-- BOOKMARKS -->
 
         <include content="Object_OSD_Button">
             <param name="visible" value="true" />
@@ -1578,6 +1617,7 @@
             <param name="id" value="6" />
             <param name="groupid" value="5999" />
             <param name="back_colordiffuse" value="$VAR[Color_OSD_Button_Background]" />
+            <param name="flag_bookmarks" value="true" />
             <align>right</align>
             <include>Def_OSD_UpDown_Video_Info</include>
             <onclick>ActivateWindow(125)</onclick>
@@ -1711,6 +1751,7 @@
             <param name="back_colordiffuse" value="$VAR[Color_OSD_Button_Background]" />
             <param name="show_not_enabled" value="true" />
             <align>right</align>
+            <include>Def_OSD_UpDown_Video_Info</include>
             <enable>!String.IsEmpty(VideoPlayer.Title) + !String.IsEmpty(VideoPlayer.DBID)</enable>
             <onclick condition="!String.IsEmpty(VideoPlayer.Title) + String.IsEmpty(Skin.String(Value_OSD_Auto_Hide_Timeout))">Dialog.Close(VideoOSD)</onclick>
             <onclick condition="!String.IsEmpty(VideoPlayer.Title)">SetProperty(wikipedia,1,Home)</onclick>
@@ -2688,19 +2729,6 @@
                     </control>
                 </control>
 
-                <!-- STATUS - LIGN 1 -->
-
-                <!-- <control type="label" description="Title"> -->
-                    <!-- <include>Animation_OSD_Fade_Label</include> -->
-                    <!-- <bottom>153</bottom> -->
-                    <!-- <right>OSD_SidePad</right> -->
-                    <!-- <height>40</height> -->
-                    <!-- <align>right</align> -->
-                    <!-- <font>MediumBold</font> -->
-                    <!-- <textcolor>$VAR[Color_OSD_Panel_White100]</textcolor> -->
-                    <!-- <label>$VAR[Label_OSD_Player_Audio_Status]</label> -->
-                <!-- </control> -->
-
                 <!-- DURATION - LIGN 2 -->
 
                 <control type="label" description="Duration Total Time">
@@ -2768,21 +2796,15 @@
 
                         <!-- SUB TITLE -->
 
-                        <control type="grouplist">
-                            <width>850</width>
-                            <height>64</height>
-                            <orientation>horizontal</orientation>
+                        <control type="label">
+                            <bottom>29</bottom>
                             <align>left</align>
-                            <itemgap>8</itemgap>
-                            <bottom>7</bottom>
-                            <control type="label">
-                                <width>auto</width>
-                                <align>left</align>
-                                <height>40</height>
-                                <font>InfoNetflix</font>
-                                <textcolor>$VAR[Color_OSD_Panel_White70]</textcolor>
-                                <label>$VAR[Label_OSD_Player_Audio_Sublabel]</label>
-                            </control>
+                            <width>850</width>
+                            <align>left</align>
+                            <height>40</height>
+                            <font>InfoNetflix</font>
+                            <textcolor>$VAR[Color_OSD_Panel_White70]</textcolor>
+                            <label>$VAR[Label_OSD_Player_Audio_Sublabel]</label>
                         </control>
                     </control>
 

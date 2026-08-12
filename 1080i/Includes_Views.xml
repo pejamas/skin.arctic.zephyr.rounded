@@ -556,6 +556,8 @@
         <value condition="Container(11).HasFocus(7)">7</value>
         <value condition="Container(11).HasFocus(8)">8</value>
         <value condition="Container(11).HasFocus(9)">9</value>
+        <value condition="Container(11).HasFocus(10)">10</value>
+        <value condition="Container(11).HasFocus(11)">11</value>
     </variable>
 
     <variable name="Def_Image_Skin_Preset_Color">
@@ -1198,7 +1200,7 @@
                 </control>
                 <control type="radiobutton" id="90841">
                     <include>Def_Dialog_Menu_Button_Focus_Select</include>
-                    <label>$LOCALIZE[31634]</label>
+                    <label>$LOCALIZE[31900]</label>
                     <selected>Skin.HasSetting(items.focus.border.thin)</selected>
                     <onclick>Skin.ToggleSetting(items.focus.border.thin)</onclick>
                 </control>

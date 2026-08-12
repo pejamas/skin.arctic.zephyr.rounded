@@ -1,4 +1,4 @@
-﻿# Kodi Media Center language file
+# Kodi Media Center language file
 # Addon Name: Arctic: Zephyr - Rounded
 # Addon id: skin.arctic.zephyr.mod
 # Addon Provider: jurialmunkey, beatmasterrs
@@ -19,31 +19,31 @@ msgstr ""
 
 msgctxt "#31000"
 msgid "Limit number of items"
-msgstr "ØªØ­Ø¯ÙŠØ¯ Ø¹Ø¯Ø¯ Ø§Ù„Ø¹Ù†Ø§ØµØ±"
+msgstr "تحديد عدد العناصر"
 
 msgctxt "#31001"
 msgid "Backup / Restore"
-msgstr "Ù†Ø³Ø® Ø§Ø­ØªÙŠØ§Ø·ÙŠ / Ø§Ø³ØªØ¹Ø§Ø¯Ø©"
+msgstr "نسخ احتياطي / استعادة"
 
 msgctxt "#31002"
 msgid "Director show information"
-msgstr "Ø¹Ø±Ø¶ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ù…Ø®Ø±Ø¬"
+msgstr "عرض معلومات المخرج"
 
 msgctxt "#31003"
 msgid "Feature ends at"
-msgstr "ÙŠÙ†ØªÙ‡ÙŠ Ø§Ù„Ø¹Ø±Ø¶ Ø¹Ù†Ø¯"
+msgstr "ينتهي العرض عند"
 
 msgctxt "#31004"
 msgid "Flix"
-msgstr "Ù†ØªÙÙ„ÙŠÙƒØ³"
+msgstr "نتفليكس"
 
 msgctxt "#31005"
 msgid "Modern Fanart"
-msgstr "Fanart Ø­Ø¯ÙŠØ«"
+msgstr "Fanart حديث"
 
 msgctxt "#31006"
 msgid "Colored icon media flags"
-msgstr "Ø¥Ø´Ø§Ø±Ø§Øª ÙˆØ³Ø§Ø¦Ø· Ø¨Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª Ù…Ù„ÙˆÙ†Ø©"
+msgstr "إشارات وسائط بأيقونات ملونة"
 
 msgctxt "#31007"
 msgid "Arctic Zephyr - Rounded"
@@ -55,211 +55,211 @@ msgstr ""
 
 msgctxt "#31009"
 msgid "Resources"
-msgstr "Ø§Ù„Ù…ÙˆØ§Ø±Ø¯"
+msgstr "الموارد"
 
 msgctxt "#31010"
 msgid "Video Infodialog"
-msgstr "Ù†Ø§ÙØ°Ø© Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„ÙÙŠØ¯ÙŠÙˆ"
+msgstr "نافذة معلومات الفيديو"
 
 msgctxt "#31011"
 msgid "Show clearLogo"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± clearLogo"
+msgstr "إظهار clearLogo"
 
 msgctxt "#31012"
 msgid "Videolyrics"
-msgstr "ÙƒÙ„Ù…Ø§Øª Ø§Ù„Ø£ØºØ§Ù†ÙŠ Ø§Ù„Ù…Ø±Ø¦ÙŠØ©"
+msgstr "كلمات الأغاني المرئية"
 
 msgctxt "#31013"
 msgid "Shifted"
-msgstr "Ù…ÙØ²Ø§Ø­"
+msgstr "مُزاح"
 
 msgctxt "#31014"
 msgid "movies in the library"
-msgstr "Ø£ÙÙ„Ø§Ù… ÙÙŠ Ø§Ù„Ù…ÙƒØªØ¨Ø©"
+msgstr "أفلام في المكتبة"
 
 msgctxt "#31015"
 msgid "Use fanart instead of landscape on Tv Shows"
-msgstr "Ø§Ø³ØªØ®Ø¯Ø§Ù… fanart Ø¨Ø¯Ù„Ø§Ù‹ Ù…Ù† landscape ÙÙŠ Ø§Ù„Ù…Ø³Ù„Ø³Ù„Ø§Øª"
+msgstr "استخدام fanart بدلاً من landscape في المسلسلات"
 
 msgctxt "#31016"
 msgid "Use fanart instead of landscape on movies"
-msgstr "Ø§Ø³ØªØ®Ø¯Ø§Ù… fanart Ø¨Ø¯Ù„Ø§Ù‹ Ù…Ù† landscape ÙÙŠ Ø§Ù„Ø£ÙÙ„Ø§Ù…"
+msgstr "استخدام fanart بدلاً من landscape في الأفلام"
 
 msgctxt "#31017"
 msgid "Use fanart instead of landscape on seasons"
-msgstr "Ø§Ø³ØªØ®Ø¯Ø§Ù… fanart Ø¨Ø¯Ù„Ø§Ù‹ Ù…Ù† landscape ÙÙŠ Ø§Ù„Ù…ÙˆØ§Ø³Ù…"
+msgstr "استخدام fanart بدلاً من landscape في المواسم"
 
 msgctxt "#31018"
 msgid "Hide bar/CD on lyrics"
-msgstr "Ø¥Ø®ÙØ§Ø¡ Ø§Ù„Ø´Ø±ÙŠØ·/Ø§Ù„Ù‚Ø±Øµ ÙÙŠ ÙƒÙ„Ù…Ø§Øª Ø§Ù„Ø£ØºØ§Ù†ÙŠ"
+msgstr "إخفاء الشريط/القرص في كلمات الأغاني"
 
 msgctxt "#31019"
 msgid "Show PVR technical info"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø§Ù„Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„ØªÙ‚Ù†ÙŠØ© Ù„Ù€ PVR"
+msgstr "إظهار المعلومات التقنية لـ PVR"
 
 msgctxt "#31020"
 msgid "Fullscreen Fanart"
-msgstr "Fanart Ø¨Ù…Ù„Ø¡ Ø§Ù„Ø´Ø§Ø´Ø©"
+msgstr "Fanart بملء الشاشة"
 
 msgctxt "#31021"
 msgid "Extended information"
-msgstr "Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ù…ÙˆØ³Ø¹Ø©"
+msgstr "معلومات موسعة"
 
 msgctxt "#31022"
 msgid "IPTV Recorder"
-msgstr "Ù…Ø³Ø¬Ù„ IPTV"
+msgstr "مسجل IPTV"
 
 msgctxt "#31023"
 msgid "Recordings"
-msgstr "Ø§Ù„ØªØ³Ø¬ÙŠÙ„Ø§Øª"
+msgstr "التسجيلات"
 
 msgctxt "#31024"
 msgid "Last Played Channels"
-msgstr "Ø¢Ø®Ø± Ø§Ù„Ù‚Ù†ÙˆØ§Øª Ø§Ù„Ù…Ø´ØºÙ„Ø©"
+msgstr "آخر القنوات المشغلة"
 
 msgctxt "#31025"
 msgid "All Channels"
-msgstr "Ø¬Ù…ÙŠØ¹ Ø§Ù„Ù‚Ù†ÙˆØ§Øª"
+msgstr "جميع القنوات"
 
 msgctxt "#31026"
 msgid "New Movies"
-msgstr "Ø£ÙÙ„Ø§Ù… Ø¬Ø¯ÙŠØ¯Ø©"
+msgstr "أفلام جديدة"
 
 msgctxt "#31027"
 msgid "Recently Played Movies"
-msgstr "Ø£ÙÙ„Ø§Ù… Ø´ÙØºÙ„Øª Ù…Ø¤Ø®Ø±Ø§Ù‹"
+msgstr "أفلام شُغلت مؤخراً"
 
 msgctxt "#31028"
 msgid "Random Movies"
-msgstr "Ø£ÙÙ„Ø§Ù… Ø¹Ø´ÙˆØ§Ø¦ÙŠØ©"
+msgstr "أفلام عشوائية"
 
 msgctxt "#31029"
 msgid "In Progress Movies"
-msgstr "Ø£ÙÙ„Ø§Ù… Ù‚ÙŠØ¯ Ø§Ù„Ù…Ø´Ø§Ù‡Ø¯Ø©"
+msgstr "أفلام قيد المشاهدة"
 
 msgctxt "#31030"
 msgid "Top Rated Movies"
-msgstr "Ø£ÙÙ„Ø§Ù… Ø§Ù„Ø£Ø¹Ù„Ù‰ ØªÙ‚ÙŠÙŠÙ…Ø§Ù‹"
+msgstr "أفلام الأعلى تقييماً"
 
 msgctxt "#31031"
 msgid "Top 250 Movies"
-msgstr "Ø£ÙØ¶Ù„ 250 ÙÙŠÙ„Ù…Ø§Ù‹"
+msgstr "أفضل 250 فيلماً"
 
 msgctxt "#31032"
 msgid "Unwatched Movies"
-msgstr "Ø£ÙÙ„Ø§Ù… ØºÙŠØ± Ù…Ø´Ø§Ù‡Ø¯Ø©"
+msgstr "أفلام غير مشاهدة"
 
 msgctxt "#31033"
 msgid "Movie Sets"
-msgstr "Ù…Ø¬Ù…ÙˆØ¹Ø§Øª Ø§Ù„Ø£ÙÙ„Ø§Ù…"
+msgstr "مجموعات الأفلام"
 
 msgctxt "#31034"
 msgid "New Tv Shows"
-msgstr "Ù…Ø³Ù„Ø³Ù„Ø§Øª Ø¬Ø¯ÙŠØ¯Ø©"
+msgstr "مسلسلات جديدة"
 
 msgctxt "#31035"
 msgid "Recently Watched TV Shows"
-msgstr "Ù…Ø³Ù„Ø³Ù„Ø§Øª Ø´ÙˆÙ‡Ø¯Øª Ù…Ø¤Ø®Ø±Ø§Ù‹"
+msgstr "مسلسلات شوهدت مؤخراً"
 
 msgctxt "#31036"
 msgid "Random Tv Shows"
-msgstr "Ù…Ø³Ù„Ø³Ù„Ø§Øª Ø¹Ø´ÙˆØ§Ø¦ÙŠØ©"
+msgstr "مسلسلات عشوائية"
 
 msgctxt "#31037"
 msgid "Top Rated Tv Shows"
-msgstr "Ù…Ø³Ù„Ø³Ù„Ø§Øª Ø§Ù„Ø£Ø¹Ù„Ù‰ ØªÙ‚ÙŠÙŠÙ…Ø§Ù‹"
+msgstr "مسلسلات الأعلى تقييماً"
 
 msgctxt "#31038"
 msgid "New Episodes"
-msgstr "Ø­Ù„Ù‚Ø§Øª Ø¬Ø¯ÙŠØ¯Ø©"
+msgstr "حلقات جديدة"
 
 msgctxt "#31039"
 msgid "Recently Played Episodes"
-msgstr "Ø­Ù„Ù‚Ø§Øª Ø´ÙØºÙ„Øª Ù…Ø¤Ø®Ø±Ø§Ù‹"
+msgstr "حلقات شُغلت مؤخراً"
 
 msgctxt "#31040"
 msgid "Random Episodes"
-msgstr "Ø­Ù„Ù‚Ø§Øª Ø¹Ø´ÙˆØ§Ø¦ÙŠØ©"
+msgstr "حلقات عشوائية"
 
 msgctxt "#31041"
 msgid "Unwatched Episodes"
-msgstr "Ø­Ù„Ù‚Ø§Øª ØºÙŠØ± Ù…Ø´Ø§Ù‡Ø¯Ø©"
+msgstr "حلقات غير مشاهدة"
 
 msgctxt "#31042"
 msgid "In Progress Episodes"
-msgstr "Ø­Ù„Ù‚Ø§Øª Ù‚ÙŠØ¯ Ø§Ù„Ù…Ø´Ø§Ù‡Ø¯Ø©"
+msgstr "حلقات قيد المشاهدة"
 
 msgctxt "#31043"
 msgid "Top Rated Episodes"
-msgstr "Ø­Ù„Ù‚Ø§Øª Ø§Ù„Ø£Ø¹Ù„Ù‰ ØªÙ‚ÙŠÙŠÙ…Ø§Ù‹"
+msgstr "حلقات الأعلى تقييماً"
 
 msgctxt "#31044"
 msgid "New Albums"
-msgstr "Ø£Ù„Ø¨ÙˆÙ…Ø§Øª Ø¬Ø¯ÙŠØ¯Ø©"
+msgstr "ألبومات جديدة"
 
 msgctxt "#31045"
 msgid "Recently Played Albums"
-msgstr "Ø£Ù„Ø¨ÙˆÙ…Ø§Øª Ø´ÙØºÙ„Øª Ù…Ø¤Ø®Ø±Ø§Ù‹"
+msgstr "ألبومات شُغلت مؤخراً"
 
 msgctxt "#31046"
 msgid "Top Albums"
-msgstr "Ø£ÙØ¶Ù„ Ø§Ù„Ø£Ù„Ø¨ÙˆÙ…Ø§Øª"
+msgstr "أفضل الألبومات"
 
 msgctxt "#31047"
 msgid "Random Albums"
-msgstr "Ø£Ù„Ø¨ÙˆÙ…Ø§Øª Ø¹Ø´ÙˆØ§Ø¦ÙŠØ©"
+msgstr "ألبومات عشوائية"
 
 msgctxt "#31048"
 msgid "Random Artists"
-msgstr "ÙÙ†Ø§Ù†ÙˆÙ† Ø¹Ø´ÙˆØ§Ø¦ÙŠÙˆÙ†"
+msgstr "فنانون عشوائيون"
 
 msgctxt "#31049"
 msgid "Show fanart/landscape view"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø¹Ø±Ø¶ fanart/landscape"
+msgstr "إظهار عرض fanart/landscape"
 
 msgctxt "#31050"
 msgid "Display blur effect"
-msgstr "Ø¹Ø±Ø¶ ØªØ£Ø«ÙŠØ± Ø§Ù„Ø¶Ø¨Ø§Ø¨ÙŠØ©"
+msgstr "عرض تأثير الضبابية"
 
 msgctxt "#31051"
 msgid "This view"
-msgstr "Ù‡Ø°Ø§ Ø§Ù„Ø¹Ø±Ø¶"
+msgstr "هذا العرض"
 
 msgctxt "#31052"
 msgid "Misc"
-msgstr "Ù…ØªÙ†ÙˆØ¹"
+msgstr "متنوع"
 
 msgctxt "#31053"
 msgid "Global options"
-msgstr "Ø®ÙŠØ§Ø±Ø§Øª Ø¹Ø§Ù…Ø©"
+msgstr "خيارات عامة"
 
 msgctxt "#31054"
 msgid "Show discart"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± discart"
+msgstr "إظهار discart"
 
 msgctxt "#31055"
 msgid "Fullsize fanart"
-msgstr "fanart Ø¨Ø§Ù„Ø­Ø¬Ù… Ø§Ù„ÙƒØ§Ù…Ù„"
+msgstr "fanart بالحجم الكامل"
 
 msgctxt "#31056"
 msgid "Double Poster"
-msgstr "Ù…Ù„ØµÙ‚ Ù…Ø²Ø¯ÙˆØ¬"
+msgstr "ملصق مزدوج"
 
 msgctxt "#31057"
 msgid "Flip poster/fanart"
-msgstr "Ø¹ÙƒØ³ Ø§Ù„Ù…Ù„ØµÙ‚/fanart"
+msgstr "عكس الملصق/fanart"
 
 msgctxt "#31058"
 msgid "Show list instead of posters"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ù‚Ø§Ø¦Ù…Ø© Ø¨Ø¯Ù„Ø§Ù‹ Ù…Ù† Ø§Ù„Ù…Ù„ØµÙ‚Ø§Øª"
+msgstr "إظهار قائمة بدلاً من الملصقات"
 
 msgctxt "#31059"
 msgid "Fanart & poster 2"
-msgstr "Fanart ÙˆÙ…Ù„ØµÙ‚ 2"
+msgstr "Fanart وملصق 2"
 
 msgctxt "#31060"
 msgid "episodes watched"
-msgstr "Ø­Ù„Ù‚Ø§Øª Ù…Ø´Ø§Ù‡Ø¯Ø©"
+msgstr "حلقات مشاهدة"
 
 msgctxt "#31061"
 msgid "h"
@@ -271,47 +271,47 @@ msgstr "m"
 
 msgctxt "#31063"
 msgid "New time format"
-msgstr "ØªÙ†Ø³ÙŠÙ‚ ÙˆÙ‚Øª Ø¬Ø¯ÙŠØ¯"
+msgstr "تنسيق وقت جديد"
 
 msgctxt "#31064"
 msgid "Double Banner"
-msgstr "Ø¨Ø§Ù†Ø± Ù…Ø²Ø¯ÙˆØ¬"
+msgstr "بانر مزدوج"
 
 msgctxt "#31065"
 msgid "Flip fanart/banner"
-msgstr "Ø¹ÙƒØ³ fanart/Ø§Ù„Ø¨Ø§Ù†Ø±"
+msgstr "عكس fanart/البانر"
 
 msgctxt "#31066"
 msgid "Hourly forecast"
-msgstr "ØªÙˆÙ‚Ø¹Ø§Øª Ø§Ù„Ø·Ù‚Ø³ Ø¨Ø§Ù„Ø³Ø§Ø¹Ø©"
+msgstr "توقعات الطقس بالساعة"
 
 msgctxt "#31067"
 msgid "Next days forecast"
-msgstr "ØªÙˆÙ‚Ø¹Ø§Øª Ø§Ù„Ø£ÙŠØ§Ù… Ø§Ù„Ù‚Ø§Ø¯Ù…Ø©"
+msgstr "توقعات الأيام القادمة"
 
 msgctxt "#31068"
 msgid "Show RSS Feed on home menu"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ù…ÙˆØ¬Ø² RSS ÙÙŠ Ø§Ù„Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©"
+msgstr "إظهار موجز RSS في القائمة الرئيسية"
 
 msgctxt "#31069"
 msgid "Show RSS Feed on top instead on bottom"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ù…ÙˆØ¬Ø² RSS ÙÙŠ Ø§Ù„Ø£Ø¹Ù„Ù‰ Ø¨Ø¯Ù„Ø§Ù‹ Ù…Ù† Ø§Ù„Ø£Ø³ÙÙ„"
+msgstr "إظهار موجز RSS في الأعلى بدلاً من الأسفل"
 
 msgctxt "#31070"
 msgid "RSS Feed"
-msgstr "Ù…ÙˆØ¬Ø² RSS"
+msgstr "موجز RSS"
 
 msgctxt "#31071"
 msgid "Flip list and info"
-msgstr "Ø¹ÙƒØ³ Ø§Ù„Ù‚Ø§Ø¦Ù…Ø© ÙˆØ§Ù„Ù…Ø¹Ù„ÙˆÙ…Ø§Øª"
+msgstr "عكس القائمة والمعلومات"
 
 msgctxt "#31072"
 msgid "Elapsed / Remaining Time"
-msgstr "Ø§Ù„ÙˆÙ‚Øª Ø§Ù„Ù…Ù†Ù‚Ø¶ÙŠ / Ø§Ù„Ù…ØªØ¨Ù‚ÙŠ"
+msgstr "الوقت المنقضي / المتبقي"
 
 msgctxt "#31073"
 msgid "items"
-msgstr "Ø§Ù„Ø¹Ù†Ø§ØµØ±"
+msgstr "العناصر"
 
 msgctxt "#31074"
 msgid "min"
@@ -319,67 +319,67 @@ msgstr "min"
 
 msgctxt "#31075"
 msgid "Live TV"
-msgstr "ØªÙŠ ÙÙŠ Ù…Ø¨Ø§Ø´Ø±"
+msgstr "تي في مباشر"
 
 msgctxt "#31076"
 msgid "Used Memory"
-msgstr "Ø§Ù„Ø°Ø§ÙƒØ±Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…Ø©"
+msgstr "الذاكرة المستخدمة"
 
 msgctxt "#31077"
 msgid "Spotlight"
-msgstr "Ø§Ù„Ø£Ø¶ÙˆØ§Ø¡"
+msgstr "الأضواء"
 
 msgctxt "#31078"
 msgid "Finishes at"
-msgstr "ÙŠÙ†ØªÙ‡ÙŠ Ø¹Ù†Ø¯"
+msgstr "ينتهي عند"
 
 msgctxt "#31079"
 msgid "Video Stream"
-msgstr "Ø¯ÙÙ‚ Ø§Ù„ÙÙŠØ¯ÙŠÙˆ"
+msgstr "دفق الفيديو"
 
 msgctxt "#31080"
 msgid "Customise home menu"
-msgstr "ØªØ®ØµÙŠØµ Ø§Ù„Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©"
+msgstr "تخصيص القائمة الرئيسية"
 
 msgctxt "#31081"
 msgid "Background"
-msgstr "Ø§Ù„Ø®Ù„ÙÙŠØ©"
+msgstr "الخلفية"
 
 msgctxt "#31082"
 msgid "Show now playing video in background"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø§Ù„ÙÙŠØ¯ÙŠÙˆ Ù‚ÙŠØ¯ Ø§Ù„ØªØ´ØºÙŠÙ„ ÙÙŠ Ø§Ù„Ø®Ù„ÙÙŠØ©"
+msgstr "إظهار الفيديو قيد التشغيل في الخلفية"
 
 msgctxt "#31083"
 msgid "Submenu"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© ÙØ±Ø¹ÙŠØ©"
+msgstr "قائمة فرعية"
 
 msgctxt "#31084"
 msgid "No Timer"
-msgstr "Ù„Ø§ ÙŠÙˆØ¬Ø¯ Ù…Ø¤Ù‚Øª"
+msgstr "لا يوجد مؤقت"
 
 msgctxt "#31085"
 msgid "Show header info"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„ØªØ±ÙˆÙŠØ³Ø©"
+msgstr "إظهار معلومات الترويسة"
 
 msgctxt "#31086"
 msgid "DVD Menu"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© DVD"
+msgstr "قائمة DVD"
 
 msgctxt "#31087"
 msgid "Show artist slideshow"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø¹Ø±Ø¶ Ø´Ø±Ø§Ø¦Ø­ Ø§Ù„ÙÙ†Ø§Ù†"
+msgstr "إظهار عرض شرائح الفنان"
 
 msgctxt "#31088"
 msgid "Show visualisation behind slideshow"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø§Ù„Ù…Ø¤Ø«Ø±Ø§Øª Ø§Ù„Ø¨ØµØ±ÙŠØ© Ø®Ù„Ù Ø¹Ø±Ø¶ Ø§Ù„Ø´Ø±Ø§Ø¦Ø­"
+msgstr "إظهار المؤثرات البصرية خلف عرض الشرائح"
 
 msgctxt "#31089"
 msgid "Animate artist slideshow"
-msgstr "ØªØ­Ø±ÙŠÙƒ Ø¹Ø±Ø¶ Ø´Ø±Ø§Ø¦Ø­ Ø§Ù„ÙÙ†Ø§Ù†"
+msgstr "تحريك عرض شرائح الفنان"
 
 msgctxt "#31090"
 msgid "Show fanart"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± fanart"
+msgstr "إظهار fanart"
 
 msgctxt "#31091"
 msgid "Letterboxd"
@@ -387,19 +387,19 @@ msgstr ""
 
 msgctxt "#31092"
 msgid "Accent colors"
-msgstr "Ø§Ù„Ø£Ù„ÙˆØ§Ù† Ø§Ù„Ù…Ù…ÙŠØ²Ø©"
+msgstr "الألوان المميزة"
 
 msgctxt "#31093"
 msgid "Rating stars (media flags section)"
-msgstr "Ù†Ø¬ÙˆÙ… Ø§Ù„ØªÙ‚ÙŠÙŠÙ… (Ù‚Ø³Ù… Ø¥Ø´Ø§Ø±Ø§Øª Ø§Ù„ÙˆØ³Ø§Ø¦Ø·)"
+msgstr "نجوم التقييم (قسم إشارات الوسائط)"
 
 msgctxt "#31094"
 msgid "MPAA rating (media flags section)"
-msgstr "ØªØµÙ†ÙŠÙ MPAA (Ù‚Ø³Ù… Ø¥Ø´Ø§Ø±Ø§Øª Ø§Ù„ÙˆØ³Ø§Ø¦Ø·)"
+msgstr "تصنيف MPAA (قسم إشارات الوسائط)"
 
 msgctxt "#31095"
 msgid "Focus squares"
-msgstr "Ù…Ø±Ø¨Ø¹Ø§Øª Ø§Ù„ØªØ±ÙƒÙŠØ²"
+msgstr "مربعات التركيز"
 
 msgctxt "#31096"
 msgid "Trakt"
@@ -407,19 +407,19 @@ msgstr ""
 
 msgctxt "#31097"
 msgid "Userrating (media flags section)"
-msgstr "ØªÙ‚ÙŠÙŠÙ… Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… (Ù‚Ø³Ù… Ø¥Ø´Ø§Ø±Ø§Øª Ø§Ù„ÙˆØ³Ø§Ø¦Ø·)"
+msgstr "تقييم المستخدم (قسم إشارات الوسائط)"
 
 msgctxt "#31098"
 msgid "Hide watched"
-msgstr "Ø¥Ø®ÙØ§Ø¡ Ø§Ù„Ù…ÙØ´Ø§Ù‡ÙŽØ¯"
+msgstr "إخفاء المُشاهَد"
 
 msgctxt "#31099"
 msgid "[CR]Based on the original Arctic: Zephyr skin by jurialmunkey and [CR]Arctic: Zephyr Reloaded  skin by beatmasterrs."
-msgstr "[CR]Ù…Ø¨Ù†ÙŠ Ø¹Ù„Ù‰ ØºÙ„Ø§Ù Arctic: Zephyr Ø§Ù„Ø£ØµÙ„ÙŠ Ù…Ù† jurialmunkey Ùˆ[CR]ØºÙ„Ø§Ù Arctic: Zephyr Reloaded Ù…Ù† beatmasterrs."
+msgstr "[CR]مبني على غلاف Arctic: Zephyr الأصلي من jurialmunkey و[CR]غلاف Arctic: Zephyr Reloaded من beatmasterrs."
 
 msgctxt "#31100"
 msgid "Play trailer in windowed mode"
-msgstr "ØªØ´ØºÙŠÙ„ Ø§Ù„Ø¥Ø¹Ù„Ø§Ù† ÙÙŠ ÙˆØ¶Ø¹ Ø§Ù„Ù†Ø§ÙØ°Ø©"
+msgstr "تشغيل الإعلان في وضع النافذة"
 
 msgctxt "#31101"
 msgid "Youtube"
@@ -427,191 +427,191 @@ msgstr "Youtube"
 
 msgctxt "#31102"
 msgid "Set weather fanart"
-msgstr "ØªØ¹ÙŠÙŠÙ† fanart Ø§Ù„Ø·Ù‚Ø³"
+msgstr "تعيين fanart الطقس"
 
 msgctxt "#31103"
 msgid "Widgets"
-msgstr "Ø§Ù„ÙˆØ¯Ø¬Ø§Øª"
+msgstr "الودجات"
 
 msgctxt "#31104"
 msgid "Show time, date and weather"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø§Ù„ÙˆÙ‚Øª ÙˆØ§Ù„ØªØ§Ø±ÙŠØ® ÙˆØ§Ù„Ø·Ù‚Ø³"
+msgstr "إظهار الوقت والتاريخ والطقس"
 
 msgctxt "#31105"
 msgid "Animate fanart"
-msgstr "ØªØ­Ø±ÙŠÙƒ fanart"
+msgstr "تحريك fanart"
 
 msgctxt "#31106"
 msgid "Extra Info"
-msgstr "Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø¥Ø¶Ø§ÙÙŠØ©"
+msgstr "معلومات إضافية"
 
 msgctxt "#31107"
 msgid "Wrap list"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© Ù…Ù„ØªÙØ©"
+msgstr "قائمة ملتفة"
 
 msgctxt "#31108"
 msgid "Set fallback image"
-msgstr "ØªØ¹ÙŠÙŠÙ† Ø§Ù„ØµÙˆØ±Ø© Ø§Ù„Ø§Ø­ØªÙŠØ§Ø·ÙŠØ©"
+msgstr "تعيين الصورة الاحتياطية"
 
 msgctxt "#31109"
 msgid "Power Menu"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø·Ø§Ù‚Ø©"
+msgstr "قائمة الطاقة"
 
 msgctxt "#31110"
 msgid "Furniture"
-msgstr "Ø¹Ù†Ø§ØµØ± Ø§Ù„ÙˆØ§Ø¬Ù‡Ø©"
+msgstr "عناصر الواجهة"
 
 msgctxt "#31111"
 msgid "Show in the header"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± ÙÙŠ Ø§Ù„ØªØ±ÙˆÙŠØ³Ø©"
+msgstr "إظهار في الترويسة"
 
 msgctxt "#31112"
 msgid "Show media flags"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø¥Ø´Ø§Ø±Ø§Øª Ø§Ù„ÙˆØ³Ø§Ø¦Ø·"
+msgstr "إظهار إشارات الوسائط"
 
 msgctxt "#31113"
 msgid "Show now playing info"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„ØªØ´ØºÙŠÙ„ Ø§Ù„Ø­Ø§Ù„ÙŠ"
+msgstr "إظهار معلومات التشغيل الحالي"
 
 msgctxt "#31114"
 msgid "[COLOR=$VAR[Color_Label_AZR]]Rounded[/COLOR] Skin-Settings"
-msgstr "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª ØºÙ„Ø§Ù [COLOR=$VAR[Color_Label_AZR]]Rounded[/COLOR]"
+msgstr "إعدادات غلاف [COLOR=$VAR[Color_Label_AZR]]Rounded[/COLOR]"
 
 msgctxt "#31115"
 msgid "Trailer of"
-msgstr "Ø¥Ø¹Ù„Ø§Ù†"
+msgstr "إعلان"
 
 msgctxt "#31116"
 msgid "Movies by"
-msgstr "Ø£ÙÙ„Ø§Ù… Ù…Ù†"
+msgstr "أفلام من"
 
 msgctxt "#31117"
 msgid "Tv Shows by"
-msgstr "Ù…Ø³Ù„Ø³Ù„Ø§Øª Ù…Ù†"
+msgstr "مسلسلات من"
 
 msgctxt "#31118"
-msgid "[B]Configure System Settings[/B][CR][CR] â€¢     Setup and calibrate displays[CR] â€¢     Configure audio output[CR] â€¢     Setup remote controls[CR] â€¢     Set power saving options[CR] â€¢     Enable debugging[CR] â€¢     Setup master lock"
-msgstr "[B]Ø¶Ø¨Ø· Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ù†Ø¸Ø§Ù…[/B][CR][CR] â€¢     Ø¥Ø¹Ø¯Ø§Ø¯ ÙˆÙ…Ø¹Ø§ÙŠØ±Ø© Ø§Ù„Ø´Ø§Ø´Ø§Øª[CR] â€¢     Ø¶Ø¨Ø· Ø¥Ø®Ø±Ø§Ø¬ Ø§Ù„ØµÙˆØª[CR] â€¢     Ø¥Ø¹Ø¯Ø§Ø¯ Ø£Ø¬Ù‡Ø²Ø© Ø§Ù„ØªØ­ÙƒÙ… Ø¹Ù† Ø¨Ø¹Ø¯[CR] â€¢     ØªØ¹ÙŠÙŠÙ† Ø®ÙŠØ§Ø±Ø§Øª ØªÙˆÙÙŠØ± Ø§Ù„Ø·Ø§Ù‚Ø©[CR] â€¢     ØªÙØ¹ÙŠÙ„ Ø§Ù„ØªØµØ­ÙŠØ­[CR] â€¢     Ø¥Ø¹Ø¯Ø§Ø¯ Ø§Ù„Ù‚ÙÙ„ Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠ"
+msgid "[B]Configure System Settings[/B][CR][CR] •     Setup and calibrate displays[CR] •     Configure audio output[CR] •     Setup remote controls[CR] •     Set power saving options[CR] •     Enable debugging[CR] •     Setup master lock"
+msgstr "[B]ضبط إعدادات النظام[/B][CR][CR] •     إعداد ومعايرة الشاشات[CR] •     ضبط إخراج الصوت[CR] •     إعداد أجهزة التحكم عن بعد[CR] •     تعيين خيارات توفير الطاقة[CR] •     تفعيل التصحيح[CR] •     إعداد القفل الرئيسي"
 
 msgctxt "#31119"
-msgid "[B]Configure Add-Ons[/B][CR][CR] â€¢     Manage your installed Add-ons[CR] â€¢     Install Add-ons from kodi.tv[CR] â€¢     Modify Add-on settings"
-msgstr "[B]Ø¶Ø¨Ø· Ø§Ù„Ø¥Ø¶Ø§ÙØ§Øª[/B][CR][CR] â€¢     Ø¥Ø¯Ø§Ø±Ø© Ø§Ù„Ø¥Ø¶Ø§ÙØ§Øª Ø§Ù„Ù…Ø«Ø¨ØªØ©[CR] â€¢     ØªØ«Ø¨ÙŠØª Ø¥Ø¶Ø§ÙØ§Øª Ù…Ù† kodi.tv[CR] â€¢     ØªØ¹Ø¯ÙŠÙ„ Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø¥Ø¶Ø§ÙØ§Øª"
+msgid "[B]Configure Add-Ons[/B][CR][CR] •     Manage your installed Add-ons[CR] •     Install Add-ons from kodi.tv[CR] •     Modify Add-on settings"
+msgstr "[B]ضبط الإضافات[/B][CR][CR] •     إدارة الإضافات المثبتة[CR] •     تثبيت إضافات من kodi.tv[CR] •     تعديل إعدادات الإضافات"
 
 msgctxt "#31120"
-msgid "[B]Configure TV Settings[/B][CR][CR] â€¢     Change full screen info[CR] â€¢     Manage EPG data settings"
-msgstr "[B]Ø¶Ø¨Ø· Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ØªÙ„ÙØ§Ø²[/B][CR][CR] â€¢     ØªØºÙŠÙŠØ± Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ù…Ù„Ø¡ Ø§Ù„Ø´Ø§Ø´Ø©[CR] â€¢     Ø¥Ø¯Ø§Ø±Ø© Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø¨ÙŠØ§Ù†Ø§Øª EPG"
+msgid "[B]Configure TV Settings[/B][CR][CR] •     Change full screen info[CR] •     Manage EPG data settings"
+msgstr "[B]ضبط إعدادات التلفاز[/B][CR][CR] •     تغيير معلومات ملء الشاشة[CR] •     إدارة إعدادات بيانات EPG"
 
 msgctxt "#31121"
-msgid "[B]Configure Service Settings[/B][CR][CR] â€¢     Control via UPnP and HTTP[CR] â€¢     Configure file sharing[CR] â€¢     Enable Zeroconf[CR] â€¢     Configure AirPlay"
-msgstr "[B]Ø¶Ø¨Ø· Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø®Ø¯Ù…Ø§Øª[/B][CR][CR] â€¢     Ø§Ù„ØªØ­ÙƒÙ… Ø¹Ø¨Ø± UPnP ÙˆHTTP[CR] â€¢     Ø¶Ø¨Ø· Ù…Ø´Ø§Ø±ÙƒØ© Ø§Ù„Ù…Ù„ÙØ§Øª[CR] â€¢     ØªÙØ¹ÙŠÙ„ Zeroconf[CR] â€¢     Ø¶Ø¨Ø· AirPlay"
+msgid "[B]Configure Service Settings[/B][CR][CR] •     Control via UPnP and HTTP[CR] •     Configure file sharing[CR] •     Enable Zeroconf[CR] •     Configure AirPlay"
+msgstr "[B]ضبط إعدادات الخدمات[/B][CR][CR] •     التحكم عبر UPnP وHTTP[CR] •     ضبط مشاركة الملفات[CR] •     تفعيل Zeroconf[CR] •     ضبط AirPlay"
 
 msgctxt "#31122"
-msgid "[B]Configure Profile Settings[/B][CR][CR] â€¢     Setup user profiles[CR] â€¢     Enable login screen[CR] â€¢     Set master locks[CR] â€¢     Control access to content"
-msgstr "[B]Ø¶Ø¨Ø· Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ù…Ù„ÙØ§Øª Ø§Ù„Ø´Ø®ØµÙŠØ©[/B][CR][CR] â€¢     Ø¥Ø¹Ø¯Ø§Ø¯ Ù…Ù„ÙØ§Øª Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…ÙŠÙ†[CR] â€¢     ØªÙØ¹ÙŠÙ„ Ø´Ø§Ø´Ø© ØªØ³Ø¬ÙŠÙ„ Ø§Ù„Ø¯Ø®ÙˆÙ„[CR] â€¢     ØªØ¹ÙŠÙŠÙ† Ø§Ù„Ø£Ù‚ÙØ§Ù„ Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©[CR] â€¢     Ø§Ù„ØªØ­ÙƒÙ… ÙÙŠ Ø§Ù„ÙˆØµÙˆÙ„ Ø¥Ù„Ù‰ Ø§Ù„Ù…Ø­ØªÙˆÙ‰"
+msgid "[B]Configure Profile Settings[/B][CR][CR] •     Setup user profiles[CR] •     Enable login screen[CR] •     Set master locks[CR] •     Control access to content"
+msgstr "[B]ضبط إعدادات الملفات الشخصية[/B][CR][CR] •     إعداد ملفات المستخدمين[CR] •     تفعيل شاشة تسجيل الدخول[CR] •     تعيين الأقفال الرئيسية[CR] •     التحكم في الوصول إلى المحتوى"
 
 msgctxt "#31123"
-msgid "[B]Configure Skin Settings[/B][CR][CR] â€¢     Customise the home screen[CR] â€¢     Set background options[CR] â€¢     Configure OSD options[CR] â€¢     Enable add-on support[CR] â€¢     Disable screen elements"
-msgstr "[B]Ø¶Ø¨Ø· Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ØºÙ„Ø§Ù[/B][CR][CR] â€¢     ØªØ®ØµÙŠØµ Ø§Ù„Ø´Ø§Ø´Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©[CR] â€¢     ØªØ¹ÙŠÙŠÙ† Ø®ÙŠØ§Ø±Ø§Øª Ø§Ù„Ø®Ù„ÙÙŠØ©[CR] â€¢     Ø¶Ø¨Ø· Ø®ÙŠØ§Ø±Ø§Øª OSD[CR] â€¢     ØªÙØ¹ÙŠÙ„ Ø¯Ø¹Ù… Ø§Ù„Ø¥Ø¶Ø§ÙØ§Øª[CR] â€¢     ØªØ¹Ø·ÙŠÙ„ Ø¹Ù†Ø§ØµØ± Ø§Ù„Ø´Ø§Ø´Ø©"
+msgid "[B]Configure Skin Settings[/B][CR][CR] •     Customise the home screen[CR] •     Set background options[CR] •     Configure OSD options[CR] •     Enable add-on support[CR] •     Disable screen elements"
+msgstr "[B]ضبط إعدادات الغلاف[/B][CR][CR] •     تخصيص الشاشة الرئيسية[CR] •     تعيين خيارات الخلفية[CR] •     ضبط خيارات OSD[CR] •     تفعيل دعم الإضافات[CR] •     تعطيل عناصر الشاشة"
 
 msgctxt "#31124"
-msgid "[B]View System Information[/B][CR][CR] â€¢     Summary[CR] â€¢     Storage[CR] â€¢     Network[CR] â€¢     Video[CR] â€¢     Hardware[CR] â€¢     PVR Backend"
-msgstr "[B]Ø¹Ø±Ø¶ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ù†Ø¸Ø§Ù…[/B][CR][CR] â€¢     Ù…Ù„Ø®Øµ[CR] â€¢     Ø§Ù„ØªØ®Ø²ÙŠÙ†[CR] â€¢     Ø§Ù„Ø´Ø¨ÙƒØ©[CR] â€¢     Ø§Ù„ÙÙŠØ¯ÙŠÙˆ[CR] â€¢     Ø§Ù„Ø¹ØªØ§Ø¯[CR] â€¢     Ø®Ø§Ø¯Ù… PVR"
+msgid "[B]View System Information[/B][CR][CR] •     Summary[CR] •     Storage[CR] •     Network[CR] •     Video[CR] •     Hardware[CR] •     PVR Backend"
+msgstr "[B]عرض معلومات النظام[/B][CR][CR] •     ملخص[CR] •     التخزين[CR] •     الشبكة[CR] •     الفيديو[CR] •     العتاد[CR] •     خادم PVR"
 
 msgctxt "#31125"
 msgid "Startup video or music playlist"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© ØªØ´ØºÙŠÙ„ ÙÙŠØ¯ÙŠÙˆ Ø£Ùˆ Ù…ÙˆØ³ÙŠÙ‚Ù‰ Ø¹Ù†Ø¯ Ø§Ù„Ø¨Ø¯Ø¡"
+msgstr "قائمة تشغيل فيديو أو موسيقى عند البدء"
 
 msgctxt "#31126"
 msgid "Extras"
-msgstr "Ø§Ù„Ù…ÙˆØ§Ø¯ Ø§Ù„Ø¥Ø¶Ø§ÙÙŠØ©"
+msgstr "المواد الإضافية"
 
 msgctxt "#31127"
 msgid "Cinema Experience"
-msgstr "ØªØ¬Ø±Ø¨Ø© Ø³ÙŠÙ†Ù…Ø§Ø¦ÙŠØ©"
+msgstr "تجربة سينمائية"
 
 msgctxt "#31128"
 msgid "Movies by"
-msgstr "Ø£ÙÙ„Ø§Ù… Ù…Ù†"
+msgstr "أفلام من"
 
 msgctxt "#31129"
 msgid "Recently added"
-msgstr "Ø£Ø¶ÙŠÙ Ù…Ø¤Ø®Ø±Ø§Ù‹"
+msgstr "أضيف مؤخراً"
 
 msgctxt "#31130"
 msgid "Recently played"
-msgstr "Ø´ÙØºÙ„ Ù…Ø¤Ø®Ø±Ø§Ù‹"
+msgstr "شُغل مؤخراً"
 
 msgctxt "#31131"
 msgid "Play random"
-msgstr "ØªØ´ØºÙŠÙ„ Ø¹Ø´ÙˆØ§Ø¦ÙŠ"
+msgstr "تشغيل عشوائي"
 
 msgctxt "#31132"
 msgid "Delete Settings Shortcut"
-msgstr "Ø­Ø°Ù Ø§Ø®ØªØµØ§Ø± Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª"
+msgstr "حذف اختصار الإعدادات"
 
 msgctxt "#31133"
 msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
-msgstr "Ù‡Ù„ Ø£Ù†Øª Ù…ØªØ£ÙƒØ¯ Ù…Ù† Ø¥Ø²Ø§Ù„Ø© Ø§Ø®ØªØµØ§Ø± Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§ØªØŸ[CR]ÙŠØ±Ø¬Ù‰ Ø§Ù„ØªØ£ÙƒØ¯ Ù…Ù† ØªÙˆÙØ± Ø·Ø±ÙŠÙ‚Ø© Ø¨Ø¯ÙŠÙ„Ø© Ù„Ù„ÙˆØµÙˆÙ„ Ø¥Ù„Ù‰ Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ù‚Ø¨Ù„ Ø¥Ø²Ø§Ù„Ø© Ù‡Ø°Ø§ Ø§Ù„Ø§Ø®ØªØµØ§Ø±."
+msgstr "هل أنت متأكد من إزالة اختصار الإعدادات؟[CR]يرجى التأكد من توفر طريقة بديلة للوصول إلى الإعدادات قبل إزالة هذا الاختصار."
 
 msgctxt "#31134"
 msgid "Hub items"
-msgstr "Ø¹Ù†Ø§ØµØ± Ø§Ù„Ù…Ø±ÙƒØ²"
+msgstr "عناصر المركز"
 
 msgctxt "#31135"
 msgid "Cast of"
-msgstr "Ø·Ø§Ù‚Ù… ØªÙ…Ø«ÙŠÙ„"
+msgstr "طاقم تمثيل"
 
 msgctxt "#31136"
 msgid "Similar to"
-msgstr "Ù…Ø´Ø§Ø¨Ù‡ Ù„Ù€"
+msgstr "مشابه لـ"
 
 msgctxt "#31137"
 msgid "Fanart of"
-msgstr "fanart Ù„Ù€"
+msgstr "fanart لـ"
 
 msgctxt "#31138"
 msgid "Youtube videos of"
-msgstr "Ù…Ù‚Ø§Ø·Ø¹ ÙŠÙˆØªÙŠÙˆØ¨ Ù„Ù€"
+msgstr "مقاطع يوتيوب لـ"
 
 msgctxt "#31139"
 msgid "Crew of"
-msgstr "Ø·Ø§Ù‚Ù… Ø¹Ù…Ù„"
+msgstr "طاقم عمل"
 
 msgctxt "#31140"
 msgid "Big poster"
-msgstr "Ù…Ù„ØµÙ‚ ÙƒØ¨ÙŠØ±"
+msgstr "ملصق كبير"
 
 msgctxt "#31141"
 msgid "Filmography of"
-msgstr "Ø£Ø¹Ù…Ø§Ù„"
+msgstr "أعمال"
 
 msgctxt "#31142"
 msgid "TV Show appearances of"
-msgstr "Ø¸Ù‡ÙˆØ± ØªÙ„ÙØ²ÙŠÙˆÙ†ÙŠ Ù„Ù€"
+msgstr "ظهور تلفزيوني لـ"
 
 msgctxt "#31143"
 msgid "Discography of"
-msgstr "Ø£Ù„Ø¨ÙˆÙ…Ø§Øª"
+msgstr "ألبومات"
 
 msgctxt "#31144"
 msgid "Movie Hub"
-msgstr "Ù…Ø±ÙƒØ² Ø§Ù„Ø£ÙÙ„Ø§Ù…"
+msgstr "مركز الأفلام"
 
 msgctxt "#31145"
 msgid "TV Hub"
-msgstr "Ù…Ø±ÙƒØ² Ø§Ù„Ù…Ø³Ù„Ø³Ù„Ø§Øª"
+msgstr "مركز المسلسلات"
 
 msgctxt "#31146"
 msgid "Reload Skin"
-msgstr "Ø¥Ø¹Ø§Ø¯Ø© ØªØ­Ù…ÙŠÙ„ Ø§Ù„ØºÙ„Ø§Ù"
+msgstr "إعادة تحميل الغلاف"
 
 msgctxt "#31147"
 msgid "Cards"
-msgstr "Ø¨Ø·Ø§Ù‚Ø§Øª"
+msgstr "بطاقات"
 
 msgctxt "#31148"
 msgid "Kiosk mode"
-msgstr "ÙˆØ¶Ø¹ Ø§Ù„ÙƒØ´Ùƒ"
+msgstr "وضع الكشك"
 
 msgctxt "#31149"
 msgid "IMDb"
@@ -619,71 +619,71 @@ msgstr ""
 
 msgctxt "#31150"
 msgid "Show detailed info when video is paused"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ù…ÙØµÙ„Ø© Ø¹Ù†Ø¯ Ø¥ÙŠÙ‚Ø§Ù Ø§Ù„ÙÙŠØ¯ÙŠÙˆ Ù…Ø¤Ù‚ØªØ§Ù‹"
+msgstr "إظهار معلومات مفصلة عند إيقاف الفيديو مؤقتاً"
 
 msgctxt "#31151"
 msgid "Artwork"
-msgstr "Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ Ø§Ù„ÙÙ†ÙŠØ©"
+msgstr "الأعمال الفنية"
 
 msgctxt "#31152"
 msgid "Released by"
-msgstr "ØµØ¯Ø± Ø¹Ù†"
+msgstr "صدر عن"
 
 msgctxt "#31153"
 msgid "Similar"
-msgstr "Ù…Ø´Ø§Ø¨Ù‡"
+msgstr "مشابه"
 
 msgctxt "#31154"
 msgid "Movies by"
-msgstr "Ø£ÙÙ„Ø§Ù… Ù…Ù†"
+msgstr "أفلام من"
 
 msgctxt "#31155"
 msgid "In Cinemas"
-msgstr "ÙÙŠ ØµØ§Ù„Ø§Øª Ø§Ù„Ø³ÙŠÙ†Ù…Ø§"
+msgstr "في صالات السينما"
 
 msgctxt "#31156"
 msgid "Upcoming"
-msgstr "Ù‚Ø§Ø¯Ù…"
+msgstr "قادم"
 
 msgctxt "#31157"
 msgid "Popular"
-msgstr "Ø´Ø§Ø¦Ø¹"
+msgstr "شائع"
 
 msgctxt "#31158"
 msgid "Top Rated"
-msgstr "Ø§Ù„Ø£Ø¹Ù„Ù‰ ØªÙ‚ÙŠÙŠÙ…Ø§Ù‹"
+msgstr "الأعلى تقييماً"
 
 msgctxt "#31159"
 msgid "Airing"
-msgstr "ÙŠÙØ¹Ø±Ø¶ Ø­Ø§Ù„ÙŠØ§Ù‹"
+msgstr "يُعرض حالياً"
 
 msgctxt "#31160"
 msgid "Today"
-msgstr "Ø§Ù„ÙŠÙˆÙ…"
+msgstr "اليوم"
 
 msgctxt "#31161"
 msgid "Show plot"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø§Ù„Ù‚ØµØ©"
+msgstr "إظهار القصة"
 
 msgctxt "#31162"
 msgid "Tracklist of"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© Ù…Ù‚Ø§Ø·Ø¹"
+msgstr "قائمة مقاطع"
 
 msgctxt "#31163"
 msgid "Show numeric rating"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø§Ù„ØªÙ‚ÙŠÙŠÙ… Ø§Ù„Ø±Ù‚Ù…ÙŠ"
+msgstr "إظهار التقييم الرقمي"
 
 msgctxt "#31164"
 msgid "Next Aired"
-msgstr "Ø§Ù„Ø¹Ø±Ø¶ Ø§Ù„Ù‚Ø§Ø¯Ù…"
+msgstr "العرض القادم"
 
 msgctxt "#31165"
 msgid "Studio"
-msgstr "Ø§Ù„Ø§Ø³ØªÙˆØ¯ÙŠÙˆ"
+msgstr "الاستوديو"
 
 msgctxt "#31166"
 msgid "Cast"
-msgstr "Ø·Ø§Ù‚Ù… Ø§Ù„ØªÙ…Ø«ÙŠÙ„"
+msgstr "طاقم التمثيل"
 
 msgctxt "#31167"
 msgid "Youtube"
@@ -691,23 +691,23 @@ msgstr "Youtube"
 
 msgctxt "#31168"
 msgid "Crew"
-msgstr "Ø·Ø§Ù‚Ù… Ø§Ù„Ø¹Ù…Ù„"
+msgstr "طاقم العمل"
 
 msgctxt "#31169"
 msgid "Albums of"
-msgstr "Ø£Ù„Ø¨ÙˆÙ…Ø§Øª"
+msgstr "ألبومات"
 
 msgctxt "#31170"
 msgid "Tracklist"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ù…Ù‚Ø§Ø·Ø¹"
+msgstr "قائمة المقاطع"
 
 msgctxt "#31171"
 msgid "Screenshots of"
-msgstr "Ù„Ù‚Ø·Ø§Øª Ø´Ø§Ø´Ø© Ù„Ù€"
+msgstr "لقطات شاشة لـ"
 
 msgctxt "#31172"
 msgid "Reboot to eMMC/NAND"
-msgstr "Ø¥Ø¹Ø§Ø¯Ø© Ø§Ù„ØªØ´ØºÙŠÙ„ Ø¥Ù„Ù‰ eMMC/NAND"
+msgstr "إعادة التشغيل إلى eMMC/NAND"
 
 msgctxt "#31173"
 msgid "TMDb"
@@ -715,79 +715,79 @@ msgstr ""
 
 msgctxt "#31174"
 msgid "Now playing..."
-msgstr "Ù‚ÙŠØ¯ Ø§Ù„ØªØ´ØºÙŠÙ„ Ø§Ù„Ø¢Ù†..."
+msgstr "قيد التشغيل الآن..."
 
 msgctxt "#31175"
 msgid "Select highlight color"
-msgstr "Ø§Ø®ØªÙŠØ§Ø± Ù„ÙˆÙ† Ø§Ù„Ø¥Ø¨Ø±Ø§Ø²"
+msgstr "اختيار لون الإبراز"
 
 msgctxt "#31176"
 msgid "Current Color"
-msgstr "Ø§Ù„Ù„ÙˆÙ† Ø§Ù„Ø­Ø§Ù„ÙŠ"
+msgstr "اللون الحالي"
 
 msgctxt "#31177"
 msgid "Thumbnail Horizontal"
-msgstr "Ù…ØµØºØ±Ø§Øª Ø£ÙÙ‚ÙŠØ©"
+msgstr "مصغرات أفقية"
 
 msgctxt "#31178"
 msgid "Icons Info"
-msgstr "Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª"
+msgstr "معلومات الأيقونات"
 
 msgctxt "#31179"
 msgid "from themoviedb.org"
-msgstr "Ù…Ù† themoviedb.org"
+msgstr "من themoviedb.org"
 
 msgctxt "#31180"
 msgid "Startup image"
-msgstr "ØµÙˆØ±Ø© Ø§Ù„Ø¨Ø¯Ø¡"
+msgstr "صورة البدء"
 
 msgctxt "#31181"
 msgid "Home menu style"
-msgstr "Ù†Ù…Ø· Ø§Ù„Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©"
+msgstr "نمط القائمة الرئيسية"
 
 msgctxt "#31182"
 msgid "Vertical"
-msgstr "Ø¹Ù…ÙˆØ¯ÙŠ"
+msgstr "عمودي"
 
 msgctxt "#31183"
 msgid "Seasons of"
-msgstr "Ù…ÙˆØ§Ø³Ù…"
+msgstr "مواسم"
 
 msgctxt "#31184"
 msgid "Collections of"
-msgstr "Ù…Ø¬Ù…ÙˆØ¹Ø§Øª"
+msgstr "مجموعات"
 
 msgctxt "#31185"
 msgid "Display OSD at startup"
-msgstr "Ø¹Ø±Ø¶ OSD Ø¹Ù†Ø¯ Ø§Ù„Ø¨Ø¯Ø¡"
+msgstr "عرض OSD عند البدء"
 
 msgctxt "#31186"
 msgid "Fanart Thumbs"
-msgstr "Ù…ØµØºØ±Ø§Øª fanart"
+msgstr "مصغرات fanart"
 
 msgctxt "#31187"
 msgid "Extra fanart"
-msgstr "fanart Ø¥Ø¶Ø§ÙÙŠ"
+msgstr "fanart إضافي"
 
 msgctxt "#31188"
 msgid "Set weather icons"
-msgstr "ØªØ¹ÙŠÙŠÙ† Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª Ø§Ù„Ø·Ù‚Ø³"
+msgstr "تعيين أيقونات الطقس"
 
 msgctxt "#31189"
 msgid "Widget aspect"
-msgstr "Ù†Ø³Ø¨Ø© Ø£Ø¨Ø¹Ø§Ø¯ Ø§Ù„ÙˆØ¯Ø¬Øª"
+msgstr "نسبة أبعاد الودجت"
 
 msgctxt "#31190"
 msgid "Poster"
-msgstr "Ù…Ù„ØµÙ‚"
+msgstr "ملصق"
 
 msgctxt "#31191"
 msgid "Square"
-msgstr "Ù…Ø±Ø¨Ø¹"
+msgstr "مربع"
 
 msgctxt "#31192"
 msgid "Extended information"
-msgstr "Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ù…ÙˆØ³Ø¹Ø©"
+msgstr "معلومات موسعة"
 
 msgctxt "#31193"
 msgid "Fanart"
@@ -795,103 +795,103 @@ msgstr "Fanart"
 
 msgctxt "#31194"
 msgid "Action"
-msgstr "Ø§Ù„Ø¥Ø¬Ø±Ø§Ø¡"
+msgstr "الإجراء"
 
 msgctxt "#31195"
 msgid "Label"
-msgstr "Ø§Ù„ØªØ³Ù…ÙŠØ©"
+msgstr "التسمية"
 
 msgctxt "#31196"
 msgid "Fallback widget"
-msgstr "Ø§Ù„ÙˆØ¯Ø¬Øª Ø§Ù„Ø§Ø­ØªÙŠØ§Ø·ÙŠ"
+msgstr "الودجت الاحتياطي"
 
 msgctxt "#31197"
 msgid "Video / Music OSD"
-msgstr "OSD Ø§Ù„ÙÙŠØ¯ÙŠÙˆ / Ø§Ù„Ù…ÙˆØ³ÙŠÙ‚Ù‰"
+msgstr "OSD الفيديو / الموسيقى"
 
 msgctxt "#31198"
 msgid "Single Image"
-msgstr "ØµÙˆØ±Ø© ÙˆØ§Ø­Ø¯Ø©"
+msgstr "صورة واحدة"
 
 msgctxt "#31199"
 msgid "Multi Image"
-msgstr "Ø¹Ø¯Ø© ØµÙˆØ±Ø©"
+msgstr "عدة صورة"
 
 msgctxt "#31200"
 msgid "Hub widget"
-msgstr "ÙˆØ¯Ø¬Øª Ø§Ù„Ù…Ø±ÙƒØ²"
+msgstr "ودجت المركز"
 
 msgctxt "#31201"
 msgid "Most played Song"
-msgstr "Ø§Ù„Ø£ØºÙ†ÙŠØ© Ø§Ù„Ø£ÙƒØ«Ø± ØªØ´ØºÙŠÙ„Ø§Ù‹"
+msgstr "الأغنية الأكثر تشغيلاً"
 
 msgctxt "#31202"
-msgid "[B]Configure Interface Settings[/B][CR][CR] â€¢     Skin[CR] â€¢     Region[CR] â€¢     Control[CR] â€¢     Screensaver[CR] â€¢     Master Lock[CR]"
-msgstr "[B]Ø¶Ø¨Ø· Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ÙˆØ§Ø¬Ù‡Ø©[/B][CR][CR] â€¢     Ø§Ù„ØºÙ„Ø§Ù[CR] â€¢     Ø§Ù„Ù…Ù†Ø·Ù‚Ø©[CR] â€¢     Ø§Ù„ØªØ­ÙƒÙ…[CR] â€¢     Ø´Ø§Ø´Ø© Ø§Ù„ØªÙˆÙ‚Ù[CR] â€¢     Ø§Ù„Ù‚ÙÙ„ Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠ[CR]"
+msgid "[B]Configure Interface Settings[/B][CR][CR] •     Skin[CR] •     Region[CR] •     Control[CR] •     Screensaver[CR] •     Master Lock[CR]"
+msgstr "[B]ضبط إعدادات الواجهة[/B][CR][CR] •     الغلاف[CR] •     المنطقة[CR] •     التحكم[CR] •     شاشة التوقف[CR] •     القفل الرئيسي[CR]"
 
 msgctxt "#31203"
-msgid "[B]Configure Library Settings[/B][CR][CR] â€¢     Display[CR] â€¢     Navigation[CR] â€¢     Media Database[CR]"
-msgstr "[B]Ø¶Ø¨Ø· Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ù…ÙƒØªØ¨Ø©[/B][CR][CR] â€¢     Ø§Ù„Ø¹Ø±Ø¶[CR] â€¢     Ø§Ù„ØªÙ†Ù‚Ù„[CR] â€¢     Ù‚Ø§Ø¹Ø¯Ø© Ø¨ÙŠØ§Ù†Ø§Øª Ø§Ù„ÙˆØ³Ø§Ø¦Ø·[CR]"
+msgid "[B]Configure Library Settings[/B][CR][CR] •     Display[CR] •     Navigation[CR] •     Media Database[CR]"
+msgstr "[B]ضبط إعدادات المكتبة[/B][CR][CR] •     العرض[CR] •     التنقل[CR] •     قاعدة بيانات الوسائط[CR]"
 
 msgctxt "#31204"
-msgid "[B]Configure Player Settings[/B][CR][CR] â€¢     Playback Actions[CR] â€¢     How Content is Played[CR]"
-msgstr "[B]Ø¶Ø¨Ø· Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ù…Ø´ØºÙ„[/B][CR][CR] â€¢     Ø¥Ø¬Ø±Ø§Ø¡Ø§Øª Ø§Ù„ØªØ´ØºÙŠÙ„[CR] â€¢     ÙƒÙŠÙÙŠØ© ØªØ´ØºÙŠÙ„ Ø§Ù„Ù…Ø­ØªÙˆÙ‰[CR]"
+msgid "[B]Configure Player Settings[/B][CR][CR] •     Playback Actions[CR] •     How Content is Played[CR]"
+msgstr "[B]ضبط إعدادات المشغل[/B][CR][CR] •     إجراءات التشغيل[CR] •     كيفية تشغيل المحتوى[CR]"
 
 msgctxt "#31205"
 msgid "Video decoder"
-msgstr "ÙˆØ­Ø¯Ø© ÙÙƒ ØªØ±Ù…ÙŠØ² Ø§Ù„ÙÙŠØ¯ÙŠÙˆ"
+msgstr "وحدة فك ترميز الفيديو"
 
 msgctxt "#31206"
 msgid "Pixel format"
-msgstr "ØªÙ†Ø³ÙŠÙ‚ Ø§Ù„Ø¨ÙƒØ³Ù„"
+msgstr "تنسيق البكسل"
 
 msgctxt "#31207"
 msgid "Play Speed"
-msgstr "Ø³Ø±Ø¹Ø© Ø§Ù„ØªØ´ØºÙŠÙ„"
+msgstr "سرعة التشغيل"
 
 msgctxt "#31208"
 msgid "Special Features"
-msgstr "Ù…ÙŠØ²Ø§Øª Ø®Ø§ØµØ©"
+msgstr "ميزات خاصة"
 
 msgctxt "#31209"
 msgid "Select artwork"
-msgstr "Ø§Ø®ØªÙŠØ§Ø± Ø§Ù„Ø¹Ù…Ù„ Ø§Ù„ÙÙ†ÙŠ"
+msgstr "اختيار العمل الفني"
 
 msgctxt "#31210"
 msgid "Top Songs"
-msgstr "Ø£ÙØ¶Ù„ Ø§Ù„Ø£ØºØ§Ù†ÙŠ"
+msgstr "أفضل الأغاني"
 
 msgctxt "#31211"
 msgid "Random Songs"
-msgstr "Ø£ØºØ§Ù†Ù Ø¹Ø´ÙˆØ§Ø¦ÙŠØ©"
+msgstr "أغانٍ عشوائية"
 
 msgctxt "#31212"
 msgid "Horizontal"
-msgstr "Ø£ÙÙ‚ÙŠ"
+msgstr "أفقي"
 
 msgctxt "#31213"
 msgid "Weather - daily"
-msgstr "Ø§Ù„Ø·Ù‚Ø³ - ÙŠÙˆÙ…ÙŠ"
+msgstr "الطقس - يومي"
 
 msgctxt "#31214"
 msgid "Weather - hourly"
-msgstr "Ø§Ù„Ø·Ù‚Ø³ - ÙƒÙ„ Ø³Ø§Ø¹Ø©"
+msgstr "الطقس - كل ساعة"
 
 msgctxt "#31215"
 msgid "Open Player Process Information"
-msgstr "ÙØªØ­ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø¹Ù…Ù„ÙŠØ© Ø§Ù„Ù…Ø´ØºÙ„"
+msgstr "فتح معلومات عملية المشغل"
 
 msgctxt "#31216"
 msgid "Player-Cache"
-msgstr "Ø°Ø§ÙƒØ±Ø© Ø§Ù„Ù…Ø´ØºÙ„ Ø§Ù„Ù…Ø¤Ù‚ØªØ©"
+msgstr "ذاكرة المشغل المؤقتة"
 
 msgctxt "#31217"
 msgid "Channel List"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ù‚Ù†ÙˆØ§Øª"
+msgstr "قائمة القنوات"
 
 msgctxt "#31218"
 msgid "This is your personal rating and will not be published."
-msgstr "Ù‡Ø°Ø§ ØªÙ‚ÙŠÙŠÙ…Ùƒ Ø§Ù„Ø´Ø®ØµÙŠ ÙˆÙ„Ù† ÙŠØªÙ… Ù†Ø´Ø±Ù‡."
+msgstr "هذا تقييمك الشخصي ولن يتم نشره."
 
 msgctxt "#31219"
 msgid "       "
@@ -899,35 +899,35 @@ msgstr "       "
 
 msgctxt "#31220"
 msgid "Video / Music Info"
-msgstr "Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„ÙÙŠØ¯ÙŠÙˆ / Ø§Ù„Ù…ÙˆØ³ÙŠÙ‚Ù‰"
+msgstr "معلومات الفيديو / الموسيقى"
 
 msgctxt "#31221"
 msgid "Show plot on HUB"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø§Ù„Ù‚ØµØ© ÙÙŠ Ø§Ù„Ù…Ø±ÙƒØ²"
+msgstr "إظهار القصة في المركز"
 
 msgctxt "#31222"
 msgid "Colors"
-msgstr "Ø§Ù„Ø£Ù„ÙˆØ§Ù†"
+msgstr "الألوان"
 
 msgctxt "#31223"
 msgid "Video OSD"
-msgstr "Ø¹Ø±Ø¶ Ø§Ù„Ù…Ù‚Ø§Ø·Ø¹ Ø§Ù„Ù…Ø±Ø¦ÙŠÙ‡ Ø¹Ù„Ù‰ Ø§Ù„Ø´Ø§Ø´Ø©"
+msgstr "عرض المقاطع المرئيه على الشاشة"
 
 msgctxt "#31224"
 msgid "Music OSD"
-msgstr "Ø¹Ø±Ø¶ Ø§Ù„Ù…ÙˆØ³ÙŠÙ‚Ù‰ Ø¹Ù„Ù‰ Ø§Ù„Ø´Ø§Ø´Ø©"
+msgstr "عرض الموسيقى على الشاشة"
 
 msgctxt "#31225"
 msgid "Widgets"
-msgstr "Ø§Ù„ÙˆØ¯Ø¬Ø§Øª"
+msgstr "الودجات"
 
 msgctxt "#31226"
 msgid "Views"
-msgstr "Ø·Ø±Ù‚ Ø§Ù„Ø¹Ø±Ø¶"
+msgstr "طرق العرض"
 
 msgctxt "#31227"
 msgid "HUBs"
-msgstr "Ø§Ù„Ù…Ø±Ø§ÙƒØ²"
+msgstr "المراكز"
 
 msgctxt "#31228"
 msgid "ClearArt"
@@ -935,75 +935,75 @@ msgstr "ClearArt"
 
 msgctxt "#31229"
 msgid "Media-Flags"
-msgstr "Ø¥Ø´Ø§Ø±Ø§Øª Ø§Ù„ÙˆØ³Ø§Ø¦Ø·"
+msgstr "إشارات الوسائط"
 
 msgctxt "#31230"
 msgid "Enable grid"
-msgstr "ØªÙØ¹ÙŠÙ„ Ø§Ù„Ø´Ø¨ÙƒØ©"
+msgstr "تفعيل الشبكة"
 
 msgctxt "#31231"
 msgid "Hide play/pause info"
-msgstr "Ø¥Ø®ÙØ§Ø¡ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„ØªØ´ØºÙŠÙ„/Ø§Ù„Ø¥ÙŠÙ‚Ø§Ù Ø§Ù„Ù…Ø¤Ù‚Øª"
+msgstr "إخفاء معلومات التشغيل/الإيقاف المؤقت"
 
 msgctxt "#31232"
 msgid "Auto close OSD after delay (in seconds)"
-msgstr "Ø¥ØºÙ„Ø§Ù‚ OSD ØªÙ„Ù‚Ø§Ø¦ÙŠØ§Ù‹ Ø¨Ø¹Ø¯ Ù…Ù‡Ù„Ø© (Ø¨Ø§Ù„Ø«ÙˆØ§Ù†ÙŠ)"
+msgstr "إغلاق OSD تلقائياً بعد مهلة (بالثواني)"
 
 msgctxt "#31233"
 msgid "Random Artists with biography only"
-msgstr "ÙÙ†Ø§Ù†ÙˆÙ† Ø¹Ø´ÙˆØ§Ø¦ÙŠÙˆÙ† Ù…Ù…Ù† Ù„Ø¯ÙŠÙ‡Ù… Ø³ÙŠØ±Ø© Ø°Ø§ØªÙŠØ© ÙÙ‚Ø·"
+msgstr "فنانون عشوائيون ممن لديهم سيرة ذاتية فقط"
 
 msgctxt "#31234"
 msgid "People"
-msgstr "Ø§Ù„Ø£Ø´Ø®Ø§Øµ"
+msgstr "الأشخاص"
 
 msgctxt "#31235"
 msgid "Recently added Artists"
-msgstr "ÙÙ†Ø§Ù†ÙˆÙ† Ø£Ø¶ÙŠÙÙˆØ§ Ù…Ø¤Ø®Ø±Ø§Ù‹"
+msgstr "فنانون أضيفوا مؤخراً"
 
 msgctxt "#31236"
 msgid "Recently added Artists with biography only"
-msgstr "ÙÙ†Ø§Ù†ÙˆÙ† Ø£Ø¶ÙŠÙÙˆØ§ Ù…Ø¤Ø®Ø±Ø§Ù‹ Ù…Ù…Ù† Ù„Ø¯ÙŠÙ‡Ù… Ø³ÙŠØ±Ø© Ø°Ø§ØªÙŠØ© ÙÙ‚Ø·"
+msgstr "فنانون أضيفوا مؤخراً ممن لديهم سيرة ذاتية فقط"
 
 msgctxt "#31237"
 msgid "Top 20 User Rated Movies"
-msgstr "Ø£ÙØ¶Ù„ 20 ÙÙŠÙ„Ù…Ø§Ù‹ Ø¨ØªÙ‚ÙŠÙŠÙ… Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…ÙŠÙ†"
+msgstr "أفضل 20 فيلماً بتقييم المستخدمين"
 
 msgctxt "#31238"
-msgid "Reset skin settings to defaults?"
-msgstr "Ø¥Ø¹Ø§Ø¯Ø© ØªØ¹ÙŠÙŠÙ† Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ØºÙ„Ø§Ù Ø¥Ù„Ù‰ Ø§Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠØ©ØŸ"
+msgid "Reset skin settings to defaults"
+msgstr "إعادة تعيين إعدادات الغلاف إلى الافتراضية"
 
 msgctxt "#31239"
 msgid "Reset skin settings to defaults? WARNING: This will also reset your home menu to skin defaults!"
-msgstr "Ø¥Ø¹Ø§Ø¯Ø© ØªØ¹ÙŠÙŠÙ† Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„ØºÙ„Ø§Ù Ø¥Ù„Ù‰ Ø§Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠØ©ØŸ ØªØ­Ø°ÙŠØ±: Ø³ÙŠØ¤Ø¯ÙŠ Ù‡Ø°Ø§ Ø£ÙŠØ¶Ø§Ù‹ Ø¥Ù„Ù‰ Ø¥Ø¹Ø§Ø¯Ø© ØªØ¹ÙŠÙŠÙ† Ø§Ù„Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ© Ø¥Ù„Ù‰ Ø§ÙØªØ±Ø§Ø¶ÙŠØ§Øª Ø§Ù„ØºÙ„Ø§Ù!"
+msgstr "إعادة تعيين إعدادات الغلاف إلى الافتراضية؟ تحذير: سيؤدي هذا أيضاً إلى إعادة تعيين القائمة الرئيسية إلى افتراضيات الغلاف!"
 
 msgctxt "#31240"
 msgid "Random Actors ordered by movies"
-msgstr "Ù…Ù…Ø«Ù„ÙˆÙ† Ø¹Ø´ÙˆØ§Ø¦ÙŠÙˆÙ† Ù…Ø±ØªØ¨ÙˆÙ† Ø­Ø³Ø¨ Ø§Ù„Ø£ÙÙ„Ø§Ù…"
+msgstr "ممثلون عشوائيون مرتبون حسب الأفلام"
 
 msgctxt "#31241"
 msgid "New Unwatched Movies"
-msgstr "Ø£ÙÙ„Ø§Ù… Ø¬Ø¯ÙŠØ¯Ø© ØºÙŠØ± Ù…Ø´Ø§Ù‡Ø¯Ø©"
+msgstr "أفلام جديدة غير مشاهدة"
 
 msgctxt "#31242"
 msgid "New Unwatched Episodes"
-msgstr "Ø­Ù„Ù‚Ø§Øª Ø¬Ø¯ÙŠØ¯Ø© ØºÙŠØ± Ù…Ø´Ø§Ù‡Ø¯Ø©"
+msgstr "حلقات جديدة غير مشاهدة"
 
 msgctxt "#31243"
 msgid "New Unwatched Tv Shows"
-msgstr "Ù…Ø³Ù„Ø³Ù„Ø§Øª Ø¬Ø¯ÙŠØ¯Ø© ØºÙŠØ± Ù…Ø´Ø§Ù‡Ø¯Ø©"
+msgstr "مسلسلات جديدة غير مشاهدة"
 
 msgctxt "#31244"
 msgid "Search results for"
-msgstr "Ù†ØªØ§Ø¦Ø¬ Ø§Ù„Ø¨Ø­Ø« Ø¹Ù†"
+msgstr "نتائج البحث عن"
 
 msgctxt "#31245"
 msgid "Side Cards"
-msgstr "Ø¨Ø·Ø§Ù‚Ø§Øª Ø¬Ø§Ù†Ø¨ÙŠØ©"
+msgstr "بطاقات جانبية"
 
 msgctxt "#31246"
 msgid "Seasons info"
-msgstr "Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ù…ÙˆØ§Ø³Ù…"
+msgstr "معلومات المواسم"
 
 msgctxt "#31247"
 msgid "ClearLogo"
@@ -1011,15 +1011,15 @@ msgstr "ClearLogo"
 
 msgctxt "#31248"
 msgid "Show ClearLogo"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± ClearLogo"
+msgstr "إظهار ClearLogo"
 
 msgctxt "#31249"
 msgid "Songs by"
-msgstr "Ø£ØºØ§Ù†Ù Ù…Ù†"
+msgstr "أغانٍ من"
 
 msgctxt "#31250"
 msgid "Poster Wall Small"
-msgstr "Ø¬Ø¯Ø§Ø± Ù…Ù„ØµÙ‚Ø§Øª ØµØºÙŠØ±"
+msgstr "جدار ملصقات صغير"
 
 msgctxt "#31251"
 msgid "MDBList"
@@ -1043,103 +1043,103 @@ msgstr "25"
 
 msgctxt "#31256"
 msgid "Auto-scrolling"
-msgstr "ØªÙ…Ø±ÙŠØ± ØªÙ„Ù‚Ø§Ø¦ÙŠ"
+msgstr "تمرير تلقائي"
 
 msgctxt "#31257"
 msgid "Widget-listtype"
-msgstr "Ù†ÙˆØ¹ Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„ÙˆØ¯Ø¬Øª"
+msgstr "نوع قائمة الودجت"
 
 msgctxt "#31258"
 msgid "List"
-msgstr "Ù‚Ø§Ø¦Ù…Ø©"
+msgstr "قائمة"
 
 msgctxt "#31259"
 msgid "Fixed list"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© Ø«Ø§Ø¨ØªØ©"
+msgstr "قائمة ثابتة"
 
 msgctxt "#31260"
 msgid "Studio logo"
-msgstr "Ø´Ø¹Ø§Ø± Ø§Ù„Ø§Ø³ØªÙˆØ¯ÙŠÙˆ"
+msgstr "شعار الاستوديو"
 
 msgctxt "#31261"
 msgid "Rating flag"
-msgstr "Ø¥Ø´Ø§Ø±Ø© Ø§Ù„ØªÙ‚ÙŠÙŠÙ…"
+msgstr "إشارة التقييم"
 
 msgctxt "#31262"
 msgid "Movie Genre Icons"
-msgstr "Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª Ø£Ù†ÙˆØ§Ø¹ Ø§Ù„Ø£ÙÙ„Ø§Ù…"
+msgstr "أيقونات أنواع الأفلام"
 
 msgctxt "#31263"
 msgid "Studio Icons"
-msgstr "Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª Ø§Ù„Ø§Ø³ØªÙˆØ¯ÙŠÙˆÙ‡Ø§Øª"
+msgstr "أيقونات الاستوديوهات"
 
 msgctxt "#31264"
 msgid "Record Label Icons"
-msgstr "Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª Ø´Ø±ÙƒØ§Øª Ø§Ù„Ø¥Ù†ØªØ§Ø¬"
+msgstr "أيقونات شركات الإنتاج"
 
 msgctxt "#31265"
 msgid "Animate fanart/slideshow"
-msgstr "ØªØ­Ø±ÙŠÙƒ fanart/Ø¹Ø±Ø¶ Ø§Ù„Ø´Ø±Ø§Ø¦Ø­"
+msgstr "تحريك fanart/عرض الشرائح"
 
 msgctxt "#31266"
 msgid "Normal"
-msgstr "Ø¹Ø§Ø¯ÙŠ"
+msgstr "عادي"
 
 msgctxt "#31267"
 msgid "Slow"
-msgstr "Ø¨Ø·ÙŠØ¡"
+msgstr "بطيء"
 
 msgctxt "#31268"
 msgid "Very slow"
-msgstr "Ø¨Ø·ÙŠØ¡ Ø¬Ø¯Ø§Ù‹"
+msgstr "بطيء جداً"
 
 msgctxt "#31269"
 msgid "Fadetime"
-msgstr "Ù…Ø¯Ø© Ø§Ù„ØªÙ„Ø§Ø´ÙŠ"
+msgstr "مدة التلاشي"
 
 msgctxt "#31270"
 msgid "Customise power menu"
-msgstr "ØªØ®ØµÙŠØµ Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø·Ø§Ù‚Ø©"
+msgstr "تخصيص قائمة الطاقة"
 
 msgctxt "#31271"
 msgid "Log off: $INFO[system.profilename]"
-msgstr "ØªØ³Ø¬ÙŠÙ„ Ø§Ù„Ø®Ø±ÙˆØ¬: $INFO[system.profilename]"
+msgstr "تسجيل الخروج: $INFO[system.profilename]"
 
 msgctxt "#31272"
 msgid "Delete/Disable Settings Menu Item?"
-msgstr "Ø­Ø°Ù/ØªØ¹Ø·ÙŠÙ„ Ø¹Ù†ØµØ± Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§ØªØŸ"
+msgstr "حذف/تعطيل عنصر قائمة الإعدادات؟"
 
 msgctxt "#31273"
 msgid "Are you sure you want to remove the Settings menu item?[CR]Please ensure that you have an alternative method of accessing Settings before you remove this menu item."
-msgstr "Ù‡Ù„ Ø£Ù†Øª Ù…ØªØ£ÙƒØ¯ Ù…Ù† Ø¥Ø²Ø§Ù„Ø© Ø¹Ù†ØµØ± Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§ØªØŸ[CR]ÙŠØ±Ø¬Ù‰ Ø§Ù„ØªØ£ÙƒØ¯ Ù…Ù† ØªÙˆÙØ± Ø·Ø±ÙŠÙ‚Ø© Ø¨Ø¯ÙŠÙ„Ø© Ù„Ù„ÙˆØµÙˆÙ„ Ø¥Ù„Ù‰ Ø§Ù„Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ù‚Ø¨Ù„ Ø¥Ø²Ø§Ù„Ø© Ù‡Ø°Ø§ Ø§Ù„Ø¹Ù†ØµØ±."
+msgstr "هل أنت متأكد من إزالة عنصر قائمة الإعدادات؟[CR]يرجى التأكد من توفر طريقة بديلة للوصول إلى الإعدادات قبل إزالة هذا العنصر."
 
 msgctxt "#31274"
 msgid "Shutdown in: [B]$INFO[System.Alarmpos][/B]"
-msgstr "Ø¥ÙŠÙ‚Ø§Ù Ø§Ù„ØªØ´ØºÙŠÙ„ Ø®Ù„Ø§Ù„: [B]$INFO[System.Alarmpos][/B]"
+msgstr "إيقاف التشغيل خلال: [B]$INFO[System.Alarmpos][/B]"
 
 msgctxt "#31275"
 msgid "Show Filenames"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø£Ø³Ù…Ø§Ø¡ Ø§Ù„Ù…Ù„ÙØ§Øª"
+msgstr "إظهار أسماء الملفات"
 
 msgctxt "#31276"
 msgid "Shifted ClearArt"
-msgstr "ClearArt Ù…ÙØ²Ø§Ø­"
+msgstr "ClearArt مُزاح"
 
 msgctxt "#31277"
 msgid "total"
-msgstr "Ø§Ù„Ø¥Ø¬Ù…Ø§Ù„ÙŠ"
+msgstr "الإجمالي"
 
 msgctxt "#31278"
 msgid "last on"
-msgstr "Ø¢Ø®Ø± Ø¹Ø±Ø¶ ÙÙŠ"
+msgstr "آخر عرض في"
 
 msgctxt "#31279"
-msgid "[B]Configure LibreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
-msgstr "[B]Ø¶Ø¨Ø· Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª LibreELEC[/B][CR][CR] â€¢     Ø¥Ø¹Ø¯Ø§Ø¯ Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ù†Ø¸Ø§Ù…[CR] â€¢     Ø¶Ø¨Ø· ØªØ­Ø¯ÙŠØ«Ø§Øª Ø§Ù„Ù†Ø¸Ø§Ù…[CR] â€¢     Ø¥Ø¹Ø¯Ø§Ø¯ ÙˆÙ…Ø¹Ø§ÙŠØ±Ø© Ø§Ù„Ø´Ø¨ÙƒØ©[CR] â€¢     Ø¶Ø¨Ø· Ø§Ù„Ø§ØªØµØ§Ù„Ø§Øª [CR]"
+msgid "[B]Configure LibreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
+msgstr "[B]ضبط إعدادات LibreELEC[/B][CR][CR] •     إعداد إعدادات النظام[CR] •     ضبط تحديثات النظام[CR] •     إعداد ومعايرة الشبكة[CR] •     ضبط الاتصالات [CR]"
 
 msgctxt "#31280"
-msgid "[B]Configure CoreELEC Settings[/B][CR][CR] â€¢     Setup system settings[CR] â€¢     Configure system updatesSetup and calibrate network[CR] â€¢     Setup and calibrate network[CR] â€¢     Configure connections [CR]"
-msgstr "[B]Ø¶Ø¨Ø· Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª CoreELEC[/B][CR][CR] â€¢     Ø¥Ø¹Ø¯Ø§Ø¯ Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ù†Ø¸Ø§Ù…[CR] â€¢     Ø¶Ø¨Ø· ØªØ­Ø¯ÙŠØ«Ø§Øª Ø§Ù„Ù†Ø¸Ø§Ù…[CR] â€¢     Ø¥Ø¹Ø¯Ø§Ø¯ ÙˆÙ…Ø¹Ø§ÙŠØ±Ø© Ø§Ù„Ø´Ø¨ÙƒØ©[CR] â€¢     Ø¶Ø¨Ø· Ø§Ù„Ø§ØªØµØ§Ù„Ø§Øª [CR]"
+msgid "[B]Configure CoreELEC Settings[/B][CR][CR] •     Setup system settings[CR] •     Configure system updatesSetup and calibrate network[CR] •     Setup and calibrate network[CR] •     Configure connections [CR]"
+msgstr "[B]ضبط إعدادات CoreELEC[/B][CR][CR] •     إعداد إعدادات النظام[CR] •     ضبط تحديثات النظام[CR] •     إعداد ومعايرة الشبكة[CR] •     ضبط الاتصالات [CR]"
 
 msgctxt "#31281"
 msgid " -- "
@@ -1147,51 +1147,51 @@ msgstr " -- "
 
 msgctxt "#31282"
 msgid "n/a"
-msgstr "ØºÙŠØ± Ù…ØªØ§Ø­"
+msgstr "غير متاح"
 
 msgctxt "#31283"
 msgid "TBD"
-msgstr "ØºÙŠØ± Ù…Ø­Ø¯Ø¯"
+msgstr "غير محدد"
 
 msgctxt "#31284"
 msgid "Fallback label for ratings in list views"
-msgstr "ØªØ³Ù…ÙŠØ© Ø§Ø­ØªÙŠØ§Ø·ÙŠØ© Ù„Ù„ØªÙ‚ÙŠÙŠÙ…Ø§Øª ÙÙŠ Ø·Ø±Ù‚ Ø¹Ø±Ø¶ Ø§Ù„Ù‚ÙˆØ§Ø¦Ù…"
+msgstr "تسمية احتياطية للتقييمات في طرق عرض القوائم"
 
 msgctxt "#31285"
 msgid "Size of Icons"
-msgstr "Ø­Ø¬Ù… Ø§Ù„Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª"
+msgstr "حجم الأيقونات"
 
 msgctxt "#31286"
 msgid "Align"
-msgstr "Ø§Ù„Ù…Ø­Ø§Ø°Ø§Ø©"
+msgstr "المحاذاة"
 
 msgctxt "#31287"
 msgid "left"
-msgstr "ÙŠØ³Ø§Ø±"
+msgstr "يسار"
 
 msgctxt "#31288"
 msgid "center"
-msgstr "ÙˆØ³Ø·"
+msgstr "وسط"
 
 msgctxt "#31289"
 msgid "ClearLogo with fanart"
-msgstr "ClearLogo Ù…Ø¹ fanart"
+msgstr "ClearLogo مع fanart"
 
 msgctxt "#31290"
 msgid "Fullsize EPG"
-msgstr "EPG Ø¨Ø§Ù„Ø­Ø¬Ù… Ø§Ù„ÙƒØ§Ù…Ù„"
+msgstr "EPG بالحجم الكامل"
 
 msgctxt "#31291"
 msgid "Also use for widgets"
-msgstr "Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø£ÙŠØ¶Ø§Ù‹ Ù„Ù„ÙˆØ¯Ø¬Ø§Øª"
+msgstr "استخدام أيضاً للودجات"
 
 msgctxt "#31292"
 msgid "Also use for system-icons"
-msgstr "Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø£ÙŠØ¶Ø§Ù‹ Ù„Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª Ø§Ù„Ù†Ø¸Ø§Ù…"
+msgstr "استخدام أيضاً لأيقونات النظام"
 
 msgctxt "#31293"
 msgid "DiscArt Fallback"
-msgstr "Ø¨Ø¯ÙŠÙ„ DiscArt"
+msgstr "بديل DiscArt"
 
 msgctxt "#31294"
 msgid "CD"
@@ -1199,23 +1199,23 @@ msgstr "CD"
 
 msgctxt "#31295"
 msgid "Fake CD"
-msgstr "CD ÙˆÙ‡Ù…ÙŠ"
+msgstr "CD وهمي"
 
 msgctxt "#31296"
 msgid "Vinyl"
-msgstr "Ø£Ø³Ø·ÙˆØ§Ù†Ø© ÙÙŠÙ†ÙŠÙ„"
+msgstr "أسطوانة فينيل"
 
 msgctxt "#31297"
 msgid "Limit number of items in hub"
-msgstr "ØªØ­Ø¯ÙŠØ¯ Ø¹Ø¯Ø¯ Ø§Ù„Ø¹Ù†Ø§ØµØ± ÙÙŠ Ø§Ù„Ù…Ø±ÙƒØ²"
+msgstr "تحديد عدد العناصر في المركز"
 
 msgctxt "#31298"
 msgid "Multi-Widgets"
-msgstr "ÙˆØ¯Ø¬Ø§Øª Ù…ØªØ¹Ø¯Ø¯Ø©"
+msgstr "ودجات متعددة"
 
 msgctxt "#31299"
 msgid "Gradient"
-msgstr "ØªØ¯Ø±Ø¬ Ù„ÙˆÙ†ÙŠ"
+msgstr "تدرج لوني"
 
 msgctxt "#31300"
 msgid "RAM"
@@ -1223,111 +1223,111 @@ msgstr "RAM"
 
 msgctxt "#31301"
 msgid "Skin-Version:"
-msgstr "Ø¥ØµØ¯Ø§Ø± Ø§Ù„ØºÙ„Ø§Ù:"
+msgstr "إصدار الغلاف:"
 
 msgctxt "#31302"
 msgid "Scroll behavior"
-msgstr "Ø³Ù„ÙˆÙƒ Ø§Ù„ØªÙ…Ø±ÙŠØ±"
+msgstr "سلوك التمرير"
 
 msgctxt "#31303"
 msgid "Aspect ratio"
-msgstr "Ù†Ø³Ø¨Ø© Ø§Ù„Ø£Ø¨Ø¹Ø§Ø¯"
+msgstr "نسبة الأبعاد"
 
 msgctxt "#31304"
 msgid "Select aspect ratio for square widget"
-msgstr "Ø§Ø®ØªÙŠØ§Ø± Ù†Ø³Ø¨Ø© Ø§Ù„Ø£Ø¨Ø¹Ø§Ø¯ Ù„Ù„ÙˆØ¯Ø¬Øª Ø§Ù„Ù…Ø±Ø¨Ø¹"
+msgstr "اختيار نسبة الأبعاد للودجت المربع"
 
 msgctxt "#31305"
 msgid "Scale"
-msgstr "ØªØ­Ø¬ÙŠÙ…"
+msgstr "تحجيم"
 
 msgctxt "#31306"
 msgid "Sunrise at"
-msgstr "Ø´Ø±ÙˆÙ‚ Ø§Ù„Ø´Ù…Ø³ Ø¹Ù†Ø¯"
+msgstr "شروق الشمس عند"
 
 msgctxt "#31307"
 msgid "Sunset at"
-msgstr "ØºØ±ÙˆØ¨ Ø§Ù„Ø´Ù…Ø³ Ø¹Ù†Ø¯"
+msgstr "غروب الشمس عند"
 
 msgctxt "#31308"
 msgid "Square small"
-msgstr "Ù…Ø±Ø¨Ø¹ ØµØºÙŠØ±"
+msgstr "مربع صغير"
 
 msgctxt "#31309"
 msgid "Square medium"
-msgstr "Ù…Ø±Ø¨Ø¹ Ù…ØªÙˆØ³Ø·"
+msgstr "مربع متوسط"
 
 msgctxt "#31310"
 msgid "Home menu bar"
-msgstr "Ø´Ø±ÙŠØ· Ø§Ù„Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©"
+msgstr "شريط القائمة الرئيسية"
 
 msgctxt "#31311"
 msgid "Fullscreen widget"
-msgstr "ÙˆØ¯Ø¬Øª Ù…Ù„Ø¡ Ø§Ù„Ø´Ø§Ø´Ø©"
+msgstr "ودجت ملء الشاشة"
 
 msgctxt "#31312"
 msgid "Weather location"
-msgstr "Ù…ÙˆÙ‚Ø¹ Ø§Ù„Ø·Ù‚Ø³"
+msgstr "موقع الطقس"
 
 msgctxt "#31313"
 msgid "Big Poster"
-msgstr "Ù…Ù„ØµÙ‚ ÙƒØ¨ÙŠØ±"
+msgstr "ملصق كبير"
 
 msgctxt "#31314"
 msgid "Images"
-msgstr "Ø§Ù„ØµÙˆØ±"
+msgstr "الصور"
 
 msgctxt "#31315"
 msgid "Big wide"
-msgstr "Ø¹Ø±ÙŠØ¶ ÙƒØ¨ÙŠØ±"
+msgstr "عريض كبير"
 
 msgctxt "#31316"
 msgid "Big list"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© ÙƒØ¨ÙŠØ±Ø©"
+msgstr "قائمة كبيرة"
 
 msgctxt "#31317"
 msgid "Customize view types"
-msgstr "ØªØ®ØµÙŠØµ Ø£Ù†ÙˆØ§Ø¹ Ø§Ù„Ø¹Ø±Ø¶"
+msgstr "تخصيص أنواع العرض"
 
 msgctxt "#31318"
 msgid "Seconds"
-msgstr "Ø«ÙˆØ§Ù†Ù"
+msgstr "ثوانٍ"
 
 msgctxt "#31319"
 msgid "Big Thumbnail"
-msgstr "Ù…ØµØºØ±Ø© ÙƒØ¨ÙŠØ±Ø©"
+msgstr "مصغرة كبيرة"
 
 msgctxt "#31320"
 msgid "more..."
-msgstr "Ø§Ù„Ù…Ø²ÙŠØ¯..."
+msgstr "المزيد..."
 
 msgctxt "#31321"
 msgid "item"
-msgstr "Ø¹Ù†ØµØ±"
+msgstr "عنصر"
 
 msgctxt "#31322"
 msgid "Alternative layout"
-msgstr "ØªØ®Ø·ÙŠØ· Ø¨Ø¯ÙŠÙ„"
+msgstr "تخطيط بديل"
 
 msgctxt "#31323"
 msgid "Smart Shortcuts"
-msgstr "Ø§Ø®ØªØµØ§Ø±Ø§Øª Ø°ÙƒÙŠØ©"
+msgstr "اختصارات ذكية"
 
 msgctxt "#31324"
 msgid "Movies and TV shows"
-msgstr "Ø§Ù„Ø£ÙÙ„Ø§Ù… ÙˆØ§Ù„Ù…Ø³Ù„Ø³Ù„Ø§Øª"
+msgstr "الأفلام والمسلسلات"
 
 msgctxt "#31325"
 msgid "Recently added Songs"
-msgstr "Ø£ØºØ§Ù†Ù Ø£Ø¶ÙŠÙØª Ù…Ø¤Ø®Ø±Ø§Ù‹"
+msgstr "أغانٍ أضيفت مؤخراً"
 
 msgctxt "#31326"
 msgid "Most played Songs"
-msgstr "Ø§Ù„Ø£ØºØ§Ù†ÙŠ Ø§Ù„Ø£ÙƒØ«Ø± ØªØ´ØºÙŠÙ„Ø§Ù‹"
+msgstr "الأغاني الأكثر تشغيلاً"
 
 msgctxt "#31327"
 msgid "Chapter markers"
-msgstr "Ø¹Ù„Ø§Ù…Ø§Øª Ø§Ù„ÙØµÙˆÙ„"
+msgstr "علامات الفصول"
 
 msgctxt "#31328"
 msgid "Rotten Tomatoes"
@@ -1335,47 +1335,47 @@ msgstr ""
 
 msgctxt "#31329"
 msgid "Select media flags"
-msgstr "Ø§Ø®ØªÙŠØ§Ø± Ø¥Ø´Ø§Ø±Ø§Øª Ø§Ù„ÙˆØ³Ø§Ø¦Ø·"
+msgstr "اختيار إشارات الوسائط"
 
 msgctxt "#31330"
 msgid "Subtitle icon"
-msgstr "Ø£ÙŠÙ‚ÙˆÙ†Ø© Ø§Ù„ØªØ±Ø¬Ù…Ø©"
+msgstr "أيقونة الترجمة"
 
 msgctxt "#31331"
 msgid "Subtitle extended info"
-msgstr "Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ù…ÙˆØ³Ø¹Ø© Ù„Ù„ØªØ±Ø¬Ù…Ø©"
+msgstr "معلومات موسعة للترجمة"
 
 msgctxt "#31332"
 msgid "Reminder enabled"
-msgstr "Ø§Ù„ØªØ°ÙƒÙŠØ± Ù…ÙØ¹Ù„"
+msgstr "التذكير مفعل"
 
 msgctxt "#31333"
 msgid "Reminder Rule enabled"
-msgstr "Ù‚Ø§Ø¹Ø¯Ø© Ø§Ù„ØªØ°ÙƒÙŠØ± Ù…ÙØ¹Ù„Ø©"
+msgstr "قاعدة التذكير مفعلة"
 
 msgctxt "#31334"
 msgid "Debugging"
-msgstr "Ø§Ù„ØªØµØ­ÙŠØ­"
+msgstr "التصحيح"
 
 msgctxt "#31335"
 msgid "Extended debugging information"
-msgstr "Ù…Ø¹Ù„ÙˆÙ…Ø§Øª ØªØµØ­ÙŠØ­ Ù…ÙˆØ³Ø¹Ø©"
+msgstr "معلومات تصحيح موسعة"
 
 msgctxt "#31336"
 msgid "Extended grid"
-msgstr "Ø´Ø¨ÙƒØ© Ù…ÙˆØ³Ø¹Ø©"
+msgstr "شبكة موسعة"
 
 msgctxt "#31337"
 msgid "Play next episode"
-msgstr "ØªØ´ØºÙŠÙ„ Ø§Ù„Ø­Ù„Ù‚Ø© Ø§Ù„ØªØ§Ù„ÙŠØ©"
+msgstr "تشغيل الحلقة التالية"
 
 msgctxt "#31338"
 msgid "Widget"
-msgstr "Ø§Ù„ÙˆØ¯Ø¬Øª"
+msgstr "الودجت"
 
 msgctxt "#31339"
 msgid "Edge distance"
-msgstr "Ø§Ù„Ù…Ø³Ø§ÙØ© Ù…Ù† Ø§Ù„Ø­Ø§ÙØ©"
+msgstr "المسافة من الحافة"
 
 msgctxt "#31340"
 msgid "30px"
@@ -1383,19 +1383,19 @@ msgstr "30px"
 
 msgctxt "#31341"
 msgid "Path intros"
-msgstr "Ù…Ù‚Ø¯Ù…Ø§Øª Ù…Ù† Ù…Ø³Ø§Ø±"
+msgstr "مقدمات من مسار"
 
 msgctxt "#31342"
 msgid "Trailer count"
-msgstr "Ø¹Ø¯Ø¯ Ø§Ù„Ø¥Ø¹Ù„Ø§Ù†Ø§Øª"
+msgstr "عدد الإعلانات"
 
 msgctxt "#31343"
 msgid "Some other"
-msgstr "Ø£Ø®Ø±Ù‰"
+msgstr "أخرى"
 
 msgctxt "#31344"
 msgid "Video preview"
-msgstr "Ù…Ø¹Ø§ÙŠÙ†Ø© Ø§Ù„ÙÙŠØ¯ÙŠÙˆ"
+msgstr "معاينة الفيديو"
 
 msgctxt "#31345"
 msgid "DiscArt"
@@ -1403,11 +1403,11 @@ msgstr "DiscArt"
 
 msgctxt "#31346"
 msgid "Fake Blu-ray"
-msgstr "Blu-ray ÙˆÙ‡Ù…ÙŠ"
+msgstr "Blu-ray وهمي"
 
 msgctxt "#31347"
 msgid "Artwork section"
-msgstr "Ù‚Ø³Ù… Ø§Ù„Ø£Ø¹Ù…Ø§Ù„ Ø§Ù„ÙÙ†ÙŠØ©"
+msgstr "قسم الأعمال الفنية"
 
 msgctxt "#31348"
 msgid "Landscape"
@@ -1415,35 +1415,35 @@ msgstr "Landscape"
 
 msgctxt "#31349"
 msgid "Artwork of"
-msgstr "Ø£Ø¹Ù…Ø§Ù„ ÙÙ†ÙŠØ© Ù„Ù€"
+msgstr "أعمال فنية لـ"
 
 msgctxt "#31350"
 msgid "disabled"
-msgstr "Ù…Ø¹Ø·Ù„"
+msgstr "معطل"
 
 msgctxt "#31351"
 msgid "Required add-ons"
-msgstr "Ø§Ù„Ø¥Ø¶Ø§ÙØ§Øª Ø§Ù„Ù…Ø·Ù„ÙˆØ¨Ø©"
+msgstr "الإضافات المطلوبة"
 
 msgctxt "#31352"
 msgid "Recommended add-ons"
-msgstr "Ø§Ù„Ø¥Ø¶Ø§ÙØ§Øª Ø§Ù„Ù…ÙˆØµÙ‰ Ø¨Ù‡Ø§"
+msgstr "الإضافات الموصى بها"
 
 msgctxt "#31353"
 msgid "CoreELEC Settings"
-msgstr "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª CoreELEC"
+msgstr "إعدادات CoreELEC"
 
 msgctxt "#31354"
 msgid "Configure custom widget"
-msgstr "Ø¶Ø¨Ø· Ø§Ù„ÙˆØ¯Ø¬Øª Ø§Ù„Ù…Ø®ØµØµ"
+msgstr "ضبط الودجت المخصص"
 
 msgctxt "#31355"
 msgid "Flix fanart window"
-msgstr "Ù†Ø§ÙØ°Ø© fanart Ø¨Ù†Ù…Ø· Flix"
+msgstr "نافذة fanart بنمط Flix"
 
 msgctxt "#31356"
 msgid "Media status"
-msgstr "Ø­Ø§Ù„Ø© Ø§Ù„ÙˆØ³Ø§Ø¦Ø·"
+msgstr "حالة الوسائط"
 
 msgctxt "#31357"
 msgid "HDR"
@@ -1455,19 +1455,19 @@ msgstr "Blu-ray / HD DVD / DVD / WEB-DL"
 
 msgctxt "#31359"
 msgid "IMDB Top 250"
-msgstr "Ø£ÙØ¶Ù„ 250 ÙÙŠ IMDB"
+msgstr "أفضل 250 في IMDB"
 
 msgctxt "#31360"
 msgid "Audio Channels"
-msgstr "Ù‚Ù†ÙˆØ§Øª Ø§Ù„ØµÙˆØª"
+msgstr "قنوات الصوت"
 
 msgctxt "#31361"
 msgid "Widget path"
-msgstr "Ù…Ø³Ø§Ø± Ø§Ù„ÙˆØ¯Ø¬Øª"
+msgstr "مسار الودجت"
 
 msgctxt "#31362"
 msgid "Origin"
-msgstr "Ø§Ù„Ù…Ø³ØªÙˆØ¯Ø¹"
+msgstr "المستودع"
 
 msgctxt "#31363"
 msgid "Trakt"
@@ -1475,199 +1475,199 @@ msgstr "Trakt"
 
 msgctxt "#31364"
 msgid "CPU"
-msgstr "ÙˆØ­Ø¯Ø© Ø§Ù„Ù…Ø¹Ø§Ù„Ø¬Ø©"
+msgstr "وحدة المعالجة"
 
 msgctxt "#31365"
 msgid "Underlined homemenu items"
-msgstr "ØªØ³Ø·ÙŠØ± Ø¹Ù†Ø§ØµØ± Ø§Ù„Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©"
+msgstr "تسطير عناصر القائمة الرئيسية"
 
 msgctxt "#31366"
 msgid "Poster Flix"
-msgstr "Ù…Ù„ØµÙ‚ Ø¨Ù†Ù…Ø· Flix"
+msgstr "ملصق بنمط Flix"
 
 msgctxt "#31367"
 msgid "Paused"
-msgstr "Ø§ÙƒÙ…Ø§Ù„"
+msgstr "اكمال"
 
 msgctxt "#31368"
 msgid "Watched"
-msgstr "Ø´ÙÙˆÙ‡Ø¯"
+msgstr "شُوهد"
 
 msgctxt "#31369"
 msgid "New!"
-msgstr "Ø¬Ø¯ÙŠØ¯!"
+msgstr "جديد!"
 
 msgctxt "#31370"
 msgid "Alternative indicators"
-msgstr "Ù…Ø¤Ø´Ø±Ø§Øª Ø¨Ø¯ÙŠÙ„Ø©"
+msgstr "مؤشرات بديلة"
 
 msgctxt "#31371"
 msgid "Label"
-msgstr "Ø´Ø±ÙƒØ© Ø§Ù„Ø¥Ù†ØªØ§Ø¬"
+msgstr "شركة الإنتاج"
 
 msgctxt "#31372"
 msgid "Director"
-msgstr "Ø§Ù„Ù…Ø®Ø±Ø¬"
+msgstr "المخرج"
 
 msgctxt "#31373"
 msgid "Collection"
-msgstr "Ø§Ù„Ù…Ø¬Ù…ÙˆØ¹Ø©"
+msgstr "المجموعة"
 
 msgctxt "#31374"
 msgid "Prefer percentage"
-msgstr "ØªÙØ¶ÙŠÙ„ Ø§Ù„Ù†Ø³Ø¨Ø© Ø§Ù„Ù…Ø¦ÙˆÙŠØ©"
+msgstr "تفضيل النسبة المئوية"
 
 msgctxt "#31375"
 msgid "Prefer local list information"
-msgstr "ØªÙØ¶ÙŠÙ„ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ù…Ø­Ù„ÙŠØ©"
+msgstr "تفضيل معلومات القائمة المحلية"
 
 msgctxt "#31376"
 msgid "On back, widgets do not return to initial position"
-msgstr "Ø¹Ù†Ø¯ Ø§Ù„Ø±Ø¬ÙˆØ¹ØŒ Ù„Ø§ ØªØ¹ÙˆØ¯ Ø§Ù„ÙˆØ¯Ø¬Ø§Øª Ø¥Ù„Ù‰ Ù…ÙˆØ¶Ø¹Ù‡Ø§ Ø§Ù„Ø£ÙˆÙ„ÙŠ"
+msgstr "عند الرجوع، لا تعود الودجات إلى موضعها الأولي"
 
 msgctxt "#31377"
 msgid "On up, when at first widget, do not jump back to last widget"
-msgstr "Ø¹Ù†Ø¯ Ø§Ù„Ø¶ØºØ· Ù„Ù„Ø£Ø¹Ù„Ù‰ ÙÙŠ Ø£ÙˆÙ„ ÙˆØ¯Ø¬ØªØŒ Ø¹Ø¯Ù… Ø§Ù„Ù‚ÙØ² Ø¥Ù„Ù‰ Ø¢Ø®Ø± ÙˆØ¯Ø¬Øª"
+msgstr "عند الضغط للأعلى في أول ودجت، عدم القفز إلى آخر ودجت"
 
 msgctxt "#31378"
 msgid "On down, when at last widget, widgets do not return to initial position"
-msgstr "Ø¹Ù†Ø¯ Ø§Ù„Ø¶ØºØ· Ù„Ù„Ø£Ø³ÙÙ„ ÙÙŠ Ø¢Ø®Ø± ÙˆØ¯Ø¬ØªØŒ Ù„Ø§ ØªØ¹ÙˆØ¯ Ø§Ù„ÙˆØ¯Ø¬Ø§Øª Ø¥Ù„Ù‰ Ù…ÙˆØ¶Ø¹Ù‡Ø§ Ø§Ù„Ø£ÙˆÙ„ÙŠ"
+msgstr "عند الضغط للأسفل في آخر ودجت، لا تعود الودجات إلى موضعها الأولي"
 
 msgctxt "#31379"
 msgid "On up/down at first/last widget, go to last/first widget"
-msgstr "Ø¹Ù†Ø¯ Ø§Ù„Ø¶ØºØ· Ù„Ù„Ø£Ø¹Ù„Ù‰/Ù„Ù„Ø£Ø³ÙÙ„ ÙÙŠ Ø£ÙˆÙ„/Ø¢Ø®Ø± ÙˆØ¯Ø¬ØªØŒ Ø§Ù„Ø§Ù†ØªÙ‚Ø§Ù„ Ø¥Ù„Ù‰ Ø¢Ø®Ø±/Ø£ÙˆÙ„ ÙˆØ¯Ø¬Øª"
+msgstr "عند الضغط للأعلى/للأسفل في أول/آخر ودجت، الانتقال إلى آخر/أول ودجت"
 
 msgctxt "#31380"
 msgid "Layout options"
-msgstr "Ø®ÙŠØ§Ø±Ø§Øª Ø§Ù„ØªØ®Ø·ÙŠØ·"
+msgstr "خيارات التخطيط"
 
 msgctxt "#31381"
 msgid "Global"
-msgstr "Ø´Ø§Ù…Ù„"
+msgstr "شامل"
 
 msgctxt "#31382"
 msgid "4K Movies"
-msgstr "Ø£ÙÙ„Ø§Ù… 4K"
+msgstr "أفلام 4K"
 
 msgctxt "#31383"
 msgid "Recent recordings"
-msgstr "Ø§Ù„ØªØ³Ø¬ÙŠÙ„Ø§Øª Ø§Ù„Ø­Ø¯ÙŠØ«Ø©"
+msgstr "التسجيلات الحديثة"
 
 msgctxt "#31384"
 msgid "Grouped recent recordings"
-msgstr "Ø§Ù„ØªØ³Ø¬ÙŠÙ„Ø§Øª Ø§Ù„Ø­Ø¯ÙŠØ«Ø© Ù…Ø¬Ù…Ø¹Ø©"
+msgstr "التسجيلات الحديثة مجمعة"
 
 msgctxt "#31385"
 msgid "Grouped deleted recordings"
-msgstr "Ø§Ù„ØªØ³Ø¬ÙŠÙ„Ø§Øª Ø§Ù„Ù…Ø­Ø°ÙˆÙØ© Ù…Ø¬Ù…Ø¹Ø©"
+msgstr "التسجيلات المحذوفة مجمعة"
 
 msgctxt "#31386"
 msgid "Hide"
-msgstr "Ø¥Ø®Ù"
+msgstr "إخف"
 
 msgctxt "#31387"
 msgid "Last Played Radio Channels"
-msgstr "Ø¢Ø®Ø± Ù‚Ù†ÙˆØ§Øª Ø§Ù„Ø±Ø§Ø¯ÙŠÙˆ Ø§Ù„Ù…Ø´ØºÙ„Ø©"
+msgstr "آخر قنوات الراديو المشغلة"
 
 msgctxt "#31388"
 msgid "Mini-EPG (vertical, only 5 Items)"
-msgstr "EPG Ù…ØµØºØ± (Ø¹Ù…ÙˆØ¯ÙŠØŒ 5 Ø¹Ù†Ø§ØµØ± ÙÙ‚Ø·)"
+msgstr "EPG مصغر (عمودي، 5 عناصر فقط)"
 
 msgctxt "#31389"
 msgid "Unwatched Tv Shows"
-msgstr "Ù…Ø³Ù„Ø³Ù„Ø§Øª ØºÙŠØ± Ù…Ø´Ø§Ù‡Ø¯Ø©"
+msgstr "مسلسلات غير مشاهدة"
 
 msgctxt "#31390"
 msgid "for"
-msgstr "Ù„Ù€"
+msgstr "لـ"
 
 msgctxt "#31391"
 msgid "Poster Wall"
-msgstr "Ø¬Ø¯Ø§Ø± Ø§Ù„Ù…Ù„ØµÙ‚Ø§Øª"
+msgstr "جدار الملصقات"
 
 msgctxt "#31392"
 msgid "Fanart Flix"
-msgstr "Fanart Ø¨Ù†Ù…Ø· Flix"
+msgstr "Fanart بنمط Flix"
 
 msgctxt "#31393"
 msgid "IMDB Position"
-msgstr "Ø§Ù„Ù…Ø±ØªØ¨Ø© ÙÙŠ IMDB"
+msgstr "المرتبة في IMDB"
 
 msgctxt "#31394"
 msgid "Use default MPAA rating icons"
-msgstr "Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª ØªØµÙ†ÙŠÙ MPAA Ø§Ù„Ø§ÙØªØ±Ø§Ø¶ÙŠØ©"
+msgstr "استخدام أيقونات تصنيف MPAA الافتراضية"
 
 msgctxt "#31395"
 msgid "Seasons info v2"
-msgstr "Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ù…ÙˆØ§Ø³Ù… v2"
+msgstr "معلومات المواسم v2"
 
 msgctxt "#31396"
 msgid "Up Next"
-msgstr "Ø§Ù„ØªØ§Ù„ÙŠ"
+msgstr "التالي"
 
 msgctxt "#31397"
 msgid "Use thumbnail instead of fanart"
-msgstr "Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„Ù…ØµØºØ±Ø© Ø¨Ø¯Ù„Ø§Ù‹ Ù…Ù† fanart"
+msgstr "استخدام المصغرة بدلاً من fanart"
 
 msgctxt "#31398"
 msgid "Clean and minimal"
-msgstr "Ù†Ø¸ÙŠÙ ÙˆØ¨Ø³ÙŠØ·"
+msgstr "نظيف وبسيط"
 
 msgctxt "#31399"
 msgid "Hide plot, when widget is not focused"
-msgstr "Ø¥Ø®ÙØ§Ø¡ Ø§Ù„Ù‚ØµØ© Ø¹Ù†Ø¯Ù…Ø§ Ù„Ø§ ÙŠÙƒÙˆÙ† Ø§Ù„ÙˆØ¯Ø¬Øª Ù…Ø­Ø¯Ø¯Ø§Ù‹"
+msgstr "إخفاء القصة عندما لا يكون الودجت محدداً"
 
 msgctxt "#31400"
 msgid "Audio streams"
-msgstr "Ù…Ø³Ø§Ø±Ø§Øª Ø§Ù„ØµÙˆØª"
+msgstr "مسارات الصوت"
 
 msgctxt "#31401"
 msgid "Info slider"
-msgstr "Ø´Ø±ÙŠØ· Ø§Ù„Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ù…Ù†Ø²Ù„Ù‚"
+msgstr "شريط المعلومات المنزلق"
 
 msgctxt "#31402"
 msgid "Additional fanart"
-msgstr "fanart Ø¥Ø¶Ø§ÙÙŠ"
+msgstr "fanart إضافي"
 
 msgctxt "#31403"
 msgid "HD Movies"
-msgstr "Ø£ÙÙ„Ø§Ù… HD"
+msgstr "أفلام HD"
 
 msgctxt "#31404"
 msgid "Hide, when not focused/used"
-msgstr "Ø¥Ø®ÙØ§Ø¡ Ø¹Ù†Ø¯ Ø¹Ø¯Ù… Ø§Ù„ØªØ­Ø¯ÙŠØ¯/Ø§Ù„Ø§Ø³ØªØ®Ø¯Ø§Ù…"
+msgstr "إخفاء عند عدم التحديد/الاستخدام"
 
 msgctxt "#31405"
 msgid "Hide seekbar"
-msgstr "Ø¥Ø®ÙØ§Ø¡ Ø´Ø±ÙŠØ· Ø§Ù„ØªÙ‚Ø¯Ù…"
+msgstr "إخفاء شريط التقدم"
 
 msgctxt "#31406"
 msgid "Hide OSD"
-msgstr "Ø¥Ø®ÙØ§Ø¡ OSD"
+msgstr "إخفاء OSD"
 
 msgctxt "#31407"
 msgid "Scrolling text"
-msgstr "Ù†Øµ Ù…ØªØ­Ø±Ùƒ"
+msgstr "نص متحرك"
 
 msgctxt "#31408"
 msgid "Numeric rating"
-msgstr "ØªÙ‚ÙŠÙŠÙ… Ø±Ù‚Ù…ÙŠ"
+msgstr "تقييم رقمي"
 
 msgctxt "#31409"
 msgid "Artist slideshow"
-msgstr "Ø¹Ø±Ø¶ Ø´Ø±Ø§Ø¦Ø­ Ø§Ù„ÙÙ†Ø§Ù†"
+msgstr "عرض شرائح الفنان"
 
 msgctxt "#31410"
 msgid "Low list"
-msgstr "Ù‚Ø§Ø¦Ù…Ø© Ø³ÙÙ„ÙŠØ©"
+msgstr "قائمة سفلية"
 
 msgctxt "#31411"
 msgid "Filenames"
-msgstr "Ø£Ø³Ù…Ø§Ø¡ Ø§Ù„Ù…Ù„ÙØ§Øª"
+msgstr "أسماء الملفات"
 
 msgctxt "#31412"
 msgid "Fallback image"
-msgstr "Ø§Ù„ØµÙˆØ±Ø© Ø§Ù„Ø§Ø­ØªÙŠØ§Ø·ÙŠØ©"
+msgstr "الصورة الاحتياطية"
 
 msgctxt "#31413"
 msgid "ClearLogo/ClearArt"
@@ -1675,255 +1675,255 @@ msgstr "ClearLogo/ClearArt"
 
 msgctxt "#31414"
 msgid "Clearlogo instead of title"
-msgstr "Clearlogo Ø¨Ø¯Ù„Ø§Ù‹ Ù…Ù† Ø§Ù„Ø¹Ù†ÙˆØ§Ù†"
+msgstr "Clearlogo بدلاً من العنوان"
 
 msgctxt "#31415"
 msgid "Media flags"
-msgstr "Ø¥Ø´Ø§Ø±Ø§Øª Ø§Ù„ÙˆØ³Ø§Ø¦Ø·"
+msgstr "إشارات الوسائط"
 
 msgctxt "#31416"
 msgid "Play/pause info"
-msgstr "Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„ØªØ´ØºÙŠÙ„/Ø§Ù„Ø¥ÙŠÙ‚Ø§Ù Ø§Ù„Ù…Ø¤Ù‚Øª"
+msgstr "معلومات التشغيل/الإيقاف المؤقت"
 
 msgctxt "#31417"
 msgid "PVR technical info"
-msgstr "Ø§Ù„Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„ØªÙ‚Ù†ÙŠØ© Ù„Ù€ PVR"
+msgstr "المعلومات التقنية لـ PVR"
 
 msgctxt "#31418"
 msgid "Progress graphic"
-msgstr "Ø±Ø³Ù… Ø§Ù„ØªÙ‚Ø¯Ù…"
+msgstr "رسم التقدم"
 
 msgctxt "#31419"
 msgid "Hide widget label"
-msgstr "Ø¥Ø®ÙØ§Ø¡ ØªØ³Ù…ÙŠØ© Ø§Ù„ÙˆØ¯Ø¬Øª"
+msgstr "إخفاء تسمية الودجت"
 
 msgctxt "#31420"
 msgid "Show behind slideshow"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø®Ù„Ù Ø¹Ø±Ø¶ Ø§Ù„Ø´Ø±Ø§Ø¦Ø­"
+msgstr "إظهار خلف عرض الشرائح"
 
 msgctxt "#31421"
 msgid "Zoom focused items"
-msgstr "ØªÙƒØ¨ÙŠØ± Ø§Ù„Ø¹Ù†Ø§ØµØ± Ø§Ù„Ù…Ø­Ø¯Ø¯Ø©"
+msgstr "تكبير العناصر المحددة"
 
 msgctxt "#31422"
 msgid "Enable auto scrolling for titles"
-msgstr "ØªÙØ¹ÙŠÙ„ Ø§Ù„ØªÙ…Ø±ÙŠØ± Ø§Ù„ØªÙ„Ù‚Ø§Ø¦ÙŠ Ù„Ù„Ø¹Ù†Ø§ÙˆÙŠÙ†"
+msgstr "تفعيل التمرير التلقائي للعناوين"
 
 msgctxt "#31423"
 msgid "Show glow on focused items"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± ØªÙˆÙ‡Ø¬ Ø¹Ù„Ù‰ Ø§Ù„Ø¹Ù†Ø§ØµØ± Ø§Ù„Ù…Ø­Ø¯Ø¯Ø©"
+msgstr "إظهار توهج على العناصر المحددة"
 
 msgctxt "#31424"
 msgid "List type"
-msgstr "Ù†ÙˆØ¹ Ø§Ù„Ù‚Ø§Ø¦Ù…Ø©"
+msgstr "نوع القائمة"
 
 msgctxt "#31425"
 msgid "Enable auto playing trailers in flix views"
-msgstr "ØªÙØ¹ÙŠÙ„ Ø§Ù„ØªØ´ØºÙŠÙ„ Ø§Ù„ØªÙ„Ù‚Ø§Ø¦ÙŠ Ù„Ù„Ø¥Ø¹Ù„Ø§Ù†Ø§Øª ÙÙŠ Ø¹Ø±ÙˆØ¶ flix"
+msgstr "تفعيل التشغيل التلقائي للإعلانات في عروض flix"
 
 msgctxt "#31426"
 msgid "Try to hide black bars"
-msgstr "Ù…Ø­Ø§ÙˆÙ„Ø© Ø¥Ø®ÙØ§Ø¡ Ø§Ù„Ø£Ø´Ø±Ø·Ø© Ø§Ù„Ø³ÙˆØ¯Ø§Ø¡"
+msgstr "محاولة إخفاء الأشرطة السوداء"
 
 msgctxt "#31427"
 msgid "playing"
-msgstr "Ù‚ÙŠØ¯ Ø§Ù„ØªØ´ØºÙŠÙ„"
+msgstr "قيد التشغيل"
 
 msgctxt "#31428"
 msgid "paused"
-msgstr "Ù…ØªÙˆÙ‚Ù Ù…Ø¤Ù‚ØªØ§Ù‹"
+msgstr "متوقف مؤقتاً"
 
 msgctxt "#31429"
 msgid "caching"
-msgstr "Ø¬Ø§Ø±Ù Ø§Ù„ØªØ®Ø²ÙŠÙ† Ø§Ù„Ù…Ø¤Ù‚Øª"
+msgstr "جارٍ التخزين المؤقت"
 
 msgctxt "#31430"
 msgid "Auto start delay"
-msgstr "Ù…Ù‡Ù„Ø© Ø§Ù„Ø¨Ø¯Ø¡ Ø§Ù„ØªÙ„Ù‚Ø§Ø¦ÙŠ"
+msgstr "مهلة البدء التلقائي"
 
 msgctxt "#31431"
 msgid "Auto playing trailers"
-msgstr "Ø§Ù„ØªØ´ØºÙŠÙ„ Ø§Ù„ØªÙ„Ù‚Ø§Ø¦ÙŠ Ù„Ù„Ø¥Ø¹Ù„Ø§Ù†Ø§Øª"
+msgstr "التشغيل التلقائي للإعلانات"
 
 msgctxt "#31432"
 msgid "None"
-msgstr "Ø¨Ø¯ÙˆÙ†"
+msgstr "بدون"
 
 msgctxt "#31433"
 msgid "Medium"
-msgstr "Ù…ØªÙˆØ³Ø·"
+msgstr "متوسط"
 
 msgctxt "#31434"
 msgid "Maximal"
-msgstr "Ø£Ù‚ØµÙ‰"
+msgstr "أقصى"
 
 msgctxt "#31435"
 msgid "On back, jump to first item in widget list"
-msgstr "Ø¹Ù†Ø¯ Ø§Ù„Ø±Ø¬ÙˆØ¹ØŒ Ø§Ù„Ø§Ù†ØªÙ‚Ø§Ù„ Ø¥Ù„Ù‰ Ø£ÙˆÙ„ Ø¹Ù†ØµØ± ÙÙŠ Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„ÙˆØ¯Ø¬Øª"
+msgstr "عند الرجوع، الانتقال إلى أول عنصر في قائمة الودجت"
 
 msgctxt "#31436"
 msgid "After that, focus home menu"
-msgstr "Ø¨Ø¹Ø¯ Ø°Ù„ÙƒØŒ ØªØ­Ø¯ÙŠØ¯ Ø§Ù„Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ©"
+msgstr "بعد ذلك، تحديد القائمة الرئيسية"
 
 msgctxt "#31437"
 msgid "If home menu is focused, jump to widgets on back"
-msgstr "Ø¥Ø°Ø§ ÙƒØ§Ù†Øª Ø§Ù„Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠØ© Ù…Ø­Ø¯Ø¯Ø©ØŒ Ø§Ù„Ø§Ù†ØªÙ‚Ø§Ù„ Ø¥Ù„Ù‰ Ø§Ù„ÙˆØ¯Ø¬Ø§Øª Ø¹Ù†Ø¯ Ø§Ù„Ø±Ø¬ÙˆØ¹"
+msgstr "إذا كانت القائمة الرئيسية محددة، الانتقال إلى الودجات عند الرجوع"
 
 msgctxt "#31438"
 msgid "Only, when widget is focused"
-msgstr "ÙÙ‚Ø· Ø¹Ù†Ø¯Ù…Ø§ ÙŠÙƒÙˆÙ† Ø§Ù„ÙˆØ¯Ø¬Øª Ù…Ø­Ø¯Ø¯Ø§Ù‹"
+msgstr "فقط عندما يكون الودجت محدداً"
 
 msgctxt "#31439"
 msgid "Hide mouse warning"
-msgstr "Ø¥Ø®ÙØ§Ø¡ ØªØ­Ø°ÙŠØ± Ø§Ù„ÙØ£Ø±Ø©"
+msgstr "إخفاء تحذير الفأرة"
 
 msgctxt "#31440"
 msgid "EDL markers"
-msgstr "Ø¹Ù„Ø§Ù…Ø§Øª EDL"
+msgstr "علامات EDL"
 
 msgctxt "#31441"
 msgid "Hub widget content type"
-msgstr "Ù†ÙˆØ¹ Ù…Ø­ØªÙˆÙ‰ ÙˆØ¯Ø¬Øª Ø§Ù„Ù…Ø±ÙƒØ²"
+msgstr "نوع محتوى ودجت المركز"
 
 msgctxt "#31442"
 msgid "Playback action when video info dialog is shown"
-msgstr "Ø¥Ø¬Ø±Ø§Ø¡ Ø§Ù„ØªØ´ØºÙŠÙ„ Ø¹Ù†Ø¯ Ø¸Ù‡ÙˆØ± Ù†Ø§ÙØ°Ø© Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„ÙÙŠØ¯ÙŠÙˆ"
+msgstr "إجراء التشغيل عند ظهور نافذة معلومات الفيديو"
 
 msgctxt "#31443"
 msgid "Stop playback when item is no longer focused"
-msgstr "Ø¥ÙŠÙ‚Ø§Ù Ø§Ù„ØªØ´ØºÙŠÙ„ Ø¹Ù†Ø¯Ù…Ø§ Ù„Ø§ ÙŠØ¹ÙˆØ¯ Ø§Ù„Ø¹Ù†ØµØ± Ù…Ø­Ø¯Ø¯Ø§Ù‹"
+msgstr "إيقاف التشغيل عندما لا يعود العنصر محدداً"
 
 msgctxt "#31444"
 msgid "LibreELEC Settings"
-msgstr "Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª LibreELEC"
+msgstr "إعدادات LibreELEC"
 
 msgctxt "#31445"
 msgid "Is playing"
-msgstr "Ù‚ÙŠØ¯ Ø§Ù„ØªØ´ØºÙŠÙ„"
+msgstr "قيد التشغيل"
 
 msgctxt "#31446"
 msgid "Icon"
-msgstr "Ø£ÙŠÙ‚ÙˆÙ†Ø©"
+msgstr "أيقونة"
 
 msgctxt "#31447"
 msgid "Now playing"
-msgstr "Ù‚ÙŠØ¯ Ø§Ù„ØªØ´ØºÙŠÙ„ Ø§Ù„Ø¢Ù†"
+msgstr "قيد التشغيل الآن"
 
 msgctxt "#31448"
 msgid "Now playing..."
-msgstr "Ù‚ÙŠØ¯ Ø§Ù„ØªØ´ØºÙŠÙ„ Ø§Ù„Ø¢Ù†..."
+msgstr "قيد التشغيل الآن..."
 
 msgctxt "#31449"
 msgid "User rating overrides"
-msgstr "ØªÙ‚ÙŠÙŠÙ… Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Ù„Ù‡ Ø§Ù„Ø£ÙˆÙ„ÙˆÙŠØ©"
+msgstr "تقييم المستخدم له الأولوية"
 
 msgctxt "#31450"
 msgid "Star rating and value"
-msgstr "Ù†Ø¬ÙˆÙ… Ø§Ù„ØªÙ‚ÙŠÙŠÙ… ÙˆÙ‚ÙŠÙ…ØªÙ‡Ø§"
+msgstr "نجوم التقييم وقيمتها"
 
 msgctxt "#31451"
 msgid "Show player controls"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ø£Ø²Ø±Ø§Ø± Ø§Ù„ØªØ­ÙƒÙ… Ø¨Ø§Ù„Ù…Ø´ØºÙ„"
+msgstr "إظهار أزرار التحكم بالمشغل"
 
 msgctxt "#31452"
 msgid "Show clearart"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± clearart"
+msgstr "إظهار clearart"
 
 msgctxt "#31453"
 msgid "Ratings"
-msgstr "Ø§Ù„ØªÙ‚ÙŠÙŠÙ…Ø§Øª"
+msgstr "التقييمات"
 
 msgctxt "#31454"
 msgid "Show detailed info when video starts (in seconds)"
-msgstr "Ø¥Ø¸Ù‡Ø§Ø± Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ù…ÙØµÙ„Ø© Ø¹Ù†Ø¯ Ø¨Ø¯Ø¡ Ø§Ù„ÙÙŠØ¯ÙŠÙˆ (Ø¨Ø§Ù„Ø«ÙˆØ§Ù†ÙŠ)"
+msgstr "إظهار معلومات مفصلة عند بدء الفيديو (بالثواني)"
 
 msgctxt "#31455"
 msgid "Customized"
-msgstr "Ù…Ø®ØµØµ"
+msgstr "مخصص"
 
 msgctxt "#31456"
 msgid "Color presets"
-msgstr "Ø£Ù„ÙˆØ§Ù† Ù…Ø¹Ø¯Ø© Ù…Ø³Ø¨Ù‚Ø§Ù‹"
+msgstr "ألوان معدة مسبقاً"
 
 msgctxt "#31457"
 msgid "Preset"
-msgstr "Ø§Ù„Ù…Ø¹Ø¯ Ù…Ø³Ø¨Ù‚Ø§"
+msgstr "المعد مسبقا"
 
 msgctxt "#31458"
 msgid "Lavender"
-msgstr "Ø®Ø²Ø§Ù…Ù‰"
+msgstr "خزامى"
 
 msgctxt "#31459"
 msgid "Bright Turquoise"
-msgstr "ÙÙŠØ±ÙˆØ²ÙŠ Ø³Ø§Ø·Ø¹"
+msgstr "فيروزي ساطع"
 
 msgctxt "#31460"
 msgid "Orange Pumpkin"
-msgstr "Ø¨Ø±ØªÙ‚Ø§Ù„ÙŠ Ø§Ù„ÙŠÙ‚Ø·ÙŠÙ†"
+msgstr "برتقالي اليقطين"
 
 msgctxt "#31461"
 msgid "Azure Blue"
-msgstr "Ø£Ø²Ø±Ù‚ Ø³Ù…Ø§ÙˆÙŠ"
+msgstr "أزرق سماوي"
 
 msgctxt "#31462"
 msgid "Spring Green"
-msgstr "Ø£Ø®Ø¶Ø± Ø±Ø¨ÙŠØ¹ÙŠ"
+msgstr "أخضر ربيعي"
 
 msgctxt "#31463"
 msgid "Brick Red"
-msgstr "Ø£Ø­Ù…Ø± Ù‚Ø±Ù…ÙŠØ¯ÙŠ"
+msgstr "أحمر قرميدي"
 
 msgctxt "#31464"
 msgid "Save color configuration"
-msgstr "Ø­ÙØ¸ Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø£Ù„ÙˆØ§Ù†"
+msgstr "حفظ إعدادات الألوان"
 
 msgctxt "#31465"
 msgid "Overwrite existing color configuration?"
-msgstr "Ø§Ø³ØªØ¨Ø¯Ø§Ù„ Ø¥Ø¹Ø¯Ø§Ø¯Ø§Øª Ø§Ù„Ø£Ù„ÙˆØ§Ù† Ø§Ù„Ø­Ø§Ù„ÙŠØ©ØŸ"
+msgstr "استبدال إعدادات الألوان الحالية؟"
 
 msgctxt "#31466"
 msgid "Hide PVR recording dialog"
-msgstr "Ø¥Ø®ÙØ§Ø¡ Ù†Ø§ÙØ°Ø© ØªØ³Ø¬ÙŠÙ„ PVR"
+msgstr "إخفاء نافذة تسجيل PVR"
 
 msgctxt "#31467"
 msgid "Player"
-msgstr "Ù…Ø´ØºÙ„ Ø§Ù„ÙˆØ³Ø§Ø¦Ø·"
+msgstr "مشغل الوسائط"
 
 msgctxt "#31468"
 msgid "Players"
-msgstr "Ø§Ù„Ù…Ø´ØºÙ„Ø§Øª"
+msgstr "المشغلات"
 
 msgctxt "#31469"
 msgid "Local"
-msgstr "Ù…Ø­Ù„ÙŠ"
+msgstr "محلي"
 
 msgctxt "#31470"
 msgid "Online"
-msgstr "Ø¹Ø¨Ø± Ø§Ù„Ø¥Ù†ØªØ±Ù†Øª"
+msgstr "عبر الإنترنت"
 
 msgctxt "#31471"
 msgid "Game studio/flag icons"
-msgstr "Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª Ø§Ø³ØªÙˆØ¯ÙŠÙˆ/Ø¥Ø´Ø§Ø±Ø§Øª Ø§Ù„Ø£Ù„Ø¹Ø§Ø¨"
+msgstr "أيقونات استوديو/إشارات الألعاب"
 
 msgctxt "#31472"
 msgid "Pick a color..."
-msgstr "Ø§Ø®ØªØ± Ù„ÙˆÙ†Ø§Ù‹..."
+msgstr "اختر لوناً..."
 
 msgctxt "#31473"
 msgid "Use thumb for episodes background"
-msgstr "Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„Ù…ØµØºØ±Ø© ÙƒØ®Ù„ÙÙŠØ© Ù„Ù„Ø­Ù„Ù‚Ø§Øª"
+msgstr "استخدام المصغرة كخلفية للحلقات"
 
 msgctxt "#31474"
 msgid "Small landscape"
-msgstr "Landscape ØµØºÙŠØ±"
+msgstr "Landscape صغير"
 
 msgctxt "#31475"
 msgid "Small fanart"
-msgstr "fanart ØµØºÙŠØ±"
+msgstr "fanart صغير"
 
 msgctxt "#31476"
 msgid "Small poster fanart"
-msgstr "fanart Ù…Ù„ØµÙ‚ ØµØºÙŠØ±"
+msgstr "fanart ملصق صغير"
 
 msgctxt "#31477"
 msgid "Wikipedia"
@@ -1931,7 +1931,7 @@ msgstr ""
 
 msgctxt "#31478"
 msgid "Rating stars"
-msgstr "Ù†Ø¬ÙˆÙ… Ø§Ù„ØªÙ‚ÙŠÙŠÙ…"
+msgstr "نجوم التقييم"
 
 msgctxt "#31479"
 msgid "Auto show now playing info after 5 seconds delay if hidden"
@@ -1966,7 +1966,7 @@ msgid "Tv Shows of the year"
 msgstr ""
 
 msgctxt "#31487"
-msgid "[B]File Manager[/B][CR][CR] â€¢     Copy[CR] â€¢     Move[CR] â€¢     Delete[CR] â€¢     Rename[CR] â€¢     Manage Source"
+msgid "[B]File Manager[/B][CR][CR] •     Copy[CR] •     Move[CR] •     Delete[CR] •     Rename[CR] •     Manage Source"
 msgstr ""
 
 msgctxt "#31488"
@@ -2050,7 +2050,7 @@ msgid "Background presets"
 msgstr ""
 
 msgctxt "#31508"
-msgid "Autoscrolling"
+msgid "Auto-scrolling"
 msgstr ""
 
 msgctxt "#31509"
@@ -2218,7 +2218,7 @@ msgid "Event log"
 msgstr ""
 
 msgctxt "#31550"
-msgid "[B]Show event log[/B][CR][CR] â€¢     Basic[CR] â€¢     Information[CR] â€¢     Warning[CR] â€¢     Error [CR]"
+msgid "[B]Show event log[/B][CR][CR] •     Basic[CR] •     Information[CR] •     Warning[CR] •     Error [CR]"
 msgstr ""
 
 msgctxt "#31551"
@@ -2547,15 +2547,12 @@ msgstr ""
 
 msgctxt "#31632"
 msgid "Rewind"
-msgstr "Ø§Ù„ØªØ±Ø§Ø¬Ø¹"
+msgstr "التراجع"
 
 msgctxt "#31633"
 msgid "Fast forward"
-msgstr "Ø§Ù„ØªÙ‚Ø¯Ù… Ø§Ù„Ø³Ø±ÙŠØ¹"
-msgctxt "#31634"
-msgid "Thin focus border"
-msgstr ""
+msgstr "التقدم السريع"
 
-msgctxt "#31635"
-msgid "TV episode count"
-msgstr ""
+msgctxt "#31634"
+msgid "Bookmark"
+msgstr "إشارة مرجعية"
