@@ -2565,3 +2565,8 @@ msgstr ""
 msgctxt "#31901"
 msgid "TV episode count"
 msgstr ""
+
+msgctxt "#31902"
+msgid "Colourful"
+msgstr ""
+

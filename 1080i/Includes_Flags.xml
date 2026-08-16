@@ -311,25 +311,56 @@
 
             <control type="image" description="Video Resolution">
                 <visible>!Skin.HasSetting(hide.flags.resolution) + !String.IsEmpty(ListItem.VideoResolution)</visible>
+                <visible>!$EXP[IsFlagSetColorful]</visible>
                 <width min="20" max="80">auto</width>
                 <include>Def_Flag_Image_Without_Label</include>
-                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color]/resolution/$INFO[ListItem.VideoResolution].png</texture>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/resolution/$INFO[ListItem.VideoResolution].png</texture>
+            </control>
+
+            <control type="image" description="Video Resolution Colourful">
+                <visible>!Skin.HasSetting(hide.flags.resolution) + !String.IsEmpty(ListItem.VideoResolution)</visible>
+                <visible>$EXP[IsFlagSetColorful]</visible>
+                <width>100</width>
+                <include>Def_Flag_Image_Without_Label</include>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/resolution/$INFO[ListItem.VideoResolution].png</texture>
             </control>
 
             <!-- VIDEO - CODEC -->
 
             <control type="image" description="Video Codec">
                 <visible>!Skin.HasSetting(hide.flags.videocodec) + !String.IsEmpty(ListItem.VideoCodec)</visible>
+                <visible>!$EXP[IsFlagSetColorful]</visible>
                 <width>100</width>
                 <include>Def_Flag_Image_Without_Label</include>
-                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color]/videocodec/$INFO[ListItem.VideoCodec].png</texture>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/videocodec/$INFO[ListItem.VideoCodec].png</texture>
+            </control>
+
+            <!-- Colourful set: the imported art carries a fixed 8px margin on each side, so
+                 the slot hugs the texture and every gap in the row comes out identical. The
+                 fixed slots above are kept for colour/white, whose bundled art was drawn for
+                 them. -->
+            <control type="image" description="Video Codec Colourful">
+                <visible>!Skin.HasSetting(hide.flags.videocodec) + !String.IsEmpty(ListItem.VideoCodec)</visible>
+                <visible>$EXP[IsFlagSetColorful]</visible>
+                <width>100</width>
+                <include>Def_Flag_Image_Without_Label</include>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/videocodec/$INFO[ListItem.VideoCodec].png</texture>
             </control>
 
             <!-- VIDEO - HDR -->
 
             <control type="image" description="HDR">
                 <visible>!Skin.HasSetting(hide.flags.hdr) + !String.IsEmpty(ListItem.HdrType)</visible>
+                <visible>!$EXP[IsFlagSetColorful]</visible>
                 <width min="110" max="130">auto</width>
+                <include>Def_Flag_Image_Without_Label</include>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">$VAR[Image_Media_Flag_Video_HDR]</texture>
+            </control>
+
+            <control type="image" description="HDR Colourful">
+                <visible>!Skin.HasSetting(hide.flags.hdr) + !String.IsEmpty(ListItem.HdrType)</visible>
+                <visible>$EXP[IsFlagSetColorful]</visible>
+                <width>106</width>
                 <include>Def_Flag_Image_Without_Label</include>
                 <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">$VAR[Image_Media_Flag_Video_HDR]</texture>
             </control>
@@ -338,6 +369,7 @@
 
             <control type="grouplist">
                 <visible>!Skin.HasSetting(hide.flags.aspectratio) + !String.IsEmpty(ListItem.VideoAspect)</visible>
+                <visible>!$EXP[IsFlagSetColorful]</visible>
 
                 <width>70</width>
                 <height>64</height>
@@ -349,7 +381,7 @@
                 <control type="image">
                     <height>20</height>
                     <aspectratio aligny="center" align="center">keep</aspectratio>
-                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color]/aspectratio/$INFO[ListItem.VideoAspect].png</texture>
+                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/aspectratio/$INFO[ListItem.VideoAspect].png</texture>
                 </control>
                 <control type="label">
                     <height>16</height>
@@ -361,14 +393,36 @@
                 </control>
             </control>
 
+            <!-- Colourful set: the art is a self-contained badge carrying the ratio text, so
+                 it needs no label - and with nothing to stack, no grouplist either. A plain
+                 image control shares Def_Flag_Image_Without_Label with every other flag,
+                 which is what keeps it on the same baseline. -->
+            <control type="image" description="Aspect Ratio Colourful">
+                <visible>!Skin.HasSetting(hide.flags.aspectratio) + !String.IsEmpty(ListItem.VideoAspect)</visible>
+                <visible>$EXP[IsFlagSetColorful]</visible>
+                <width>96</width>
+                <include>Def_Flag_Image_Without_Label</include>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/aspectratio/$INFO[ListItem.VideoAspect].png</texture>
+            </control>
+
             <!-- AUDIO - CODEC -->
 
             <control type="image" description="Audio Codec">
                 <visible>!Skin.HasSetting(hide.flags.audiocodec) + !String.IsEmpty(ListItem.AudioCodec)</visible>
+                <visible>!$EXP[IsFlagSetColorful]</visible>
                 <width>140</width>
                 <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
-                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color]/audiocodec/$VAR[Image_Media_Flag_Audio_Codec].png</texture>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/audiocodec/$VAR[Image_Media_Flag_Audio_Codec].png</texture>
+            </control>
+
+            <control type="image" description="Audio Codec Colourful">
+                <visible>!Skin.HasSetting(hide.flags.audiocodec) + !String.IsEmpty(ListItem.AudioCodec)</visible>
+                <visible>$EXP[IsFlagSetColorful]</visible>
+                <width>108</width>
+                <aspectratio aligny="center" align="center">keep</aspectratio>
+                <include>Def_Flag_Image_Without_Label</include>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/audiocodec/$VAR[Image_Media_Flag_Audio_Codec].png</texture>
             </control>
 
             <!-- AUDIO - CHANNEL -->
@@ -434,7 +488,7 @@
                 <width>80</width>
                 <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
-                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color]/source/3d.png</texture>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/source/3d.png</texture>
             </control>
 
             <!-- BLURAY -->
@@ -444,7 +498,7 @@
                 <width>110</width>
                 <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
-                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color]/source/$VAR[Image_Media_Flag_Bluray].png</texture>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/source/$VAR[Image_Media_Flag_Bluray].png</texture>
             </control>
 
             <!-- HD DVD -->
@@ -454,7 +508,7 @@
                 <width>130</width>
                 <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
-                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color]/source/hddvd.png</texture>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/source/hddvd.png</texture>
             </control>
 
             <!-- DVD -->
@@ -464,7 +518,7 @@
                 <width>100</width>
                 <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
-                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color]/source/dvd.png</texture>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/source/dvd.png</texture>
             </control>
 
             <!-- WEB DL -->
@@ -474,7 +528,7 @@
                 <width>110</width>
                 <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
-                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color]/source/web-dl.png</texture>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/source/web-dl.png</texture>
             </control>
 
             <!-- LANGUAGE - AUDIO - SUBTITLE -->
@@ -797,7 +851,7 @@
                 <visible>!String.IsEmpty(ListItem.FileExtension) + !Skin.HasSetting(hide.flags.music.codec)</visible>
                 <width min="20" max="90">auto</width>
                 <include>Def_Flag_Image_Without_Label</include>
-                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color]/audiocodec/$INFO[ListItem.FileExtension].png</texture>
+                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/audiocodec/$INFO[ListItem.FileExtension].png</texture>
             </control>
 
             <!-- BIT RATE -->
@@ -1067,7 +1121,7 @@
                 <!-- <height>70</height> -->
                 <!-- <left>-10</left> -->
                 <!-- <centertop>50%</centertop> -->
-                <!-- <texture fallback="flags/fallback.png">$VAR[Flag_Game_Resolution,flags/video/$VAR[Def_Flag_Color]/resolution/,.png]</texture> -->
+                <!-- <texture fallback="flags/fallback.png">$VAR[Flag_Game_Resolution,flags/video/$VAR[Def_Flag_Color_Set]/resolution/,.png]</texture> -->
                 <!-- <aspectratio align="left">keep</aspectratio> -->
                 <!-- <visible>!String.IsEmpty(Control.GetLabel(6601))</visible> -->
                 <!-- <visible>!Skin.HasSetting(hide.flags.resolution)</visible> -->
@@ -1076,7 +1130,7 @@
                 <!-- <width min="20" max="108">auto</width> -->
                 <!-- <height>60</height> -->
                 <!-- <centertop>50%</centertop> -->
-                <!-- <texture fallback="flags/fallback.png">$VAR[Flag_Game_Audio,flags/video/$VAR[Def_Flag_Color]/audiocodec/,.png]</texture> -->
+                <!-- <texture fallback="flags/fallback.png">$VAR[Flag_Game_Audio,flags/video/$VAR[Def_Flag_Color_Set]/audiocodec/,.png]</texture> -->
                 <!-- <aspectratio align="center">keep</aspectratio> -->
                 <!-- <visible>!String.IsEmpty(Control.GetLabel(6602))</visible> -->
                 <!-- <visible>!Skin.HasSetting(hide.flags.audiocodec)</visible> -->
@@ -1155,24 +1209,44 @@
 
                 <control type="image">
                     <visible>!Skin.HasSetting(hide.flags.resolution) + !String.IsEmpty(Container($PARAM[controlid]).ListItem.VideoResolution)</visible>
+                    <visible>!$EXP[IsFlagSetColorful]</visible>
                     <width min="20" max="80">auto</width>
                     <include>Def_Flag_Image_Without_Label</include>
-                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color]/resolution/$INFO[Container($PARAM[controlid]).ListItem.VideoResolution].png</texture>
+                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/resolution/$INFO[Container($PARAM[controlid]).ListItem.VideoResolution].png</texture>
+                </control>
+
+                <control type="image">
+                    <visible>!Skin.HasSetting(hide.flags.resolution) + !String.IsEmpty(Container($PARAM[controlid]).ListItem.VideoResolution)</visible>
+                    <visible>$EXP[IsFlagSetColorful]</visible>
+                    <width>100</width>
+                    <include>Def_Flag_Image_Without_Label</include>
+                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/resolution/$INFO[Container($PARAM[controlid]).ListItem.VideoResolution].png</texture>
                 </control>
 
                 <!-- VIDEO - CODEC -->
 
                 <control type="image">
                     <visible>!Skin.HasSetting(hide.flags.videocodec) + !String.IsEmpty(Container($PARAM[controlid]).ListItem.VideoCodec)</visible>
+                    <visible>!$EXP[IsFlagSetColorful]</visible>
                     <width>100</width>
                     <include>Def_Flag_Image_Without_Label</include>
-                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color]/videocodec/$INFO[Container($PARAM[controlid]).ListItem.VideoCodec].png</texture>
+                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/videocodec/$INFO[Container($PARAM[controlid]).ListItem.VideoCodec].png</texture>
+                </control>
+
+                <!-- Colourful set: slot hugs the texture; the art carries the 8px margins. -->
+                <control type="image">
+                    <visible>!Skin.HasSetting(hide.flags.videocodec) + !String.IsEmpty(Container($PARAM[controlid]).ListItem.VideoCodec)</visible>
+                    <visible>$EXP[IsFlagSetColorful]</visible>
+                    <width>100</width>
+                    <include>Def_Flag_Image_Without_Label</include>
+                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/videocodec/$INFO[Container($PARAM[controlid]).ListItem.VideoCodec].png</texture>
                 </control>
 
                 <!-- VIDEO - ASPECT RATIO -->
 
                 <control type="grouplist">
                     <visible>!Skin.HasSetting(hide.flags.aspectratio) + !String.IsEmpty(Container($PARAM[controlid]).ListItem.VideoAspect)</visible>
+                    <visible>!$EXP[IsFlagSetColorful]</visible>
 
                     <width>70</width>
                     <height>64</height>
@@ -1184,7 +1258,7 @@
                     <control type="image">
                         <height>20</height>
                         <aspectratio>keep</aspectratio>
-                        <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color]/aspectratio/$INFO[Container($PARAM[controlid]).ListItem.VideoAspect].png</texture>
+                        <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/aspectratio/$INFO[Container($PARAM[controlid]).ListItem.VideoAspect].png</texture>
                     </control>
                     <control type="label">
                         <height>16</height>
@@ -1196,14 +1270,33 @@
                     </control>
                 </control>
 
+                <!-- Colourful set: badge art carries the ratio text, so no label and no group. -->
+                <control type="image">
+                    <visible>!Skin.HasSetting(hide.flags.aspectratio) + !String.IsEmpty(Container($PARAM[controlid]).ListItem.VideoAspect)</visible>
+                    <visible>$EXP[IsFlagSetColorful]</visible>
+                    <width>96</width>
+                    <include>Def_Flag_Image_Without_Label</include>
+                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/aspectratio/$INFO[Container($PARAM[controlid]).ListItem.VideoAspect].png</texture>
+                </control>
+
                 <!-- AUDIO - CODEC -->
 
                 <control type="image">
                     <visible>!Skin.HasSetting(hide.flags.audiocodec) + !String.IsEmpty(Container($PARAM[controlid]).ListItem.AudioCodec)</visible>
+                    <visible>!$EXP[IsFlagSetColorful]</visible>
                     <width>140</width>
                     <aspectratio aligny="center" align="center">keep</aspectratio>
                     <include>Def_Flag_Image_Without_Label</include>
-                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color]/audiocodec/$INFO[Container($PARAM[controlid]).ListItem.AudioCodec].png</texture>
+                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/audiocodec/$INFO[Container($PARAM[controlid]).ListItem.AudioCodec].png</texture>
+                </control>
+
+                <control type="image">
+                    <visible>!Skin.HasSetting(hide.flags.audiocodec) + !String.IsEmpty(Container($PARAM[controlid]).ListItem.AudioCodec)</visible>
+                    <visible>$EXP[IsFlagSetColorful]</visible>
+                    <width>108</width>
+                    <aspectratio aligny="center" align="center">keep</aspectratio>
+                    <include>Def_Flag_Image_Without_Label</include>
+                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/audiocodec/$INFO[Container($PARAM[controlid]).ListItem.AudioCodec].png</texture>
                 </control>
 
                 <!-- AUDIO - CHANNEL -->
@@ -1627,7 +1720,7 @@
                     <visible>!String.IsEmpty(Container($PARAM[controlid]).ListItem.FileExtension) + !Skin.HasSetting(hide.flags.music.codec)</visible>
                     <width min="20" max="90">auto</width>
                     <include>Def_Flag_Image_Without_Label</include>
-                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color]/audiocodec/$INFO[Container($PARAM[controlid]).ListItem.FileExtension].png</texture>
+                    <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/audiocodec/$INFO[Container($PARAM[controlid]).ListItem.FileExtension].png</texture>
                 </control>
 
                 <!-- BIT RATE -->
@@ -1786,7 +1879,7 @@
 
             <control type="image" description="Video Resolution">
                 <visible>Skin.HasSetting(show.osd.video.flags.icons) + !String.IsEmpty(VideoPlayer.VideoResolution)</visible>
-                <width min="20" max="80">auto</width>
+                <width min="20" max="125">auto</width>
                 <include>Def_Flag_Image_Without_Label</include>
                 <texture background="true" colordiffuse="$VAR[Def_VideoPlayer_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_VideoPlayer_Flag_Color]/resolution/$INFO[VideoPlayer.VideoResolution].png</texture>
             </control>
@@ -2003,7 +2096,7 @@
 
                 <control type="image" description="Video Resolution">
                     <visible>Skin.HasSetting(show.osd.video.flags.icons) + !String.IsEmpty(VideoPlayer.VideoResolution)</visible>
-                    <width min="20" max="80">auto</width>
+                    <width min="20" max="125">auto</width>
                     <include>Def_Flag_Image_Without_Label</include>
                     <texture background="true" colordiffuse="$VAR[Def_VideoPlayer_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_VideoPlayer_Flag_Color]/resolution/$INFO[VideoPlayer.VideoResolution].png</texture>
                 </control>

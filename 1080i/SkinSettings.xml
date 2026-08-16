@@ -1562,7 +1562,13 @@
                     <label>$LOCALIZE[31219]$LOCALIZE[467]</label>
                     <label2>$VAR[Label_Setting_View_Flag_Color]</label2>
                     <selected>Skin.HasSetting(enable.furniture.flags.colored)</selected>
-                    <onclick>Skin.ToggleSetting(enable.furniture.flags.colored)</onclick>
+                    <!-- Cycles B&W -> Colour -> Colourful. Conditions are evaluated against
+                         the pre-click state, so the steps do not cascade. -->
+                    <onclick condition="!Skin.HasSetting(enable.furniture.flags.colored)">Skin.SetBool(enable.furniture.flags.colored)</onclick>
+                    <onclick condition="!Skin.HasSetting(enable.furniture.flags.colored)">Skin.Reset(enable.furniture.flags.colorful)</onclick>
+                    <onclick condition="Skin.HasSetting(enable.furniture.flags.colored) + !Skin.HasSetting(enable.furniture.flags.colorful)">Skin.SetBool(enable.furniture.flags.colorful)</onclick>
+                    <onclick condition="Skin.HasSetting(enable.furniture.flags.colored) + Skin.HasSetting(enable.furniture.flags.colorful)">Skin.Reset(enable.furniture.flags.colored)</onclick>
+                    <onclick condition="Skin.HasSetting(enable.furniture.flags.colored) + Skin.HasSetting(enable.furniture.flags.colorful)">Skin.Reset(enable.furniture.flags.colorful)</onclick>
                     <enable>!Skin.HasSetting(hide.furniture.flags)</enable>
                 </control>
 

@@ -904,8 +904,8 @@
     </variable>
 
     <variable name="Image_Media_Flag_Video_HDR">
-        <value condition="!VideoPlayer.IsFullscreen + $EXP[IsVideoHDR10Plus]">flags/video/$VAR[Def_Flag_Color]/hdr/hdr10plus.png</value>
-        <value condition="!VideoPlayer.IsFullscreen + !String.IsEmpty(ListItem.HdrType)">flags/video/$VAR[Def_Flag_Color]/hdr/$INFO[ListItem.HdrType].png</value>
+        <value condition="!VideoPlayer.IsFullscreen + $EXP[IsVideoHDR10Plus]">flags/video/$VAR[Def_Flag_Color_Set]/hdr/hdr10plus.png</value>
+        <value condition="!VideoPlayer.IsFullscreen + !String.IsEmpty(ListItem.HdrType)">flags/video/$VAR[Def_Flag_Color_Set]/hdr/$INFO[ListItem.HdrType].png</value>
         <value condition="VideoPlayer.IsFullscreen + $EXP[IsVideoHDR10Plus]">flags/video/$VAR[Def_VideoPlayer_Flag_Color]/hdr/hdr10plus.png</value>
         <value condition="VideoPlayer.IsFullscreen + !String.IsEmpty(VideoPlayer.HdrType)">flags/video/$VAR[Def_VideoPlayer_Flag_Color]/hdr/$INFO[VideoPlayer.HdrType].png</value>
     </variable>

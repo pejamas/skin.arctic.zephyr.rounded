@@ -69,6 +69,10 @@
                         <!-- Pull left by first icon gap so row aligns with text above/below -->
                         <left>-10</left>
                         <top>94</top>
+                        <!-- Wider than the parent's NetflixPlotWidth (702), which a grouplist
+                             would otherwise clip to - that cropped the IMDb Top 250 flag once
+                             the rank hit three digits. Matches the fix already on the Home row. -->
+                        <width>900</width>
                         <height>24</height>
                         <align>left</align>
                         <orientation>horizontal</orientation>
@@ -84,6 +88,7 @@
                         <visible>$EXP[View_Flix_Show_Clearlogo_Enable]</visible>
                         <left>-10</left>
                         <top>154</top>
+                        <width>900</width>
                         <height>24</height>
                         <align>left</align>
                         <orientation>horizontal</orientation>

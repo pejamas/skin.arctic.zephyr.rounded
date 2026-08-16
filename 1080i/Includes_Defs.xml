@@ -2806,6 +2806,16 @@
 		<value>white</value>
 	</variable>
 
+	<!-- Three-way flag set for the video flags only (resolution, videocodec, aspectratio,
+	     audiocodec, source, hdr). mpaa/rating/lang stay on Def_Flag_Color above, because
+	     the colorful set has no art for them and a missing loose file cannot fall back to
+	     Textures.xbt. -->
+	<variable name="Def_Flag_Color_Set">
+		<value condition="Skin.HasSetting(enable.furniture.flags.colored) + Skin.HasSetting(enable.furniture.flags.colorful)">colorful</value>
+		<value condition="Skin.HasSetting(enable.furniture.flags.colored)">color</value>
+		<value>white</value>
+	</variable>
+
 	<variable name="Def_Flag_Colordiffuse_Dark1">
 		<value condition="Skin.HasSetting(enable.furniture.flags.colored)">none</value>
 		<value>Dark1</value>
@@ -3152,6 +3162,7 @@
 
         <onclick>Skin.SetBool(enable.furniture.flags.icons)</onclick>
         <onclick>Skin.SetBool(enable.furniture.flags.colored)</onclick>
+        <onclick>Skin.Reset(enable.furniture.flags.colorful)</onclick>
         <onclick>Skin.SetBool(hide.flags.hdr)</onclick>
         <onclick>Skin.SetBool(hide.flags.mpaa)</onclick>
         <onclick>Skin.SetBool(show.flags.rating.tmdb)</onclick>

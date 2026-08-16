@@ -3182,6 +3182,7 @@
     </variable>
 
     <variable name="Label_Setting_View_Flag_Color">
+        <value condition="Skin.HasSetting(enable.furniture.flags.colored) + Skin.HasSetting(enable.furniture.flags.colorful)">$LOCALIZE[31902]</value>
         <value condition="Skin.HasSetting(enable.furniture.flags.colored)">$LOCALIZE[737]</value>
         <value>$LOCALIZE[19662]</value>
     </variable>

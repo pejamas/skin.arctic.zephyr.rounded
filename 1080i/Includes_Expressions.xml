@@ -635,6 +635,14 @@
 
     <expression name="IsAudioCodecATMOS2">String.Contains(Container($PARAM[controlid]).ListItem.FileNameAndPath,atmos)</expression>
 
+    <!-- ================================== -->
+    <!--              FLAG SET              -->
+    <!-- ================================== -->
+
+    <!-- True when Def_Flag_Color_Set resolves to "colorful". That art already carries the
+         ratio text, so the separate aspect-ratio label is suppressed. -->
+    <expression name="IsFlagSetColorful">Skin.HasSetting(enable.furniture.flags.colored) + Skin.HasSetting(enable.furniture.flags.colorful)</expression>
+
     <expression name="IsAudioCodecDTSX">
         [String.Contains(ListItem.FileNameAndPath,dts-x) | String.Contains(ListItem.FileNameAndPath,dtsx) | String.Contains(ListItem.FileNameAndPath,dts.x) | [[VideoPlayer.IsFullscreen | $EXP[Extended_Now_Playing_Is_Visible]] + [String.Contains(Player.FileNameAndPath,dts-x) | String.Contains(Player.FileNameAndPath,dtsx) | String.Contains(Player.FileNameAndPath,dts.x)]]]
     </expression>
