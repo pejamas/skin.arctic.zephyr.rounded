@@ -285,26 +285,26 @@
             <control type="image" description="Sets">
                 <width>58</width>
                 <include>Def_Flag_Image_Without_Label</include>
-                <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color]/other/set.png</texture>
-                <visible>ListItem.IsCollection</visible>
+                <texture background="true" colordiffuse="$VAR[Color_Flag_Set]">flags/video/white/other/set.png</texture>
+                <visible>ListItem.IsCollection + $EXP[IsTMDbServiceEnable]</visible>
                 <visible>!$EXP[IsJlomItem]</visible>
             </control>
             <control type="label">
                 <width min="20">auto</width>
                 <include>Def_Flag_Label</include>
                 <label>$VAR[Def_Set_Num_Item]$INFO[Window(Home).Property(TMDbHelper.ListItem.Set.NumItems),/,]</label>
-                <visible>ListItem.IsCollection + !String.IsEmpty(ListItem.DBID)</visible>
+                <visible>ListItem.IsCollection + $EXP[IsTMDbServiceEnable] + !String.IsEmpty(ListItem.DBID)</visible>
             </control>
             <control type="label">
                 <width min="15">auto</width>
                 <include>Def_Flag_Label</include>
                 <label>$INFO[Window(Home).Property(TMDbHelper.ListItem.Set.NumItems)]</label>
-                <visible>ListItem.IsCollection + String.IsEmpty(ListItem.DBID)</visible>
+                <visible>ListItem.IsCollection + $EXP[IsTMDbServiceEnable] + String.IsEmpty(ListItem.DBID)</visible>
             </control>
             <control type="label">
                 <width>10</width>
                 <include>Def_Flag_Label</include>
-                <visible>ListItem.IsCollection</visible>
+                <visible>ListItem.IsCollection + $EXP[IsTMDbServiceEnable]</visible>
             </control>
 
             <!-- VIDEO - RESOLUTION -->
@@ -411,7 +411,6 @@
                 <visible>!Skin.HasSetting(hide.flags.audiocodec) + !String.IsEmpty(ListItem.AudioCodec)</visible>
                 <visible>!$EXP[IsFlagSetColorful]</visible>
                 <width>140</width>
-                <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
                 <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/audiocodec/$VAR[Image_Media_Flag_Audio_Codec].png</texture>
             </control>
@@ -430,7 +429,7 @@
             <control type="grouplist">
                 <visible>!Skin.HasSetting(hide.flags.audiochannels) + !String.IsEmpty(ListItem.AudioChannels)</visible>
 
-                <width>100</width>
+                <width>96</width>
                 <height>64</height>
                 <centertop>62%</centertop>
 
@@ -446,7 +445,7 @@
                     <textcolor>Dark1</textcolor>
                 </control>
                 <control type="image">
-                    <height>18</height>
+                    <height>16</height>
                     <aspectratio aligny="center" align="center">keep</aspectratio>
                     <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark2]">flags/video/$VAR[Def_Flag_Color]/audiochannels/channel.png</texture>
                 </control>
@@ -458,7 +457,6 @@
                 <visible>!Skin.HasSetting(hide.flags.mpaa) + !String.IsEmpty(ListItem.MPAA)</visible>
                 <width min="60" max="80">auto</width>
                 <height>40</height>
-                <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
                 <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/mpaa/$VAR[Def_Flag_Color]/$VAR[flag_mpaa]</texture>
             </control>
@@ -486,7 +484,6 @@
             <control type="image" description="3D">
                 <visible>!Skin.HasSetting(hide.flags.bluray) + $EXP[IsVideo3D]</visible>
                 <width>80</width>
-                <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
                 <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/source/3d.png</texture>
             </control>
@@ -496,7 +493,6 @@
             <control type="image" description="Bluray">
                 <visible>!Skin.HasSetting(hide.flags.bluray) + $EXP[IsVideoBluray]</visible>
                 <width>110</width>
-                <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
                 <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/source/$VAR[Image_Media_Flag_Bluray].png</texture>
             </control>
@@ -506,7 +502,6 @@
             <control type="image" description="HD DVD">
                 <visible>!Skin.HasSetting(hide.flags.bluray) + $EXP[IsVideoHDDVD]</visible>
                 <width>130</width>
-                <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
                 <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/source/hddvd.png</texture>
             </control>
@@ -516,7 +511,6 @@
             <control type="image" description="DVD">
                 <visible>!Skin.HasSetting(hide.flags.bluray) + $EXP[IsVideoDVD]</visible>
                 <width>100</width>
-                <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
                 <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/source/dvd.png</texture>
             </control>
@@ -526,7 +520,6 @@
             <control type="image" description="WEB-DL">
                 <visible>!Skin.HasSetting(hide.flags.bluray) + $EXP[IsVideoWebDL]</visible>
                 <width>110</width>
-                <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
                 <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]">flags/video/$VAR[Def_Flag_Color_Set]/source/web-dl.png</texture>
             </control>
@@ -1285,7 +1278,6 @@
                     <visible>!Skin.HasSetting(hide.flags.audiocodec) + !String.IsEmpty(Container($PARAM[controlid]).ListItem.AudioCodec)</visible>
                     <visible>!$EXP[IsFlagSetColorful]</visible>
                     <width>140</width>
-                    <aspectratio aligny="center" align="center">keep</aspectratio>
                     <include>Def_Flag_Image_Without_Label</include>
                     <texture background="true" colordiffuse="$VAR[Def_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_Flag_Color_Set]/audiocodec/$INFO[Container($PARAM[controlid]).ListItem.AudioCodec].png</texture>
                 </control>
@@ -1304,7 +1296,7 @@
                 <control type="grouplist">
                     <visible>!Skin.HasSetting(hide.flags.audiochannels) + !String.IsEmpty(Container($PARAM[controlid]).ListItem.AudioChannels)</visible>
 
-                    <width>100</width>
+                    <width>96</width>
                     <height>64</height>
                     <centertop>62%</centertop>
 
@@ -1402,7 +1394,7 @@
                         <label>9.1</label>
                     </control>
                     <control type="image">
-                        <height>18</height>
+                        <height>16</height>
                         <aspectratio aligny="center" align="center">keep</aspectratio>
                         <texture>flags/video/$VAR[Def_Flag_Color]/audiochannels/channel.png</texture>
                     </control>
@@ -1925,7 +1917,6 @@
             <control type="image" description="Audio Codec">
                 <visible>Skin.HasSetting(show.osd.video.flags.icons) + !String.IsEmpty(VideoPlayer.AudioCodec)</visible>
                 <width>140</width>
-                <aspectratio aligny="center" align="center">keep</aspectratio>
                 <include>Def_Flag_Image_Without_Label</include>
                 <texture background="true" colordiffuse="$VAR[Def_VideoPlayer_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_VideoPlayer_Flag_Color]/audiocodec/$INFO[VideoPlayer.AudioCodec].png</texture>
             </control>
@@ -1935,7 +1926,7 @@
             <control type="grouplist">
                 <visible>Skin.HasSetting(show.osd.video.flags.icons) + !String.IsEmpty(VideoPlayer.AudioChannels)</visible>
 
-                <width>100</width>
+                <width>96</width>
                 <height>64</height>
                 <centertop>67%</centertop>
 
@@ -1951,7 +1942,7 @@
                     <label>$VAR[Def_VideoPlayer_Audio_Channels]</label>
                 </control>
                 <control type="image">
-                    <height>18</height>
+                    <height>16</height>
                     <aspectratio aligny="center" align="center">keep</aspectratio>
                     <texture background="true" colordiffuse="$VAR[Def_VideoPlayer_Flag_Colordiffuse_Dark2]">flags/video/$VAR[Def_VideoPlayer_Flag_Color]/audiochannels/channel.png</texture>
                 </control>
@@ -2126,7 +2117,7 @@
 
                     <width>70</width>
                     <height>64</height>
-                    <centertop>71%</centertop>
+                    <centertop>72%</centertop>
 
                     <itemgap>-4</itemgap>
                     <orientation>vertical</orientation>
@@ -2151,7 +2142,6 @@
                 <control type="image" description="Audio Codec">
                     <visible>Skin.HasSetting(show.osd.video.flags.icons) + !String.IsEmpty(VideoPlayer.AudioCodec)</visible>
                     <width>140</width>
-                    <aspectratio aligny="center" align="center">keep</aspectratio>
                     <include>Def_Flag_Image_Without_Label</include>
                     <texture background="true" colordiffuse="$VAR[Def_VideoPlayer_Flag_Colordiffuse_Dark1]" fallback="flags/fallback.png">flags/video/$VAR[Def_VideoPlayer_Flag_Color]/audiocodec/$INFO[VideoPlayer.AudioCodec].png</texture>
                 </control>
@@ -2161,9 +2151,9 @@
                 <control type="grouplist">
                     <visible>Skin.HasSetting(show.osd.video.flags.icons) + !String.IsEmpty(VideoPlayer.AudioChannels)</visible>
 
-                    <width>100</width>
+                    <width>96</width>
                     <height>64</height>
-                    <centertop>67%</centertop>
+                    <centertop>69%</centertop>
 
                     <itemgap>6</itemgap>
                     <orientation>vertical</orientation>
@@ -2177,7 +2167,7 @@
                         <label>$VAR[Def_VideoPlayer_Audio_Channels]</label>
                     </control>
                     <control type="image">
-                        <height>18</height>
+                        <height>16</height>
                         <aspectratio aligny="center" align="center">keep</aspectratio>
                         <texture background="true" colordiffuse="$VAR[Def_VideoPlayer_Flag_Colordiffuse_Dark2]">flags/video/$VAR[Def_VideoPlayer_Flag_Color]/audiochannels/channel.png</texture>
                     </control>
@@ -2186,19 +2176,22 @@
                 <!-- IMDB -->
 
                 <control type="image">
-                    <visible>[!String.IsEmpty(Window(Home).Property(TMDbHelper.Player.IMDb_Rating)) | !String.IsEmpty(VideoPlayers.Rating(imdb))] + Skin.HasSetting(show.osd.video.flags.imdb.rating) + !String.IsEmpty(VideoPlayer.DBID)</visible>
+                    <visible>Skin.HasSetting(show.osd.video.flags.imdb.rating) + !String.IsEmpty(VideoPlayer.DBID)</visible>
+                    <visible>[!String.IsEmpty(Window(Home).Property(TMDbHelper.Player.IMDb_Rating)) | !String.IsEmpty(VideoPlayers.Rating(imdb))]</visible>
                     <width>70</width>
                     <include>Def_Flag_Image</include>
                     <texture colordiffuse="$VAR[Def_VideoPlayer_Flag_Colordiffuse_Dark1]" background="true">flags/rating/$VAR[Def_VideoPlayer_Flag_Color]/imdb/imdb.png</texture>
                 </control>
                 <control type="label">
-                    <visible>!String.IsEmpty(VideoPlayer.Rating(imdb)) + Skin.HasSetting(show.flags.rating.imdb) + !String.IsEmpty(VideoPlayer.DBID)</visible>
+                    <visible>Skin.HasSetting(show.osd.video.flags.imdb.rating) + !String.IsEmpty(VideoPlayer.DBID)</visible>
+                    <visible>!String.IsEmpty(VideoPlayer.Rating(imdb))</visible>
                     <textcolor>$VAR[Color_OSD_Panel_White100]</textcolor>
                     <include>Def_Flag_Label</include>
                     <label>$INFO[VideoPlayer.Rating(imdb)]</label>
                 </control>
                 <control type="label">
-                    <visible>String.IsEmpty(VideoPlayer.Rating(imdb)) + !String.IsEmpty(Window(Home).Property(TMDbHelper.Player.IMDb_Rating)) + Skin.HasSetting(show.flags.rating.imdb) + !String.IsEmpty(VideoPlayer.DBID)</visible>
+                    <visible>Skin.HasSetting(show.osd.video.flags.imdb.rating) + !String.IsEmpty(VideoPlayer.DBID)</visible>
+                    <visible>String.IsEmpty(VideoPlayer.Rating(imdb)) + !String.IsEmpty(Window(Home).Property(TMDbHelper.Player.IMDb_Rating))</visible>
                     <textcolor>$VAR[Color_OSD_Panel_White100]</textcolor>
                     <include>Def_Flag_Label</include>
                     <label>$INFO[Window(Home).Property(TMDbHelper.Player.IMDb_Rating)]</label>

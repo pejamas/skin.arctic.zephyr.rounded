@@ -2474,6 +2474,15 @@
                 <!-- <textcolor>orange</textcolor> -->
             <!-- </include> -->
 
+            <include content="Overlay_InfoLabel">
+                <label> - Window(Home).Property(Launch_Search) : $INFO[Window(Home).Property(Launch_Search)]</label>
+                <textcolor>orange</textcolor>
+            </include>
+
+            <include content="Overlay_InfoLabel">
+                <label> - Window(Home).Property(focus_main_menu_timer_from_search_bar) : $INFO[Window(Home).Property(focus_main_menu_timer_from_search_bar)]</label>
+                <textcolor>orange</textcolor>
+            </include>
 
     <!-- =========================== -->
     <!--         TMDB BLUR           -->
@@ -2493,6 +2502,21 @@
                 <!-- <label> - Window(Home).Property(TMDbHelper.ListItem.BlurImage.Original) : $INFO[Window(Home).Property(TMDbHelper.ListItem.BlurImage.Original)]</label> -->
                 <!-- <textcolor>cyan</textcolor> -->
             <!-- </include> -->
+
+            <include content="Overlay_InfoLabel">
+                <label> - Window(Home).Property(SetDirectorSelected) : $INFO[Window(Home).Property(SetDirectorSelected)]</label>
+                <textcolor>cyan</textcolor>
+            </include>
+
+            <include content="Overlay_InfoLabel">
+                <label> - Window(Home).Property(TMDbHelper.Player.tmdb_id) : $INFO[Window(Home).Property(TMDbHelper.Player.tmdb_id)]</label>
+                <textcolor>orange</textcolor>
+            </include>
+
+            <include content="Overlay_InfoLabel">
+                <label> - VideoPlayer.Property(tmdb_id) : $INFO[VideoPlayer.UniqueID(tmdb)]</label>
+                <textcolor>orange</textcolor>
+            </include>
 
             <include content="Overlay_InfoLabel">
                 <label> - ListItem.Property(tmdb_id) : $INFO[ListItem.Property(tmdb_id)]</label>

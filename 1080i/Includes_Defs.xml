@@ -136,6 +136,85 @@
             <onclick>ActivateWindow(1146)</onclick>
             <onclick>ClearProperty(AnimationDirection,Home)</onclick>
         </control>
+
+        <!-- BUTTON EDIT WIKI -->
+
+        <control type="group">
+            <visible allowhiddenfocus="true">[Control.HasFocus(90009) | Control.HasFocus(340)] + !Window.IsVisible(DialogBusy.xml) + !Window.IsVisible(DialogSelect.xml) + !Window.IsVisible(script-wikipedia.xml) + !String.IsEmpty(Window(Home).Property(Launch_Wiki_Search))</visible>
+
+            <animation effect="fade" time="300" start="0" end="0">Focus</animation>
+
+            <!-- SEARCH BAR WIKIPEDIA -->
+
+            <control type="group">
+                <visible>Control.HasFocus(90009) | Control.HasFocus(340)</visible>
+                <top>40</top>
+                <left>80</left>
+                <width>80</width>
+                <height>80</height>
+                <control type="image">
+                    <width>589</width>
+                    <height>80</height>
+                    <include>Texture_Dialog_Search</include>
+                </control>
+                <control type="image">
+                    <top>-4</top>
+                    <left>-4</left>
+                    <width>88</width>
+                    <height>88</height>
+                    <texture colordiffuse="Selected" border="12">special://skin/extras/icons/search.png</texture>
+                </control>
+            </control>
+
+            <!-- EDIT BAR WIKIPEDIA -->
+
+            <control type="grouplist">
+                <top>40</top>
+                <left>80</left>
+                <orientation>horizontal</orientation>
+
+                <control type="edit" id="90009">
+                    <width>580</width>
+                    <height>80</height>
+                    <label/>
+                    <align>left</align>
+                    <aligny>center</aligny>
+
+                    <font>HeaderLabel</font>
+                    <textoffsetx>80</textoffsetx>
+                    <textcolor />
+                    <focusedcolor>Selected</focusedcolor>
+                    <selectedcolor>Selected</selectedcolor>
+                    <disabledcolor>White12</disabledcolor>
+                    <texturefocus />
+                    <texturenofocus />
+
+                    <onup>SetFocus(399)</onup>
+                    <ondown>SetFocus(399)</ondown>
+                    <onright>340</onright>
+                    <onleft>340</onleft>
+                </control>
+                <control type="button" id="340" description="Helper">
+                    <include>Def_Hidden_Button</include>
+                    <onfocus condition="!String.IsEmpty(Control.GetLabel(90009).index(1))">RunScript(script.skinvariables,add_skinstring_history=SearchHistory,value=$INFO[Control.GetLabel(90009).index(1)])</onfocus>
+                    <onfocus condition="!String.IsEmpty(Control.GetLabel(90009).index(1))">RunScript(script.wikipedia,wikipedia=$INFO[Control.GetLabel(90009).index(1)])</onfocus>
+                    <onfocus>SetFocus(90009)</onfocus>
+                    <visible allowhiddenfocus="true">Control.HasFocus(340)</visible>
+                    <animation effect="fade" time="300" start="0" end="0">Focus</animation>
+                </control>
+            </control>
+
+            <!-- TIPS - FOOTER -->
+
+            <include content="Object_Footer_Tips">
+                <param name="top" value="120" />
+                <param name="left" value="94" />
+                <param name="label" value="$VAR[Label_Home_Search_Bar_Tip]" />
+                <param name="textcolor" value="Black70" />
+                <param name="colordiffuse" value="$VAR[Color_Icon_Light]" />
+                <param name="visible" value="[Control.HasFocus(90009) | Control.HasFocus(340)]" />
+            </include>
+        </control>
     </include>
 
     <include name="Hidden_Button_ReloadSkin">
@@ -2009,7 +2088,7 @@
         <height>36</height>
         <left>0</left>
         <centertop>50%</centertop>
-        <aspectratio aligny="center" align="left">keep</aspectratio>
+        <aspectratio aligny="center" align="center">keep</aspectratio>
     </include>
 
     <include name="Def_Flag_Image_Flix">
@@ -2998,10 +3077,10 @@
         <onclick>Skin.Reset(enable.extra.fanart)</onclick>
         <onclick>Skin.SetBool(global.show.fallback.only)</onclick>
 
-        <!-- RECOMMENDATION LOCAL ONLY -->
+        <!-- DIALOG VIDEO INFO - LOCAL INFO -->
 
         <onclick>Skin.SetBool(filter.video.only.local)</onclick>
-        <onclick>Skin.SetBool(lock.video.only.local)</onclick>
+        <onclick>Skin.Reset(filter.video.cast.on.line)</onclick>
 
         <!-- VIEWS - ALL -->
 
@@ -3009,12 +3088,7 @@
         <!-- <onclick>Skin.Reset(show.furniture.footer)</onclick> -->
         <onclick>Skin.SetBool(hide.furniture.flags)</onclick>
         <!-- <onclick>Skin.SetBool(hide.global.shadows)</onclick> -->
-
         <!-- <onclick>Skin.SetBool(hide.markers)</onclick> -->
-
-        <!-- DIALOG VIDEO INFO -->
-
-        <onclick>Skin.Reset(filter.video.cast.on.line)</onclick>
     </include>
 
     <include name="Def_Settings_All_Default_Value">
